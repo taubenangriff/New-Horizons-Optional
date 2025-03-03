@@ -1,0 +1,5 @@
+<ModOps>
+    <ModOp GUID = '1443120' Path ="/Values/Quest/IsEnabled" Type = "replace">
+        <IsEnabled>1</IsEnabled>
+    </ModOp>
+</ModOps>

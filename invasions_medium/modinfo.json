@@ -1,0 +1,15 @@
+{
+    "Version": "1.0",
+    "ModID": "new_horizons_invasions_medium",
+    "Category": {
+      "English": "New Horizons"
+    },
+    "LoadAfterIds": [
+      "new_horizons_invasions"
+    ],
+    "ModName": {
+      "English": "Invasions Medium"
+    },
+    "CreatorName": "New Horizons Team",
+    "ModioResourceId": 4770978
+}
