@@ -1,0 +1,908 @@
+<ModOps>
+	<!-- The Effect "Provides Electricity" was changed to a 100% Production boost through electricity for every single Item. -->
+	<ModOp Path="//Asset[Template='GuildhouseItem' or Template='HarborOfficeItem']/Values/IndustrializableUpgrade/ProvideIndustrialization" Type="replace">
+		<ElectricityBoostUpgrade>
+			<Value>100</Value>
+			<Percental>1</Percental>
+		</ElectricityBoostUpgrade>
+	</ModOp>
+
+	<!-- Gerhard Fuchs - Replaced Input Brass -> Plastic. No more Additional Goods  -->
+	<ModOp GUID='191310' Path="/Values/FactoryUpgrade/ReplaceInputs" Type="replace">
+		<ReplaceInputs>
+			<Item>
+				<OldInput>1010204</OldInput>
+				<NewInput>1010242</NewInput>
+			</Item>
+		</ReplaceInputs>
+	</ModOp>
+	<ModOp GUID='191310' Path="/Values/FactoryUpgrade/AdditionalOutput" Type="remove" />
+	<!-- Milliner: Replaced Input Felt removed. Added 30% Productivity Bonus to Bombin Weaver -->
+	<ModOp GUID='191349' Path="/Values/FactoryUpgrade/ReplaceInputs" Type="replace">
+		<ProductivityUpgrade>
+			<Value>30</Value>
+			<Percental>1</Percental>
+		</ProductivityUpgrade>
+	</ModOp>
+	<!-- Magnetist - No more additional output. 10% less workforce and -25% maintenance on powerplants -->
+	<ModOp GUID='191375' Path="/Values/FactoryUpgrade" Type="replace">
+		<FactoryUpgrade />
+	</ModOp>
+	<ModOp GUID='191375' Path="/Values/BuildingUpgrade" Type="replace">
+		<BuildingUpgrade>
+			<MaintenanceUpgrade>
+				<Value>-25</Value>
+				<Percental>1</Percental>
+			</MaintenanceUpgrade>
+			<WorkforceAmountUpgrade>
+				<Value>-10</Value>
+				<Percental>1</Percental>
+			</WorkforceAmountUpgrade>
+		</BuildingUpgrade>
+	</ModOp>
+	<!-- Jörg von Malching: oil Output removed, Additional Goods Gold (8/1) -->
+	<ModOp GUID='190761' Path="/Values/FactoryUpgrade/AdditionalOutput" Type="replace">
+		<AdditionalOutput>
+			<Item>
+				<Product>1010233</Product>
+				<AdditionalOutputCycle>8</AdditionalOutputCycle>
+				<Amount>1</Amount>
+			</Item>
+		</AdditionalOutput>
+	</ModOp>
+	<!-- Feras Alsarami: -10% Workforce, +50% Productivity for Pocketwatches -->
+	<ModOp GUID='192450' Path="/Values/ItemEffect/EffectTargets/Item" Type="replace">
+		<Item>
+			<GUID>1010324</GUID>
+		</Item>
+	</ModOp>
+	<ModOp GUID='192450' Path="/Values/BuildingUpgrade/MaintenanceUpgrade" Type="remove" />
+	<ModOp GUID='192450' Path="/Values/IncidentInfectableUpgrade/IncidentRiotIncreaseUpgrade" Type="remove" />
+	<!-- Tlayolotl Savor: Fried plantains output reduced to all 10 cycles (previously 3) -->
+	<ModOp GUID='191402' Path="/Values/FactoryUpgrade/AdditionalOutput/Item/AdditionalOutputCycle" Type="replace">
+		<AdditionalOutputCycle>10</AdditionalOutputCycle>
+	</ModOp>
+	<!-- Master Craftsman Franke: Work Clothes extra Goods removed. No more replaced inputs. ponchos and bowler hats output increased from every 12th cycle to every 9th.-->
+	<ModOp GUID='192039' Path="/Values/FactoryUpgrade/AdditionalOutput/Item[Product = '1010237']" Type="remove" />
+	<ModOp GUID='192039' Path="/Values/FactoryUpgrade/ReplaceInputs" Type="remove" />
+	<ModOp GUID='192039' Path="/Values/FactoryUpgrade/AdditionalOutput/Item/AdditionalOutputCycle" Type="replace">
+		<AdditionalOutputCycle>9</AdditionalOutputCycle>
+	</ModOp>
+	<!-- Prof. Ram Devi: Steam Carriages, Glasses and Pocket Watches have been removed. -->
+	<ModOp GUID='191355' Path="/Values/FactoryUpgrade/AdditionalOutput/Item[Product = '1010246' or Product = '120030' or Product = '1010225']" Type="remove" />
+	<!-- Lewis Brindley: Productivity reduced to 50%. Extra goods output reduced to every 10th cycle. -->
+	<ModOp GUID='192443' Path="/Values/FactoryUpgrade/ProductivityUpgrade/Value" Type="replace">
+		<Value>50</Value>
+	</ModOp>
+	<ModOp GUID='192443' Path="/Values/FactoryUpgrade/AdditionalOutput/Item/AdditionalOutputCycle" Type="replace">
+		<AdditionalOutputCycle>10</AdditionalOutputCycle>
+	</ModOp>
+	<!-- Yvonne the Yeowoman: Extra Goods Schnapps removed and replaced with -10% module reduction-->
+	<ModOp GUID='190750' Path="/Values/FactoryUpgrade/AdditionalOutput" Type="remove"/>
+	<ModOp GUID='190750' Path="/Values/ModuleOwnerUpgrade" Type="add">
+		<ModuleLimitPercent>-10</ModuleLimitPercent>
+	</ModOp>
+	<!-- Cecilia the Coffeessieur: Chocolate Extra Goods replaced by Replaced Inputs: Milk -> Cocoa Beans -->
+	<ModOp GUID='191370' Path="/Values/FactoryUpgrade/AdditionalOutput" Type="remove" />
+	<ModOp GUID='191370' PatH="/Values/FactoryUpgrade" Type="add">
+		<ReplaceInputs>
+			<Item>
+				<OldInput>1440005</OldInput>
+				<NewInput>1010254</NewInput>
+			</Item>
+		</ReplaceInputs>
+	</ModOp>
+	<!-- Charlotte the Chocoholic: Only affects Chocolate Factory -->
+	<ModOp GUID='191333' Path="/Values/ItemEffect/EffectTargets/Item[GUID = '101264']" Type="remove"/>
+	<!-- Gennaro Garibaldi: Only affects chocolate factory. Extra output Rum has been removed -->
+	<ModOp GUID='191334' Path="/Values/ItemEffect/EffectTargets/Item[GUID = '101264']" Type="remove"/>
+	<ModOp GUID='191334' Path="/Values/CultureUpgrade" Type="replace">
+		<CultureUpgrade />
+	</ModOp>
+	<ModOp GUID='191334' Path="/Values/FactoryUpgrade/AdditionalOutput/Item[Product = '1010257']" Type="remove" />
+	<ModOp GUID='191334' Path="/Values/FactoryUpgrade/ProductivityUpgrade/Value" Type="replace">
+		<Value>70</Value>
+	</ModOp>
+	<!-- Dario the Mechanical Engineer: Extra goods replaced with +50% productivity -->
+	<ModOp GUID='191424' Path="/Values/FactoryUpgrade/AdditionalOutput" Type="remove" />
+	<ModOp GUID='191424' Path="/Values/FactoryUpgrade" Type="add">
+		<ProductivityUpgrade>
+			<Value>50</Value>
+			<Percental>1</Percental>
+		</ProductivityUpgrade>
+	</ModOp>
+	<!-- Glogg Splurger: Replace Extra Goods Schnapps with Extra Goods Bear Furs -->
+	<ModOp GUID='116164' Path="/Values/FactoryUpgrade/AdditionalOutput/Item/Product" Type="replace">
+		<Product>112695</Product>
+	</ModOp>
+	<!-- Golden Potato Harvester: Only Potato Farm -->
+	<ModOp GUID='116190' Path="/Values/ItemEffect/EffectTargets/Item/GUID" Type="replace">
+		<GUID>1010265</GUID>
+	</ModOp>
+	<!-- Horticulturalist Hermann: Extra Goods removed -->
+	<ModOp GUID='190692' Path="/Values/FactoryUpgrade/AdditionalOutput" Type="remove" />
+	<!-- Marie-Antoine: Extra Goods reduced by 50%. Extra Goods Chocolate replaced with Extra Goods Cocoa-->
+	<ModOp GUID='190632' Path="/Values/FactoryUpgrade/AdditionalOutput/Item[AdditionalOutputCycle = '6']/AdditionalOutputCycle" Type="replace">
+		<AdditionalOutputCycle>12</AdditionalOutputCycle>
+	</ModOp>
+	<ModOp GUID='190632' Path="/Values/FactoryUpgrade/AdditionalOutput/Item[AdditionalOutputCycle = '5']" Type="replace">
+		<Item>
+			<Product>1010254</Product>
+			<Amount>1</Amount>
+			<AdditionalOutputCycle>10</AdditionalOutputCycle>
+		</Item>
+	</ModOp>
+	<!-- Mark van der Mark: Alpaca wool Extra Goods reduced by 25% -->
+	<ModOp GUID='191584' Path="/Values/FactoryUpgrade/AdditionalOutput/Item[AdditionalOutputCycle = '3']/AdditionalOutputCycle" Type="replace">
+		<AdditionalOutputCycle>4</AdditionalOutputCycle>
+	</ModOp>
+	<!-- Master Confectioner: no more additional Output. 20% Productivity -->
+	<ModOp GUID='191356' Path="/Values/FactoryUpgrade/AdditionalOutput" Type="remove" />
+	<ModOp GUID='191356' Path="/Values/FactoryUpgrade" Type="add">
+		<ProductivityUpgrade>
+			<Value>20</Value>
+			<Percental>1</Percental>
+		</ProductivityUpgrade>
+	</ModOp>
+	<!-- Maxime Graves: Goulash Extra Goods reduced by 50% -->
+	<ModOp GUID='191388' Path="/Values/FactoryUpgrade/AdditionalOutput/Item/AdditionalOutputCycle" Type="replace">
+		<AdditionalOutputCycle>4</AdditionalOutputCycle>
+	</ModOp>
+	<!-- Medal-Winning Producer: Effect on Vineyards has been removed. Extra Goods Champagne replaced with Extra Goods Grapes-->
+	<ModOp GUID='190751' Path="/Values/ItemEffect/EffectTargets/Item[GUID = '100655']" Type="remove" />
+	<ModOp GUID='190751' Path="/Values/FactoryUpgrade/AdditionalOutput/Item/Product" Type="replace">
+		<Product>120014</Product>
+	</ModOp>
+	<!-- Marco de La Mocha: Added Extra Goods Coffee Beans, but inverted productivity bonus to productivity malus -->
+	<ModOp GUID='191371' Path="/Values/FactoryUpgrade" Type="merge">
+		<AdditionalOutput>
+			<Item />
+			<Item>
+				<Product>1010239</Product>
+				<AdditionalOutputCycle>20</AdditionalOutputCycle>
+				<Amount>1</Amount>
+			</Item>
+		</AdditionalOutput>
+		<ProductivityUpgrade>
+			<Value>-50</Value>
+			<Percental>1</Percental>
+		</ProductivityUpgrade>
+	</ModOp>
+	<ModOp GUID='191371' Path="/Values/CultureUpgrade/AttractivenessUpgrade" Type="remove" />
+	<!-- Arborist: +20% Modules. Item Effect on Banana Plantation and Cocoa Plantation removed. -->
+	<ModOp GUID='190690' Path="/Values/ModuleOwnerUpgrade/ModuleLimitPercent" Type="replace">
+		<ModuleLimitPercent>20</ModuleLimitPercent>
+	</ModOp>
+	<ModOp GUID='190690' Path="/Values/ItemEffect/EffectTargets/Item[GUID = '101263' or GUID = '1010332']" Type="remove"/>
+	<!-- Brother Hilarius: -20% Workforce Needed. Extra Goods Rum reduced by 25% -->
+	<ModOp GUID='191383' Path="/Values/FactoryUpgrade/AdditionalOutput/Item/AdditionalOutputCycle" Type="replace">
+		<AdditionalOutputCycle>4</AdditionalOutputCycle>
+	</ModOp>
+	<!-- Bruno Ironbright: No more advanced weapons and 50% Reduction of Steam Motors. Workforce -20% Effect added -->
+	<ModOp GUID='191422' Path="/Values/FactoryUpgrade/AdditionalOutput/Item[Product = '1010223']" Type="remove" />
+	<ModOp GUID='191422' Path="/Values/FactoryUpgrade/AdditionalOutput/Item/AdditionalOutputCycle" Type="replace">
+		<AdditionalOutputCycle>6</AdditionalOutputCycle>
+	</ModOp>
+	<ModOp GUID='191422' Path="/Values/BuildingUpgrade" Type="add">
+		<WorkforceAmountUpgrade>
+			<Value>-20</Value>
+			<Percental>1</Percental>
+		</WorkforceAmountUpgrade>
+	</ModOp>
+	<!-- Captain Moby: Extra Goods Tallow removed. Extra Goods Gold replaced with Gold Ore -->
+	<ModOp GUID='190622' Path="/Values/FactoryUpgrade/AdditionalOutput/Item[Product = '1010234']" Type="remove"/>
+	<ModOp GUID='190622' Path="/Values/FactoryUpgrade/AdditionalOutput/Item[Product = '1010249']" Type="replace">
+		<Item>
+			<Product>1010233</Product>
+			<AdditionalOutputCycle>5</AdditionalOutputCycle>
+			<Amount>1</Amount>
+		</Item>
+	</ModOp>
+	<!-- Charcutier: +20% Boost on Tallow Production -->
+	<ModOp GUID='191403' Path="/Values/ItemEffect/EffectTargets/Item/GUID" Type="replace">
+		<GUID>1010312</GUID>
+	</ModOp>
+	<ModOp GUID='191403' Path="/Values/FactoryUpgrade/AdditionalOutput" Type="remove" />
+	<ModOp GUID='191403' Path="/Values/FactoryUpgrade" Type="add">
+		<ProductivityUpgrade>
+			<Value>20</Value>
+			<Percental>1</Percental>
+		</ProductivityUpgrade>
+	</ModOp>
+	<!-- Chef Michel: Productivity +30%. Replaced Input: Goulash -> Tortillas -->
+	<ModOp GUID='191406' Path="/Values/FactoryUpgrade/AdditionalOutput" Type="remove" />
+	<ModOp GUID='191406' Path="/Values/FactoryUpgrade" Type="add">
+		<ProductivityUpgrade>
+			<Value>30</Value>
+			<Percental>1</Percental>
+		</ProductivityUpgrade>
+	</ModOp>
+	<ModOp GUID='191404' Path="/Values/FactoryUpgrade/ProductivityUpgrade/Value" Type="replace">
+		<Value>20</Value>
+		<Percental>1</Percental>
+	</ModOp>
+	<ModOp GUID='191406' Path="/Values/FactoryUpgrade/ReplaceInputs" Type="replace">
+		<ReplaceInputs>
+			<Item>
+				<OldInput>1010215</OldInput>
+				<NewInput>120035</NewInput>
+			</Item>
+		</ReplaceInputs>
+	</ModOp>
+	<!-- Cristobal Taffeta: Extra Goods Fur Coats removed. Attractiveness reduced to 2. -->
+	<ModOp GUID='191347' Path="/Values/FactoryUpgrade/AdditionalOutput/Item[Product = '1010247']" Type="remove"/>
+	<ModOp GUID='191347' Path="/Values/CultureUpgrade/AttractivenessUpgrade/Value" Type="replace">
+		<Value>2</Value>
+	</ModOp>
+	<!-- Expert Hunter: Extra Goods Meat -->
+	<ModOp GUID='190737' Path="/Values/FactoryUpgrade/AdditionalOutput/Item" Type="replace">
+		<Item>
+			<Product>1010193</Product>
+			<AdditionalOutputCycle>4</AdditionalOutputCycle>
+			<Amount>1</Amount>
+		</Item>
+	</ModOp>
+	<!-- Fine Cake Decorator: Extra Goods removed -->
+	<ModOp GUID='190630' Path="/Values/FactoryUpgrade/AdditionalOutput" Type="remove"/>
+	<!-- Francois Strindberg: Workforce -25% instead of extra Goods. Replaced Input: Plastic instead of Gold -->
+	<ModOp GUID='190627' Path="/Values/FactoryUpgrade/AdditionalOutput/Item/Product" Type="replace">
+		<Product>1010241</Product>
+	</ModOp>
+	<ModOp GUID='190627' Path="/Values/FactoryUpgrade/InputAmountUpgrade" Type="replace">
+		<ReplaceInputs>
+			<Item>
+				<OldInput>1010256</OldInput>
+				<NewInput>1010228</NewInput>
+			</Item>
+		</ReplaceInputs>
+	</ModOp>
+	<!-- Goldsmith Gilbert - Replaced Input Gold -> Gold Ore changed to 30% productivity bonus. -->
+	<ModOp GUID='190626' Path="/Values/FactoryUpgrade/ReplaceInputs" Type="replace">
+		<ProductivityUpgrade>
+			<Value>30</Value>
+			<Percental>1</Percental>
+		</ProductivityUpgrade>
+	</ModOp>
+	<!-- Francois Thorne: Substitute Workforce removed. Attractiveness reduced to 3 Points -->
+	<ModOp GUID='191465' Path="/Values/BuildingUpgrade/ReplacingWorkforce" Type="remove" />
+	<ModOp GUID='191465' Path="/Values/CultureUpgrade/AttractivenessUpgrade/Value" Type="replace">
+		<Value>3</Value>
+	</ModOp>
+	<!-- Gritty Gas Extractor: Renamed to "Gritty Extractor". Extra goods removed. Now affects variable resource extractors. Extra goods: Gas -->
+	<ModOp GUID='116167' Type="replace" Path="/Values/ItemEffect/EffectTargets/Item/GUID">
+		<GUID>14443011</GUID>
+	</ModOp>
+	<ModOp GUID='116167' Path="/Values/FactoryUpgrade/AdditionalOutput" Type="replace">
+		<AdditionalOutput>
+			<Item>
+				<Product>112706</Product>
+				<AdditionalOutputCycle>9</AdditionalOutputCycle>
+				<Amount>1</Amount>
+			</Item>
+		</AdditionalOutput>
+	</ModOp>
+	<!-- Hans Klein: Extra Goods Gold (5/1) instead of Jewellry-->
+	<ModOp GUID='191324' Path="/Values/FactoryUpgrade/AdditionalOutput/Item" Type="replace">
+		<Item>
+			<Product>1010249</Product>
+			<AdditionalOutputCycle>5</AdditionalOutputCycle>
+			<Amount>1</Amount>
+		</Item>
+	</ModOp>
+	<!-- Lady Jane: Extra Goods Ponchos removed. Attractiveness +3 -->
+	<ModOp GUID='191329' Path="/Values/FactoryUpgrade/AdditionalOutput/Item[Product = '120043']/Product" Type="replace">
+		<Product>120043</Product>
+	</ModOp>
+	<ModOp GUID='191329' Path="/Values/CultureUpgrade/AttractivenessUpgrade/Value" Type="replace">
+		<Value>3</Value>
+	</ModOp>
+	<!-- Leading Electrical Engineer: Extra Goods Oil removed.-->
+	<ModOp GUID='191376' Path="/Values/FactoryUpgrade/AdditionalOutput" Type="remove"/>
+	<!-- Lily the Fashion Designer: Workforce needed reduced to -20% -->
+	<ModOp GUID='191328' Type="replace" Path="/Values/BuildingUpgrade/WorkforceAmountUpgrade/Value">
+		<Value>-20</Value>
+	</ModOp>
+	<!-- Mariana the Master Stylist: Extra Goods Cotton (6/1) -->
+	<ModOp GUID='191346' Path="/Values/FactoryUpgrade/AdditionalOutput/Item" Type="replace">
+		<Item>
+			<Product>1010253</Product>
+			<AdditionalOutputCycle>6</AdditionalOutputCycle>
+			<Amount>1</Amount>
+		</Item>
+	</ModOp>
+	<!-- Miss Rodriguez: Cotton extra goods reduced by 25% -->
+	<!-- Mother of Pearls: Tallow extra goods reduced by 25% -->
+	<ModOp GUID='190738,190621' Path="/Values/FactoryUpgrade/AdditionalOutput/Item/AdditionalOutputCycle" Type="replace">
+		<AdditionalOutputCycle>6</AdditionalOutputCycle>
+	</ModOp>
+	<!-- Mrs. Brown: Effect: No. of Modules +15% added instead of Productivity +20%. Removed extra goods cotton -->
+	<ModOp GUID='190691' Path="/Values/FactoryUpgrade/ProductivityUpgrade" Type="remove" />
+	<ModOp GUID='190691' Path="/Values/ModuleOwnerUpgrade" Type="add">
+		<ModuleLimitPercent>15</ModuleLimitPercent>
+	</ModOp>
+	<ModOp GUID='190691' Path="/Values/FactoryUpgrade/AdditionalOutput/Item[Product = '1010253']" Type="remove"/>
+	<!-- Mrs. Mayson: Tortillas Extra Goods reduced by 20% -->
+	<ModOp GUID='191407' Path="/Values/FactoryUpgrade/AdditionalOutput/Item/AdditionalOutputCycle" Type="replace">
+		<AdditionalOutputCycle>4</AdditionalOutputCycle>
+	</ModOp>
+	<!-- Optometrist Otto: Extra Goods replaced by 20% reduced Workforce -->
+	<ModOp GUID='191309' Path="/Values/FactoryUpgrade/AdditionalOutput" Type="remove"/>
+	<ModOp GUID='191309' Path="/Values/BuildingUpgrade" Type="add">
+		<WorkforceAmountUpgrade>
+			<Value>-20</Value>
+			<Percental>1</Percental>
+		</WorkforceAmountUpgrade>
+	</ModOp>
+	<!-- Park Ranger: Now an Epic Item. Needed Forest Density +50% added. NOTE: PLUS 50% -->
+	<ModOp GUID='190742' Path="/Values/FactoryUpgrade" Type="add">
+		<NeededAreaPercentUpgrade>
+			<Value>50</Value>
+		</NeededAreaPercentUpgrade>
+	</ModOp>
+	<ModOp GUID='190742' Path="/Values/Item" Type="merge">
+		<Rarity>Epic</Rarity>
+		<TradePrice>355000</TradePrice>
+	</ModOp>
+	<!-- Pedologist: Extra Goods removed -->
+	<ModOp GUID='191407' Path="/Values/FactoryUpgrade/AdditionalOutput" Type="remove"/>
+	<!-- Quality Chocolatier: All Effects removed. Added +20% Productivity -->
+	<ModOp GUID='191332' Path="/Values/FactoryUpgrade" Type="replace">
+		<FactoryUpgrade>
+			<ProductivityUpgrade>
+				<Value>20</Value>
+				<Percental>1</Percental>
+			</ProductivityUpgrade>
+		</FactoryUpgrade>
+	</ModOp>
+	<!-- Rodrigo the Ranchero: Maintenance Cost replaced by Productivity +20%. Extra Goods output reduced by 25%-->
+	<ModOp GUID='191583' Path="/Values/FactoryUpgrade/AdditionalOutput/Item/AdditionalOutputCycle" Type="replace">
+		<AdditionalOutputCycle>6</AdditionalOutputCycle>
+	</ModOp>
+	<ModOp GUID='191583' Path="/Values/FactoryUpgrade/" Type="add">
+		<ProductivityUpgrade>
+			<Value>20</Value>
+			<Percental>1</Percental>
+		</ProductivityUpgrade>
+	</ModOp>
+	<ModOp GUID='191583' Path="/Values/BuildingUpgrade" Type="replace">
+		<BuildingUpgrade />
+	</ModOp>
+	<!-- Seraphim Papdikas: Extra Goods reduced by 50% -->
+	<ModOp GUID='191431' Path="/Values/FactoryUpgrade/AdditionalOutput/Item/AdditionalOutputCycle" Type="replace">
+		<AdditionalOutputCycle>6</AdditionalOutputCycle>
+	</ModOp>
+	<!-- Steam Engineer: Extra Goods replaced by 20% Productivity Boost -->
+	<ModOp GUID='191418' Path="/Values/FactoryUpgrade" Type="replace">
+		<FactoryUpgrade>
+			<ProductivityUpgrade>
+				<Value>20</Value>
+				<Percental>1</Percental>
+			</ProductivityUpgrade>
+		</FactoryUpgrade>
+	</ModOp>
+	<!-- Steven MacLeod -->
+	<ModOp GUID='191591' Path="/Values/FactoryUpgrade/AdditionalOutput" Type="remove"/>
+	<ModOp GUID='191591' Path="/Values/BuildingUpgrade" Type="add">
+		<WorkforceAmountUpgrade>
+			<Value>-30</Value>
+			<Percental>1</Percental>
+		</WorkforceAmountUpgrade>
+	</ModOp>
+	<!-- Susannah the Steam Engineer: 50% Productivity, -20% Workforce -->
+	<ModOp GUID='191420' Path="/Values/FactoryUpgrade" Type="replace">
+		<FactoryUpgrade>
+			<ProductivityUpgrade>
+				<Value>60</Value>
+				<Percental>1</Percental>
+			</ProductivityUpgrade>
+			<AdditionalOutput>
+				<Item>
+					<Product>1010243</Product>
+					<AdditionalOutputCycle>13</AdditionalOutputCycle>
+					<Amount>1</Amount>
+				</Item>
+			</AdditionalOutput>
+		</FactoryUpgrade>
+	</ModOp>
+	<!-- Science Whizz: +20% Productivity. Old Effects removed entirely-->
+	<ModOp GUID='191353' Path="/Values/FactoryUpgrade/AdditionalOutput" Type="replace">
+		<ProductivityUpgrade>
+			<Value>20</Value>
+			<Percental>1</Percental>
+		</ProductivityUpgrade>
+	</ModOp>
+	<ModOp GUID='191353' Path="/Values/BuildingUpgrade/ReplacingWorkforce" Type="remove"/>
+	<!-- Frontiersman Steen: Extra Goods reduced by 33%-->
+	<ModOp GUID='190743' Path="/Values/FactoryUpgrade/AdditionalOutput/Item/AdditionalOutputCycle" Type="replace">
+		<AdditionalOutputCycle>6</AdditionalOutputCycle>
+	</ModOp>
+	<!-- Veteran Whaler: -10% Workforce instead of Extra Goods-->
+	<ModOp GUID='190619' Path="/Values/FactoryUpgrade/AdditionalOutput" Type="remove"/>
+	<ModOp GUID='190619' Path="/Values/BuildingUpgrade" Type="add">
+		<WorkforceAmountUpgrade>
+			<Value>-15</Value>
+			<Percental>1</Percental>
+		</WorkforceAmountUpgrade>
+	</ModOp>
+	<!-- Ali Al-Zahir: Effect Modules +20% Malus was added instead of Attractiveness Bonus. Grain and Hops have been removed from extra Goods. -->
+	<ModOp GUID='190693' Path="/Values/ModuleOwnerUpgrade" Type="add">
+		<ModuleLimitPercent>30</ModuleLimitPercent>
+	</ModOp>
+	<ModOp GUID='190693' Path="/Values/CultureUpgrade" Type="replace">
+		<CultureUpgrade />
+	</ModOp>
+	<!-- Marcel Forcas: Replaced Additional Output with -20% Workforce -->
+	<ModOp GUID='191408' Path="/Values/FactoryUpgrade/ProductivityUpgrade/Value" Type="replace">
+		<Value>50</Value>
+	</ModOp>
+	<ModOp GUID='191408' Path="/Values/FactoryUpgrade/AdditionalOutput" Type="remove"/>
+	<ModOp GUID='191408' Path="/Values/BuildingUpgrade" Type="add">
+		<WorkforceAmountUpgrade>
+			<Value>-20</Value>
+			<Percental>1</Percental>
+		</WorkforceAmountUpgrade>
+	</ModOp>
+	<!-- Aaden Issack, World-Famous Enbesan Chef: Changed Extra Goods to 50% Productivity -->
+	<ModOp GUID='125122' Path="/Values/FactoryUpgrade/AdditionalOutput" Type="replace">
+		<ProductivityUpgrade>
+			<Value>50</Value>
+			<Percental>1</Percental>
+		</ProductivityUpgrade>
+	</ModOp>
+	<!-- Bumm Brimmel, the original Dandy: Replaced Extra Goods Tailored Suits with Extra Goods Felt. Productivity Update +30% -->
+	<ModOp GUID='125139' Path="/Values/FactoryUpgrade/AdditionalOutput/Item/Product" Type="replace">
+		<Product>120044</Product>
+	</ModOp>
+	<ModOp GUID='125139' Path="/Values/FactoryUpgrade" Type="add">
+		<ProductivityUpgrade>
+			<Value>25</Value>
+			<Percental>1</Percental>
+		</ProductivityUpgrade>
+	</ModOp>
+	<ModOp GUID='125139' Path="/Values/CultureUpgrade" Type="replace">
+		<CultureUpgrade />
+	</ModOp>
+	<!-- Expert Grazer: Removed Extra Goods -->
+	<ModOp GUID='125112' Type="remove" Path="/Values/FactoryUpgrade/AdditionalOutput"/>
+
+	<!-- Giorgis, the Eminent Hymnodist: Removed Extra Goods Scriptures -->
+	<ModOp GUID='125133' Type="remove" Path="/Values/FactoryUpgrade/AdditionalOutput/Item[Product = '117698']"/>
+
+	<!--Paul Poiret: Replaced Extra Goods Bowler Hats with Replaced Input Linen -> Felt -->
+	<ModOp GUID='125138' Type="replace" Path="/Values/FactoryUpgrade/AdditionalOutput">
+		<ReplaceInputs>
+			<Item>
+				<OldInput>114391</OldInput>
+				<NewInput>120044</NewInput>
+			</Item>
+		</ReplaceInputs>
+	</ModOp>
+
+	<!-- Victor Perfecto - added Extra Goods Cotton instead of attractiveness -->
+	<ModOp GUID='190643' Type="add" Path="/Values/FactoryUpgrade">
+		<ProductivityUpgrade>
+			<Value>25</Value>
+			<Percental>1</Percental>
+		</ProductivityUpgrade>
+		<AdditionalOutput>
+			<Item>
+				<Product>1010253</Product>
+				<AdditionalOutputCycle>10</AdditionalOutputCycle>
+				<Amount>1</Amount>
+			</Item>
+		</AdditionalOutput>
+	</ModOp>
+	<ModOp GUID='190643' Type="replace" Path="/Values/CultureUpgrade">
+		<CultureUpgrade />
+	</ModOp>
+	<ModOp GUID='190643' Type="remove" Path="/Values/BuildingUpgrade/MaintenanceUpgrade"/>
+
+
+	<!-- #40% Workforce: Only exists for gimmicks like construction material -->
+	<!-- Dredger: -40% Workforce -->
+	<!-- Quarryman: -40% Workforce -->
+	<!-- Cabinet Maker: -40% Workforce -->
+	<!-- General Foreman: -40% Workforce -->
+	<!-- Micaela the Mining Engineer: -40% Workforce, reduced Maintenance Cost Bonus from -100% to -35%-->
+	<!-- Uncanny Pocket Cannery: -40% Workforce -->
+	<ModOp GUID='191587,191588,191463,190760,116165' Path="/Values/BuildingUpgrade/WorkforceAmountUpgrade/Value" Type="replace">
+		<Value>-40</Value>
+	</ModOp>
+
+	<!-- #30% Workforce -->
+	<!-- Long Range Bottom Trawl: -30% Workforce -->
+	<!-- Sakku: -30% Workforce -->
+	<!-- Bone Adze: -30% Workforce -->
+	<!-- The Cutting Edge: -30% Workforce -->
+	<!-- Lovelyman's Grinding Machine: -30% Workforce -->
+	<!-- Sandro the Nature Chef: -30% Workforce -->
+	<!-- Miamer of Mustelids: -30% Workforce -->
+	<ModOp GUID='190904,116071,116101,190841,190845,116154,190855' Path="/Values/BuildingUpgrade/WorkforceAmountUpgrade/Value" Type="replace">
+		<Value>-30</Value>
+	</ModOp>
+
+	<!-- #25% Workforce -->
+	<!-- Outdoor Cook: -25% Workforce -->
+	<!-- Ventilator: -25% Workforce -->
+	<!-- Hatter: -25% Workforce -->
+	<!-- Astute Dog-Breeder: -25% Workforce -->
+	<!-- Hydraulic Crane: -25% Workforce -->
+	<!-- Rohit Bhargava: -25% Workforce -->
+	<!-- Queenby Apiary Suit: -25% Workforce -->
+	<!-- Sole-Searcher's Stitcher: -25% Workforce-->
+	<ModOp GUID='125070,125047,116148,190757,191344,116143,192036,190698' Path="/Values/BuildingUpgrade/WorkforceAmountUpgrade/Value" Type="replace">
+		<Value>-25</Value>
+	</ModOp>
+
+	<!-- #20% Workforce -->
+	<!-- Bechamel Converter: -20% Workforce -->
+	<!-- Pearl Diver: -20% Workforce -->
+	<!-- Potager: -20% Workforce -->
+	<!-- First-Rate Sapper: -20% Workforce -->
+	<!-- Umiak: -20% Workforce -->
+	<!-- Patent Steel Seed Drill: -20% Workforce -->
+	<!-- Miraculous Steel Plough: -20% Workforce -->
+	<!-- Brother Hilarius: -20% Workforce -->
+	<!-- Human Incarnator 3: -20% Workforce -->
+	<!-- Extremely Loud Bell: -20% Workforce -->
+	<!-- Berkely Meat Sunderer: -20% Workforce -->
+	<!-- Captain Nineveh's Miraculous Lobster Trap: -20% Workforce -->
+	<!-- Ketema's Industrial Kiln: -20% Workforce -->
+	<ModOp GUID='125055,125050,190832,190618,191399,190759,116043,190861,192299,191383,112373,192305' Path="/Values/BuildingUpgrade/WorkforceAmountUpgrade/Value" Type="replace">
+		<Value>-20</Value>
+	</ModOp>
+
+	<!-- #15% Workforce -->
+	<!-- Herdsman: -15% Workforce -->
+	<!-- Clay Kudlik: -15% Workforce -->
+	<!-- Human Incarnator 2: -15% Workforce -->
+	<!-- Livestock Farmer: -15% Workforce -->
+	<!-- Iron Factory Bell: -15% Workforce -->
+	<!-- Kantyi of the Quinoa: -15% Workforce -->
+	<!-- Printing Press: -15% Workforce -->
+	<!-- Hall of Mutualist Ideologies: -15% Workforce -->
+	<!-- Mickletons Hydraulic Compacting Press: -15% Workforce -->
+	<!-- Oxford Electrical Bell: -15% Workforce -->
+	<!-- Cosmo Castelli: -15% Workforce -->
+	<!-- Bespoke Tailor: -15% Workforce -->
+	<!-- Blotherhithe's Fusing Machine: -15% Workforce -->
+	<!-- Hive Smoker: -15% Workforce -->
+	<!-- Industrial Binding machine: -10% Workforce -->
+	<ModOp GUID='125045,125046,125067,125137,191581,116081,112372,191582,190825,191387,110938,110944,190913,190826,190752' Path="/Values/BuildingUpgrade/WorkforceAmountUpgrade/Value" Type="replace">
+		<Value>-15</Value>
+	</ModOp>
+
+	<!-- #10% Workforce -->
+	<!-- Bekonin: -10% Workforce -->
+	<!-- Copperplate Printer: -15% Workforce-->
+	<!-- Cigar Afficionado: -15% Workforce-->
+	<!-- Burrstone: -10% Workforce -->
+	<!-- Fine Couturier: -10% Workforce -->
+	<!-- Modiste: -10% Workforce -->
+	<!-- Optimised Automatic Loom: -10% Workforce -->
+	<!-- The Hopedale Loom: -10% Workforce -->
+	<!-- Elmers Electric Oven: -15% Workforce-->
+	<!-- Mr. Swell: -10% Workforce -->
+	<!-- Meg Iver: -10% Workforce -->
+	<!-- Flower Girl: -10% Workforce -->
+
+	<ModOp GUID='125115,110937,190641,111179,190844,191327,191345,190885,192319,190893,190697,190237' Path="/Values/BuildingUpgrade/WorkforceAmountUpgrade/Value" Type="replace">
+		<Value>-10</Value>
+	</ModOp>
+
+
+	<!-- #5% Workforce -->
+	<!-- Old Factory Bell: -5% Workforce -->
+	<!-- Human Incarnator 1: -5% Workforce -->
+	<ModOp GUID='190824,112371' Path="/Values/BuildingUpgrade/WorkforceAmountUpgrade/Value" Type="replace">
+		<Value>-5</Value>
+	</ModOp>
+
+	<!-- #No Workforce -->
+	<!-- Coffee Sommelier: No Workforce-->
+	<!-- Former Pyrphorian Whizz: No Workforce-->
+	<!-- Henri Zanchi: No Workforce -->
+	<!-- Herve Savonne: No Workforce -->
+	<ModOp GUID='191369,191377,190705,191319' Path="/Values/BuildingUpgrade/WorkforceAmountUpgrade" Type="remove"/>
+
+	<!-- #RARITY Changes -->
+	<!-- Herve Savonne => Epic -->
+	<ModOp GUID='191319' Path="/Values/Item/Rarity" Type="replace">
+		<Rarity>Epic</Rarity>
+	</ModOp>
+	<ModOp GUID = '191319' Path = "/Values/FactoryUpgrade/AdditionalOutput/Item/AdditionalOutputCycle" Type = "replace">
+		<AdditionalOutputCycle>10</AdditionalOutputCycle>
+	</ModOp>
+
+	<!-- make all selfheals absolute values -->
+	<ModOp Type="replace" Path="//AttackableUpgrade/SelfHealUpgrade/Percental">
+		<Percental>0</Percental>
+	</ModOp>
+	<ModOp Type="remove" Path="//SelfHealPausedTimeIfAttackedUpgrade"/>
+
+	<!-- #Synergy: Anti-Destroyer -->
+
+	<!-- #Synergy Tree: DPM/Tank Build -->
+
+	<!-- #Synergy Tree: Island Bully -->
+
+	<!-- #Synergy Tree: Speed/Survival Build -->
+
+	<!-- #Synergy Tree: Meme -->
+
+
+	<!-- #USELESS CHURCH ITEMS: Provide Bonus income from church, chapel and temple -->
+	<ModOp GUID = '191740' Path="/Values/PopulationUpgrade/InputBenefitModifier" Type = "add" Condition = "#NewHorizons">
+		<Item>
+			<Product>1440405</Product>
+			<AdditionalMoney>3</AdditionalMoney>
+			<AdditionalHappiness>-3</AdditionalHappiness>
+		</Item>
+	</ModOp>
+	<ModOp GUID='191740' Type="merge" Path="/Values/PopulationUpgrade">
+		<InputBenefitModifier>
+			<Item>
+				<AdditionalMoney>3</AdditionalMoney>
+				<AdditionalHappiness>-3</AdditionalHappiness>
+			</Item>
+			<Item>
+				<AdditionalMoney>3</AdditionalMoney>
+				<AdditionalHappiness>-3</AdditionalHappiness>
+			</Item>
+		</InputBenefitModifier>
+	</ModOp>
+	<ModOp GUID = '191739' Path="/Values/PopulationUpgrade/InputBenefitModifier" Type = "add" Condition = "#NewHorizons">
+		<Item>
+			<Product>1440405</Product>
+			<AdditionalMoney>2</AdditionalMoney>
+			<AdditionalHappiness>-2</AdditionalHappiness>
+		</Item>
+	</ModOp>
+	<ModOp GUID='191739' Type="merge" Path="/Values/PopulationUpgrade">
+		<InputBenefitModifier>
+			<Item>
+				<AdditionalMoney>2</AdditionalMoney>
+				<AdditionalHappiness>-2</AdditionalHappiness>
+			</Item>
+			<Item>
+				<AdditionalMoney>2</AdditionalMoney>
+				<AdditionalHappiness>-2</AdditionalHappiness>
+			</Item>
+		</InputBenefitModifier>
+	</ModOp>
+	<ModOp GUID = '191738' Path="/Values/PopulationUpgrade/InputBenefitModifier" Type = "add" Condition = "#NewHorizons">
+		<Item>
+			<Product>1440405</Product>
+			<AdditionalMoney>1</AdditionalMoney>
+			<AdditionalHappiness>-1</AdditionalHappiness>
+		</Item>
+	</ModOp>
+	<ModOp GUID='191738' Type="merge" Path="/Values/PopulationUpgrade">
+		<InputBenefitModifier>
+			<Item>
+				<AdditionalMoney>1</AdditionalMoney>
+				<AdditionalHappiness>-1</AdditionalHappiness>
+			</Item>
+			<Item>
+				<AdditionalMoney>1</AdditionalMoney>
+				<AdditionalHappiness>-1</AdditionalHappiness>
+			</Item>
+		</InputBenefitModifier>
+	</ModOp>
+	<ModOp Type="replace" GUID='191738,191739,191740' Path="/Values/ResidenceUpgrade">
+		<ResidenceUpgrade />
+	</ModOp>
+
+	<!-- #ADDITIONAL SUPPLY EFFECTS OLD WORLD -->
+	<!-- Replace Chocolate Extra Residents with Luxury Food -->
+	<ModOp Type="replace" Path="//Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010258' and AdditionalSupply]/Product">
+		<Product>1440016</Product>
+	</ModOp>
+
+	<!-- Dr. Pierre Dupont / Louis P. Hecate: added extra Residents for Cheese, Silk Fabric, Radio  -->
+	<!-- Fire Chef George Doughty: added extra Residents for Cheese, Silk Fabric, Radio  -->
+	<!-- Interruptius-Law Addition: added extra Residents for Cheese, Silk Fabric, Radio  -->
+	<!-- Jakob Sokow: added extra Residents for Cheese, Silk Fabric, Radio  -->
+	<ModOp Type="add" GUID='190724,190658,191815,191579' Path="/Values/PopulationUpgrade/InputBenefitModifier" Condition="#NewHorizons">
+		<Item>
+			<Product>1440014</Product>
+			<AdditionalSupply>1</AdditionalSupply>
+		</Item>
+		<Item>
+			<Product>1440004</Product>
+			<AdditionalSupply>1</AdditionalSupply>
+		</Item>
+		<Item>
+			<Product>1440209</Product>
+			<AdditionalSupply>1</AdditionalSupply>
+		</Item>
+	</ModOp>
+	<!-- Saint D'Artois: added extra Residents for Cheese, Silk Fabric, Radio -->
+	<!-- Rabies Vaccine: added extra Residents for Cheese, Silk Fabric, Radio -->
+	<!-- Contraception: added extra Residents for Cheese, Silk Fabric, Radio -->
+	<ModOp Type="add" GUID='190193,191912,191816' Path="/Values/PopulationUpgrade/InputBenefitModifier" Condition="#NewHorizons">
+		<Item>
+			<Product>1440014</Product>
+			<AdditionalSupply>2</AdditionalSupply>
+		</Item>
+		<Item>
+			<Product>1440004</Product>
+			<AdditionalSupply>2</AdditionalSupply>
+		</Item>
+		<Item>
+			<Product>1440209</Product>
+			<AdditionalSupply>2</AdditionalSupply>
+		</Item>
+	</ModOp>
+	<!-- Papal Paper of Prenatal Preservation: added extra Residents for Cheese, Silk Fabric, Radio -->
+	<ModOp Type="add" GUID='191817' Path="/Values/PopulationUpgrade/InputBenefitModifier" Condition="#NewHorizons">
+		<Item>
+			<Product>1440014</Product>
+			<AdditionalSupply>3</AdditionalSupply>
+		</Item>
+		<Item>
+			<Product>1440004</Product>
+			<AdditionalSupply>3</AdditionalSupply>
+		</Item>
+		<Item>
+			<Product>1440209</Product>
+			<AdditionalSupply>3</AdditionalSupply>
+		</Item>
+	</ModOp>
+	<!--  Pietro Jonah Proud: added extra Residents and Income for Cheese, Silk Fabric, Radio  -->
+	<ModOp Type="add" GUID='111180' Path="/Values/PopulationUpgrade/InputBenefitModifier" Condition="#NewHorizons">
+		<Item>
+			<Product>1440014</Product>
+			<AdditionalSupply>1</AdditionalSupply>
+			<AdditionalMoney>1</AdditionalMoney>
+		</Item>
+		<Item>
+			<Product>1440004</Product>
+			<AdditionalSupply>1</AdditionalSupply>
+			<AdditionalMoney>1</AdditionalMoney>
+		</Item>
+		<Item>
+			<Product>1440209</Product>
+			<AdditionalSupply>1</AdditionalSupply>
+			<AdditionalMoney>1</AdditionalMoney>
+		</Item>
+	</ModOp>
+	<!-- Zappy Battery: Replaced Input Timber instead of Wood -->
+	<ModOp GUID='116163' Type="replace" Path="/Values/FactoryUpgrade/ReplaceInputs/Item/NewInput">
+		<NewInput>1010196</NewInput>
+	</ModOp>
+
+	<!-- #MAINTENANCE COST CHANGES -->
+	<!-- Factory Maintenance Act: reduced Maintenance Cost Bonus from -50% to -30% -->
+	<ModOp GUID='191677' Path="/Values/BuildingUpgrade/MaintenanceUpgrade/Value" Type="replace">
+		<Value>-30</Value>
+	</ModOp>
+	<!-- Factory Maintenance Decree: reduced Maintenance Cost Bonus from -25% to -20% -->
+	<!-- Colonel Barzagli: reduced Maintenance Cost Bonus from -75% to -20% -->
+	<!-- Delores the Diplomat: reduced Maintenance Cost Bonus from -80% to -20% -->
+	<!-- Master Craftsman Morris: reduced Maintenance Cost Bonus from -80% to -20% -->
+	<!-- Miraculous Steel Plough: reduced Maintenance Cost Bonus from -80% to -20% -->
+	<ModOp GUID='191676,191435,191430,192299' Path="/Values/BuildingUpgrade/MaintenanceUpgrade/Value" Type="replace">
+		<Value>-20</Value>
+	</ModOp>
+	<ModOp GUID='191623' Path="/Values/VehicleUpgrade/MaintainanceUpgrade/Value" Type="replace">
+		<Value>-20</Value>
+	</ModOp>
+
+	<!-- Bureau of Worker-Owned Cooperatives: reduced Maintenance Cost Bonus from -20% to -15% -->
+	<ModOp GUID='110943' Path="/Values/BuildingUpgrade/MaintenanceUpgrade/Value" Type="replace">
+		<Value>-15</Value>
+	</ModOp>
+
+	<!-- Captains of Industry books -->
+	<ModOp GUID = '111027' Type = "replace" Path = "/Values/ResidenceUpgrade">
+		<ResidenceUpgrade>
+			<WorkforceModifierInPercent>20</WorkforceModifierInPercent>
+			<TaxModifierInPercent>10</TaxModifierInPercent>
+		</ResidenceUpgrade>
+	</ModOp>
+	<ModOp GUID = '111028' Type = "replace" Path = "/Values/ResidenceUpgrade">
+		<ResidenceUpgrade>
+			<WorkforceModifierInPercent>25</WorkforceModifierInPercent>
+			<TaxModifierInPercent>15</TaxModifierInPercent>
+		</ResidenceUpgrade>
+	</ModOp>
+
+	<!-- # TOWN HALL ITEMS -->
+
+	<!-- Working Hours Extension Circular: Reduced Workforce to +10% -->
+	<ModOp GUID = '191803' Path ="/Values/ResidenceUpgrade/WorkforceModifierInPercent" Type = "replace">
+		<WorkforceModifierInPercent>10</WorkforceModifierInPercent>
+	</ModOp>
+	<!-- Working Hours Extension Decree: Reduced Workforce to +20% -->
+	<ModOp GUID = '191804' Path ="/Values/ResidenceUpgrade/WorkforceModifierInPercent" Type = "replace">
+		<WorkforceModifierInPercent>20</WorkforceModifierInPercent>
+	</ModOp>
+	<!-- Working Hours Extension Act: Reduced Workforce to +30% -->
+	<ModOp GUID = '191805' Path ="/Values/ResidenceUpgrade/WorkforceModifierInPercent" Type = "replace">
+		<WorkforceModifierInPercent>30</WorkforceModifierInPercent>
+	</ModOp>
+
+	<!-- Krapotkin Reduced Workforce to +20% -->
+	<ModOp GUID = '111178' Path ="/Values/ResidenceUpgrade/WorkforceModifierInPercent" Type = "replace">
+		<WorkforceModifierInPercent>20</WorkforceModifierInPercent>
+	</ModOp>
+
+	<!-- Captains of Industry Vol 16: Reduced Income Buff to 10% -->
+	<!-- Reduced Workforce buff to 20% -->
+	<ModOp GUID = '111027' Path ="/Values/ResidenceUpgrade" Type = "merge">
+		<TaxModifierInPercent>10</TaxModifierInPercent>
+		<WorkforceModifierInPercent>20</WorkforceModifierInPercent>
+	</ModOp>
+
+	<!-- Captains of Industry Vol 31: Reduced Income Buff to 20% -->
+	<!-- Reduced Workforce Buff to 30% -->
+	<ModOp GUID = '111028' Path ="/Values/ResidenceUpgrade" Type = "merge">
+		<TaxModifierInPercent>20</TaxModifierInPercent>
+		<WorkforceModifierInPercent>30</WorkforceModifierInPercent>
+	</ModOp>
+
+	<!-- Actor: Variety Theater gives you Beer and Rum -->
+	<ModOp GUID = '190728' Path = "/Values/ResidenceUpgrade/NeedProvideNeedUpgrade/Item[ProvidedNeed='1010217']/ProvidedNeed" Type = "replace">
+		<ProvidedNeed>1010214</ProvidedNeed>
+	</ModOp>
+	<!-- Nicholas Gabriel: 5 Happiness -->
+	<ModOp GUID = '190269' Type = "merge" Path = "/Values/ResidenceUpgrade/AdditionalHappiness">
+		<Value>5</Value>
+	</ModOp>
+
+	<!-- Brasserie Patron Mertens: Fish and Schnapps from Pub -->
+	<ModOp GUID = '190673' Type = "merge" Path = "/Values/ResidenceUpgrade">
+		<NeedProvideNeedUpgrade>
+			<Item />
+			<Item>
+				<ProvidedNeed>1010200</ProvidedNeed>
+				<SubstituteNeed>1010349</SubstituteNeed>
+			</Item>
+			<Item>
+				<ProvidedNeed>1010216</ProvidedNeed>
+				<SubstituteNeed>1010349</SubstituteNeed>
+			</Item>
+			<Item />
+		</NeedProvideNeedUpgrade>
+	</ModOp>
+
+	<!-- Mr Garrick: jewelry and bank from pocket watches -->
+	<ModOp GUID = '111167' Type = "replace" Path = "/Values/ResidenceUpgrade/NeedProvideNeedUpgrade">
+		<NeedProvideNeedUpgrade>
+			<Item>
+				<ProvidedNeed>1010250</ProvidedNeed>
+				<SubstituteNeed>1010246</SubstituteNeed>
+			</Item>
+			<Item>
+				<ProvidedNeed>1010356</ProvidedNeed>
+				<SubstituteNeed>1010246</SubstituteNeed>
+			</Item>
+		</NeedProvideNeedUpgrade>
+	</ModOp>
+
+	<!-- Ms. Amelia Prohibition: -25 on Rum, Beer, Schnapps, Champagne and Sake (?) -->
+	<ModOp GUID = '191779' Type = "merge" Path = "/Values/ResidenceUpgrade">
+		<GoodConsumptionUpgrade>
+			<Item>
+				<AmountInPercent>-25</AmountInPercent>
+			</Item>
+			<Item>
+				<AmountInPercent>-25</AmountInPercent>
+			</Item>
+			<Item>
+				<AmountInPercent>-25</AmountInPercent>
+			</Item>
+			<Item>
+				<AmountInPercent>-25</AmountInPercent>
+			</Item>
+			<Item>
+				<ProvidedNeed>1440216</ProvidedNeed>
+				<AmountInPercent>-25</AmountInPercent>
+			</Item>
+		</GoodConsumptionUpgrade>
+	</ModOp>
+
+	<!-- Actor: no more rum provided -->
+	<ModOp GUID = '190728' Path = "/Values/ResidenceUpgrade/NeedProvideNeedUpgrade/Item[ProvidedNeed='1010257']" Type = "remove" />
+</ModOps>

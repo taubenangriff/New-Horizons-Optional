@@ -1,0 +1,78 @@
+<ModOps>
+    <!-- Happiness Propaganda -->
+    <ModOp Type="replace" GUID='141050' Path="/Values/NewspaperArticle/ArticleEffects/Item/ArticleValue">
+        <ArticleValue>3</ArticleValue>
+    </ModOp>
+    <ModOp Type="replace" GUID='141051' Path="/Values/NewspaperArticle/ArticleEffects/Item/ArticleValue">
+        <ArticleValue>7</ArticleValue>
+    </ModOp>
+    <ModOp Type="replace" GUID='141052' Path="/Values/NewspaperArticle/ArticleEffects/Item/ArticleValue">
+        <ArticleValue>10</ArticleValue>
+    </ModOp>
+
+    <!-- Income Propaganda-->
+    <ModOp Type="replace" GUID='141658' Path="/Values/NewspaperArticle/ArticleEffects/Item/ArticleValue">
+        <ArticleValue>3</ArticleValue>
+    </ModOp>
+    <ModOp Type="replace" GUID='141677' Path="/Values/NewspaperArticle/ArticleEffects/Item/ArticleValue">
+        <ArticleValue>7</ArticleValue>
+    </ModOp>
+    <ModOp Type="replace" GUID='141680' Path="/Values/NewspaperArticle/ArticleEffects/Item/ArticleValue">
+        <ArticleValue>10</ArticleValue>
+    </ModOp>
+
+    <!-- Military Propaganda-->
+    <ModOp Type="replace" GUID='141659' Path="/Values/NewspaperArticle/ArticleEffects/Item/ArticleValue">
+        <ArticleValue>3</ArticleValue>
+    </ModOp>
+    <ModOp Type="replace" GUID='141681' Path="/Values/NewspaperArticle/ArticleEffects/Item/ArticleValue">
+        <ArticleValue>4</ArticleValue>
+    </ModOp>
+    <ModOp Type="replace" GUID='141682' Path="/Values/NewspaperArticle/ArticleEffects/Item/ArticleValue">
+        <ArticleValue>5</ArticleValue>
+    </ModOp>
+
+    <!-- Neighbourhood Watch Propaganda-->
+    <ModOp Type="replace" GUID='141687' Path="/Values/NewspaperArticle/ArticleEffects/Item/ArticleValue">
+        <ArticleValue>-5</ArticleValue>
+    </ModOp>
+    <ModOp Type="replace" GUID='141696' Path="/Values/NewspaperArticle/ArticleEffects/Item/ArticleValue">
+        <ArticleValue>-8</ArticleValue>
+    </ModOp>
+    <ModOp Type="replace" GUID='141697' Path="/Values/NewspaperArticle/ArticleEffects/Item/ArticleValue">
+        <ArticleValue>-12</ArticleValue>
+    </ModOp>
+
+    <!-- No Surrender Propaganda-->
+    <ModOp Type="replace" GUID='141698' Path="/Values/NewspaperArticle/ArticleEffects/Item/ArticleValue">
+        <ArticleValue>5</ArticleValue>
+    </ModOp>
+    <ModOp Type="replace" GUID='141701' Path="/Values/NewspaperArticle/ArticleEffects/Item/ArticleValue">
+        <ArticleValue>8</ArticleValue>
+    </ModOp>
+    <ModOp Type="replace" GUID='141702' Path="/Values/NewspaperArticle/ArticleEffects/Item/ArticleValue">
+        <ArticleValue>12</ArticleValue>
+    </ModOp>
+
+    <!-- Consumption Propaganda-->
+    <ModOp Type="replace" GUID='141060' Path="/Values/NewspaperArticle/ArticleEffects/Item/ArticleValue">
+        <ArticleValue>-3</ArticleValue>
+    </ModOp>
+    <ModOp Type="replace" GUID='141061' Path="/Values/NewspaperArticle/ArticleEffects/Item/ArticleValue">
+        <ArticleValue>-5</ArticleValue>
+    </ModOp>
+    <ModOp Type="replace" GUID='141062' Path="/Values/NewspaperArticle/ArticleEffects/Item/ArticleValue">
+        <ArticleValue>-7</ArticleValue>
+    </ModOp>
+
+    <!-- Riot Propaganda-->
+    <ModOp Type="replace" GUID='141055' Path="/Values/NewspaperArticle/ArticleEffects/Item/ArticleValue">
+        <ArticleValue>-3</ArticleValue>
+    </ModOp>
+    <ModOp Type="replace" GUID='141056' Path="/Values/NewspaperArticle/ArticleEffects/Item/ArticleValue">
+        <ArticleValue>-5</ArticleValue>
+    </ModOp>
+    <ModOp Type="replace" GUID='141057' Path="/Values/NewspaperArticle/ArticleEffects/Item/ArticleValue">
+        <ArticleValue>-7</ArticleValue>
+    </ModOp>
+</ModOps>
