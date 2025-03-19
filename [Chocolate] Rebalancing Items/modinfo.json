@@ -1,12 +1,16 @@
 {
-    "Version": "1.0",
-    "ModID": "chocolate_item_rebalance",
-    "Category": {
-      "English": "Rework"
-    },
-    "ModName": {
-      "English": "Item Rebalancing"
-    },
-    "CreatorName": "New Horizons Team",
-    "ModioResourceId": 4772788
+  "Version": "1.0",
+  "ModID": "chocolate_item_rebalance",
+  "Category": {
+    "English": "Rework"
+  },
+  "ModName": {
+    "English": "Item Rebalancing"
+  },
+  "CreatorName": "New Horizons Team",
+  "LoadAfterIds": [
+    "silver-newhorizons",
+    "Taludas_sharedproduct_potash"
+  ],
+  "ModioResourceId": 4772788
 }
