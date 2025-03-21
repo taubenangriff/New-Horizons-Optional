@@ -127,12 +127,18 @@
 		<AdditionalOutputCycle>4</AdditionalOutputCycle>
 	</ModOp>
 	<!-- Master Confectioner: no more additional Output. 20% Productivity -->
-	<ModOp GUID='191356' Path="/Values/FactoryUpgrade/AdditionalOutput" Type="remove" />
-	<ModOp GUID='191356' Path="/Values/FactoryUpgrade" Type="add">
+	<ModOp GUID='191356' Path="/Values/FactoryUpgrade/" Type="merge">
 		<ProductivityUpgrade>
 			<Value>20</Value>
 			<Percental>1</Percental>
 		</ProductivityUpgrade>
+		<AdditionalOutput>
+			<Item>
+				<Product>1010258</Product>				<!--chocolate-->
+				<AdditionalOutputCycle>6</AdditionalOutputCycle>
+				<Amount>1</Amount>
+			</Item>
+		</AdditionalOutput>
 	</ModOp>
 	<!-- Maxime Graves: Goulash Extra Goods reduced -->
 	<ModOp GUID='191388' Path="/Values/FactoryUpgrade/AdditionalOutput/Item/AdditionalOutputCycle" Type="replace">
@@ -236,18 +242,11 @@
 	</ModOp>
 	<!-- Fine Cake Decorator: Extra Goods removed -->
 	<ModOp GUID='190630' Path="/Values/FactoryUpgrade/AdditionalOutput" Type="remove"/>
-	<!-- Francois Strindberg: Workforce -25% instead of extra Goods. Replaced Input: Plastic instead of Gold -->
+	<!-- Francois Strindberg: Workforce -25% instead of extra Goods. Replaced Input removed -->
 	<ModOp GUID='190627' Path="/Values/FactoryUpgrade/AdditionalOutput/Item/Product" Type="replace">
 		<Product>1010241</Product>
 	</ModOp>
-	<ModOp GUID='190627' Path="/Values/FactoryUpgrade/InputAmountUpgrade" Type="replace">
-		<ReplaceInputs>
-			<Item>
-				<OldInput>1010256</OldInput>
-				<NewInput>1010228</NewInput>
-			</Item>
-		</ReplaceInputs>
-	</ModOp>
+	<ModOp GUID='190627' Path="/Values/FactoryUpgrade/InputAmountUpgrade" Type="remove" />
 	<!-- Goldsmith Gilbert - Replaced Input Gold -> Gold Ore changed to 30% productivity bonus. -->
 	<ModOp GUID='190626' Path="/Values/FactoryUpgrade/ReplaceInputs" Type="replace">
 		<ProductivityUpgrade>
@@ -259,15 +258,9 @@
 		<ReplaceInputs>
 			<Item>
 				<OldInput>1010249</OldInput>				<!--gold-->
-				<NewInput>120008</NewInput>				<!--pearl-->
+				<NewInput>1010241</NewInput>				<!--glass-->
 			</Item>
 		</ReplaceInputs>
-	</ModOp>
-	<ModOp GUID='190626' Path="/Values/FactoryUpgrade/ReplaceInputs" Type="add" Condition="#silver-newhorizons">
-		<Item>
-			<OldInput>1010242</OldInput>			<!--pearl-->
-			<NewInput>1957006151</NewInput>			<!--silver-->
-		</Item>
 	</ModOp>
 
 	<!-- Francois Thorne: Substitute Workforce removed. Attractiveness reduced to 3 Points -->
@@ -349,8 +342,11 @@
 			</Item>
 		</AdditionalOutput>
 	</ModOp>
-	<ModOp GUID='191407' Path="/Values/FactoryUpgrade/ReplaceInputs/Item[NewInput='1010235']" Type="replace">
-		<NewInput>838</NewInput>		<!-- Aluminium -->
+	<ModOp GUID='191407' Path="/Values/FactoryUpgrade/ReplaceInputs/" Type="merge">
+		<Item>
+			<OldInput>1010227</OldInput>			<!-- Iron -->
+			<NewInput>838</NewInput>			<!-- Aluminium -->
+		</Item>
 	</ModOp>
 	<!-- Optometrist Otto: Extra Goods replaced by 20% reduced Workforce -->
 	<ModOp GUID='191309' Path="/Values/FactoryUpgrade/AdditionalOutput" Type="remove"/>
@@ -396,19 +392,21 @@
 	<ModOp GUID='191431' Path="/Values/FactoryUpgrade/AdditionalOutput/Item/AdditionalOutputCycle" Type="replace">
 		<AdditionalOutputCycle>6</AdditionalOutputCycle>
 	</ModOp>
-	<ModOp GUID='191431' Path="/Values/" Type="replace">
-		<Item>
-			<GUID>1010285</GUID>
-			<!--factory_07 (Window Factory)-->
-		</Item>
-		<Item>
-			<GUID>1010289</GUID>
-			<!--factory_10 (Chassis Factory)-->
-		</Item>
-		<Item>
-			<GUID>1010326</GUID>
-			<!--workshop_04 (Phonographs Workshop)-->
-		</Item>
+	<ModOp GUID='191431' Path="/Values/ItemEffect/EffectTargets" Type="replace">
+		<EffectTargets>
+			<Item>
+				<GUID>1010285</GUID>
+				<!--factory_07 (Window Factory)-->
+			</Item>
+			<Item>
+				<GUID>1010289</GUID>
+				<!--factory_10 (Chassis Factory)-->
+			</Item>
+			<Item>
+				<GUID>1010326</GUID>
+				<!--workshop_04 (Phonographs Workshop)-->
+			</Item>
+		</EffectTargets>
 	</ModOp>
 	<!-- Steam Engineer: Extra Goods replaced by 20% Productivity Boost -->
 	<ModOp GUID='191418' Path="/Values/FactoryUpgrade" Type="replace">
@@ -539,8 +537,8 @@
 			<Value>-15</Value>
 		</NeededAreaPercentUpgrade>
 	</ModOp>
-	<!-- Get Rich Quick Vol III: Pretty Polyculture - reduce freearea buff 25>15 -->
-	<ModOp GUID='136819' Type="remove" Path="/Values/ItemEffect/EffectTargets/Item[GUID='1418']" />
+	<!-- Get Rich Quick Vol IV: The Wasteland: remove oil press -->
+	<ModOp GUID='136827' Type="remove" Path="/Values/ItemEffect/EffectTargets/Item[GUID='1418']" />
 	<!-- Bekonin, Spirit of Liberty - remove workforce reduction -->
 	<ModOp GUID='111179' Type="merge" Path="/Values/BuildingUpgrade">
 		<MaintenanceUpgrade>
@@ -589,6 +587,65 @@
 			</Item>
 		</AdditionalOutput>
 	</ModOp>
+	<!-- Costume Designer: remove substitute workforce, add additional workforce and maintenance costs -->
+	<ModOp GUID='191348' Path="/Values/BuildingUpgrade/ReplacingWorkforce" Type="remove" />
+	<ModOp GUID='191348' Path="/Values/" Type="merge">
+		<BuildingUpgrade>
+			<WorkforceAmountUpgrade>
+				<Value>25</Value>
+				<Percental>1</Percental>
+			</WorkforceAmountUpgrade>
+			<MaintenanceUpgrade>
+				<Value>75</Value>
+				<Percental>1</Percental>
+			</MaintenanceUpgrade>
+		</BuildingUpgrade>
+	</ModOp>
+	<!-- Double Iron Grillwork: Additional reduction in explosion chance -->
+	<ModOp GUID='190819' Path="/Values/IncidentInfectableUpgrade" Type="merge">
+		<IncidentExplosionIncreaseUpgrade>
+			<Value>-4</Value>
+		</IncidentExplosionIncreaseUpgrade>
+	</ModOp>
+	<!-- Druid's Sickle: redction of free area needed -->
+	<ModOp GUID='190857' Path="/Values/FactoryUpgrade/NeededAreaPercentUpgrade" Type="merge">
+		<Value>-10</Value>
+	</ModOp>
+	<!-- Enbesan Envoy: remove additional goods -->
+	<ModOp GUID='8908' Path="/Values/FactoryUpgrade/AdditionalOutput" Type="remove" />
+	<!-- Expert Planter: -->
+	<ModOp GUID='190749' Path="/Values/ModuleOwnerUpgrade" Type="merge">
+		<ModuleLimitPercent>15</ModuleLimitPercent>
+	</ModOp>
+	<!-- Get Rich Quick Vol I: Pestilential Profit: workforce need removed / area buff to 10% -->
+	<ModOp GUID='136821' Path="/Values/FactoryUpgrade/NeededAreaPercentUpgrade" Type="merge">
+		<Value>-10</Value>
+	</ModOp>
+	<ModOp GUID='136821' Path="/Values/BuildingUpgrade/WorkforceAmountUpgrade" Type="remove" />
+	<!-- Get Rich Quick Vol II: What Shape is a Banana Anyway?: additional output from 1/3 to 1/4 sugar -->
+	<ModOp GUID='136823' Path="/Values/FactoryUpgrade/AdditionalOutput/" Type="merge">
+		<Item>
+			<Product>1010239</Product>			<!--sugar-->
+			<AdditionalOutputCycle>4</AdditionalOutputCycle>
+			<Amount>1</Amount>
+		</Item>
+	</ModOp>
+	<!-- Happy Homesteader: number of modules from 25% to 15% -->
+	<ModOp GUID='190748' Path="/Values/ModuleOwnerUpgrade" Type="merge">
+		<ModuleLimitPercent>15</ModuleLimitPercent>
+	</ModOp>
+	<!-- Maria Maravilla: removed additional goods steam carriages -->
+	<ModOp GUID='8351' Path="/Values/FactoryUpgrade/AdditionalOutput/Item[Product='1010225']" Type="remove" />
+	<!-- Re-Rendering: removed additional output Tallow  -->
+	<ModOp GUID='136746' Path="/Values/FactoryUpgrade/AdditionalOutput/Item[Product='1010234']" Type="remove" />
+	<!-- Inigo Flores: removed additional output / 25% additional productivity -->
+	<ModOp GUID='8347' Path="/Values/FactoryUpgrade/AdditionalOutput" Type="remove" />
+	<ModOp GUID='8347' Path="/Values/FactoryUpgrade" Type="merge">
+		<ProductivityUpgrade>
+			<Value>25</Value>
+			<Percental>1</Percental>
+		</ProductivityUpgrade>
+	</ModOp>
 
 	<!-- Cosmo Castelli: -50% Workforce -->
 	<ModOp GUID='190752' Path="/Values/BuildingUpgrade/WorkforceAmountUpgrade" Type="merge">
@@ -611,8 +668,9 @@
 	<!-- Sakku: -30% Workforce -->
 	<!-- Bone Adze: -30% Workforce -->
 	<!-- Sandro the Nature Chef: -30% Workforce -->
+	<!-- Cabinet-Maker: -30% Workforce -->
 	<!-- Miamer of Mustelids: -30% Workforce -->
-	<ModOp GUID='190904,116071,116101,116154,190855' Path="/Values/BuildingUpgrade/WorkforceAmountUpgrade" Type="merge">
+	<ModOp GUID='190904,116071,116101,116154,190855,191429' Path="/Values/BuildingUpgrade/WorkforceAmountUpgrade" Type="merge">
 		<Value>-30</Value>
 	</ModOp>
 
