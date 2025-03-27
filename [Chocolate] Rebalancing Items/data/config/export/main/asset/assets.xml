@@ -1130,9 +1130,9 @@
 	<ModOp GUID='191805' Path ="/Values/ResidenceUpgrade/WorkforceModifierInPercent" Type="replace">
 		<WorkforceModifierInPercent>30</WorkforceModifierInPercent>
 	</ModOp>
-	<!-- Krapotkin Reduced Workforce to +20% -->
+	<!-- Krapotkin, Evolutionist of Kindness -->
 	<ModOp GUID='111178' Path ="/Values/ResidenceUpgrade/WorkforceModifierInPercent" Type="replace">
-		<WorkforceModifierInPercent>20</WorkforceModifierInPercent>
+		<WorkforceModifierInPercent>15</WorkforceModifierInPercent>
 	</ModOp>
 	<!-- Captains of Industry books -->
 	<ModOp GUID='111027' Type="replace" Path="/Values/ResidenceUpgrade">
