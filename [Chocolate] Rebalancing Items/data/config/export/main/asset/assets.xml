@@ -85,9 +85,9 @@
 		</ReplaceInputs>
 	</ModOp>
 	<!-- Charlotte the Chocoholic: Only affects Chocolate Factory -->
-	<ModOp GUID='191333' Path="/Values/ItemEffect/EffectTargets/Item[GUID = '101264']" Type="remove"/>
+	<ModOp GUID='191333' Path="/Values/ItemEffect/EffectTargets/Item[GUID='101264']" Type="remove"/>
 	<!-- Gennaro Garibaldi: Only affects chocolate factory. Extra output Rum has been removed -->
-	<ModOp GUID='191334' Path="/Values/ItemEffect/EffectTargets/Item[GUID = '101264']" Type="remove"/>
+	<ModOp GUID='191334' Path="/Values/ItemEffect/EffectTargets/Item[GUID='101264']" Type="remove"/>
 	<ModOp GUID='191334' Path="/Values/CultureUpgrade" Type="replace">
 		<CultureUpgrade />
 	</ModOp>
@@ -145,7 +145,7 @@
 		<AdditionalOutputCycle>10</AdditionalOutputCycle>
 	</ModOp>
 	<!-- Medal-Winning Producer: Effect on Vineyards has been removed. Extra Goods Champagne replaced with Extra Goods Grapes-->
-	<ModOp GUID='190751' Path="/Values/ItemEffect/EffectTargets/Item[GUID = '100655']" Type="remove" />
+	<ModOp GUID='190751' Path="/Values/ItemEffect/EffectTargets/Item[GUID='100655']" Type="remove" />
 	<ModOp GUID='190751' Path="/Values/FactoryUpgrade/AdditionalOutput/Item/Product" Type="replace">
 		<Product>120014</Product>
 	</ModOp>
@@ -169,7 +169,7 @@
 	<ModOp GUID='190690' Path="/Values/ModuleOwnerUpgrade/ModuleLimitPercent" Type="replace">
 		<ModuleLimitPercent>20</ModuleLimitPercent>
 	</ModOp>
-	<ModOp GUID='190690' Path="/Values/ItemEffect/EffectTargets/Item[GUID = '101263' or GUID = '1010332']" Type="remove"/>
+	<ModOp GUID='190690' Path="/Values/ItemEffect/EffectTargets/Item[GUID='101263' or GUID='1010332']" Type="remove"/>
 	<!-- Brother Hilarius: -20% Workforce Needed. Extra Goods Rum reduced by 25% -->
 	<ModOp GUID='191383' Path="/Values/FactoryUpgrade/AdditionalOutput/Item/AdditionalOutputCycle" Type="replace">
 		<AdditionalOutputCycle>8</AdditionalOutputCycle>
@@ -762,7 +762,7 @@
 	<ModOp GUID='191319' Path="/Values/Item/Rarity" Type="replace">
 		<Rarity>Epic</Rarity>
 	</ModOp>
-	<ModOp GUID = '191319' Path = "/Values/FactoryUpgrade/AdditionalOutput/Item/AdditionalOutputCycle" Type = "replace">
+	<ModOp GUID='191319' Path="/Values/FactoryUpgrade/AdditionalOutput/Item/AdditionalOutputCycle" Type="replace">
 		<AdditionalOutputCycle>10</AdditionalOutputCycle>
 	</ModOp>
 
@@ -784,7 +784,7 @@
 
 
 	<!-- #USELESS CHURCH ITEMS: Provide Bonus income from church, chapel and temple -->
-	<ModOp GUID = '191740' Path="/Values/PopulationUpgrade/InputBenefitModifier" Type = "add" Condition = "#NewHorizons">
+	<ModOp GUID='191740' Path="/Values/PopulationUpgrade/InputBenefitModifier" Type="add" Condition = "#NewHorizons">
 		<Item>
 			<Product>1440405</Product>
 			<AdditionalMoney>3</AdditionalMoney>
@@ -803,7 +803,7 @@
 			</Item>
 		</InputBenefitModifier>
 	</ModOp>
-	<ModOp GUID = '191739' Path="/Values/PopulationUpgrade/InputBenefitModifier" Type = "add" Condition = "#NewHorizons">
+	<ModOp GUID='191739' Path="/Values/PopulationUpgrade/InputBenefitModifier" Type="add" Condition = "#NewHorizons">
 		<Item>
 			<Product>1440405</Product>
 			<AdditionalMoney>2</AdditionalMoney>
@@ -822,7 +822,7 @@
 			</Item>
 		</InputBenefitModifier>
 	</ModOp>
-	<ModOp GUID = '191738' Path="/Values/PopulationUpgrade/InputBenefitModifier" Type = "add" Condition = "#NewHorizons">
+	<ModOp GUID='191738' Path="/Values/PopulationUpgrade/InputBenefitModifier" Type="add" Condition = "#NewHorizons">
 		<Item>
 			<Product>1440405</Product>
 			<AdditionalMoney>1</AdditionalMoney>
@@ -939,87 +939,233 @@
 	<ModOp GUID='191623' Path="/Values/VehicleUpgrade/MaintainanceUpgrade" Type="merge">
 		<Value>-20</Value>
 	</ModOp>
-
 	<!-- Bureau of Worker-Owned Cooperatives: reduced Maintenance Cost Bonus from -20% to -15% -->
 	<ModOp GUID='110943' Path="/Values/BuildingUpgrade/MaintenanceUpgrade" Type="merge">
 		<Value>-15</Value>
 	</ModOp>
 
-	<!-- Captains of Industry books -->
-	<ModOp GUID = '111027' Type = "replace" Path = "/Values/ResidenceUpgrade">
-		<ResidenceUpgrade>
-			<WorkforceModifierInPercent>20</WorkforceModifierInPercent>
-			<TaxModifierInPercent>10</TaxModifierInPercent>
-		</ResidenceUpgrade>
+	<!-- # SHIP ITEMS -->
+	<!-- Ermenegilda Di Mercante, Purveyor of Tall Ships -->
+	<ModOp GUID='191624' Type="remove" Path="/Values/VehicleUpgrade/IgnoreWeightFactorUpgrade" />
+	<!-- Hans Eichendorf, A Wholesale Success -->
+	<ModOp GUID='191626' Type="remove" Path="/Values/VehicleUpgrade/IgnoreWeightFactorUpgrade" />
+	<!-- Jet Propeller— "Hurricane" -->
+	<ModOp GUID='112379' Type="merge" Path="/Values">
+		<VehicleUpgrade>
+			<IgnoreWeightFactorUpgrade>
+				<Value>25</Value>
+				<Percental>1</Percental>
+			</IgnoreWeightFactorUpgrade>
+			<IgnoreDamageFactorUpgrade>
+				<Value>25</Value>
+				<Percental>1</Percental>
+			</IgnoreDamageFactorUpgrade>
+		</VehicleUpgrade>
 	</ModOp>
-	<ModOp GUID = '111028' Type = "replace" Path = "/Values/ResidenceUpgrade">
-		<ResidenceUpgrade>
-			<WorkforceModifierInPercent>25</WorkforceModifierInPercent>
-			<TaxModifierInPercent>15</TaxModifierInPercent>
-		</ResidenceUpgrade>
+	<!-- Lalla Mazigh, Merchant of a Free Market -->
+	<ModOp GUID='191625' Type="merge" Path="/Values">
+		<VehicleUpgrade>
+			<MaintainanceUpgrade>
+				<Value>-40</Value>
+				<Percental>1</Percental>
+			</MaintainanceUpgrade>
+		</VehicleUpgrade>
+	</ModOp>
+	<!-- Controllable-pitch Propeller -->
+	<ModOp GUID='191831' Type="merge" Path="/Values">
+		<VehicleUpgrade>
+			<IgnoreWeightFactorUpgrade>
+				<Value>15</Value>
+				<Percental>1</Percental>
+			</IgnoreWeightFactorUpgrade>
+			<IgnoreDamageFactorUpgrade>
+				<Value>15</Value>
+				<Percental>1</Percental>
+			</IgnoreDamageFactorUpgrade>
+		</VehicleUpgrade>
+	</ModOp>
+	<!-- Dedicated Airship Hoist -->
+	<ModOp GUID='117303' Type="merge" Path="/Values">
+		<VehicleUpgrade>
+			<IgnoreWeightFactorUpgrade>
+				<Value>50</Value>
+				<Percental>1</Percental>
+			</IgnoreWeightFactorUpgrade>
+		</VehicleUpgrade>
+	</ModOp>
+	<!-- Dr. Kirna, the Dealbroker -->
+	<ModOp GUID='13302' Type="merge" Path="/Values">
+		<VehicleUpgrade>
+			<IgnoreWeightFactorUpgrade>
+				<Value>40</Value>
+				<Percental>1</Percental>
+			</IgnoreWeightFactorUpgrade>
+		</VehicleUpgrade>
+	</ModOp>
+	<!-- Fjordbuster Mk. VI Propulsion Array -->
+	<ModOp GUID='116173' Type="merge" Path="/Values">
+		<VehicleUpgrade>
+			<IgnoreWeightFactorUpgrade>
+				<Value>50</Value>
+				<Percental>1</Percental>
+			</IgnoreWeightFactorUpgrade>
+		</VehicleUpgrade>
+	</ModOp>
+	<!-- Fore-and-aft Rig Sails -->
+	<ModOp GUID='191825' Type="merge" Path="/Values">
+		<VehicleUpgrade>
+			<IgnoreWeightFactorUpgrade>
+				<Value>25</Value>
+				<Percental>1</Percental>
+			</IgnoreWeightFactorUpgrade>
+			<IgnoreDamageFactorUpgrade>
+				<Value>25</Value>
+				<Percental>1</Percental>
+			</IgnoreDamageFactorUpgrade>
+		</VehicleUpgrade>
+	</ModOp>
+	<!-- Itsuko the International Exporter -->
+	<ModOp GUID='191621' Type="merge" Path="/Values">
+		<VehicleUpgrade>
+			<IgnoreWeightFactorUpgrade>
+				<Value>25</Value>
+				<Percental>1</Percental>
+			</IgnoreWeightFactorUpgrade>
+		</VehicleUpgrade>
+	</ModOp>
+	<!-- Jet Propeller— "Cyclone" -->
+	<ModOp GUID='112378' Type="merge" Path="/Values">
+		<VehicleUpgrade>
+			<IgnoreWeightFactorUpgrade>
+				<Value>25</Value>
+				<Percental>1</Percental>
+			</IgnoreWeightFactorUpgrade>
+		</VehicleUpgrade>
+	</ModOp>
+	<!-- Heat Exchanger -->
+	<ModOp GUID='191857' Type="merge" Path="/Values">
+		<VehicleUpgrade>
+			<IgnoreDamageFactorUpgrade>
+				<Value>25</Value>
+				<Percental>1</Percental>
+			</IgnoreDamageFactorUpgrade>
+		</VehicleUpgrade>
+	</ModOp>
+	<!-- Lateen Style Sails -->
+	<ModOp GUID='191013' Type="merge" Path="/Values">
+		<VehicleUpgrade>
+			<IgnoreWeightFactorUpgrade>
+				<Value>10</Value>
+				<Percental>1</Percental>
+			</IgnoreWeightFactorUpgrade>
+		</VehicleUpgrade>
+	</ModOp>
+	<!-- One-turn Screw Propeller -->
+	<ModOp GUID='191830' Type="merge" Path="/Values">
+		<VehicleUpgrade>
+			<IgnoreWeightFactorUpgrade>
+				<Value>10</Value>
+				<Percental>1</Percental>
+			</IgnoreWeightFactorUpgrade>
+		</VehicleUpgrade>
+	</ModOp>
+	<!-- Pilot -->
+	<ModOp GUID='191449' Type="merge" Path="/Values">
+		<VehicleUpgrade>
+			<IgnoreDamageFactorUpgrade>
+				<Value>25</Value>
+				<Percental>1</Percental>
+			</IgnoreDamageFactorUpgrade>
+		</VehicleUpgrade>
+	</ModOp>
+	<!-- Port Dealer -->
+	<ModOp GUID='191619' Type="merge" Path="/Values">
+		<VehicleUpgrade>
+			<IgnoreWeightFactorUpgrade>
+				<Value>25</Value>
+				<Percental>1</Percental>
+			</IgnoreWeightFactorUpgrade>
+		</VehicleUpgrade>
+	</ModOp>
+	<!-- Bosun -->
+	<ModOp GUID='191447' Type="merge" Path="/Values">
+		<VehicleUpgrade>
+			<IgnoreDamageFactorUpgrade>
+				<Value>10</Value>
+				<Percental>1</Percental>
+			</IgnoreDamageFactorUpgrade>
+		</VehicleUpgrade>
+	</ModOp>
+	<!-- Exhaust Blower -->
+	<ModOp GUID='191856' Type="merge" Path="/Values">
+		<VehicleUpgrade>
+			<IgnoreDamageFactorUpgrade>
+				<Value>15</Value>
+				<Percental>1</Percental>
+			</IgnoreDamageFactorUpgrade>
+		</VehicleUpgrade>
+	</ModOp>
+	<!-- Merchant -->
+	<ModOp GUID='191617' Type="merge" Path="/Values">
+		<VehicleUpgrade>
+			<MaintainanceUpgrade>
+				<Value>--20</Value>
+				<Percental>1</Percental>
+			</MaintainanceUpgrade>
+		</VehicleUpgrade>
+	</ModOp>
+	<!-- Handler -->
+	<ModOp GUID='191616' Type="merge" Path="/Values">
+		<VehicleUpgrade>
+			<IgnoreWeightFactorUpgrade>
+				<Value>10</Value>
+				<Percental>1</Percental>
+			</IgnoreWeightFactorUpgrade>
+		</VehicleUpgrade>
 	</ModOp>
 
 	<!-- # TOWN HALL ITEMS -->
 
-	<!-- Working Hours Extension Circular: Reduced Workforce to +10% -->
-	<ModOp GUID = '191803' Path ="/Values/ResidenceUpgrade/WorkforceModifierInPercent" Type = "replace">
-		<WorkforceModifierInPercent>10</WorkforceModifierInPercent>
-	</ModOp>
-	<!-- Working Hours Extension Decree: Reduced Workforce to +20% -->
-	<ModOp GUID = '191804' Path ="/Values/ResidenceUpgrade/WorkforceModifierInPercent" Type = "replace">
-		<WorkforceModifierInPercent>20</WorkforceModifierInPercent>
-	</ModOp>
 	<!-- Working Hours Extension Act: Reduced Workforce to +30% -->
-	<ModOp GUID = '191805' Path ="/Values/ResidenceUpgrade/WorkforceModifierInPercent" Type = "replace">
+	<ModOp GUID='191805' Path ="/Values/ResidenceUpgrade/WorkforceModifierInPercent" Type="replace">
 		<WorkforceModifierInPercent>30</WorkforceModifierInPercent>
 	</ModOp>
-
 	<!-- Krapotkin Reduced Workforce to +20% -->
-	<ModOp GUID = '111178' Path ="/Values/ResidenceUpgrade/WorkforceModifierInPercent" Type = "replace">
+	<ModOp GUID='111178' Path ="/Values/ResidenceUpgrade/WorkforceModifierInPercent" Type="replace">
 		<WorkforceModifierInPercent>20</WorkforceModifierInPercent>
 	</ModOp>
-
-	<!-- Captains of Industry Vol 16: Reduced Income Buff to 10% -->
-	<!-- Reduced Workforce buff to 20% -->
-	<ModOp GUID = '111027' Path ="/Values/ResidenceUpgrade" Type = "merge">
-		<TaxModifierInPercent>10</TaxModifierInPercent>
-		<WorkforceModifierInPercent>20</WorkforceModifierInPercent>
+	<!-- Captains of Industry books -->
+	<ModOp GUID='111027' Type="replace" Path="/Values/ResidenceUpgrade">
+		<ResidenceUpgrade>
+			<WorkforceModifierInPercent>10</WorkforceModifierInPercent>
+			<TaxModifierInPercent>-10</TaxModifierInPercent>
+		</ResidenceUpgrade>
 	</ModOp>
-
-	<!-- Captains of Industry Vol 31: Reduced Income Buff to 20% -->
-	<!-- Reduced Workforce Buff to 30% -->
-	<ModOp GUID = '111028' Path ="/Values/ResidenceUpgrade" Type = "merge">
-		<TaxModifierInPercent>20</TaxModifierInPercent>
-		<WorkforceModifierInPercent>30</WorkforceModifierInPercent>
+	<ModOp GUID='111028' Type="replace" Path="/Values/ResidenceUpgrade">
+		<ResidenceUpgrade>
+			<WorkforceModifierInPercent>15</WorkforceModifierInPercent>
+			<TaxModifierInPercent>-10</TaxModifierInPercent>
+		</ResidenceUpgrade>
 	</ModOp>
-
 	<!-- Actor: Variety Theater gives you Beer and Rum -->
-	<ModOp GUID = '190728' Path = "/Values/ResidenceUpgrade/NeedProvideNeedUpgrade/Item[ProvidedNeed='1010217']/ProvidedNeed" Type = "replace">
+	<ModOp GUID='190728' Path="/Values/ResidenceUpgrade/NeedProvideNeedUpgrade/Item[ProvidedNeed='1010217']/ProvidedNeed" Type="replace">
 		<ProvidedNeed>1010214</ProvidedNeed>
 	</ModOp>
 	<!-- Nicholas Gabriel: 5 Happiness -->
-	<ModOp GUID = '190269' Type = "merge" Path = "/Values/ResidenceUpgrade/AdditionalHappiness">
+	<ModOp GUID='190269' Type="merge" Path="/Values/ResidenceUpgrade/AdditionalHappiness">
 		<Value>5</Value>
 	</ModOp>
-
 	<!-- Brasserie Patron Mertens: Fish and Schnapps from Pub -->
-	<ModOp GUID = '190673' Type = "merge" Path = "/Values/ResidenceUpgrade">
+	<ModOp GUID='190673' Type="replace" Path="/Values/ResidenceUpgrade/NeedProvideNeedUpgrade">
 		<NeedProvideNeedUpgrade>
-			<Item />
-			<Item>
-				<ProvidedNeed>1010200</ProvidedNeed>
-				<SubstituteNeed>1010349</SubstituteNeed>
-			</Item>
 			<Item>
 				<ProvidedNeed>1010216</ProvidedNeed>
 				<SubstituteNeed>1010349</SubstituteNeed>
 			</Item>
-			<Item />
 		</NeedProvideNeedUpgrade>
 	</ModOp>
-
 	<!-- Mr Garrick: jewelry and bank from pocket watches -->
-	<ModOp GUID = '111167' Type = "replace" Path = "/Values/ResidenceUpgrade/NeedProvideNeedUpgrade">
+	<ModOp GUID='111167' Type="replace" Path="/Values/ResidenceUpgrade/NeedProvideNeedUpgrade">
 		<NeedProvideNeedUpgrade>
 			<Item>
 				<ProvidedNeed>1010250</ProvidedNeed>
@@ -1031,9 +1177,8 @@
 			</Item>
 		</NeedProvideNeedUpgrade>
 	</ModOp>
-
 	<!-- Ms. Amelia Prohibition: -25 on Rum, Beer, Schnapps, Champagne and Sake (?) -->
-	<ModOp GUID = '191779' Type = "merge" Path = "/Values/ResidenceUpgrade">
+	<ModOp GUID='191779' Type="merge" Path="/Values/ResidenceUpgrade">
 		<GoodConsumptionUpgrade>
 			<Item>
 				<AmountInPercent>-25</AmountInPercent>
@@ -1053,7 +1198,208 @@
 			</Item>
 		</GoodConsumptionUpgrade>
 	</ModOp>
-
 	<!-- Actor: no more rum provided -->
-	<ModOp GUID = '190728' Path = "/Values/ResidenceUpgrade/NeedProvideNeedUpgrade/Item[ProvidedNeed='1010257']" Type = "remove" />
+	<ModOp GUID='190728' Path="/Values/ResidenceUpgrade/NeedProvideNeedUpgrade/Item[ProvidedNeed='1010257']" Type="remove" />
+	<!-- Aristelia Bataille, of the "Novelty Store" -->
+	<ModOp GUID='191470' Type="merge" Path="/Values/ResidenceUpgrade/GoodConsumptionUpgrade/">
+		<Item>
+			<ProvidedNeed>120016</ProvidedNeed>			<!--champagne-->
+			<AmountInPercent>-50</AmountInPercent>
+		</Item>
+	</ModOp>
+	<!-- Hilarious Helium Party Balloon Pump -->
+	<ModOp GUID='116186' Type="merge" Path="/Values/ResidenceUpgrade">
+		<WorkforceModifierInPercent>10</WorkforceModifierInPercent>
+	</ModOp>
+	<!-- Joseph Beaumont, Historic Society Founder -->
+	<ModOp GUID='191573' Type="merge" Path="/Values/ResidenceUpgrade">
+		<TaxModifierInPercent>-20</TaxModifierInPercent>
+	</ModOp>
+	<!-- Pope Lucius I, "The Rejuvenator" -->
+	<ModOp GUID='190719' Type="merge" Path="/Values/PopulationUpgrade">
+		<StressUpgrade>
+			<Value>-25</Value>
+			<Percental>1</Percental>
+		</StressUpgrade>
+	</ModOp>
+	<!-- Serendipitous Tombola of Inexplicable Curiosity -->
+	<ModOp GUID='112391' Type="merge" Path="/Values/ResidenceUpgrade">
+		<TaxModifierInPercent>15</TaxModifierInPercent>
+	</ModOp>
+	<!-- Arch-Archbishop Archibald -->
+	<ModOp GUID='190717' Type="remove" Path="/Values/ResidenceUpgrade/NeedProvideNeedUpgrade/Item[ProvidedNeed='1010214']" />
+	<!-- Caprice Ltd, The Monopoly On Local Construction -->
+	<ModOp GUID='191755' Type="merge" Path="/Values/ResidenceUpgrade">
+		<TaxModifierInPercent>20</TaxModifierInPercent>
+	</ModOp>
+	<!-- Dennis Brammen the Food Critic -->
+	<ModOp GUID='192441' Type="replace" Path="/Values/ResidenceUpgrade">
+		<ResidenceUpgrade>
+			<NeedProvideNeedUpgrade>
+				<Item>
+					<ProvidedNeed>1010238</ProvidedNeed>					<!--sausage-->
+					<SubstituteNeed>1010349</SubstituteNeed>					<!--pub-->
+				</Item>
+				<Item>
+					<ProvidedNeed>1010200</ProvidedNeed>					<!--fish-->
+					<SubstituteNeed>1010213</SubstituteNeed>					<!--bread-->
+				</Item>
+			</NeedProvideNeedUpgrade>
+		</ResidenceUpgrade>
+	</ModOp>
+	<!-- Dr. Mercier's Anarchy Poster -->
+	<ModOp GUID='111020' Type="replace" Path="/Values/ResidenceUpgrade">
+		<ResidenceUpgrade>
+			<WorkforceModifierInPercent>15</WorkforceModifierInPercent>
+		</ResidenceUpgrade>
+	</ModOp>
+	<!-- Gordon the Master Grocer -->
+	<ModOp GUID='191469' Type="merge" Path="/Values/ResidenceUpgrade/GoodConsumptionUpgrade">
+		<Item>
+			<ProvidedNeed>1010214</ProvidedNeed>			<!--beer-->
+			<AmountInPercent>-50</AmountInPercent>
+		</Item>
+	</ModOp>
+	<!-- Gordon the Master Grocer -->
+	<ModOp GUID='191469' Type="merge" Path="/Values/ResidenceUpgrade/GoodConsumptionUpgrade">
+		<Item>
+			<ProvidedNeed>1010214</ProvidedNeed>			<!--beer-->
+			<AmountInPercent>-50</AmountInPercent>
+		</Item>
+	</ModOp>
+	<!-- Kiosk of Flighty Fortunes -->
+	<ModOp GUID='112390' Type="merge" Path="/Values/ResidenceUpgrade">
+		<TaxModifierInPercent>10</TaxModifierInPercent>
+	</ModOp>
+	<!-- Lady Hunt's Advice on Being A Patient Spouse -->
+	<ModOp GUID='191823' Type="merge" Path="/Values/ResidenceUpgrade">
+		<AdditionalHappiness>12</AdditionalHappiness>
+	</ModOp>
+	<!-- Lord Farquahar's Alcohol Tax Amendment -->
+	<ModOp GUID='191782' Type="merge" Path="/Values/ResidenceUpgrade">
+		<AdditionalHappiness>8</AdditionalHappiness>
+	</ModOp>
+	<!-- Malching's Back-to-Back Itinerary for Serfs -->
+	<ModOp GUID='191805' Type="merge" Path="/Values/ResidenceUpgrade">
+		<WorkforceModifierInPercent>15</WorkforceModifierInPercent>
+	</ModOp>
+	<!-- Mercier's Separate Church and State Clause -->
+	<ModOp GUID='191790' Type="merge" Path="/Values/ResidenceUpgrade">
+		<AdditionalHappiness>8</AdditionalHappiness>
+	</ModOp>
+	<!-- Mrs. Beetle's Repulsive Law on Pestilence -->
+	<ModOp GUID='191749' Type="merge" Path="/Values/ResidenceUpgrade">
+		<AdditionalHappiness>12</AdditionalHappiness>
+		<WorkforceModifierInPercent>10</WorkforceModifierInPercent>
+	</ModOp>
+	<!-- Mrs. O'Mara's Marvellous Tax Relief Regulations -->
+	<ModOp GUID='191799' Type="merge" Path="/Values/ResidenceUpgrade">
+		<AdditionalHappiness>8</AdditionalHappiness>
+	</ModOp>
+	<!-- The Art of Rule -->
+	<ModOp GUID='111014' Type="merge" Path="/Values/ResidenceUpgrade">
+		<WorkforceModifierInPercent>10</WorkforceModifierInPercent>
+		<TaxModifierInPercent>20</TaxModifierInPercent>
+	</ModOp>
+	<!-- The Firebrand and the Free -->
+	<ModOp GUID='111004' Type="merge" Path="/Values/ResidenceUpgrade">
+		<WorkforceModifierInPercent>10</WorkforceModifierInPercent>
+		<TaxModifierInPercent>20</TaxModifierInPercent>
+	</ModOp>
+	<!-- The Historical Sophisms of the Doctrinaire School of Communism -->
+	<ModOp GUID='111040' Type="merge" Path="/Values/ResidenceUpgrade">
+		<AdditionalHappiness>10</AdditionalHappiness>
+		<WorkforceModifierInPercent>20</WorkforceModifierInPercent>
+	</ModOp>
+	<!-- The Pulltoddle Freedom of Assembly Act -->
+	<ModOp GUID='191758' Type="merge" Path="/Values/ResidenceUpgrade">
+		<AdditionalHappiness>8</AdditionalHappiness>
+	</ModOp>
+	<!-- Treatise on Freedom of Speech -->
+	<ModOp GUID='191770' Type="merge" Path="/Values/ResidenceUpgrade">
+		<AdditionalHappiness>8</AdditionalHappiness>
+	</ModOp>
+	<!-- Von Malching's Minimum Working Age 4 Proposal -->
+	<ModOp GUID='191764' Type="merge" Path="/Values/ResidenceUpgrade">
+		<TaxModifierInPercent>-25</TaxModifierInPercent>
+		<WorkforceModifierInPercent>25</WorkforceModifierInPercent>
+	</ModOp>
+	<!-- A Vindication of Women's Rights -->
+	<ModOp GUID='192483' Type="merge" Path="/Values/ResidenceUpgrade">
+		<AdditionalHappiness>8</AdditionalHappiness>
+	</ModOp>
+	<!-- An Anarchist: A Self-Portrait -->
+	<ModOp GUID='111039' Type="merge" Path="/Values/ResidenceUpgrade">
+		<AdditionalHappiness>6</AdditionalHappiness>
+		<WorkforceModifierInPercent>15</WorkforceModifierInPercent>
+	</ModOp>
+	<!-- Blue Skies Maid -->
+	<ModOp GUID='137798' Type="merge" Path="/Values/ResidenceUpgrade">
+		<AdditionalHappiness>10</AdditionalHappiness>
+	</ModOp>
+	<!-- Coal Burner Advertisement -->
+	<ModOp GUID='191754' Type="merge" Path="/Values/ResidenceUpgrade">
+		<TaxModifierInPercent>10</TaxModifierInPercent>
+	</ModOp>
+	<!-- La Tribune Libre -->
+	<ModOp GUID='111003' Type="merge" Path="/Values/ResidenceUpgrade">
+		<TaxModifierInPercent>15</TaxModifierInPercent>
+	</ModOp>
+	<!-- Lax Water Treatment Law -->
+	<ModOp GUID='191748' Type="merge" Path="/Values/ResidenceUpgrade">
+		<TaxModifierInPercent>15</TaxModifierInPercent>
+	</ModOp>
+	<!-- Minimum Working Age 6 Act -->
+	<ModOp GUID='191763' Type="merge" Path="/Values/ResidenceUpgrade">
+		<WorkforceModifierInPercent>15</WorkforceModifierInPercent>
+	</ModOp>
+	<!-- On the Inferior Nature of Women -->
+	<ModOp GUID='191822' Type="merge" Path="/Values/ResidenceUpgrade">
+		<AdditionalHappiness>8</AdditionalHappiness>
+	</ModOp>
+	<!-- Captains of Industry, Vol IV -->
+	<ModOp GUID='111026' Type="merge" Path="/Values/ResidenceUpgrade">
+		<WorkforceModifierInPercent>5</WorkforceModifierInPercent>
+	</ModOp>
+	<!-- Statutory Twelve Hour Day Act -->
+	<ModOp GUID='191804' Type="merge" Path="/Values/ResidenceUpgrade">
+		<WorkforceModifierInPercent>10</WorkforceModifierInPercent>
+	</ModOp>
+	<!-- The Exquisite -->
+	<ModOp GUID='111013' Type="merge" Path="/Values/ResidenceUpgrade">
+		<TaxModifierInPercent>15</TaxModifierInPercent>
+	</ModOp>
+	<!-- Very Senior Lecturer -->
+	<ModOp GUID='190677' Type="merge" Path="/Values/ResidenceUpgrade">
+		<WorkforceModifierInPercent>5</WorkforceModifierInPercent>
+	</ModOp>
+	<!-- Historical Preservation Act -->
+	<ModOp GUID='191753' Type="merge" Path="/Values/ResidenceUpgrade">
+		<TaxModifierInPercent>5</TaxModifierInPercent>
+	</ModOp>
+	<!-- Le Tocsin -->
+	<ModOp GUID='111002' Type="merge" Path="/Values/ResidenceUpgrade">
+		<TaxModifierInPercent>10</TaxModifierInPercent>
+	</ModOp>
+	<!-- Minimum Working Age 8 Act -->
+	<ModOp GUID='191762' Type="merge" Path="/Values/ResidenceUpgrade">
+		<WorkforceModifierInPercent>5</WorkforceModifierInPercent>
+	</ModOp>
+	<!-- On Civil Disobedience -->
+	<ModOp GUID='111038' Type="merge" Path="/Values/ResidenceUpgrade">
+		<WorkforceModifierInPercent>5</WorkforceModifierInPercent>
+	</ModOp>
+	<!-- Poster of the Leader -->
+	<ModOp GUID='112144' Type="merge" Path="/Values/ResidenceUpgrade">
+		<WorkforceModifierInPercent>10</WorkforceModifierInPercent>
+	</ModOp>
+	<!-- Statutory Night Work Act -->
+	<ModOp GUID='191803' Type="merge" Path="/Values/ResidenceUpgrade">
+		<WorkforceModifierInPercent>5</WorkforceModifierInPercent>
+	</ModOp>
+	<!-- The Capitalist -->
+	<ModOp GUID='111012' Type="merge" Path="/Values/ResidenceUpgrade">
+		<TaxModifierInPercent>10</TaxModifierInPercent>
+	</ModOp>
+
 </ModOps>
