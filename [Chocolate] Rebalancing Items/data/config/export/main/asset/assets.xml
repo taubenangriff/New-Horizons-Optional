@@ -1402,4 +1402,14 @@
 		<TaxModifierInPercent>10</TaxModifierInPercent>
 	</ModOp>
 
+	<!-- Intoxicator-->
+	 <ModOp GUID = '111161' Type = "replace" Path ="/Values/ResidenceUpgrade/NeedProvideNeedUpgrade">
+		<NeedProvideNeedUpgrade>
+			<Item>
+			  <ProvidedNeed>1010349</ProvidedNeed>
+			  <SubstituteNeed>1010216</SubstituteNeed>
+			</Item>
+		  </NeedProvideNeedUpgrade>
+	 </ModOp>
+
 </ModOps>
