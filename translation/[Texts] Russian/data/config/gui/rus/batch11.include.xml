@@ -1,0 +1,286 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- Ships -->
+    <Text>
+      <GUID>1414006566</GUID>
+      <Text>Этот корабль могут принять за корабль Империи Тяньмин.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006568</GUID>
+      <Text>Старый и традиционный стиль кораблей, встречающийся в Хорай. Вряд ли соответствует современным стандартам, но по крайней мере никто не подумает, что этот корабль принадлежит вам.</Text>
+    </Text>
+    <Text>
+      <GUID>14740116</GUID>
+      <Text>Пинас</Text>
+    </Text>
+    <Text>
+      <GUID>1414018223</GUID>
+      <Text>Исключительно быстрый канонерский катер, который стреляет цепными ядрами, чтобы ломать мачты вражеских кораблей. Отлично подходит для преследования врагов.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018224</GUID>
+      <Text>Небольшое торговое судно, способное перевозить небольшие грузы между островами.</Text>
+    </Text>
+    <Text>
+      <GUID>14740117</GUID>
+      <Text>Цепные ядра</Text>
+    </Text>
+    <Text>
+      <GUID>14740127</GUID>
+      <Text>Безжалостный грузовой корабль Гудвилла</Text>      <!-- Flavored Shipname-->
+    </Text>
+    <Text>
+      <GUID>14740129</GUID>
+      <Text>Безжалостный грузовой корабль Гудвилла</Text>      <!-- Flavored Shipname-->
+    </Text>
+    <Text>
+      <GUID>14740126</GUID>
+      <Text>Злобная джонка У Гуовэя</Text>      <!-- Flavored Shipname-->
+    </Text>
+    <!-- Goodwill's Island texts -->
+    <Text>
+      <GUID>1414006074</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] заметил возможность в недавнем экономическом кризисе.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006075</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] приглашает вас поселиться на Дальнем Востоке.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1414006403</GUID>
+      <Text>После реформы Восточного торгового агентства в последние годы экономическая активность с Империей Тяньмин значительно возросла, что старые структуры пытались остановить грубой и неоправданной силой. После того, как адмирал Сеймур умиротворил регион, свободный и справедливый рост для всех гарантирован Договором о равенстве, подписанным с Тяньмин. Плывите на восток, чтобы заявить свои права на концессионное поселение.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1414006404</GUID>
+      <Text>Завершите экспедицию и войдите в Хорай, чтобы продолжить свой путь.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006405</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] приветствует вас в Хорай.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006406</GUID>
+      <Text>Гудвилл предоставляет вам стартовый корабль, чтобы вы могли основать свои первые поселения. Чем скорее будет основана эта колония, тем лучше. Сама королева не осмелится обыскивать территорию, контролируемую таким преданным слугой.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1446111</GUID>
+      <Text>Грузовой корабль Джеймса Гудвилла</Text>
+    </Text>
+    <Text>
+      <GUID>1446113</GUID>
+      <Text>Маяк Джеймса Гудвилла</Text>
+    </Text>
+    <Text>
+      <GUID>1414040002</GUID>
+      <Text>Договор о равенстве</Text>
+    </Text>
+    <Text>
+      <GUID>1414040004</GUID>
+      <Text>Начало большого бизнеса</Text>
+    </Text>
+    <Text>
+      <GUID>14740074</GUID>
+      <Text>Ремесленная мастерская E.T.A.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006548</GUID>
+      <Text>ДОГОВОР О РАВЕНСТВЕ ПОДПИСАН</Text>
+    </Text>
+    <Text>
+      <GUID>1414006549</GUID>
+      <Text>Решительная победа нашей славной королевы ++ Мирный договор, положивший конец актам пиратства Восточного трона против национальных торговых путей +++ регионы концессионных поселений предоставлены в качестве репараций, губернаторы берут прямой контроль +++ Подробнее на странице 3</Text>
+    </Text>
+    <Text>
+      <GUID>1414006550</GUID>
+      <Text>Некоторые рабочие разбирают этот старый корабль. Наверное, ищут запчасти для будущего ремонта, да!</Text>
+    </Text>
+    <Text>
+      <GUID>1414006553</GUID>
+      <Text>Следит за шпионами, ленивыми рабочими и приближающимися кораблями на горизонте.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006554</GUID>
+      <Text>Из-за долгого пренебрежения и запустения этот старый монитор в итоге был выброшен на берег и переоборудован в стационарную пушку.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006555</GUID>
+      <Text>Полностью легальные лекарства от головной боли и обычной простуды.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006556</GUID>
+      <Text>Произведения искусства, золото и алмазы — все честно приобретено.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006558</GUID>
+      <Text>Приготовлено с особым вниманием к качеству и чистоте.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006559</GUID>
+      <Text>20% импортная пошлина на это? Они вытянут из нас все деньги! Как вы смеете!</Text>
+    </Text>
+    <Text>
+      <GUID>1414006560</GUID>
+      <Text>Предназначено для рук праведников, чтобы использоваться только в мирных целях.</Text>
+    </Text>
+    <Text>
+      <GUID>1414015008</GUID>
+      <Text>Колониальная вилла Гудвилла</Text>
+    </Text>
+    <Text>
+      <GUID>1414006557</GUID>
+      <Text>Контрабанда</Text>
+    </Text>
+    <Text>
+      <GUID>1414040202</GUID>
+      <Text>Королевский конвой: потопите этот корабль, чтобы получить наркотики или ценности</Text>
+    </Text>
+    <Text>
+      <GUID>1414006561</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] спрашивает, готовы ли вы перевести контрабанду в его хранилище.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006562</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] поместил контрабанду на свои склады.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006563</GUID>
+      <Text>Хранилище контрабанды</Text>
+    </Text>
+    <Text>
+      <GUID>1414006564</GUID>
+      <Text>Джеймс Гудвилл хочет знать, может ли он перевезти наркотики с вашего корабля в свое хранилище.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006569</GUID>
+      <Text>Джеймс Гудвилл хочет знать, может ли он перевезти ценности с вашего корабля в свое хранилище.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006570</GUID>
+      <Text>Джеймс Гудвилл хочет знать, может ли он перевезти алкоголь с вашего корабля в свое хранилище.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006571</GUID>
+      <Text>Джеймс Гудвилл хочет знать, может ли он перевезти предметы роскоши с вашего корабля в свое хранилище.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006572</GUID>
+      <Text>Джеймс Гудвилл хочет знать, может ли он перевезти оружие с вашего корабля в свое хранилище.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006567</GUID>
+      <Text>Позволяет строить джонки</Text>
+    </Text>
+    <Text>
+      <GUID>1414015021</GUID>
+      <Text>[Selection Object Residence EconomyModifier(0) &gt;&gt; storagegoodM]/[Selection Object Area Economy StorageCapacity(1440505) &gt;&gt; storagegoodM]т [AssetData(1440505) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414015022</GUID>
+      <Text>[Selection Object Residence EconomyModifier(0) &gt;&gt; storagegoodM]/[Selection Object Area Economy StorageCapacity(1440506) &gt;&gt; storagegoodM]т [AssetData(1440506) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414015023</GUID>
+      <Text>[Selection Object Residence EconomyModifier(0) &gt;&gt; storagegoodM]/[Selection Object Area Economy StorageCapacity(1440502) &gt;&gt; storagegoodM]т [AssetData(1440502) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414015024</GUID>
+      <Text>[Selection Object Residence EconomyModifier(0) &gt;&gt; storagegoodM]/[Selection Object Area Economy StorageCapacity(1440504) &gt;&gt; storagegoodM]т [AssetData(1440504) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414015025</GUID>
+      <Text>[Selection Object Residence EconomyModifier(0) &gt;&gt; storagegoodM]/[Selection Object Area Economy StorageCapacity(1440503) &gt;&gt; storagegoodM]т [AssetData(1440503) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414040210</GUID>
+      <Text>Хранилище наркотиков</Text>
+    </Text>
+    <Text>
+      <GUID>1414040211</GUID>
+      <Text>Хранилище ценностей</Text>
+    </Text>
+    <Text>
+      <GUID>1414040212</GUID>
+      <Text>Хранилище алкоголя</Text>
+    </Text>
+    <Text>
+      <GUID>1414040213</GUID>
+      <Text>Хранилище оружия</Text>
+    </Text>
+    <Text>
+      <GUID>1414040214</GUID>
+      <Text>Хранилище предметов роскоши</Text>
+    </Text>
+    <Text>
+      <GUID>14740100</GUID>
+      <Text>[AssetData(1010062) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>14740101</GUID>
+      <Text>[AssetData(1010062) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>14740103</GUID>
+      <Text>Ложный флаг</Text>
+    </Text>
+    <Text>
+      <GUID>1414006573</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] замечает, что вы завершили доставку.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006574</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] благодарит вас за доставку.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006585</GUID>
+      <Text>Отправьте корабль в Омега Хейвен, чтобы получить выплату.</Text>
+    </Text>
+    <Text>
+      <GUID>14740120</GUID>
+      <Text>Блокадный прорыватель</Text>
+    </Text>
+    <Text>
+      <GUID>1414006585</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] готов выплатить вам вознаграждение.</Text>
+    </Text>
+    <Text>
+      <GUID>1414040217</GUID>
+      <Text>Лекарства готовы к экспорту! Нажмите, чтобы выполнить миссию доставки.</Text>
+    </Text>
+    <Text>
+      <GUID>1414040218</GUID>
+      <Text>Ценности готовы к экспорту! Нажмите, чтобы выполнить миссию доставки.</Text>
+    </Text>
+    <Text>
+      <GUID>1414040219</GUID>
+      <Text>Алкоголь готов к экспорту! Нажмите, чтобы выполнить миссию доставки.</Text>
+    </Text>
+    <Text>
+      <GUID>1414040220</GUID>
+      <Text>Оружие готово к экспорту! Нажмите, чтобы выполнить миссию доставки.</Text>
+    </Text>
+    <Text>
+      <GUID>1414040221</GUID>
+      <Text>Предметы роскоши готовы к экспорту! Нажмите, чтобы выполнить миссию доставки.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006747</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] сообщает вам, что лекарства готовы к экспорту.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018200</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] сообщает вам, что ценности готовы к экспорту.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018201</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] сообщает вам, что алкоголь готов к экспорту.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018202</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] сообщает вам, что предметы роскоши готовы к экспорту.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018203</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] сообщает вам, что оружие готово к экспорту.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

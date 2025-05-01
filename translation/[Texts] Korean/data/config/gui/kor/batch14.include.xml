@@ -1,0 +1,382 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">    
+    <Text>
+      <GUID>1414018244</GUID>
+      <Text>굴욕</Text>
+    </Text>
+    <Text>
+      <GUID>1414018245</GUID>
+      <Text>외식업</Text>
+    </Text>
+    <Text>
+      <GUID>1414006637</GUID>
+      <Text>왕립 수송대 호위</Text>
+    </Text>
+    <Text>
+      <GUID>1414018044</GUID>
+      <Text>대규모 정착지에 적합한 높은 중앙 탑을 갖춘 대형 시장</Text>
+    </Text>
+    <Text>
+      <GUID>1442800</GUID>
+      <Text>중앙 시장</Text>
+    </Text>
+    <Text>
+      <GUID>1414018045</GUID>
+      <Text>중심 도시</Text>
+    </Text>
+    <Text>
+      <GUID>1414018172</GUID>
+      <Text>호라이의 저장고로 [AssetData(5380) Text]을(를) 옮기세요.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018173</GUID>
+      <Text>호라이의 저장고로 [AssetData(133097) Text]을(를) 옮기세요.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018174</GUID>
+      <Text>호라이의 저장고로 [AssetData(118728) Text]을(를) 옮기세요.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018175</GUID>
+      <Text>호라이의 저장고로 [AssetData(112694) Text]을(를) 옮기세요.</Text>
+    </Text>
+    <!-- 3rdparty Fluffs when clicking island buildings -->
+    <Text>
+      <GUID>1414018121</GUID><!-- Goodwill Lost shipment text -->
+      <Text>당신이 배송에 실패하자 [AssetData([NotificationContext CharacterGUID]) Text]이(가) 실망을 금치 못하면서 향후 지불 금액을 조정합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006695</GUID>
+      <Text>이 비행선은 예상치 못하게 급히 대피해야 할 때 유용해 보입니다. 밀수업자가 언제나 대비해야 할 상황이죠. 언젠가 빛을 볼 날을 기다리며 묵묵히 자리를 지키고 있습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006696</GUID>
+      <Text>이 사무소에서 처리하는 문서 작업은 예전과 많이 달라졌습니다. 이제 예전 동방무역공사 소유물 대부분을 왕실이 직접 통제하고 있다 보니 암시장 거래를 은폐하는 데 노력을 기울이고 있습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006697</GUID>
+      <Text>20년 전 확장 공사를 진행하면서 생긴 건물이 지금은 훌륭한 감옥으로 탈바꿈했습니다. 밀수 사업에 왜 이렇게 많은 죄수가 필요한지 짐작이 가시나요? 그런데도 매번 이곳을 찾을 때마다 불쾌할 정도로 새로운 얼굴이 아주 많이 보입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414015072</GUID>
+      <Text>홍이포</Text>
+    </Text>
+    <Text>
+      <GUID>1414015071</GUID>
+      <Text>정크선 조선소</Text>
+    </Text>
+    <Text>
+      <GUID>1414015061</GUID>
+      <Text>공무원 관사</Text>
+    </Text>
+    <Text>
+      <GUID>1414040615</GUID>
+      <Text>오국위 제독의 등대</Text>
+    </Text>
+    <Text>
+      <GUID>1414018130</GUID>
+      <Text>약 한 세기를 거슬러 올라가 오국위 제독의 증조부가 용의 눈을 수복하는 작전을 펼치던 당시 천명 제국은 정크선을 효과적으로 운용했습니다. 그 이후로도 정크선의 건조 방식이 크게 바뀌지 않은 채로 세월이 흐르자, 한때 유용했던 이 선박은 시대에 뒤떨어지게 되었습니다. 그러나 천명 제국은 현대식 함선을 확보할 능력도 없거니와 그렇게 할 방법도 없었습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018131</GUID>
+      <Text>완전 붕괴를 목전에 둔 천명 제국은 군사력과 종교라는 두 가지 요소로 간신히 유지되고 있습니다. 이러한 상황에서 마지푼 사람은 다른 수많은 동방 시민과 마찬가지로 이 굴욕의 시대에서 벗어날 수 있기를 염원하고 있습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018132</GUID>
+      <Text>관람객은 정원을 거닐면서 정성스레 구성한 풍경을 체험할 수 있습니다. 실존 위기를 겪는 시대에서 황제는 정원을 완벽한 상태로 유지하는 데 힘을 기울입니다. 이는 아직 황제가 쥐고 있는 몇 안 되는 권력 가운데 하나이죠.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018133</GUID>
+      <Text>천명 제국의 병사는 라 코로나 제국의 침략을 기억하고자 처음으로 노획한 이 무기에 "붉은 오랑캐의 대포"라는 이름을 붙였습니다. 비록 개량을 거치긴 했으나 지금은 한때 천명 제국이 가공할 만한 군사력을 자랑했던 구시대의 유물에 불과합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018160</GUID>
+      <Text>중앙 궁전은 제독의 본부로서 마지푼을 하나로 묶어 두는 군사 독재를 유지하는 역할을 할 뿐만 아니라 천명 제국에 대한 루이쩌 황제의 통치력이 아직 약화되지 않은 걸 보여주는 곳이기도 합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018161</GUID>
+      <Text>마지푼 현지 주민은 이 농장에서 일하면서 쌀과 차를 자급자족합니다. 적어도 오국위 제독의 말로는 이걸로 충분하다고 하네요.</Text>
+    </Text>
+    <Text>
+      <GUID>1414015077</GUID>
+      <Text>총독 궁전</Text>
+    </Text>
+    <Text>  <!-- Geb and Nut are James Goodwills pets. -->
+      <GUID>1414015089</GUID>
+      <Text>게브의 오두막</Text>
+    </Text>
+    <Text>
+      <GUID>1414015090</GUID>
+      <Text>누트의 오두막</Text>
+    </Text>
+    <Text>
+      <GUID>1414015091</GUID>
+      <Text>두둑</Text>
+    </Text>
+    <Text>
+      <GUID>1414018176</GUID>
+      <Text>이 장엄한 탑은 수 세기 전에 건설되었습니다. 희망의 아치를 지나서 신성에 다가서는 거대한 계단이 끝나는 곳에서 평범한 자가 영위하는 세속적이고 일상적인 삶을 초월하여 우뚝 솟아 있습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414015084</GUID>
+      <Text>산꼭대기 탑</Text>
+    </Text>
+    <Text>
+      <GUID>1414018177</GUID>
+      <Text>오메가 헤이븐의 노동자는 중앙 시계탑을 바라보면서 아직 근무 시간이 끝나지 않았다는 사실만 깨닫고 맙니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414015085</GUID>
+      <Text>시계탑</Text>
+    </Text>
+    <!-- Item -->
+    <Text>
+      <GUID>1414011052</GUID>
+      <Text>젤로스의 사서</Text>
+    </Text>
+    <Text>
+      <GUID>1414006736</GUID>
+      <Text>손에 잡힌 모든 책을 닥치는대로 읽는 그는 언제나 흥미로우면서도 이해하기 어려운 결론을 내놓습니다. 집 아래에 지하실을 만들 수 있다는 걸 깨닫고 난 뒤로 그는…</Text>
+    </Text>
+    <Text>
+      <GUID>1440508</GUID>
+      <Text>[AssetData(1999005351) Text]</Text>
+    </Text>
+    <!-- Foreign Trading Company Texts (NH specific)-->
+    <Text>
+      <GUID>1414018030</GUID>
+      <Text>주위 대실업가 사업체에 [AssetData(1999005351) Text]을(를) 공급하여 생산량을 늘립니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018031</GUID>
+      <Text>주위 대실업가 사업체에 [AssetData(1999005351) Text]을(를) 공급합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018032</GUID>
+      <Text>대실업가 사업체가 자리 잡은 항구로서 전 세계로부터 상품을 수입합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018046</GUID>
+      <Text>[AssetData(1999005351) Text]을(를) 생성합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018047</GUID>
+      <Text>유닛을 소비할 때마다 [AssetData(1999005351) Text]이(가) 섬 저장고에 추가됩니다.</Text>
+    </Text>
+    <!-- Zoo -->    
+    <Text>
+      <GUID>14443035</GUID>
+      <Text>호라이 식량 및 음료 생산 시설</Text>
+    </Text>
+    <Text>
+      <GUID>1414017000</GUID>
+      <Text>혹성탈출</Text>
+    </Text>
+    <Text>
+      <GUID>1414017002</GUID>
+      <Text>대나무숲</Text>
+    </Text>
+    <Text>
+      <GUID>1414017003</GUID>
+      <Text>오세아니아</Text>
+    </Text>
+    <Text>
+      <GUID>1414006829</GUID>      <!-- Oceania - ItemSet - Description -->
+      <Text>오세아니아에서만 볼 수 있는 동물입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006830</GUID>      <!-- Bamboo Forest SETBUFF - TownhallBuff - Description -->
+      <Text>주민이 이 동물을 좋아합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006831</GUID>      <!-- Planet of the Apes SETBUFF - TownhallBuff - Description -->
+      <Text>주민이 원숭이를 좋아합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006833</GUID>      <!-- Oceania SETBUFF - TownhallBuff - Description -->
+      <Text>주민이 오세아니아 동물을 좋아합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006834</GUID>      <!-- Planet of the Apes - Itemset - Description -->
+      <Text>유인원은 뭉치면 강합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017004</GUID>
+      <Text>레서판다</Text>
+    </Text>
+    <Text>
+      <GUID>1414017005</GUID>
+      <Text>판다</Text>
+    </Text>
+    <Text>
+      <GUID>1414017006</GUID>
+      <Text>코알라</Text>
+    </Text>
+    <Text>
+      <GUID>1414017007</GUID>
+      <Text>마카크원숭이</Text>
+    </Text>
+    <Text>
+      <GUID>1414017008</GUID>
+      <Text>고래상어</Text>
+    </Text>
+    <Text>
+      <GUID>1414017009</GUID>
+      <Text>월리스날개구리</Text>
+    </Text>
+    <Text>
+      <GUID>1414017010</GUID>
+      <Text>그물무늬비단뱀</Text>
+    </Text>
+    <Text>
+      <GUID>1414017011</GUID>
+      <Text>코모도왕도마뱀</Text>
+    </Text>
+    <Text>
+      <GUID>1414017012</GUID>
+      <Text>바다사자</Text>
+    </Text>
+    <Text>
+      <GUID>1414017013</GUID>
+      <Text>천산갑</Text>
+    </Text>
+    <Text>
+      <GUID>1414017014</GUID>
+      <Text>아무르표범</Text>
+    </Text>
+    <Text>
+      <GUID>1414006737</GUID>
+      <Text>&lt;b&gt;월리스날개구리.&lt;/b&gt; 이 호기심 많은 작은 개구리는 실제로 날지는 못합니다. 하지만 그만큼 높게 뛸 순 있죠.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017018</GUID>
+      <Text>족제비 사육장</Text>
+    </Text>
+    <Text>
+      <GUID>1414006738</GUID>
+      <Text>&lt;b&gt;고산 족제비.&lt;/b&gt; 실제로는 알프스산맥이 아니라 산기슭의 대나무숲에서 서식합니다. 아무도 보지 않는 틈을 타서 족제비 도시를 건설하려고 한다는 건 속설에 불과합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006739</GUID>
+      <Text>&lt;b&gt;대왕판다.&lt;/b&gt; 정말 귀엽습니다. 무엇보다도 끼니를 거르면 굶어죽을까 봐 하루종일 앉아서 대나무를 먹는 모습이 가장 귀엽죠.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006740</GUID>
+      <Text>&lt;b&gt;코모도왕도마뱀.&lt;/b&gt; 불을 뿜어대는 용은 아니지만, 독을 품은 아주 위험한 파충류입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006741</GUID>
+      <Text>&lt;b&gt;그물무늬비단뱀.&lt;/b&gt; 가장 기다란 뱀으로 알려져 있습니다. 독을 쓰지 않고 몸으로 사냥감을 졸라서 사냥합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006742</GUID>
+      <Text>&lt;b&gt;일본원숭이.&lt;/b&gt; 호라이 북부 섬에 서식하는 얼굴이 붉은 작은 원숭이입니다. 학습력이 뛰어난 데다가 장난기가 많고 교활합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006743</GUID>
+      <Text>&lt;b&gt;귀천산갑.&lt;/b&gt; 소문에 따르면 비늘이 만병통치약이라고 합니다. 흰개미와 개미를 먹이로 삼습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018225</GUID>
+      <Text>&lt;b&gt;레서판다&lt;/b&gt; 이름과 하루 종일 대나무를 먹는 습성을 제외하면 판다와 공통점이 하나도 없는 작고 귀여운 붉은 곰입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018226</GUID>
+      <Text>&lt;b&gt;갈라파고스물개&lt;/b&gt; 뉴홀랜드 북부 제도의 따뜻한 기후에서 서식하는 물개입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018227</GUID>
+      <Text>&lt;b&gt;코알라&lt;/b&gt; 유칼립투스 나무에서 대부분의 시간을 보내는 호기심 많은 작은 곰입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018228</GUID>
+      <Text>&lt;b&gt;고래상어&lt;/b&gt; 고래인가, 상어인가, 아니면 둘 다인가. 열대 바다에 서식하며, 가장 작은 개체만이 간신히 동물원에 들어갈 수 있을 만큼 거대한 생물입니다.</Text>
+    </Text>
+    <!-- Wonder Buff Texts -->    
+    <Text>
+      <GUID>1414018178</GUID>
+      <Text>생산성 버프</Text>
+    </Text>
+    <Text>
+      <GUID>1414018179</GUID>
+      <Text>주거지 버프</Text>
+    </Text>
+    <Text>
+      <GUID>1414018180</GUID>
+      <Text>도로 범위 내 주거지에 [AssetData(1440405) Text]을(를) 제공합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018181</GUID>
+      <Text>보너스 버프</Text>
+    </Text>
+    <Text>
+      <GUID>1414018182</GUID>
+      <Text>도로 범위 내 영향:</Text>
+    </Text>
+    <Text>
+      <GUID>1414187028</GUID>
+      <Text>[Selection Object Factory PostboxResidents] 범위 내 주민</Text>
+    </Text>
+    <Text>
+      <GUID>1414018183</GUID>
+      <Text>주민들이 [ItemAssetData(1414187031) InputBenefitAllAdditionalHappinessFormatted]에서 보너스 행복도를 얻습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018184</GUID>
+      <Text>고유 버프</Text>
+    </Text>
+    <Text>
+      <GUID>1414018185</GUID>
+      <Text>도로 범위 내 [ItemAssetData(1414187030) ItemOrBuffEffectTargetsFormatted]에 영향</Text>
+    </Text>
+    <Text>
+      <GUID>1414018186</GUID>
+      <Text>섬 내 [ItemAssetData(1414187033) ItemOrBuffEffectTargetsFormatted]에 영향</Text>
+    </Text>
+    <Text>
+      <GUID>1414018187</GUID>
+      <Text>섬에 영향:</Text>
+    </Text>
+    <Text>
+      <GUID>1414018188</GUID>
+      <Text>방어 버프</Text>
+    </Text>
+    <Text>
+      <GUID>1414018189</GUID>
+      <Text>섬 내 [ItemAssetData(1414187034) ItemOrBuffEffectTargetsFormatted]에 영향</Text>
+    </Text>
+    <Text>
+      <GUID>1414018190</GUID>
+      <Text>도로 범위 내 [ItemAssetData(1414187036) ItemOrBuffEffectTargetsFormatted]에 영향</Text>
+    </Text>
+    <Text>
+      <GUID>1414018191</GUID>
+      <Text>[ItemAssetData(1414187039) AllSubstituteNeedsFormatted]이(가) 주민들의 [ItemAssetData(1414187039) AllProvidedNeedsFormatted]에 대한 요구사항을 충족합니다.</Text>
+    </Text>
+    <Text><!-- Gen 3rdParty Feedback to Wonder built -->
+      <GUID>1414006694</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]이(가) 비경을 보고 기뻐합니다.</Text>
+    </Text>
+    <!-- Botanical Garden Buff Texts -->
+    <Text>
+      <GUID>1414018210</GUID>
+      <Text>호라이에서 건설하면 [AssetData(1414007001) Text]을(를) 활성화합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018211</GUID>
+      <Text>호라이에서 건설하면 [AssetData(1414007002) Text]을(를) 활성화합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018212</GUID>
+      <Text>호라이에서 건설하면 [AssetData(1414007003) Text]을(를) 활성화합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018213</GUID>
+      <Text>호라이에서 건설하면 [AssetData(1414007007) Text]을(를) 활성화합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018214</GUID>
+      <Text>호라이에서 건설하면 [AssetData(1414007010) Text]을(를) 활성화합니다.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

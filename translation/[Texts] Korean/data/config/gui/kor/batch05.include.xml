@@ -1,0 +1,426 @@
+﻿<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <!-- Population Levels -->
+        <Text>
+            <GUID>15100000</GUID>
+            <Text>농민</Text>
+        </Text>
+        <Text>
+            <GUID>15100001</GUID>
+            <Text>노동자</Text>
+        </Text>
+        <Text>
+            <GUID>15100002</GUID>
+            <Text>농민 노동력</Text>
+        </Text>
+        <Text>
+            <GUID>15100003</GUID>
+            <Text>노동자 노동력</Text>
+        </Text>
+        <Text>
+            <GUID>15100100</GUID>
+            <Text>대실업가</Text>
+        </Text>
+        <Text>
+            <GUID>15100101</GUID>
+            <Text>대실업가 노동력</Text>
+        </Text>
+        <Text>
+            <GUID>1442500</GUID>
+            <Text>대실업가 주거지</Text>
+        </Text>
+        <Text>
+            <GUID>1442501</GUID>
+            <Text>식민지 노동자 주거지</Text>
+        </Text>
+        <Text>
+            <GUID>1442502</GUID>
+            <Text>농민 주거지</Text>
+        </Text>
+        <Text>
+            <GUID>1442503</GUID>
+            <Text>노동자 주거지</Text>
+        </Text>
+        <Text>
+            <GUID>1447920</GUID>
+            <Text>성난 대실업가</Text>
+        </Text>
+        <Text>
+            <GUID>1447921</GUID>
+            <Text>불행한 대실업가</Text>
+        </Text>
+        <Text>
+            <GUID>1447922</GUID>
+            <Text>만족하는 대실업가</Text>
+        </Text>
+        <Text>
+            <GUID>1447923</GUID>
+            <Text>행복한 대실업가</Text>
+        </Text>
+        <Text>
+            <GUID>1447924</GUID>
+            <Text>행복에 취한 대실업가</Text>
+        </Text>
+        <Text>
+            <GUID>1447930</GUID>
+            <Text>성난 농민</Text>
+        </Text>
+        <Text>
+            <GUID>1447931</GUID>
+            <Text>불행한 농민</Text>
+        </Text>
+        <Text>
+            <GUID>1447932</GUID>
+            <Text>만족하는 농민</Text>
+        </Text>
+        <Text>
+            <GUID>1447933</GUID>
+            <Text>행복한 농민</Text>
+        </Text>
+        <Text>
+            <GUID>1447934</GUID>
+            <Text>행복에 취한 농민</Text>
+        </Text>
+        <Text>
+            <GUID>1447935</GUID>
+            <Text>성난 노동자</Text>
+        </Text>
+        <Text>
+            <GUID>1447936</GUID>
+            <Text>불행한 노동자</Text>
+        </Text>
+        <Text>
+            <GUID>1447937</GUID>
+            <Text>만족하는 노동자</Text>
+        </Text>
+        <Text>
+            <GUID>1447938</GUID>
+            <Text>행복한 노동자</Text>
+        </Text>
+        <Text>
+            <GUID>1447939</GUID>
+            <Text>행복에 취한 노동자</Text>
+        </Text>
+        <!-- Deposits -->
+        <Text>
+            <GUID>1447800</GUID>
+            <Text>고령토 매장지</Text>
+        </Text>
+        <Text>
+            <GUID>1447801</GUID>
+            <Text>장석 매장지</Text>            <!--Typo-->
+        </Text>
+        <Text>
+            <GUID>1447805</GUID>
+            <Text>철 매장지</Text>
+        </Text>
+        <Text>
+            <GUID>1447806</GUID>
+            <Text>구리 매장지</Text>
+        </Text>
+        <Text>
+            <GUID>1447807</GUID>
+            <Text>이리듐 매장지</Text>
+        </Text>
+        <Text>
+            <GUID>1447814</GUID>
+            <Text>이리듐 매장지</Text>
+        </Text>
+        <Text>
+            <GUID>1447808</GUID>
+            <Text>석탄 매장지</Text>
+        </Text>
+        <Text>
+            <GUID>1447811</GUID>
+            <Text>고령토 매장지</Text>
+        </Text>
+        <Text>
+            <GUID>1447812</GUID>
+            <Text>장석 매장지</Text>            <!--Typo-->
+        </Text>
+        <Text>
+            <GUID>1447813</GUID>
+            <Text>황철석 매장지</Text>            <!--Typo-->
+        </Text>
+        <Text>
+            <GUID>1447803</GUID>
+            <Text>점토 매장지</Text>
+        </Text>
+        <Text>
+            <GUID>1447809</GUID>
+            <Text>점토 매장지</Text>
+        </Text>
+        <Text>
+            <GUID>1447861</GUID>
+            <Text>석재 매장지</Text>
+        </Text>
+        <Text>
+            <GUID>1414040216</GUID>
+            <Text>석재 매장지</Text>
+        </Text>
+        <!-- Fertilities -->
+        <Text>
+            <GUID>1414007001</GUID>
+            <Text>쌀 토착 자원</Text>
+        </Text>
+        <Text>
+            <GUID>1414007002</GUID>
+            <Text>찻잎 토착 자원</Text>
+        </Text>
+        <Text>
+            <GUID>1414007003</GUID>
+            <Text>삼 토착 자원</Text>
+        </Text>
+        <Text>
+            <GUID>1414007004</GUID>
+            <Text>철갑상어 서식지</Text>
+        </Text>
+        <Text>
+            <GUID>1414007006</GUID>
+            <Text>후추 토착 자원</Text>
+        </Text>
+        <Text>
+            <GUID>1414007007</GUID>
+            <Text>뽕나무 토착 자원</Text>
+        </Text>
+        <Text>
+            <GUID>1414007008</GUID>
+            <Text>매실 토착 자원</Text>
+        </Text>
+        <Text>
+            <GUID>1414007009</GUID>
+            <Text>벌 서식지</Text>
+        </Text>
+        <Text>
+            <GUID>1414007010</GUID>
+            <Text>대두 토착 자원</Text>
+        </Text>
+        <!-- Festivals -->
+
+        <Text>
+            <GUID>1414006720</GUID>
+            <Text>중양절 축제</Text>
+        </Text>
+        <Text>
+            <GUID>1414006721</GUID>
+            <Text>등불 축제</Text>
+        </Text>
+        <Text>
+            <GUID>1414006722</GUID>
+            <Text>설맞이 축제</Text>
+        </Text>
+        <Text>
+            <GUID>1414006723</GUID>
+            <Text>황제 대관식</Text>
+        </Text>
+        <Text>
+            <GUID>1414006734</GUID>
+            <Text>아홉, 그리고 또 다른 아홉! 단언컨대 가장 아노다운 축제라 할 수 있습니다. 주민이 완벽한 균형을 이루는 건 당연합니다. 순리대로 말이죠.</Text>
+        </Text>
+        <Text>
+            <GUID>1414006735</GUID>
+            <Text>주민이 하늘에 등불을 띄우면서 함께 기념하고 축하합니다. 여기저기서 피어오르는 불꽃과 함께 우애가 싹트기 시작합니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1414006748</GUID>
+            <Text>초승달이 떠오르고 있습니다! 주민이 화려한 불꽃놀이로 달을 맞이하면서 다가올 계절에서 풍작을 기원합니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1414006747</GUID>
+            <Text>우리 국민은 강합니다. 왕실의 통치 아래 그 어느 때보다 안전하게 보호받으면서 축복을 누리고 있다는 사실을 잊지 말아야 합니다. 제국이여, 영원하여라!</Text>
+        </Text>
+        <Text>
+            <GUID>1414008600</GUID>
+            <Text>중양절 축제</Text>
+        </Text>
+        <Text>
+            <GUID>1414008601</GUID>
+            <Text>등불 축제</Text>
+        </Text>
+        <Text>
+            <GUID>1414008602</GUID>
+            <Text>설맞이 축제</Text>
+        </Text>
+        <Text>
+            <GUID>1414008603</GUID>
+            <Text>황제 대관식</Text>
+        </Text>
+        <!-- More Streetfood -->
+        <Text>
+            <GUID>1442742</GUID>            <!-- Streetfood - Noodle Stand - Buff -->
+            <Text>국수 가게</Text>
+        </Text>
+        <Text>
+            <GUID>1442743</GUID>            <!-- Streetfood - Street Grill - Buff -->
+            <Text>길거리 그릴</Text>
+        </Text>
+        <Text>
+            <GUID>1442744</GUID>            <!-- Streetfood - Steamer Stand - Buff -->
+            <Text>찜 요리 가게</Text>
+        </Text>
+        <Text>
+            <GUID>1442745</GUID>            <!-- Streetfood - Dessert Stand - Buff -->
+            <Text>디저트 가게</Text>
+        </Text>
+        <Text>
+            <GUID>1442746</GUID>            <!-- Streetfood - Noodle Stand - Buff -->
+            <Text>국수 가게</Text>
+        </Text>
+        <Text>
+            <GUID>1442747</GUID>            <!-- Streetfood - Street Grill - Buff -->
+            <Text>길거리 그릴</Text>
+        </Text>
+        <Text>
+            <GUID>1442748</GUID>            <!-- Streetfood - Steamer Stand - Buff -->
+            <Text>찜 요리 가게</Text>
+        </Text>
+        <Text>
+            <GUID>1442749</GUID>            <!-- Streetfood - Dessert Stand - Buff -->
+            <Text>디저트 가게</Text>
+        </Text>
+        <Text>
+            <GUID>1442700</GUID>            <!-- Streetfood Stand - Description -->
+            <Text>레시피를 활용하여 길거리 음식 수요를 맞춥니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1442750</GUID>            <!-- Streetfood - Recipelist - Description -->
+            <Text>산더미 같은 재료와 조리된 음식으로 가득한 길거리 음식 가게는 한숨 돌리면서 간단히 해결할 수 있는 식사를 찾는 동부 제도 시민에게 생명줄과도 같습니다. 그러나 오해하진 마세요. 여기서 나오는 음식은 평범하지 않습니다. 진취적인 요리사는 얼마든지 눈 깜짝할 사이에 메뉴를 바꿔서 유행을 따라잡고자 합니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1442725</GUID>            <!-- Streetfood - Nigiri-Sushi Recipe -->
+            <Text>주먹 초밥</Text>
+        </Text>
+        <Text>
+            <GUID>1442751</GUID>            <!-- Streetfood - Nigiri-Sushi Recipe - Description -->
+            <Text>주먹 초밥은 사촌뻘 음식인 누름 초밥과는 달리 손님이 주문할 때마다 신선하게 만들어집니다. 끝없이 다양한 바다 생물 덕분에 주먹 초밥의 종류는 날마다 잡힌 횟감만큼이나 다채로우며, 섬마다 명물이 있습니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1442726</GUID>            <!-- Streetfood - Vegetable Tempura Recipe -->
+            <Text>야채 튀김</Text>
+        </Text>
+        <Text>
+            <GUID>1442752</GUID>            <!-- Streetfood - Vegetable Tempura - Description -->
+            <Text>변변찮은 감자와 피망을 얇은 밀가루 반죽에 묻혀서 금빛이 날 때까지 튀깁니다. 한입 베어 물면 야채 튀김이 어째서 그렇게나 인기가 많은지 단번에 알게 될 겁니다. 겉은 바삭하고 속은 촉촉하죠.</Text>
+        </Text>
+        <Text>
+            <GUID>1442727</GUID>            <!-- Streetfood - Hand-Pulled Beef Noodles Recipe -->
+            <Text>수타 우육면</Text>
+        </Text>
+        <Text>
+            <GUID>1442753</GUID>            <!-- Streetfood - Hand-Pulled Beef Noodles - Description -->
+            <Text>쫄깃한 생면과 부드러운 두부를 짭짤한 소고기 육수에 넣고 끓여서 든든한 한 끼를 만듭니다. 이 커다랗고 단순한 한 그릇이 하루 종일 느낀 배고픔을 달래줍니다. 황소 같은 식욕을 물리칠 수 있을 정도죠.</Text>
+        </Text>
+        <Text>
+            <GUID>1442728</GUID>            <!-- Streetfood - Takoyaki Recipe -->
+            <Text>타코야키</Text>
+        </Text>
+        <Text>
+            <GUID>1442754</GUID>            <!-- Streetfood - Takoyaki - Description -->
+            <Text>튀긴 반죽에 독특한 맛이 나는 신대륙 문어를 넣었습니다. 타코야키는 바삭하게 튀긴 대표적인 간식으로 둥근 덩어리 안에 쫀득한 문어가 자리한 가운데 달콤한 간장 소스를 얹었습니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1442729</GUID>            <!-- Streetfood - Okonomiyaki Recipe -->
+            <Text>오코노미야키</Text>
+        </Text>
+        <Text>
+            <GUID>1442755</GUID>            <!-- Streetfood - Okonomiyaki - Description -->
+            <Text>튀긴 재료와 잘게 썰어낸 해초를 겹겹이 쌓아 올린 팬케이크입니다. 팬케이크를 구우면서 손님이 원하는 재료를 넣을 수 있어서 이런 이름이 붙었습니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1442730</GUID>            <!-- Streetfood - Bak Kwa Recipe -->
+            <Text>바꾸앙</Text>
+        </Text>
+        <Text>
+            <GUID>1442756</GUID>            <!-- Streetfood - Bak Kwa - Description -->
+            <Text>오랜 시간 구워낸 쫄깃하면서도 달콤 짭짤한 사각형 모양의 말린 고기입니다. 동방 제국의 식품 보존 방법에서 유래했습니다. 진여평 공주가 정말 좋아하는 음식으로 고향에 편지를 부칠 때마다 제국 수도에 있는 가장 좋아하는 간식 가게에서 선물을 사서 보내달라고 합니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1442731</GUID>            <!-- Streetfood - Stir-Fried Rice Recipe -->
+            <Text>볶음밥</Text>
+        </Text>
+        <Text>
+            <GUID>1442757</GUID>            <!-- Streetfood - Stir-Fried Rice - Description -->
+            <Text>맛있는 중국식 소시지와 옥수수를 곁들인 기름지고 복슬복슬한 쌀밥 요리입니다. 요리용 백주로 불꽃을 피워내며 즉석에서 볶았습니다. 혹시 새우볶음밥을 기대하셨나요?</Text>
+        </Text>
+        <Text>
+            <GUID>1442732</GUID>            <!-- Streetfood - Kushiyaki Recipe -->
+            <Text>구시야키</Text>
+        </Text>
+        <Text>
+            <GUID>1442758</GUID>            <!-- Streetfood - Kushiyaki - Description -->
+            <Text>동부 제도가 혹한의 북극과 무더운 엔베사와 이어지면서 전통 레시피가 새로운 재료를 만나 다시 태어났습니다. 짭짤한 케밥에 강렬한 풍미의 사슴고기가 들어가면서 맛의 새로운 지평이 열립니다. 입이 얼얼해지는 향신료 탓에 아치발드 블레이크 경이 곧장 화장실로 달려갈 것 같네요.</Text>
+        </Text>
+        <Text>
+            <GUID>1442733</GUID>            <!-- Streetfood - Congee with Youtiao Recipe -->
+            <Text>유탸오를 곁들인 죽</Text>
+        </Text>
+        <Text>
+            <GUID>1442759</GUID>            <!-- Streetfood - Congee with Youtiao - Description -->
+            <Text>다양한 재료와 함께 쌀을 물에 졸인 소박한 죽입니다. 바삭하게 튀긴 빵을 곁들입니다. 아침 식사로 먹는 흔한 음식이지만, 때와 사람을 가리지 않고 인기가 많습니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1442734</GUID>            <!-- Streetfood - Steamed Bao Buns Recipe -->
+            <Text>바오번</Text>
+        </Text>
+        <Text>
+            <GUID>1442760</GUID>            <!-- Streetfood - Steamed Bao Buns - Description -->
+            <Text>대나무 찜통을 열자 갇혀 있던 증기가 번쩍 피어오르면서 짭짤한 재료로 속이 가득 찬 희고 푹신한 바오가 손님을 맞이합니다. 어떤 걸 먹어야 할까요? 몇 점을 먹느냐에 따라 간식일지 식사일지가 결정됩니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1442735</GUID>            <!-- Streetfood - Zong Zi Recipe -->
+            <Text>쭝쯔</Text>
+        </Text>
+        <Text>
+            <GUID>1442761</GUID>            <!-- Streetfood - Zong Zi - Description -->
+            <Text>찹쌀과 돼지고기를 조심스레 대나뭇잎에 감싸서 완벽하게 찝니다. 잎의 풍미가 쌀에 스며들어 먹음직스럽고 향이 솔솔 납니다. 신대륙에서 온 손님이 신대륙 전통 음식인 타말과 닮은 구석이 있다며 마음에 들어 합니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1442736</GUID>            <!-- Streetfood - Special Dumpling Soup Recipe -->
+            <Text>특제 만둣국</Text>
+        </Text>
+        <Text>
+            <GUID>1442762</GUID>            <!-- Streetfood - Special Dumpling Soup - Description -->
+            <Text>부드러운 엔베사 랍스터를 들여오면서 이 유서 깊은 어머니의 요리는 한층 더 진화했습니다. 랍스터 살로 만든 한입 크기의 만두가 따뜻하고 짭짤한 국수 위에 떠 있습니다. 사람들이 줄을 지어 기다리고 있네요.</Text>
+        </Text>
+        <Text>
+            <GUID>1442737</GUID>            <!-- Streetfood - Dango Recipe -->
+            <Text>당고</Text>
+        </Text>
+        <Text>
+            <GUID>1442763</GUID>            <!-- Streetfood - Dango - Description -->
+            <Text>다양한 쌀가루로 만든 둥근 모양의 반죽에 꿀과 설탕 같은 달콤한 양념을 묻힌 간식입니다. 좋은 차를 곁들여서 먹습니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1442738</GUID>            <!-- Streetfood - Sweet Doufuhua Recipe -->
+            <Text>달콤한 두부 푸딩</Text>
+        </Text>
+        <Text>
+            <GUID>1442764</GUID>            <!-- Streetfood - Sweet Doufuhua - Description -->
+            <Text>커다란 대나무 통에서 조리한 부드러운 두부입니다. 크고 납작한 국자로 얇게 떠서 그릇에 담아 내놓습니다. 차갑게 식히거나 실온으로 제공되는 이 음식은 달콤한 생강 시럽을 뿌려서 먹기도 합니다. 산뜻하고 가벼운 디저트입니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1442739</GUID>            <!-- Streetfood - Imagawayaki Recipe -->
+            <Text>오방떡</Text>
+        </Text>
+        <Text>
+            <GUID>1442765</GUID>            <!-- Streetfood - Imagawayaki - Description -->
+            <Text>케이크 같은 황금빛 갈색 껍질로 고구마 속을 감싼 달콤하고 먹음직스러운 팬케이크입니다. 겉의 바삭함과 속의 따뜻하고 끈적한 식감이 한데 어우러져 언제 먹어도 만족스럽습니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1442740</GUID>            <!-- Streetfood - Tanghulu Recipe -->
+            <Text>탕후루</Text>
+        </Text>
+        <Text>
+            <GUID>1442741</GUID>            <!-- Streetfood - Buff -->
+            <Text>길거리 음식</Text>
+        </Text>
+        <Text>
+            <GUID>1442766</GUID>            <!-- Streetfood - Tanghulu - Description -->
+            <Text>동부 제도에서 산사나무 열매를 찾기란 정말 어렵지만, 주민의 수완 덕분에 그 맛을 대신할 만한 상품을 재배할 수 있었습니다. 톡 쏘는 만다린과 과즙이 가득한 포도, 그리고 시큼한 매실을 막대기에 꽂은 다음 설탕을 입혀 윤을 냅니다. 그리하여 구색을 갖추면서도 식감과 풍미가 대조를 이루는 달콤하고 바삭한 간식이 탄생합니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1442700</GUID>            <!-- Streetfood Stand - Description -->
+            <Text>레시피를 활용하여 길거리 음식 수요를 맞춥니다.</Text>
+        </Text>
+    </ModOp>
+</ModOps>

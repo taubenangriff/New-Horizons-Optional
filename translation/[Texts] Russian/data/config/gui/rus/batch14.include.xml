@@ -1,0 +1,382 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">    
+     <Text>
+      <GUID>1414018244</GUID>
+      <Text>УНИЖЕНИЕ</Text>
+    </Text>
+    <Text>
+      <GUID>1414018245</GUID>
+      <Text>РЕСТАВРАЦИЯ</Text>
+    </Text>
+    <Text>
+      <GUID>1414006637</GUID>
+      <Text>Эскорт королевского конвоя</Text>
+    </Text>
+    <Text>
+      <GUID>1414018044</GUID>
+      <Text>Большой рынок с высокой центральной башней, подходящий для крупных поселений</Text>
+    </Text>
+    <Text>
+      <GUID>1442800</GUID>
+      <Text>Городской рынок</Text>
+    </Text>
+    <Text>
+      <GUID>1414018045</GUID>
+      <Text>Центральный город</Text>
+    </Text>
+    <Text>
+      <GUID>1414018172</GUID>
+      <Text>Доставьте [AssetData(5380) Text] на ваши склады в Хорай</Text>
+    </Text>
+    <Text>
+      <GUID>1414018173</GUID>
+      <Text>Доставьте [AssetData(133097) Text] на ваши склады в Хорай</Text>
+    </Text>
+    <Text>
+      <GUID>1414018174</GUID>
+      <Text>Доставьте [AssetData(118728) Text] на ваши склады в Хорай</Text>
+    </Text>
+    <Text>
+      <GUID>1414018175</GUID>
+      <Text>Доставьте [AssetData(112694) Text] на ваши склады в Хорай</Text>
+    </Text>
+    <!-- 3rdparty Fluffs when clicking island buildings -->
+    <Text>
+      <GUID>1414018121</GUID><!-- Goodwill Lost shipment text -->
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] очень разочарован потерей этого груза и корректирует вашу будущую ставку оплаты.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006695</GUID>
+      <Text>Этот дирижабль выглядит как отличное судно для неожиданной эвакуации в последнюю минуту, к чему контрабандист всегда должен быть готов. Так что он лежит здесь, терпеливо ожидая своего звёздного часа.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006696</GUID>
+      <Text>Документы, оформляемые в этом офисе, раньше выглядели совсем иначе. Теперь, когда большая часть бывших владений E.T.A. перешла под прямой контроль короны, усилия сместились на сокрытие чёрного рынка.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006697</GUID>
+      <Text>Построенное 20 лет назад как крыло для расширения, эти помещения теперь служат отличной тюрьмой. "Зачем контрабандистам столько заключённых?" — спросите вы. Тем не менее, с каждым визитом здесь появляются всё новые лица.</Text>
+    </Text>
+    <Text>
+      <GUID>1414015072</GUID>
+      <Text>Хунъипао</Text>
+    </Text>
+    <Text>
+      <GUID>1414015071</GUID>
+      <Text>Верфь джонок</Text>
+    </Text>
+    <Text>
+      <GUID>1414015061</GUID>
+      <Text>Дом чиновников</Text>
+    </Text>
+    <Text>
+      <GUID>1414040615</GUID>
+      <Text>Маяк адмирала Ву Говэя</Text>
+    </Text>
+    <Text>
+      <GUID>1414018130</GUID>
+      <Text>Во времена кампании прадеда адмирала Ву по возвращению Глаза Дракона, более века назад, империя Тяньмин эффективно использовала джонки. Хотя их конструкция с тех пор почти не изменилась, времена изменились, сделав некогда грозные суда устаревшими. Однако империя Тяньмин не способна и не имеет права приобретать современные корабли.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018131</GUID>
+      <Text>На грани полного краха, империя Тяньмин держится только благодаря двум вещам: военной силе и религии. В таких местах, как это, жители Маджипуна, как и многие другие граждане Востока, молятся о выходе из этого века унижений.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018132</GUID>
+      <Text>Прогуливаясь по саду, посетители могут насладиться видом тщательно составленных сцен. Во времена экзистенциального кризиса император считает важным поддерживать эти сады в идеальном состоянии — это одна из немногих властей, которые у него ещё остались.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018133</GUID>
+      <Text>Солдаты империи Тяньмин назвали эти орудия "Пушками красных варваров" в честь захватчиков из Ла Корона, у которых они были впервые захвачены. Несмотря на улучшения, они остаются реликвиями прошлого, времён, когда империя Тяньмин была грозной военной силой.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018160</GUID>
+      <Text>Центральный дворец не только служит штаб-квартирой адмирала, откуда он управляет военной диктатурой, удерживающей Маджипун, но и является местом, где контроль императора Руизе над Тяньмин остаётся нерушимым.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018161</GUID>
+      <Text>Местное население Маджипуна работает на этих фермах, выращивая рис и чай для пропитания. По мнению адмирала Ву, этого им вполне достаточно.</Text>
+    </Text>
+    <Text>
+      <GUID>1414015077</GUID>
+      <Text>Дворец администратора</Text>
+    </Text>
+    <Text>  <!-- Geb and Nut are James Goodwills pets. -->
+      <GUID>1414015089</GUID>
+      <Text>Хижина Геба</Text>
+    </Text>
+    <Text>
+      <GUID>1414015090</GUID>
+      <Text>Хижина Нут</Text>
+    </Text>
+    <Text>
+      <GUID>1414015091</GUID>
+      <Text>Дудук</Text>
+    </Text>
+    <Text>
+      <GUID>1414018176</GUID>
+      <Text>Эта величественная пагода была построена 20 лет назад. Возвышаясь над мирской жизнью обычных людей, она стоит в конце огромной лестницы, ведущей через арку надежды к божественному.</Text>
+    </Text>
+    <Text>
+      <GUID>1414015084</GUID>
+      <Text>Пагода на вершине горы</Text>
+    </Text>
+    <Text>
+      <GUID>1414018177</GUID>
+      <Text>Работники Омега Хейвен часто смотрят на центральную башню с часами, только чтобы понять, что их смена ещё не закончилась.</Text>
+    </Text>
+    <Text>
+      <GUID>1414015085</GUID>
+      <Text>Башня с часами</Text>
+    </Text>
+    <!-- Item -->
+    <Text>
+      <GUID>1414011052</GUID>
+      <Text>Библиотекарь Зелоса</Text>
+    </Text>
+    <Text>
+      <GUID>1414006736</GUID>
+      <Text>Читая всё, что попадает в его книжные руки, он делает самые увлекательные и запутанные выводы. Однажды он обнаружил, что в домах могут быть подвалы...</Text>
+    </Text>
+    <Text>
+      <GUID>1440508</GUID>
+      <Text>[AssetData(1999005351) Text]</Text>
+    </Text>
+    <!-- Foreign Trading Company Texts (NH specific)-->
+    <Text>
+      <GUID>1414018030</GUID>
+      <Text>Обеспечивает окружающие предприятия магнатов [AssetData(1999005351) Text], увеличивая их производительность.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018031</GUID>
+      <Text>Распространяет [AssetData(1999005351) Text] среди окружающих предприятий магнатов.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018032</GUID>
+      <Text>Порт для строительства предприятий магнатов и импорта товаров со всего мира.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018046</GUID>
+      <Text>Генерирует [AssetData(1999005351) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414018047</GUID>
+      <Text>За каждую потреблённую единицу [AssetData(1999005351) Text] добавляется на склад острова.</Text>
+    </Text>
+    <!-- Zoo -->    
+    <Text>
+      <GUID>14443035</GUID>
+      <Text>Производство еды и напитков Хорай</Text>
+    </Text>
+    <Text>
+      <GUID>1414017000</GUID>
+      <Text>ПЛАНЕТА ОБЕЗЬЯН</Text>
+    </Text>
+    <Text>
+      <GUID>1414017002</GUID>
+      <Text>БАМБУКОВЫЙ ЛЕС</Text>
+    </Text>
+    <Text>
+      <GUID>1414017003</GUID>
+      <Text>ОКЕАНИЯ</Text>
+    </Text>
+    <Text>
+      <GUID>1414006829</GUID>      <!-- Oceania - ItemSet - Description -->
+      <Text>Животные, которых можно найти только в Океании.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006830</GUID>      <!-- Bamboo Forest SETBUFF - TownhallBuff - Description -->
+      <Text>Люди обожают этих животных.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006831</GUID>      <!-- Planet of the Apes SETBUFF - TownhallBuff - Description -->
+      <Text>Люди обожают этих обезьян.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006833</GUID>      <!-- Oceania SETBUFF - TownhallBuff - Description -->
+      <Text>Люди обожают этих животных из Океании.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006834</GUID>      <!-- Planet of the Apes - Itemset - Description -->
+      <Text>Обезьяны вместе сильны.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017004</GUID>
+      <Text>Красная панда</Text>
+    </Text>
+    <Text>
+      <GUID>1414017005</GUID>
+      <Text>Большая панда</Text>
+    </Text>
+    <Text>
+      <GUID>1414017006</GUID>
+      <Text>Коала</Text>
+    </Text>
+    <Text>
+      <GUID>1414017007</GUID>
+      <Text>Макак</Text>
+    </Text>
+    <Text>
+      <GUID>1414017008</GUID>
+      <Text>Акулокит</Text>
+    </Text>
+    <Text>
+      <GUID>1414017009</GUID>
+      <Text>Летающая лягушка Уоллеса</Text>
+    </Text>
+    <Text>
+      <GUID>1414017010</GUID>
+      <Text>Сетчатый питон</Text>
+    </Text>
+    <Text>
+      <GUID>1414017011</GUID>
+      <Text>Комодский дракон</Text>
+    </Text>
+    <Text>
+      <GUID>1414017012</GUID>
+      <Text>Ушастый тюлень</Text>
+    </Text>
+    <Text>
+      <GUID>1414017013</GUID>
+      <Text>Панголин</Text>
+    </Text>
+    <Text>
+      <GUID>1414017014</GUID>
+      <Text>Амурский леопард</Text>
+    </Text>
+    <Text>
+      <GUID>1414006737</GUID>
+      <Text>&lt;b&gt;Rhacophorus nigropalmatus.&lt;/b&gt; Эта любопытная лягушка не умеет летать, но зато умеет прыгать.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017018</GUID>
+      <Text>Вольер для ласок</Text>
+    </Text>
+    <Text>
+      <GUID>1414006738</GUID>
+      <Text>&lt;b&gt;Mustela altaica.&lt;/b&gt; На самом деле она живёт не в Альпах, а в бамбуковых лесах у подножия гор. Миф о том, что она планирует свои города, когда никто не видит, — всего лишь миф.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006739</GUID>
+      <Text>&lt;b&gt;Ailuropoda melanoleuca.&lt;/b&gt; Медведь, который целыми днями сидит и ест бамбук, и если он пропустит обед, то умрёт от голода.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006740</GUID>
+      <Text>&lt;b&gt;Varanus komodoensis.&lt;/b&gt; Это не огнедышащий дракон, но очень опасная ядовитая рептилия.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006741</GUID>
+      <Text>&lt;b&gt;Malayopython reticulatus.&lt;/b&gt; Самая длинная змея в мире. Она убивает добычу не ядом, а удушением.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006742</GUID>
+      <Text>&lt;b&gt;Macaca fuscata.&lt;/b&gt; Маленькая обезьянка с красным лицом с островов к северу от Хорай. Хорошо обучается, очень игривая и хитрая.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006743</GUID>
+      <Text>&lt;b&gt;Manis pentadacty.&lt;/b&gt; Говорят, что её чешуя обладает чудодейственными свойствами. Питается термитами и муравьями.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018225</GUID>
+      <Text>&lt;b&gt;Ailurus folgens&lt;/b&gt; Маленький, рыжий, милый медведь, который не имеет ничего общего с большой пандой, кроме названия и того, что тоже целыми днями ест бамбук.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018226</GUID>
+      <Text>&lt;b&gt;Arctocephalus galapagoensis&lt;/b&gt; Тюлень, обитающий на многих островах к северу от Новой Голландии, который любит тёплую погоду.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018227</GUID>
+      <Text>&lt;b&gt;Phascolarctos cinereus&lt;/b&gt; Любопытный маленький медведь, который проводит большую часть времени на эвкалиптовых деревьях.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018228</GUID>
+      <Text>&lt;b&gt;Rhincodon typus&lt;/b&gt; Это кит? Это акула? Это... и то, и другое? Обитает в тропических морях, и только самые маленькие особи достаточно малы, чтобы их можно было показывать в зоопарке.</Text>
+    </Text>
+    <!-- Wonder Buff Texts -->    
+    <Text>
+      <GUID>1414018178</GUID>
+      <Text>Бонус к производительности</Text>
+    </Text>
+    <Text>
+      <GUID>1414018179</GUID>
+      <Text>Бонус к жилью</Text>
+    </Text>
+    <Text>
+      <GUID>1414018180</GUID>
+      <Text>Жильё в радиусе улицы обеспечивается [AssetData(1440405) Text].</Text>
+    </Text>
+    <Text>
+      <GUID>1414018181</GUID>
+      <Text>Дополнительный бонус</Text>
+    </Text>
+    <Text>
+      <GUID>1414018182</GUID>
+      <Text>Действует в радиусе улицы:</Text>
+    </Text>
+    <Text>
+      <GUID>1414187028</GUID>
+      <Text>[Selection Object Factory PostboxResidents] Жители в радиусе</Text>
+    </Text>
+    <Text>
+      <GUID>1414018183</GUID>
+      <Text>Жители получают дополнительное счастье от [ItemAssetData(1414187031) InputBenefitAllAdditionalHappinessFormatted].</Text>
+    </Text>
+    <Text>
+      <GUID>1414018184</GUID>
+      <Text>Уникальный бонус</Text>
+    </Text>
+    <Text>
+      <GUID>1414018185</GUID>
+      <Text>Действует на [ItemAssetData(1414187030) ItemOrBuffEffectTargetsFormatted] в радиусе улицы</Text>
+    </Text>
+    <Text>
+      <GUID>1414018186</GUID>
+      <Text>Действует на [ItemAssetData(1414187033) ItemOrBuffEffectTargetsFormatted] на острове</Text>
+    </Text>
+    <Text>
+      <GUID>1414018187</GUID>
+      <Text>Действует на острове:</Text>
+    </Text>
+    <Text>
+      <GUID>1414018188</GUID>
+      <Text>Бонус к защите</Text>
+    </Text>
+    <Text>
+      <GUID>1414018189</GUID>
+      <Text>Действует на [ItemAssetData(1414187034) ItemOrBuffEffectTargetsFormatted] на острове</Text>
+    </Text>
+    <Text>
+      <GUID>1414018190</GUID>
+      <Text>Действует на [ItemAssetData(1414187036) ItemOrBuffEffectTargetsFormatted] в радиусе улицы</Text>
+    </Text>
+    <Text>
+      <GUID>1414018191</GUID>
+      <Text>Жильё, где выполнена потребность [ItemAssetData(1414187039) AllSubstituteNeedsFormatted], обеспечивается [ItemAssetData(1414187039) AllProvidedNeedsFormatted].</Text>
+    </Text>
+    <Text><!-- Gen 3rdParty Feedback to Wonder built -->
+      <GUID>1414006694</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] в восторге от Чуда.</Text>
+    </Text>
+    <!-- Botanical Garden Buff Texts -->
+    <Text>
+      <GUID>1414018210</GUID>
+      <Text>Активирует [AssetData(1414007001) Text] при постройке в Хорай</Text>
+    </Text>
+    <Text>
+      <GUID>1414018211</GUID>
+      <Text>Активирует [AssetData(1414007002) Text] при постройке в Хорай</Text>
+    </Text>
+    <Text>
+      <GUID>1414018212</GUID>
+      <Text>Активирует [AssetData(1414007003) Text] при постройке в Хорай</Text>
+    </Text>
+    <Text>
+      <GUID>1414018213</GUID>
+      <Text>Активирует [AssetData(1414007007) Text] при постройке в Хорай</Text>
+    </Text>
+    <Text>
+      <GUID>1414018214</GUID>
+      <Text>Активирует [AssetData(1414007010) Text] при постройке в Хорай</Text>
+    </Text>
+  </ModOp>
+</ModOps>

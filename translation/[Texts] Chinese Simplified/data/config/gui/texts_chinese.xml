@@ -1,0 +1,23 @@
+<ModOps>
+  <Include File = "./chs/base.include.xml" />
+  <Include File = "./chs/adjust.include.xml" />
+  <Include File = "./chs/audio.include.xml" />
+  <Include File = "./chs/names.include.xml" />
+  <Include File = "./chs/batch03.include.xml" />
+  <Include File = "./chs/batch05.include.xml" />
+  <Include File = "./chs/batch08.include.xml" />
+  <Include File = "./chs/ornaments.include.xml" />
+  <Include File = "./chs/customsduty.include.xml" />
+  <Include File = "./chs/items.include.xml" />
+  <Include File = "./chs/batch10.include.xml" />
+  <Include File = "./chs/batch11.include.xml" />
+  <Include File = "./chs/batch12.include.xml" />
+  <Include File = "./chs/batch13.include.xml" />
+  <Include File = "./chs/batch14.include.xml" />
+  <Include File = "./chs/batch15.include.xml" />
+  <Include File = "./chs/batch18.include.xml" />
+  <Include File = "./chs/batch19.include.xml" />
+  <Include File = "./chs/quest.include.xml" />
+  <Include File = "./chs/quest02.include.xml" />
+  <Include File = "./chs/edit.include.xml" />
+</ModOps>

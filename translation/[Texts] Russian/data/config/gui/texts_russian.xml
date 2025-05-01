@@ -1,0 +1,22 @@
+<ModOps>
+    <Include File = "./rus/base.include.xml" />
+    <Include File = "./rus/audio.include.xml" />
+    <Include File = "./rus/names.include.xml" />
+    <Include File = "./rus/batch03.include.xml" />
+    <Include File = "./rus/batch05.include.xml" />
+    <Include File = "./rus/batch08.include.xml" />
+    <Include File = "./rus/ornaments.include.xml" />
+    <Include File = "./rus/customsduty.include.xml" />
+    <Include File = "./rus/items.include.xml" />
+    <Include File = "./rus/batch10.include.xml" />
+    <Include File = "./rus/batch11.include.xml" />
+    <Include File = "./rus/batch12.include.xml" />
+    <Include File = "./rus/batch13.include.xml" />
+    <Include File = "./rus/batch14.include.xml" />
+    <Include File = "./rus/batch15.include.xml" />
+    <Include File = "./rus/batch18.include.xml" />
+    <Include File = "./rus/batch19.include.xml" />
+    <Include File = "./rus/quest.include.xml" />
+    <Include File = "./rus/quest02.include.xml" />
+    <Include File = "./rus/edit.include.xml" />
+</ModOps>

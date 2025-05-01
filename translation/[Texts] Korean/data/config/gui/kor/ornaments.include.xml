@@ -1,0 +1,628 @@
+﻿<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <Text>
+            <GUID>1414016153</GUID>
+            <Text>낚시 보트</Text>
+        </Text>
+        <Text>
+            <GUID>1414016154</GUID>
+            <Text>정박한 로차선</Text>
+        </Text>
+        <Text>
+            <GUID>1414016155</GUID>
+            <Text>다리</Text>
+        </Text>
+        <Text>
+            <GUID>1414016156</GUID>
+            <Text>통</Text>
+        </Text>
+        <Text>
+            <GUID>1414016157</GUID>
+            <Text>벤치</Text>
+        </Text>
+        <Text>
+            <GUID>1414016158</GUID>
+            <Text>보트</Text>
+        </Text>
+        <Text>
+            <GUID>1414016159</GUID>
+            <Text>대형 보트</Text>
+        </Text>
+        <Text>
+            <GUID>1414016160</GUID>
+            <Text>낚시 통발</Text>
+        </Text>
+        <Text>
+            <GUID>1414016161</GUID>
+            <Text>기중기</Text>
+        </Text>
+        <Text>
+            <GUID>1414016162</GUID>
+            <Text>나무</Text>
+        </Text>
+        <Text>
+            <GUID>1414016163</GUID>
+            <Text>체리 나무</Text>
+        </Text>
+        <Text>
+            <GUID>1414016164</GUID>
+            <Text>배나무</Text>
+        </Text>
+        <Text>
+            <GUID>1414016165</GUID>
+            <Text>소나무</Text>
+        </Text>
+        <Text>
+            <GUID>1414016166</GUID>
+            <Text>버드나무</Text>
+        </Text>
+        <Text>
+            <GUID>1414016167</GUID>
+            <Text>창고</Text>
+        </Text>
+        <Text>
+            <GUID>1414016168</GUID>
+            <Text>수국</Text>
+        </Text>
+        <Text>
+            <GUID>1414016169</GUID>
+            <Text>등나무 취병</Text>
+        </Text>
+        <Text>
+            <GUID>1414016170</GUID>
+            <Text>고이노보리</Text>
+        </Text>
+
+        <Text>
+            <GUID>1414016000</GUID>
+            <Text>자갈</Text>
+        </Text>
+        <Text>
+            <GUID>1414016027</GUID>
+            <Text>빈 벽</Text>
+        </Text>
+        <Text>
+            <GUID>1414016028</GUID>
+            <Text>격자 벽</Text>
+        </Text>
+        <Text>
+            <GUID>1414016029</GUID>
+            <Text>무늬 벽</Text>
+        </Text>
+        <Text>
+            <GUID>1414016032</GUID>
+            <Text>빈 벽 대문</Text>
+        </Text>
+        <Text>
+            <GUID>1414016033</GUID>
+            <Text>격자 벽 대문</Text>
+        </Text>
+        <Text>
+            <GUID>1414016034</GUID>
+            <Text>무늬 벽 대문</Text>
+        </Text>
+        <Text>
+            <GUID>1414016035</GUID>
+            <Text>분재 길</Text>
+        </Text>
+        <Text>
+            <GUID>1414016036</GUID>
+            <Text>감나무 길</Text>
+        </Text>
+        <Text>
+            <GUID>1414016037</GUID>
+            <Text>야자나무 길</Text>
+        </Text>
+        <Text>
+            <GUID>1414016038</GUID>
+            <Text>은행나무 길</Text>
+        </Text>
+        <Text>
+            <GUID>1414016039</GUID>
+            <Text>배나무 길</Text>
+        </Text>
+        <Text>
+            <GUID>1414016040</GUID>
+            <Text>파초나무 길</Text>
+        </Text>
+        <Text>
+            <GUID>1414016041</GUID>
+            <Text>벚나무 길</Text>
+        </Text>
+        <Text>
+            <GUID>1414016042</GUID>
+            <Text>버드나무 길</Text>
+        </Text>
+        <Text>
+            <GUID>1414016043</GUID>
+            <Text>단풍나무 길</Text>
+        </Text>
+
+        <Text>
+            <GUID>1414016044</GUID>
+            <Text>분재</Text>
+        </Text>
+        <Text>
+            <GUID>1414016045</GUID>
+            <Text>감나무</Text>
+        </Text>
+        <Text>
+            <GUID>1414016046</GUID>
+            <Text>야자나무</Text>
+        </Text>
+        <Text>
+            <GUID>1414016047</GUID>
+            <Text>은행나무</Text>
+        </Text>
+        <Text>
+            <GUID>1414016048</GUID>
+            <Text>배나무</Text>
+        </Text>
+        <Text>
+            <GUID>1414016049</GUID>
+            <Text>파초나무</Text>
+        </Text>
+        <Text>
+            <GUID>1414016050</GUID>
+            <Text>벚나무</Text>
+        </Text>
+        <Text>
+            <GUID>1414016051</GUID>
+            <Text>버드나무</Text>
+        </Text>
+        <Text>
+            <GUID>1414016052</GUID>
+            <Text>단풍나무</Text>
+        </Text>
+        <Text>
+            <GUID>1414016053</GUID>
+            <Text>수양 벚나무 길</Text>
+        </Text>
+        <Text>
+            <GUID>1414016054</GUID>
+            <Text>수양 벚나무</Text>
+        </Text>
+        <Text>
+            <GUID>1414016055</GUID>
+            <Text>대나무</Text>
+        </Text>
+        <Text>
+            <GUID>1414016056</GUID>
+            <Text>대나무 길</Text>
+        </Text>
+        <Text>
+            <GUID>1414016057</GUID>
+            <Text>불상</Text>
+        </Text>
+        <Text>
+            <GUID>1414016058</GUID>
+            <Text>소형 용 조각상</Text>
+        </Text>
+        <Text>
+            <GUID>1414016059</GUID>
+            <Text>중국풍 조각상</Text>
+        </Text>
+        <Text>
+            <GUID>1414016060</GUID>
+            <Text>고양이 조각상</Text>
+        </Text>
+        <Text>
+            <GUID>1414016061</GUID>
+            <Text>대형 사무라이 조각상</Text>
+        </Text>
+        <Text>
+            <GUID>1414016062</GUID>
+            <Text>스탠퍼드 용 조각상</Text>
+        </Text>
+        <Text>
+            <GUID>1414016063</GUID>
+            <Text>기린 조각상</Text>
+        </Text>
+        <Text>
+            <GUID>1414016064</GUID>
+            <Text>초롱</Text>
+        </Text>
+        <Text>
+            <GUID>1414016065</GUID>
+            <Text>석재 등불 길</Text>
+        </Text>
+        <Text>
+            <GUID>1414016066</GUID>
+            <Text>석재 등불</Text>
+        </Text>
+        <Text>
+            <GUID>1414016067</GUID>
+            <Text>목재 등불</Text>
+        </Text>
+        <Text>
+            <GUID>1414016068</GUID>
+            <Text>석재 기둥 길</Text>
+        </Text>
+        <Text>
+            <GUID>1414016069</GUID>
+            <Text>석재 기둥</Text>
+        </Text>
+        <Text>
+            <GUID>1414016006</GUID>
+            <Text>일본식 정원 자갈</Text>
+        </Text>
+        <Text>
+            <GUID>1414016007</GUID>
+            <Text>유니온 로고 무늬 자갈</Text>
+        </Text>
+        <Text>
+            <GUID>1414016008</GUID>
+            <Text>태극 무늬 자갈</Text>
+        </Text>
+        <Text>
+            <GUID>1414016009</GUID>
+            <Text>자갈 관목</Text>
+        </Text>
+        <Text>
+            <GUID>1414016010</GUID>
+            <Text>일본식 정원 자갈 관목</Text>
+        </Text>
+        <Text>
+            <GUID>1414016011</GUID>
+            <Text>자갈 회양목</Text>
+        </Text>
+        <Text>
+            <GUID>1414016012</GUID>
+            <Text>일본식 정원 자갈 회양목</Text>
+        </Text>
+        <Text>
+            <GUID>1414016013</GUID>
+            <Text>일본식 정원 자갈 바위</Text>
+        </Text>
+        <Text>
+            <GUID>1414016014</GUID>
+            <Text>돌길</Text>
+        </Text>
+        <Text>
+            <GUID>1414016015</GUID>
+            <Text>일본식 정원 돌길</Text>
+        </Text>
+        <Text>
+            <GUID>1414016016</GUID>
+            <Text>자갈 조형물</Text>
+        </Text>
+        <Text>
+            <GUID>1414016021</GUID>
+            <Text>대형 자갈 관목</Text>
+        </Text>
+        <Text>
+            <GUID>1414016022</GUID>
+            <Text>대형 일본식 정원 자갈 관목</Text>
+        </Text>
+        <Text>
+            <GUID>1414016023</GUID>
+            <Text>자갈 바위</Text>
+        </Text>
+        <Text>
+            <GUID>1414016024</GUID>
+            <Text>자갈 무늬</Text>
+        </Text>
+        <Text>
+            <GUID>1414016071</GUID>
+            <Text>오솔길</Text>
+        </Text>
+        <Text>
+            <GUID>1414016072</GUID>
+            <Text>잔디</Text>
+        </Text>
+        <Text>
+            <GUID>1414016073</GUID>
+            <Text>수풀</Text>
+        </Text>
+        <Text>
+            <GUID>1414016070</GUID>
+            <Text>대형 불상</Text>
+        </Text>
+
+        <Text>
+            <GUID>1414016093</GUID>
+            <Text>억새</Text>
+        </Text>
+        <Text>
+            <GUID>1414016094</GUID>
+            <Text>포장된 오솔길</Text>
+        </Text>
+        <Text>
+            <GUID>1414016095</GUID>
+            <Text>등대</Text>
+        </Text>
+        <Text>
+            <GUID>1414016096</GUID>
+            <Text>대나무 울타리</Text>
+        </Text>
+        <Text>
+            <GUID>1414016097</GUID>
+            <Text>비석</Text>
+        </Text>
+        <Text>
+            <GUID>1414016098</GUID>
+            <Text>종려나무</Text>
+        </Text>
+        <Text>
+            <GUID>1414016099</GUID>
+            <Text>종려나무 길</Text>
+        </Text>
+        <Text>
+            <GUID>1414016100</GUID>
+            <Text>월문</Text>
+        </Text>
+        <Text>
+            <GUID>1414016101</GUID>
+            <Text>도성</Text>
+        </Text>
+        <Text>
+            <GUID>1414016102</GUID>
+            <Text>도성 망루</Text>
+        </Text>
+        <Text>
+            <GUID>1414016103</GUID>
+            <Text>도성 대문</Text>
+        </Text>
+        <Text>
+            <GUID>1414016104</GUID>
+            <Text>요새화된 도성 대문</Text>
+        </Text>
+        <Text>
+            <GUID>1414016105</GUID>
+            <Text>경사진 도성 대문</Text>
+        </Text>
+        <Text>
+            <GUID>1414016106</GUID>
+            <Text>넓은 도성 대문</Text>
+        </Text>
+        <Text>
+            <GUID>1414016107</GUID>
+            <Text>요새화된 넓은 도성 대문</Text>
+        </Text>
+        <Text>
+            <GUID>1414016108</GUID>
+            <Text>회랑 출입구</Text>
+        </Text>
+        <Text>
+            <GUID>1414016109</GUID>
+            <Text>대형 회랑 출입구</Text>
+        </Text>
+        <Text>
+            <GUID>1414016110</GUID>
+            <Text>소형 바위(1)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016111</GUID>
+            <Text>소형 바위(2)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016112</GUID>
+            <Text>소형 바위(3)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016113</GUID>
+            <Text>소형 바위(4)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016114</GUID>
+            <Text>소형 바위(5)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016115</GUID>
+            <Text>소형 바위(6)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016116</GUID>
+            <Text>소형 바위(7)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016117</GUID>
+            <Text>소형 바위(8)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016118</GUID>
+            <Text>중형 바위(1)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016119</GUID>
+            <Text>중형 바위(2)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016120</GUID>
+            <Text>중형 바위(3)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016121</GUID>
+            <Text>중형 바위(4)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016122</GUID>
+            <Text>중형 바위(5)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016123</GUID>
+            <Text>대형 바위(1)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016124</GUID>
+            <Text>대형 바위(2)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016125</GUID>
+            <Text>대형 바위(3)</Text>
+        </Text>
+
+        <Text>
+            <GUID>1414016126</GUID>
+            <Text>소형 정원 바위(1)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016127</GUID>
+            <Text>소형 정원 바위(2)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016128</GUID>
+            <Text>소형 정원 바위(3)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016129</GUID>
+            <Text>소형 정원 바위(4)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016130</GUID>
+            <Text>소형 정원 바위(5)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016131</GUID>
+            <Text>소형 정원 바위(6)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016132</GUID>
+            <Text>소형 정원 바위(7)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016133</GUID>
+            <Text>소형 정원 바위(8)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016134</GUID>
+            <Text>중형 정원 바위(1)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016135</GUID>
+            <Text>중형 정원 바위(2)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016136</GUID>
+            <Text>중형 정원 바위(3)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016137</GUID>
+            <Text>중형 정원 바위(4)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016138</GUID>
+            <Text>중형 정원 바위(5)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016139</GUID>
+            <Text>대형 정원 바위(1)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016140</GUID>
+            <Text>대형 정원 바위(2)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016141</GUID>
+            <Text>대형 정원 바위(3)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016142</GUID>
+            <Text>황매화</Text>
+        </Text>
+        <Text>
+            <GUID>1414016143</GUID>
+            <Text>비로야자</Text>
+        </Text>
+        <Text>
+            <GUID>1414016144</GUID>
+            <Text>남천</Text>
+        </Text>
+        <Text>
+            <GUID>1414016145</GUID>
+            <Text>목서</Text>
+        </Text>
+        <Text>
+            <GUID>1414016146</GUID>
+            <Text>작약</Text>
+        </Text>
+        <Text>
+            <GUID>1414016147</GUID>
+            <Text>쥐똥나무</Text>
+        </Text>
+        <Text>
+            <GUID>1414016148</GUID>
+            <Text>진달래</Text>
+        </Text>
+        <Text>
+            <GUID>1414016149</GUID>
+            <Text>장미</Text>
+        </Text>
+        <Text>
+            <GUID>1414016150</GUID>
+            <Text>조팝나무</Text>
+        </Text>
+        <Text>
+            <GUID>1414016151</GUID>
+            <Text>나무 길</Text>
+        </Text>
+        <Text>
+            <GUID>1414016152</GUID>
+            <Text>나무</Text>
+        </Text>
+        <Text>
+            <GUID>1414016091</GUID>
+            <Text>대형 패방 대문</Text>
+        </Text>
+        <Text>
+            <GUID>1414016092</GUID>
+            <Text>소형 패방 대문</Text>
+        </Text>
+        <Text>
+            <GUID>1414016090</GUID>
+            <Text>헤이 님이 고안한 "A" 로고 안에는</Text>
+        </Text>
+        <Text>
+            <GUID>1414018048</GUID>
+            <Text>장인 정신, 진정성, 감성과 지성이 담겨 있습니다. 세심함을 담아 정성스럽게 제작된 이 상징은 아노 팬이 아노의 세계를 빚어내는 도구가 됩니다. 최고의 시티 빌더 게임에 숨결을 불어넣는 데 필수적입니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1414006704</GUID>
+            <Text>가족을 데리고 가기에 안성맞춤인 곳입니다. 자, 사진가가 어디 있더라….</Text>
+        </Text>
+        <Text>
+            <GUID>1414006705</GUID>
+            <Text>조잡하고… 거칠고… 짜증이 나는 데다 점점 더… 잠깐, 여기가 아니네요.</Text>
+        </Text>
+        <Text>
+            <GUID>1414016026</GUID>
+            <Text>탑</Text>
+        </Text>
+        <Text>
+            <GUID>1414016025</GUID>
+            <Text>일본식 정원</Text>
+        </Text>
+        <Text>
+            <GUID>1414016001</GUID>
+            <Text>정자</Text>
+        </Text>
+        <Text>
+            <GUID>1414006703</GUID>
+            <Text>정원 장식물</Text>
+        </Text>
+        <Text>
+            <GUID>1414006672</GUID>
+            <Text>섬에 정원 장식물을 건설하면 중앙 정원의 영향 범위를 늘릴 수 있습니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1442564</GUID>
+            <Text>정원 영향 범위</Text>
+        </Text>
+        <Text>
+            <GUID>1442560</GUID>
+            <Text>정원 관문</Text>
+        </Text>
+        <Text>
+            <GUID>1414006793</GUID>
+            <Text>주민에게 서비스를 제공합니다. 정원 장식물을 건설하여 영향 범위를 늘릴 수 있습니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1414006746</GUID>
+            <Text>정원 장식물</Text>
+        </Text>
+        <Text>
+            <GUID>1414006718</GUID>
+            <Text>정원 장식물은 매력도를 높이고 정원 관문의 영향 범위를 늘립니다.</Text>
+        </Text>
+    </ModOp>
+</ModOps>

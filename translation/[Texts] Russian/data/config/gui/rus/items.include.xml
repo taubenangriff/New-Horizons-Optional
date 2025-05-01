@@ -1,0 +1,383 @@
+<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+
+        <Text>
+            <GUID>1414011068</GUID>            <!-- Imperial Book Collection: Farming Volume I -->
+            <Text>Имперская коллекция книг: Сельское хозяйство. Том I</Text>
+        </Text>
+        <Text>
+            <GUID>1414006797</GUID>            <!-- Imperial Book Collection: Farming Volume I - Description -->
+            <Text>Основы сельского хозяйства, объяснённые для начинающих.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011069</GUID>            <!-- Imperial Book Collection: Farming Volume II -->
+            <Text>Имперская коллекция книг: Сельское хозяйство. Том II</Text>
+        </Text>
+        <Text>
+            <GUID>1414006798</GUID>            <!-- Imperial Book Collection: Farming Volume II - Description -->
+            <Text>Более продвинутое объяснение сельского хозяйства. Попробуйте свои силы на рисовых полях.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011070</GUID>            <!-- Imperial Book Collection: Farming Volume III -->
+            <Text>Имперская коллекция книг: Сельское хозяйство. Том III</Text>
+        </Text>
+        <Text>
+            <GUID>1414006799</GUID>            <!-- Imperial Book Collection: Farming Volume III - Description -->
+            <Text>Только самые опытные могут учиться по этой книге. Мы больше не совершаем ошибок. Мы знаем сельское хозяйство и погоду вдоль и поперёк.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011071</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume I -->
+            <Text>Имперская коллекция книг: Еда и напитки. Том I</Text>
+        </Text>
+        <Text>
+            <GUID>1414006800</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume I - Description -->
+            <Text>Основы производства еды и напитков, объяснённые для начинающих.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011072</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume II -->
+            <Text>Имперская коллекция книг: Еда и напитки. Том II</Text>
+        </Text>
+        <Text>
+            <GUID>1414006801</GUID>            <!--Imperial Book Collection: Food & Drinks Volume II - Description -->
+            <Text>Более продвинутое объяснение производства еды и напитков. Чувствуете ли вы вкус того, что создаёте сами?</Text>
+        </Text>
+        <Text>
+            <GUID>1414011073</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume III -->
+            <Text>Имперская коллекция книг: Еда и напитки. Том III</Text>
+        </Text>
+        <Text>
+            <GUID>1414006802</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume III - Description -->
+            <Text>Только самые опытные могут учиться по этой книге. Если вы всё ещё режете пальцы, вы недостойны читать её.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011074</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume IV -->
+            <Text>Имперская коллекция книг: Еда и напитки. Том IV</Text>
+        </Text>
+        <Text>
+            <GUID>1414006803</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume IV - Description -->
+            <Text>Только самые опытные могут учиться по этой книге. Вы пробуете всю еду с закрытыми глазами для более глубокого вкусового опыта.</Text>
+        </Text>
+        <Text>
+            <GUID>14443039</GUID>            <!-- All Asian Food production - ItemEffectTargetPool -->
+            <Text>Все производства еды Хорай</Text>
+        </Text>
+        <Text>
+            <GUID>14443040</GUID>            <!-- All Asian Drinks production - ItemEffectTargetPool -->
+            <Text>Все производства напитков Хорай</Text>
+        </Text>
+        <Text>
+            <GUID>1414011075</GUID>            <!-- Shen Xu, Purveyor of all Fabrics -->
+            <Text>Шэнь Сюй, Поставщик всех тканей</Text>
+        </Text>
+        <Text>
+            <GUID>1414006804</GUID>            <!-- Shen Xu, Purveyor of all Fabrics - Description -->
+            <Text>Когда пальцы Шэня касаются ткани, он может сказать, какая это ткань, даже не глядя. Если бы ткань можно было есть, он бы, наверное, попробовал.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011076</GUID>            <!-- Jhin Sasaki, Master of the wheel -->
+            <Text>Джин Сасаки, Мастер гончарного круга</Text>
+        </Text>
+        <Text>
+            <GUID>1414006805</GUID>            <!-- Jhin Sasaki, Master of the wheel - Description -->
+            <Text>Каждый вид керамики и фарфора проходит через руки Джина. Он владеет гончарным кругом, как никто другой. Нет ничего слишком большого или маленького, чтобы его руки не могли создать из глины и других природных материалов.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011077</GUID>            <!-- Chiyoko Watanabe, Luring in more than fish -->
+            <Text>Чиёко Ватанабэ, Заманивающая не только рыбу</Text>
+        </Text>
+        <Text>
+            <GUID>1414006806</GUID>            <!-- Chiyoko Watanabe, Luring in more than fish - Description -->
+            <Text>Что вы используете в качестве приманки для рыбы? Чиёко знает несколько трюков и может заманить даже самых роскошных лобстеров.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011078</GUID>            <!-- Sushi knife -->
+            <Text>Нож для суши</Text>
+        </Text>
+        <Text>
+            <GUID>1414006807</GUID>            <!-- Sushi knife - Description -->
+            <Text>Острее обычного ножа. Готов отрезать вам пальцы и залить еду кровью.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011079</GUID>            <!-- Ichika Takahashi, Is it spicy enough? -->
+            <Text>Ичика Такахаши, Достаточно ли остро?</Text>
+        </Text>
+        <Text>
+            <GUID>1414006808</GUID>            <!-- Ichika Takahashi, Is it spicy enough? - Description -->
+            <Text>Некоторые люди обжигали язык, пробуя слишком острую еду. Но не Ичика — она никогда не ест еду, не добавив перца или специй. Она последовала своей страсти к перцам и искала продвинутые способы их измельчения.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011080</GUID>            <!-- Nanami Shimizu, How much is the fish? -->
+            <Text>Нанами Шимидзу, Сколько стоит рыба?</Text>
+        </Text>
+        <Text>
+            <GUID>1414006809</GUID>            <!-- Nanami Shimizu, How much is the fish? - Description -->
+            <Text>Работа с рыбой и её разделка — не для всех. Возвращаться домой с этим удивительным запахом рыбы, пропитавшим тебя. Нанами всё равно — она любит запах рыбы утром, днём, вечером и даже ночью.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011081</GUID>            <!-- Ryuu Yamada, Nobody says no to sushi -->
+            <Text>Рю Ямада, Никто не откажется от суши</Text>
+        </Text>
+        <Text>
+            <GUID>1414006810</GUID>            <!-- Ryuu Yamada, Nobody says no to sushi - Description -->
+            <Text>Рю — мастер-шеф роскошной еды. Он готовит каждое блюдо с большой заботой и страстью. Его сердце принадлежит суши, которые он делает в качестве закуски перед роскошным основным блюдом.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011082</GUID>            <!-- Sister Hilarius, Tea solves problems not alcohol -->
+            <Text>Сестра Хилариус, Чай решает проблемы, а не алкоголь</Text>
+        </Text>
+        <Text>
+            <GUID>1414006811</GUID>            <!-- Sister Hilarius, Tea solves problems not alcohol - Description -->
+            <Text>Сестра Хилариус выбрала религиозную жизнь, как и её старший брат. Как и её брат, она проводит время, готовя напитки для своих сестёр. Но между ней и её братом есть большая разница. Она категорически против алкоголя и верит, что чай может решить все проблемы.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011083</GUID>            <!-- Luong Ku Tim, The City Wok -->
+            <Text>Луонг Ку Тим, Городской вок</Text>
+        </Text>
+        <Text>
+            <GUID>1414006812</GUID>            <!-- Luong Ku Tim, The City Wok - Description -->
+            <Text>Дипломатия и доброта к клиентам — не то, чему научился этот шеф. К счастью, его еда хороша. Ну, иногда она хороша.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011084</GUID>            <!-- Asian bird lover -->
+            <Text>Любитель птиц Хорай</Text>
+        </Text>
+        <Text>
+            <GUID>1414006813</GUID>            <!-- Asian bird lover - Description -->
+            <Text>Он проводит время среди всевозможных птиц. Он узнаёт всех птиц по их уникальным звукам.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011085</GUID>            <!-- Additional Crop Storage module -->
+            <Text>Дополнительный модуль хранения урожая</Text>
+        </Text>
+        <Text>
+            <GUID>1414006814</GUID>            <!-- Additional Crop Storage module - Description -->
+            <Text>Добавьте дополнительный силосный модуль к вашему хранилищу урожая для лучшей сохранности.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011086</GUID>            <!-- Masao Miura, Lobster is all he needs -->
+            <Text>Масао Миура, Лобстер — всё, что ему нужно</Text>
+        </Text>
+        <Text>
+            <GUID>1414006815</GUID>            <!-- Masao Miura, Lobster is all he needs - Description -->
+            <Text>Масао добавляет лобстера в качестве замены обычной рыбе. По его мнению, это морское существо покорило его сердце, а его вкус заставляет его таять, как лёд в летний день.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011087</GUID>            <!-- Imperial Sketch Collection: Industry Volume 1  -->
+            <Text>Имперская коллекция чертежей: Промышленность. Том 1</Text>
+        </Text>
+        <Text>
+            <GUID>1414006816</GUID>            <!-- Imperial Sketch Collection: Industry Volume 1 - Description -->
+            <Text>Основы повышения эффективности мукомольной фабрики. Начальный уровень.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011088</GUID>            <!-- Imperial Sketch Collection: Industry Volume 2 -->
+            <Text>Имперская коллекция чертежей: Промышленность. Том 2</Text>
+        </Text>
+        <Text>
+            <GUID>1414006817</GUID>            <!-- Imperial Sketch Collection: Industry Volume 2 - Description -->
+            <Text>Продвинутое руководство по управлению мукомольной фабрикой. Не суйте пальцы в работающие механизмы.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011089</GUID>            <!-- Imperial Sketch Collection: Industry Volume 3 -->
+            <Text>Имперская коллекция чертежей: Промышленность. Том 3</Text>
+        </Text>
+        <Text>
+            <GUID>1414006818</GUID>            <!-- Imperial Sketch Collection: Industry Volume 3 - Description -->
+            <Text>Только самые опытные смогут понять эти чертежи сложных механизмов. Если вы не разбираетесь в электричестве, вам пока рано смотреть эти схемы.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011090</GUID>            <!-- Imperial Sketch Collection: Advanced Industry Volume 1  -->
+            <Text>Имперская коллекция чертежей: Передовая промышленность. Том 1</Text>
+        </Text>
+        <Text>
+            <GUID>1414006819</GUID>            <!-- Imperial Sketch Collection: Advanced Industry Volume 1 - Description -->
+            <Text>Основы работы передовых фабрик. Идеально для новичков.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011091</GUID>            <!-- Imperial Sketch Collection: Advanced Industry Volume 2 -->
+            <Text>Имперская коллекция чертежей: Передовая промышленность. Том 2</Text>
+        </Text>
+        <Text>
+            <GUID>1414006820</GUID>            <!-- Imperial Sketch Collection: Advanced Industry Volume 2 - Description -->
+            <Text>Продвинутое руководство по управлению сложными фабриками. Не нажимайте большие красные кнопки с надписью "Не нажимать".</Text>
+        </Text>
+        <Text>
+            <GUID>1414011092</GUID>            <!-- Imperial Sketch Collection: Advanced Industry Volume 3 -->
+            <Text>Имперская коллекция чертежей: Передовая промышленность. Том 3</Text>
+        </Text>
+        <Text>
+            <GUID>1414006821</GUID>            <!-- Imperial Sketch Collection: Advanced Industry Volume 3 - Description -->
+            <Text>Только мастера своего дела смогут разобраться в этих чертежах передовых механизмов. Если вы не понимаете принципов работы, вам пока не стоит смотреть эти схемы.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011093</GUID>            <!-- Hendrik Baker, Not just one polymer -->
+            <Text>Хендрик Бейкер, Знаток полимеров</Text>
+        </Text>
+        <Text>
+            <GUID>1414006822</GUID>            <!-- Hendrik Baker, Not just one polymer - Description -->
+            <Text>Хендрик может определить на запах любой из существующих полимеров. Даже с закрытыми глазами, просто прикоснувшись, он различит их все.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011094</GUID>            <!-- Yui Sato, The finest tailoring -->
+            <Text>Юи Сато, Искусный портной</Text>
+        </Text>
+        <Text>
+            <GUID>1414006823</GUID>            <!-- Yui Sato, The finest tailoring - Description -->
+            <Text>Говорят, Юи родился со швейной машинкой. В 5 лет он сшил свою первую одежду. Позже он начал специализироваться на роскошных нарядах для богачей.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011095</GUID>            <!-- Misaki Makino, Vegan cheesemaker -->
+            <Text>Мисаки Макино, Веганский сыровар</Text>
+        </Text>
+        <Text>
+            <GUID>1414006824</GUID>            <!-- Misaki Makino, Vegan cheesemaker - Description -->
+            <Text>Мисаки выросла на животноводческой ферме. Ей очень не нравилось, что у коров крадут все молоко для употребления в пищу. Она посвятила свою жизнь вегетарианству и искала способы приготовления сыра без использования молока животных.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011096</GUID>            <!-- Worker 2 (Outsourced) -->
+            <Text>Работник Ёси на трёх работах</Text>
+        </Text>
+        <Text>
+            <GUID>1414011097</GUID>            <!-- Worker 2 (Outsourced) - Description -->
+            <Text>Работник Ёси слишком много трудится, подменяя коллег, чтобы те могли проводить время с семьями.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011098</GUID>            <!-- Worker 3 (Outsourced) -->
+            <Text>Альтернативный работник Ган</Text>
+        </Text>
+        <Text>
+            <GUID>1414011099</GUID>            <!-- Worker 3 (Outsourced) - Description -->
+            <Text>Работник Ган не придерживается традиционных методов. Его альтернативные подходы снижают производственные затраты.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011100</GUID>            <!-- Worker 4 (Outsourced) -->
+            <Text>Бао, Сын босса</Text>
+        </Text>
+        <Text>
+            <GUID>1414011101</GUID>            <!-- Worker 4 (Outsourced) - Description -->
+            <Text>Бао следит, чтобы все процедуры, установленные его отцом, выполнялись.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011102</GUID>            <!-- Propaganda Banner -->
+            <Text>Пропагандистский баннер</Text>
+        </Text>
+        <Text>
+            <GUID>1414011103</GUID>            <!-- Propaganda Banner - Description -->
+            <Text>Поддерживайте порядок в городе и демонстрируйте свою любовь к нему.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011104</GUID>            <!-- Propaganda Banner -->
+            <Text>Предвыборный флаг</Text>
+        </Text>
+        <Text>
+            <GUID>1414011105</GUID>            <!-- Propaganda Banner - Description -->
+            <Text>Продемонстрируйте поддержку своей любимой партии.</Text>
+        </Text>
+
+        <!-- ### Additional Ornaments ### -->
+        <Text>
+            <GUID>133700400</GUID>
+            <Text>Канал (мощёный)</Text>
+        </Text>
+        <Text>
+            <GUID>133700401</GUID>
+            <Text>Канал (грунтовый)</Text>
+        </Text>
+        <Text>
+            <GUID>133700402</GUID>
+            <Text>Canal bridge dirt</Text>            <!-- no translation required -->
+        </Text>
+        <Text>
+            <GUID>133700403</GUID>
+            <Text>Canal bridge stone</Text>            <!-- no translation required -->
+        </Text>
+        <Text>
+            <GUID>133700404</GUID>
+            <Text>Фонари со скамейкой</Text>
+        </Text>
+        <Text>
+            <GUID>133700405</GUID>
+            <Text>Тории (2x1)</Text>
+        </Text>
+        <Text>
+            <GUID>133700406</GUID>
+            <Text>Тории (3x1)</Text>
+        </Text>
+        <Text>
+            <GUID>133700407</GUID>
+            <Text>Аркады</Text>
+        </Text>
+        <Text>
+            <GUID>133700408</GUID>
+            <Text>Бассейн дракона</Text>
+        </Text>
+        <Text>
+            <GUID>133700409</GUID>
+            <Text>Фейерверки</Text>
+        </Text>
+        <Text>
+            <GUID>133700410</GUID>
+            <Text>Флагшток</Text>
+        </Text>
+        <Text>
+            <GUID>133700411</GUID>
+            <Text>Уличные фонари</Text>
+        </Text>
+        <Text>
+            <GUID>133700412</GUID>
+            <Text>Лавка ювелира</Text>
+        </Text>
+        <Text>
+            <GUID>133700413</GUID>
+            <Text>Лавка для молитв</Text>
+        </Text>
+        <Text>
+            <GUID>133700414</GUID>
+            <Text>Овощная лавка</Text>
+        </Text>
+        <Text>
+            <GUID>133700415</GUID>
+            <Text>Лавка одежды</Text>
+        </Text>
+        <Text>
+            <GUID>133700416</GUID>
+            <Text>Книжная лавка</Text>
+        </Text>
+        <Text>
+            <GUID>133700417</GUID>
+            <Text>Лавка еды 1</Text>
+        </Text>
+        <Text>
+            <GUID>133700418</GUID>
+            <Text>Огороженная зелень</Text>
+        </Text>
+        <Text>
+            <GUID>133700419</GUID>
+            <Text>Пагода (2x2)</Text>
+        </Text>
+        <Text>
+            <GUID>133700420</GUID>
+            <Text>Пагода с колоколом (2x2)</Text>
+        </Text>
+        <Text>
+            <GUID>133700421</GUID>
+            <Text>Лотосовый пруд</Text>
+        </Text>
+        <Text>
+            <GUID>133700423</GUID>
+            <Text>Лавка еды 2</Text>
+        </Text>
+        <Text>
+            <GUID>133700424</GUID>
+            <Text>Цветочная лавка</Text>
+        </Text>
+        <Text>
+            <GUID>133700425</GUID>
+            <Text>Фруктовая лавка</Text>
+        </Text>
+        <Text>
+            <GUID>133700426</GUID>
+            <Text>Фотолавка</Text>
+        </Text>
+    </ModOp>
+</ModOps>

@@ -1,0 +1,325 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>54005000</GUID>
+      <Text>EXPANSION VERS L'EST</Text>
+    </Text>
+    <Text>
+      <GUID>54005001</GUID>
+      <Text>DÉVELOPPEMENT ÉTRANGER</Text>
+    </Text>
+    <Text>
+      <GUID>54005002</GUID>
+      <Text>IMPÉRIALISME</Text>
+    </Text>
+    <Text>
+      <GUID>14443001</GUID>
+      <Text>Pontons</Text>
+    </Text>
+    <Text>
+      <GUID>14443002</GUID>
+      <Text>Comptoirs commerciaux</Text>
+    </Text>
+    <Text>
+      <GUID>14443003</GUID>
+      <Text>Pontons</Text>
+    </Text>
+    <Text>
+      <GUID>14443004</GUID>
+      <Text>Big Berthas</Text>
+    </Text>
+    <Text>
+      <GUID>14443005</GUID>
+      <Text>Quais de fret et comptoirs commerciaux</Text>
+    </Text>
+    <Text>
+      <GUID>14443000</GUID>
+      <Text>Tous les bâtiments culturels</Text>
+    </Text>
+    <Text>
+      <GUID>14443000</GUID>
+      <Text>Ports et quais de chargement pétroliers</Text>
+    </Text>    
+    <Text>
+      <GUID>14443033</GUID>
+      <Text>Toutes les usines polyvalentes de Horai</Text>
+    </Text>
+    <Text>
+      <GUID>14443042</GUID>
+      <Text>Toutes les cantines de Horai</Text>
+    </Text>
+    <Text>
+      <GUID>14443043</GUID>
+      <Text>Toutes les cuisines de Horai</Text>
+    </Text>
+    <Text>
+      <GUID>14443037</GUID>
+      <Text>Résidences des magnats</Text>
+    </Text>
+    <Text>
+      <GUID>14443036</GUID>
+      <Text>Gratte-ciel des magnats</Text>
+    </Text>
+    <Text>
+      <GUID>14443016</GUID>
+      <Text>Toutes les fermes de Horai</Text>
+    </Text>
+    <Text>
+      <GUID>14443032</GUID>
+      <Text>Entreprises des magnats</Text>
+    </Text>
+    <Text>
+      <GUID>14443030</GUID>
+      <Text>Résidences de Horai</Text>
+    </Text>
+    <Text>
+      <GUID>1414006788</GUID>
+      <Text>Tous les services publics, sauf le jardin</Text>
+    </Text>
+    <!-- Quest Texts -->
+    <Text>
+      <GUID>1414006407</GUID>
+      <Text>Cliquez et recevez le cadeau : Bateau cargo</Text>
+    </Text>
+    <Text>
+      <GUID>1414006609</GUID>
+      <Text>Le Magnat est ravi des ventes de tickets de métro.</Text>
+    </Text>
+    <Text><!-- Goodwill Payout Quest Title -->
+      <GUID>1414040450</GUID>
+      <Text>Encaissement</Text>
+    </Text>
+    <!-- Buildings -->    
+    <Text>
+      <GUID>1446010</GUID>
+      <Text>Entrepôt de récolte</Text>
+    </Text>
+    <Text>
+      <GUID>1442504</GUID>
+      <Text>Gratte-ciel de Magnat : Niveau 1</Text>
+    </Text>
+    <Text>
+      <GUID>1442505</GUID>
+      <Text>Gratte-ciel de Magnat : Niveau 2</Text>
+    </Text>
+    <Text>
+      <GUID>1442506</GUID>
+      <Text>Gratte-ciel de Magnat : Niveau 3</Text>
+    </Text>
+    <Text>
+      <GUID>1442507</GUID>
+      <Text>Gratte-ciel de Magnat : Niveau 4</Text>
+    </Text>
+    <Text>
+      <GUID>1447915</GUID>
+      <Text>Syndicat</Text>
+    </Text>
+    <Text>
+      <GUID>1447916</GUID>
+      <Text>Hôtel de ville</Text>
+    </Text>
+    <Text>
+      <GUID>1447914</GUID>
+      <Text>Bureau du capitaine du port</Text>
+    </Text>
+    <Text>
+      <GUID>1414015026</GUID>
+      <Text>Port de l'amiral Wu Guowei</Text>
+    </Text>
+    <Text>
+      <GUID>1414015035</GUID>
+      <Text>Bureau</Text>
+    </Text>
+    <Text>
+      <GUID>1414015036</GUID>
+      <Text>Prison</Text>
+    </Text>
+    <Text>
+      <GUID>1414015037</GUID>
+      <Text>Mortier à boulets enflamés</Text>
+    </Text>
+    <Text>
+      <GUID>1414015032</GUID>
+      <Text>Nid de DCA</Text>
+    </Text>
+    <Text>
+      <GUID>1414015027</GUID>
+      <Text>Tour à canon</Text>
+    </Text>
+    <Text>
+      <GUID>1414015042</GUID>
+      <Text>Hwacha</Text>
+    </Text>
+    <Text>
+      <GUID>14740081</GUID>
+      <Text>Croiseur de bataille</Text>
+    </Text>
+    <Text>
+      <GUID>14740083</GUID>
+      <Text>Monitor</Text>
+    </Text>
+    <Text>
+      <GUID>14740082</GUID>
+      <Text>Croiseur de siège</Text>
+    </Text>
+    <Text>
+      <GUID>1414006699</GUID>
+      <Text>Très efficace contre les navires.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006700</GUID>
+      <Text>Diminue les défenses de l'île.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006701</GUID>
+      <Text>Spécialisé dans l'incendie rapide des bâtiments portuaires.</Text>
+    </Text>
+    <Text>
+      <GUID>1414015045</GUID>
+      <Text>Tête de lion</Text>
+    </Text>
+    <Text>
+      <GUID>1414015047</GUID>
+      <Text>Couvert de pétrole !</Text>
+    </Text>
+    <Text>
+      <GUID>1414015048</GUID>
+      <Text>Flaques de pétrole !</Text>
+    </Text>
+    <Text>
+      <GUID>1414015049</GUID>
+      <Text>Résidus de pétrole !</Text>
+    </Text>
+    <Text>
+      <GUID>1414006706</GUID>
+      <Text>&lt;img src=&apos;data/ui/2kimages/main/icons/ship_info/icon_hitpoints.png&apos; height=&apos;24&apos; width=&apos;24&apos; /&gt; &lt;font size='17' &gt;[Selection Object Attackable CurHitPoints &gt;&gt; healthpoint]&lt;/font&gt;</Text>
+    </Text>
+    <Text>
+      <GUID>1414015039</GUID>
+      <Text>Forteresse de Navarque Pyrphorien</Text>
+    </Text>
+    <Text>
+      <GUID>1414015053</GUID>
+      <Text>Lance-flammes</Text>
+    </Text>
+    <Text>
+      <GUID>1414015058</GUID>
+      <Text>Œil du dragon</Text>
+    </Text>    
+    <!-- Random Ship Duplicates -->
+    <Text>
+      <GUID>14740075</GUID>
+      <Text>Vraquier</Text>
+    </Text>
+    <Text>
+      <GUID>14740076</GUID>
+      <Text>Vraquier</Text>
+    </Text>
+    <Text>
+      <GUID>14740077</GUID>
+      <Text>Vraquier</Text>
+    </Text>    
+    <Text>
+      <GUID>1414006623</GUID>
+      <TextNavire de ravitaillement de Sir Blake</Text>
+    </Text>
+    <Text>
+      <GUID>1414006624</GUID>
+      <Text>Navire de ravitaillement de Madame Kahina</Text>
+    </Text>
+    <Text>
+      <GUID>1414006625</GUID>
+      <Text>Navire de ravitaillement d'Eli Bleakworth</Text>
+    </Text>
+    <Text>
+      <GUID>1414006626</GUID>
+      <Text>Navire de ravitaillement d'Anne Harlow</Text>
+    </Text>
+    <Text>
+      <GUID>1414006627</GUID>
+      <Text>Navire de ravitaillement d'Isabel</Text>
+    </Text>
+    <Text>
+      <GUID>1414006628</GUID>
+      <Text>Navire de ravitaillement de Jean La Fortune</Text>
+    </Text>
+    <Text>
+      <GUID>1414006629</GUID>
+      <Text>Navire de ravitaillement du Vieux Nate</Text>
+    </Text>
+    <!-- Random stuff -->
+    <Text>
+      <GUID>1414006472</GUID>
+      <Text>BOB &amp; fils</Text>
+    </Text>
+    <Text>
+      <GUID>1414006473</GUID>
+      <Text>Il n'y a rien que vous ne puissiez construire avec les matériaux de construction Bob &amp; fils.</Text>
+    </Text>
+    <Text>
+      <GUID>14740078</GUID>
+      <Text>Travailleurs itinérants</Text>
+    </Text>
+    <Text>
+      <GUID>1414006475</GUID>
+      <Text>Motivation culturelle</Text>
+    </Text>
+    <Text>
+      <GUID>1414006542</GUID>
+      <Text>Le Gōngrén vous parle de ces ruines.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006630</GUID>
+      <Text>Entreprise de magnat</Text>
+    </Text>
+    <Text>
+      <GUID>1414006631</GUID>
+      <Text>e crois que les sous-traitances privées sont l'avenir. C'est dommage que la Couronne ait encore des années de retard sur ce point. Heureusement pour nous, l'Empire n'a pas son mot à dire dans l'atoll.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006632</GUID>
+      <Text>Voici le marché : vous investissez dans des usines à Horai, et nous vous les achetons. Nous prenons en charge une partie de leurs frais de fonctionnement et nous occupons des éventuels problèmes.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006633</GUID>
+      <Text>Mon retour ? Bon, je ne demande pas grand-chose, je veux juste garder ma juste part des bénéfices, si vous comprenez.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006634</GUID>
+      <Text>Souvent réservés aux festivals, on peut pourtant difficilement résister à leur style et à leur confort au quotidien.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006635</GUID>
+      <Text>De la restauration rapide pour pandas. Ils doivent manger ou mourir !</Text>
+    </Text>
+    <Text>
+      <GUID>1414006636</GUID>
+      <Text>Le matériau de mur idéal pour les climats humides.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006638</GUID>
+      <Text>[Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount]t [AssetData([Conditions QuestCondition Context]) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414006639</GUID>
+      <Text>Petites sculptures et ornements taillés dans du jade, encore inconnu à Horai.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006640</GUID>
+      <Text>Une région d'Extrême-Orient qui rappelle à votre peuple ses origines.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006641</GUID>
+      <Text>Intensément aromatique et produit en masse, seul un petit nombre sait le préparer correctement – ​​une recette plus secrète que celle du nouveau Cola Mola Wola.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006642</GUID>
+      <Text>Il ressemble à une arme et sent la poubelle, mais sa chair douce et crémeuse est néanmoins appréciée.</Text>
+    </Text>
+    <!-- Goodwills Export Tutorial -->
+    <Text>
+      <GUID>1414006565</GUID>
+      <Text>&lt;font size = &quot;14&quot;&gt;&lt;font size = &quot;32&quot;&gt;CONTRAT COMMERCIAL&lt;/font&gt;&lt;br /&gt;&lt;br/&gt;&lt;font size = &quot;18&quot;&gt;§1 Mode de livraison&lt;/font&gt;&lt;br /&gt;&lt;br/&gt;§1.1 Vous pouvez apporter des marchandises au navire de stockage E.T.A. au Port Omega. La livraison peut avoir lieu à tout moment. L'E.T.A. stockera ensuite ces marchandises dans son entrepôt de masse jusqu'à ce que celui-ci soit plein. &lt;br/&gt;§1.2  L'E.T.A. n'accepte que les envois préemballés. Les quantités détaillées sont indiquées au §3.. &lt;br/&gt;§1.3 Une fois la capacité de stockage atteinte, vous êtes tenu d'exporter les marchandises stockées vers un acheteur choisi par l'E.T.A. avant d'importer davantage de marchandises.&lt;br/&gt;&lt;br/&gt;&lt;font size=&quot;18&quot;&gt;§2 Marchandises à livrer&lt;/font&gt;&lt;br /&gt;&lt;br/&gt;§2.1 Des marchandises de cinq catégories peuvent être livrées à l'E.T.A. : Drogues, Objets de valeur, Alcool, Luxe, Armes. Plus d'explications au  §4.&lt;br /&gt;§2.2 L'E.T.A. dispose d'un stockage indépendant pour ces cinq catégories. &lt;br/&gt;&lt;br/&gt;&lt;font size=&quot;18&quot;&gt;§3 Quantités de marchandises par livraison&lt;/font&gt;&lt;br /&gt;&lt;br/&gt;§3.1 Drogues : 10t &lt;br/&gt;§3.2 Objets de valeur : 10t &lt;br/&gt;§3.3 Alcool : 200t &lt;br/&gt;§3.4 Articles de luxe : 100t &lt;br/&gt;§3.4 Armes : 50t &lt;br/&gt;&lt;br/&gt;&lt;font size=&quot;18&quot;&gt;§4 Types de marchandises&lt;/font&gt;&lt;br /&gt;&lt;br/&gt;§4.1 Drogues : Drogues &lt;br/&gt;§4.2 Objets de valeur : Objets de valeur &lt;br/&gt;§4.3 Alcool : Schnaps, bière, rhum, champagne, cognac, umeshu, saké &lt;br/&gt;§4.4 Produits de luxe : Shampoing, limonade, cigares, pipes, chanvre, gramophones, bijoux, voitures à vapeur, téléphones, radios, stylos, violons, tables de billard &lt;br/&gt;§4.5 Armes : Armes, armes sophistiquées, dynamite, moteurs à vapeur, bombes, mines marines.&lt;/font&gt;</Text>
+    </Text>
+  </ModOp>
+</ModOps>

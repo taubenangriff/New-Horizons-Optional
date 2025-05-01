@@ -1,0 +1,12 @@
+{
+    "Version": "1.0",
+    "ModID": "new_horizons_languages",
+    "Category": {
+      "English": "New Horizons"
+    },
+    "ModName": {
+      "English": "Language Files for New Horizons"
+    },
+    "CreatorName": "New Horizons Team",
+    "ModioResourceId": 4908997
+}

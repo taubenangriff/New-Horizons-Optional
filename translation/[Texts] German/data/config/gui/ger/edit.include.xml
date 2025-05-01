@@ -1,0 +1,69 @@
+<ModOps>
+    <ModOp Path = "//Text[GUID = '1414006698']/Text" Type = "replace">
+        <Text>Raksagarbha</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1440226']/Text" Type = "replace">
+        <Text>Heringe</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1441260']/Text" Type = "replace">
+        <Text>Heringfischerei</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1440405']/Text" Type = "replace">
+        <Text>Tempel</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414007004']/Text" Type = "replace">
+        <Text>Heringe im Überfluss</Text>
+    </ModOp>
+    <!-- Streetfood - Dango - Description -->
+    <ModOp Path = "//Text[GUID = '1442763']/Text" Type = "replace">
+        <Text>Hauptsächlich bei Tempelfestivitäten zu finden, besteht dieser Imbiss aus drei Reisküchlein mit individueller Süße und Geschmack auf einem Spieß. Vor allem aber kann man sie einfach und pflegeleicht mitnehmen, wodurch sie die ideale Begleitspeise auf einem Spaziergang durch die Kirschblüten in umliegenden Parks sind.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414006025']/Text" Type = "replace">
+        <Text>Ein silbriger Schwarmfisch, der mit Delikatessen gefüllt ist.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414015084']/Text" Type = "replace">
+        <Text>Große Taubenpagode</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414006829']/Text" Type = "replace">
+        <Text>Jenseits der Wallace-Linie locken die Tiere Ozeaniens mit ihren ungewöhnlichen, urzeitlichen Formen</Text>
+    </ModOp>
+    <!-- Bamboo Forest SETBUFF - TownhallBuff - Description -->
+    <ModOp Path = "//Text[GUID = '1414006830']/Text" Type = "replace">
+        <Text>Zu lernen, dass Geduld die Weisheit der Wildnis ist, und die ruhige Energie dieser Tiere zu sehen, hat es Ihren Bürgern ermöglicht, das Leben langsamer zu nehmen und jeden Schluck zu genießen, denn selbst Tee schmeckt in der Stille tiefer.</Text>
+    </ModOp>
+    <!-- Planet of the Apes SETBUFF - TownhallBuff - Description -->
+    <ModOp Path = "//Text[GUID = '1414006831']/Text" Type = "replace">
+        <Text>Die Possen dieser affenartigen Vettern haben Ihre Bürger dazu gebracht, über sich selbst nachzudenken und vorsichtiger zu werden.</Text>
+    </ModOp>
+    <!-- Oceania SETBUFF - TownhallBuff - Description -->
+    <ModOp Path = "//Text[GUID = '1414006833']/Text" Type = "replace">
+        <Text>Diese seltsamen und exotischen Tiere haben den Appetit eurer Bürger gezügelt und ihnen die Kunst des achtsamen Essens und den Magen eines Inselweisen verliehen.</Text>
+    </ModOp>
+    <!-- Planet of the Apes - Itemset - Description -->
+    <ModOp Path = "//Text[GUID = '1414006833']/Text" Type = "replace">
+        <Text>Affen zusammen stark. Return to Monkeh.</Text>
+    </ModOp>
+
+
+    <ModOp Path = "//Text[GUID = '1414018145']/Text" Type = "replace">
+        <Text>Die hoch aufragende Große Pagode wird das örtliche Fengshui verbessern und Ihre Leute daran erinnern, die örtlichen Traditionen hin und wieder hochzuhalten. Um das Fengshui weiter zu verbessern, müssen noch mehr Stockwerke übereinander gestapelt werden.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018146']/Text" Type = "replace">
+        <Text>Um einen Ort zu errichten, an dem die Mönche zu tiefer Meditation und Gebet zusammenkommen, muss eine Vielzahl von Steinblöcken präzise geschnitzt und entsprechend zusammengesetzt werden. Die Dharma-Räder und das Gold auf dem Dach sind obligatorisch ... für die Erleuchtung.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018147']/Text" Type = "replace">
+        <Text>Im Zeitalter der Stahlträger scheint es trivial zu sein, ein riesiges überhängendes Dach zu bauen, aber Ihre Architekten haben sich entschieden, die Tradition aufrechtzuerhalten und traditionelle Methoden anzuwenden, indem sie auf geniale Weise ein mit vergoldeten Ziegeln bedecktes Dach mit einem einfachen Holzgerüst stützen. Schwer ist die Krone in der Tat.</Text>
+    </ModOp>    
+    <ModOp Path = "//Text[GUID = '1414018148']/Text" Type = "replace">
+        <Text>Eine majestätische Statue des Erweckten, die aus einzeln gegossenen Bronzeplatten auf einer Stahlkonstruktion zusammengesetzt ist. Das Endergebnis sieht zwar uralt aus, aber die innere Struktur ist recht modern, und Berichten aus einem fernen Land namens „Neue Welt“ zufolge wurde eine ähnliche Statue einer rivalisierenden Gottheit auf diese Weise zusammengesetzt.</Text>
+    </ModOp> 
+    <ModOp Path = "//Text[GUID = '1414018149']/Text" Type = "replace">
+        <Text>Der Pavillon der Freude ist ein Treffpunkt für die Literaten und Vergnügungssüchtigen von Horai. In den vielen bunten, mit Laternen beleuchteten Etagen erklingt Musik von den Dachsparren, und die kulturelle Raffinesse steht im Vordergrund.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018242']/Text" Type = "replace">
+        <Text>Über die Pyrphorianer ist wenig bekannt: ihre Herkunft, ihr Ziel oder die Macht, die sie befehligt. Klar ist jedoch, dass sie in Raksagarbha, einer alten hindunischen Tempelfestung, die für die Kontrolle der unruhigen Länder von Horai von zentraler Bedeutung ist, wieder an Stärke gewinnen und sich zu einer gewaltigen Militärmacht organisieren. Dort, in den gewaltigen Mauern und schattigen Hallen, führen die Pyrphorianer dunkle Experimente mit dem wiedergefundenen Auge des Drachen durch und streben danach, eine Kraft des Bösen zu schaffen, die das menschliche Verständnis übersteigt.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018243']/Text" Type = "replace">
+        <Text>In der Tradition der Flotten der alten atlantischen Zivilisation haben die Pyrphorianer immer nur ein Mitglied im Rang eines Navarchen, der persönlich alle militärischen Interventionen überwacht. Es heißt, dass der Navarch in ständiger Rivalität mit dem pyrphorianischen Großmeister steht, aber diese Sackgasse wurde durch Navarchs Diebstahl des Drachenauges aus der Heiligen Stadt durchbrochen, wodurch sich die Waage in einer Weise neigte, die den Lauf der Imperien noch verändern könnte.</Text>
+    </ModOp>
+</ModOps>

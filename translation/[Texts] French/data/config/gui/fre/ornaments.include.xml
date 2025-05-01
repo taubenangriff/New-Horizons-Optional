@@ -1,0 +1,628 @@
+<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <Text>
+            <GUID>1414016153</GUID>
+            <Text>Bateau de pêche</Text>
+        </Text>
+        <Text>
+            <GUID>1414016154</GUID>
+            <Text>Lorcha à quai</Text>
+        </Text>
+        <Text>
+            <GUID>1414016155</GUID>
+            <Text>Pont</Text>
+        </Text>
+        <Text>
+            <GUID>1414016156</GUID>
+            <Text>Tonneaux</Text>
+        </Text>
+        <Text>
+            <GUID>1414016157</GUID>
+            <Text>Bancs</Text>
+        </Text>
+        <Text>
+            <GUID>1414016158</GUID>
+            <Text>Bateaux</Text>
+        </Text>
+        <Text>
+            <GUID>1414016159</GUID>
+            <Text>Grands bateaux</Text>
+        </Text>
+        <Text>
+            <GUID>1414016160</GUID>
+            <Text>Nasse de pêche</Text>
+        </Text>
+        <Text>
+            <GUID>1414016161</GUID>
+            <Text>Grue</Text>
+        </Text>
+        <Text>
+            <GUID>1414016162</GUID>
+            <Text>Arbre</Text>
+        </Text>
+        <Text>
+            <GUID>1414016163</GUID>
+            <Text>Cerisier</Text>
+        </Text>
+        <Text>
+            <GUID>1414016164</GUID>
+            <Text>Poirier</Text>
+        </Text>
+        <Text>
+            <GUID>1414016165</GUID>
+            <Text>Pin</Text>
+        </Text>
+        <Text>
+            <GUID>1414016166</GUID>
+            <Text>Saule</Text>
+        </Text>
+        <Text>
+            <GUID>1414016167</GUID>
+            <Text>Entrepôt</Text>
+        </Text>
+        <Text>
+            <GUID>1414016168</GUID>
+            <Text>Hortensia</Text>
+        </Text>
+        <Text>
+            <GUID>1414016169</GUID>
+            <Text>Treillis de glycines</Text>
+        </Text>
+        <Text>
+            <GUID>1414016170</GUID>
+            <Text>Koi nobori</Text>
+        </Text>
+
+        <Text>
+            <GUID>1414016000</GUID>
+            <Text>Gravier</Text>
+        </Text>
+        <Text>
+            <GUID>1414016027</GUID>
+            <Text>Mur simple</Text>
+        </Text>
+        <Text>
+            <GUID>1414016028</GUID>
+            <Text>Mur structuré</Text>
+        </Text>
+        <Text>
+            <GUID>1414016029</GUID>
+            <Text>Mur couvert</Text>
+        </Text>
+        <Text>
+            <GUID>1414016032</GUID>
+            <Text>Porte de mur simple</Text>
+        </Text>
+        <Text>
+            <GUID>1414016033</GUID>
+            <Text>Porte de mur structuré</Text>
+        </Text>
+        <Text>
+            <GUID>1414016034</GUID>
+            <Text>Porte de mur couvert</Text>
+        </Text>
+        <Text>
+            <GUID>1414016035</GUID>
+            <Text>Bonsaï avec pavés</Text>
+        </Text>
+        <Text>
+            <GUID>1414016036</GUID>
+            <Text>Kaki avec pavés</Text>
+        </Text>
+        <Text>
+            <GUID>1414016037</GUID>
+            <Text>Sago avec pavéq</Text>
+        </Text>
+        <Text>
+            <GUID>1414016038</GUID>
+            <Text>Gingko avec pavés</Text>
+        </Text>
+        <Text>
+            <GUID>1414016039</GUID>
+            <Text>Poirier avec pavés</Text>
+        </Text>
+        <Text>
+            <GUID>1414016040</GUID>
+            <Text>Musa Basjoo avec pavés</Text>
+        </Text>
+        <Text>
+            <GUID>1414016041</GUID>
+            <Text>Sakura avec pavés</Text>
+        </Text>
+        <Text>
+            <GUID>1414016042</GUID>
+            <Text>Saule avec pavés</Text>
+        </Text>
+        <Text>
+            <GUID>1414016043</GUID>
+            <Text>Momiji avec pavés</Text>
+        </Text>
+
+        <Text>
+            <GUID>1414016044</GUID>
+            <Text>Bonsaï</Text>
+        </Text>
+        <Text>
+            <GUID>1414016045</GUID>
+            <Text>Kaki</Text>
+        </Text>
+        <Text>
+            <GUID>1414016046</GUID>
+            <Text>Sago</Text>
+        </Text>
+        <Text>
+            <GUID>1414016047</GUID>
+            <Text>Gingko</Text>
+        </Text>
+        <Text>
+            <GUID>1414016048</GUID>
+            <Text>Poire</Text>
+        </Text>
+        <Text>
+            <GUID>1414016049</GUID>
+            <Text>Musa Basjoo</Text>
+        </Text>
+        <Text>
+            <GUID>1414016050</GUID>
+            <Text>Sakura</Text>
+        </Text>
+        <Text>
+            <GUID>1414016051</GUID>
+            <Text>Saule</Text>
+        </Text>
+        <Text>
+            <GUID>1414016052</GUID>
+            <Text>Momiji</Text>
+        </Text>
+        <Text>
+            <GUID>1414016053</GUID>
+            <Text>Sakura< pleureur avec pavé/Text>
+        </Text>
+        <Text>
+            <GUID>1414016054</GUID>
+            <Text>Sakura pleureur</Text>
+        </Text>
+        <Text>
+            <GUID>1414016055</GUID>
+            <Text>Bambou</Text>
+        </Text>
+        <Text>
+            <GUID>1414016056</GUID>
+            <Text>Bambo avec pavés</Text>
+        </Text>
+        <Text>
+            <GUID>1414016057</GUID>
+            <Text>Statue de Bouddha</Text>
+        </Text>
+        <Text>
+            <GUID>1414016058</GUID>
+            <Text>Petite statue de Dragon</Text>
+        </Text>
+        <Text>
+            <GUID>1414016059</GUID>
+            <Text>Statue de Mandarin</Text>
+        </Text>
+        <Text>
+            <GUID>1414016060</GUID>
+            <Text>Statue de Neko</Text>
+        </Text>
+        <Text>
+            <GUID>1414016061</GUID>
+            <Text>Grande statue de Samouraï</Text>
+        </Text>
+        <Text>
+            <GUID>1414016062</GUID>
+            <Text>Statue du Dragon de Stanford</Text>
+        </Text>
+        <Text>
+            <GUID>1414016063</GUID>
+            <Text>Statue de Qilin</Text>
+        </Text>
+        <Text>
+            <GUID>1414016064</GUID>
+            <Text>Lampions Chōchin</Text>
+        </Text>
+        <Text>
+            <GUID>1414016065</GUID>
+            <Text>Lampe de pierre avec pavés</Text>
+        </Text>
+        <Text>
+            <GUID>1414016066</GUID>
+            <Text>Lampe de pierre</Text>
+        </Text>
+        <Text>
+            <GUID>1414016067</GUID>
+            <Text>Lampe de bois</Text>
+        </Text>
+        <Text>
+            <GUID>1414016068</GUID>
+            <Text>Pilier de pierre avec pavés</Text>
+        </Text>
+        <Text>
+            <GUID>1414016069</GUID>
+            <Text>Pilier de pierre</Text>
+        </Text>
+        <Text>
+            <GUID>1414016006</GUID>
+            <Text>Graviers ratissés</Text>
+        </Text>
+        <Text>
+            <GUID>1414016007</GUID>
+            <Text>Symbole du Syndicat avec graviers</Text>
+        </Text>
+        <Text>
+            <GUID>1414016008</GUID>
+            <Text>Yīn Yáng avec graviers</Text>
+        </Text>
+        <Text>
+            <GUID>1414016009</GUID>
+            <Text>Buissons avec graviers</Text>
+        </Text>
+        <Text>
+            <GUID>1414016010</GUID>
+            <Text>Buissons avec graviers ratissés</Text>
+        </Text>
+        <Text>
+            <GUID>1414016011</GUID>
+            <Text>Buis avec graviers</Text>
+        </Text>
+        <Text>
+            <GUID>1414016012</GUID>
+            <Text>Buis avec graviers ratissés</Text>
+        </Text>
+        <Text>
+            <GUID>1414016013</GUID>
+            <Text>Rochers avec graviers ratissés</Text>
+        </Text>
+        <Text>
+            <GUID>1414016014</GUID>
+            <Text>Chemin de dalles</Text>
+        </Text>
+        <Text>
+            <GUID>1414016015</GUID>
+            <Text>Chemin de dalles ratissé</Text>
+        </Text>
+        <Text>
+            <GUID>1414016016</GUID>
+            <Text>Sculpture avec graviers</Text>
+        </Text>
+        <Text>
+            <GUID>1414016021</GUID>
+            <Text>Grand buisson avec graviers</Text>
+        </Text>
+        <Text>
+            <GUID>1414016022</GUID>
+            <Text>Grand buisson avec graviers ratissés</Text>
+        </Text>
+        <Text>
+            <GUID>1414016023</GUID>
+            <Text>Rochers avec graviers</Text>
+        </Text>
+        <Text>
+            <GUID>1414016024</GUID>
+            <Text>Motifs de graviers</Text>
+        </Text>
+        <Text>
+            <GUID>1414016071</GUID>
+            <Text>Sentier</Text>
+        </Text>
+        <Text>
+            <GUID>1414016072</GUID>
+            <Text>Pelouse</Text>
+        </Text>
+        <Text>
+            <GUID>1414016073</GUID>
+            <Text>Bosquets</Text>
+        </Text>
+        <Text>
+            <GUID>1414016070</GUID>
+            <Text>Grande statue de Bouddha</Text>
+        </Text>
+
+        <Text>
+            <GUID>1414016093</GUID>
+            <Text>Eulalie</Text>
+        </Text>
+        <Text>
+            <GUID>1414016094</GUID>
+            <Text>Allées pavées</Text>
+        </Text>
+        <Text>
+            <GUID>1414016095</GUID>
+            <Text>Phare</Text>
+        </Text>
+        <Text>
+            <GUID>1414016096</GUID>
+            <Text>Clôture en banbou</Text>
+        </Text>
+        <Text>
+            <GUID>1414016097</GUID>
+            <Text>Stèle</Text>
+        </Text>
+        <Text>
+            <GUID>1414016098</GUID>
+            <Text>Palmier de Chusan</Text>
+        </Text>
+        <Text>
+            <GUID>1414016099</GUID>
+            <Text>Palmier de Chusan avec pavés</Text>
+        </Text>
+        <Text>
+            <GUID>1414016100</GUID>
+            <Text>Porte de la Lune</Text>
+        </Text>
+        <Text>
+            <GUID>1414016101</GUID>
+            <Text>Rempart</Text>
+        </Text>
+        <Text>
+            <GUID>1414016102</GUID>
+            <Text>Tours de rempart</Text>
+        </Text>
+        <Text>
+            <GUID>1414016103</GUID>
+            <Text>Porte de rempart</Text>
+        </Text>
+        <Text>
+            <GUID>1414016104</GUID>
+            <Text>Porte fortifiée de rempart</Text>
+        </Text>
+        <Text>
+            <GUID>1414016105</GUID>
+            <Text>Porte angulaire de rempart</Text>
+        </Text>
+        <Text>
+            <GUID>1414016106</GUID>
+            <Text>Grande porte de rempart</Text>
+        </Text>
+        <Text>
+            <GUID>1414016107</GUID>
+            <Text>Grande porte fortifiée de rempart</Text>
+        </Text>
+        <Text>
+            <GUID>1414016108</GUID>
+            <Text>Entrée en arcade</Text>
+        </Text>
+        <Text>
+            <GUID>1414016109</GUID>
+            <Text>Grande entrée en arcade</Text>
+        </Text>
+        <Text>
+            <GUID>1414016110</GUID>
+            <Text>Petit rochers I</Text>
+        </Text>
+        <Text>
+            <GUID>1414016111</GUID>
+            <Text>Petit rochers II</Text>
+        </Text>
+        <Text>
+            <GUID>1414016112</GUID>
+            <Text>Petit rochers III</Text>
+        </Text>
+        <Text>
+            <GUID>1414016113</GUID>
+            <Text>Petit rochers IV</Text>
+        </Text>
+        <Text>
+            <GUID>1414016114</GUID>
+            <Text>Petit rochers V</Text>
+        </Text>
+        <Text>
+            <GUID>1414016115</GUID>
+            <Text>Petit rochers VI</Text>
+        </Text>
+        <Text>
+            <GUID>1414016116</GUID>
+            <Text>Petit rochers VII</Text>
+        </Text>
+        <Text>
+            <GUID>1414016117</GUID>
+            <Text>Petit rochers VIII</Text>
+        </Text>
+        <Text>
+            <GUID>1414016118</GUID>
+            <Text>Rochers I</Text>
+        </Text>
+        <Text>
+            <GUID>1414016119</GUID>
+            <Text>Rochers II</Text>
+        </Text>
+        <Text>
+            <GUID>1414016120</GUID>
+            <Text>Rochers III</Text>
+        </Text>
+        <Text>
+            <GUID>1414016121</GUID>
+            <Text>Rochers IV</Text>
+        </Text>
+        <Text>
+            <GUID>1414016122</GUID>
+            <Text>Rochers V</Text>
+        </Text>
+        <Text>
+            <GUID>1414016123</GUID>
+            <Text>Gros Rochers I</Text>
+        </Text>
+        <Text>
+            <GUID>1414016124</GUID>
+            <Text>Gros Rochers II</Text>
+        </Text>
+        <Text>
+            <GUID>1414016125</GUID>
+            <Text>Gros Rochers III</Text>
+        </Text>
+
+        <Text>
+            <GUID>1414016126</GUID>
+            <Text>Petit rochers secs I</Text>
+        </Text>
+        <Text>
+            <GUID>1414016127</GUID>
+            <Text>Petit rochers secs II</Text>
+        </Text>
+        <Text>
+            <GUID>1414016128</GUID>
+            <Text>Petit rochers secs III</Text>
+        </Text>
+        <Text>
+            <GUID>1414016129</GUID>
+            <Text>Petit rochers secs IV</Text>
+        </Text>
+        <Text>
+            <GUID>1414016130</GUID>
+            <Text>Petit rochers secs V</Text>
+        </Text>
+        <Text>
+            <GUID>1414016131</GUID>
+            <Text>Petit rochers secs VI</Text>
+        </Text>
+        <Text>
+            <GUID>1414016132</GUID>
+            <Text>Petit rochers secs VII</Text>
+        </Text>
+        <Text>
+            <GUID>1414016133</GUID>
+            <Text>Petit rochers secs VIII</Text>
+        </Text>
+        <Text>
+            <GUID>1414016134</GUID>
+            <Text>Rochers secs I</Text>
+        </Text>
+        <Text>
+            <GUID>1414016135</GUID>
+            <Text>Rochers secs II</Text>
+        </Text>
+        <Text>
+            <GUID>1414016136</GUID>
+            <Text>Rochers secs III</Text>
+        </Text>
+        <Text>
+            <GUID>1414016137</GUID>
+            <Text>Rochers secs IV</Text>
+        </Text>
+        <Text>
+            <GUID>1414016138</GUID>
+            <Text>Rochers secs V</Text>
+        </Text>
+        <Text>
+            <GUID>1414016139</GUID>
+            <Text>Gros rochers secs I</Text>
+        </Text>
+        <Text>
+            <GUID>1414016140</GUID>
+            <Text>Gros rochers secs II</Text>
+        </Text>
+        <Text>
+            <GUID>1414016141</GUID>
+            <Text>Gros rochers secs III</Text>
+        </Text>
+        <Text>
+            <GUID>1414016142</GUID>
+            <Text>Kerria</Text>
+        </Text>
+        <Text>
+            <GUID>1414016143</GUID>
+            <Text>Palmier Livistona</Text>
+        </Text>
+        <Text>
+            <GUID>1414016144</GUID>
+            <Text>Bamboo céleste</Text>
+        </Text>
+        <Text>
+            <GUID>1414016145</GUID>
+            <Text>Osmanthe</Text>
+        </Text>
+        <Text>
+            <GUID>1414016146</GUID>
+            <Text>Pivoine</Text>
+        </Text>
+        <Text>
+            <GUID>1414016147</GUID>
+            <Text>Troène</Text>
+        </Text>
+        <Text>
+            <GUID>1414016148</GUID>
+            <Text>Rhododendron</Text>
+        </Text>
+        <Text>
+            <GUID>1414016149</GUID>
+            <Text>Roses</Text>
+        </Text>
+        <Text>
+            <GUID>1414016150</GUID>
+            <Text>Spirée</Text>
+        </Text>
+        <Text>
+            <GUID>1414016151</GUID>
+            <Text>Arbre avec pavés</Text>
+        </Text>
+        <Text>
+            <GUID>1414016152</GUID>
+            <Text>Arbre</Text>
+        </Text>
+        <Text>
+            <GUID>1414016091</GUID>
+            <Text>Grand Païfang</Text>
+        </Text>
+        <Text>
+            <GUID>1414016092</GUID>
+            <Text>Paifang</Text>
+        </Text>
+        <Text>
+            <GUID>1414016090</GUID>
+            <Text>Le A de Haye</Text>
+        </Text>
+        <Text>
+            <GUID>1414018048</GUID>
+            <Text>Symbole du Dévouement de l'artiste à sont Art. Exprimme l'Authenticité, l'Émotion et l'Intelligence. Ciselé avec atention, cette icône fut le flambeau de la communauté qui façonne le monde de Anno. Indispensable pour insuffler la vie à un City builder.</Text>
+        </Text>
+        <Text>
+            <GUID>1414006704</GUID>
+            <Text>Un endroit calme pour emmener sa famille en promenade. Bon, il est où ce photographe?</Text>
+        </Text>
+        <Text>
+            <GUID>1414006705</GUID>
+            <Text>C'est grossier... et rugueux... et irritant, et ça devient... attendez, le mauvais sol.</Text>
+        </Text>
+        <Text>
+            <GUID>1414016026</GUID>
+            <Text>Pagode</Text>
+        </Text>
+        <Text>
+            <GUID>1414016025</GUID>
+            <Text>Pavage zen</Text>
+        </Text>
+        <Text>
+            <GUID>1414016001</GUID>
+            <Text>Gazébo</Text>
+        </Text>
+        <Text>
+            <GUID>1414006703</GUID>
+            <Text>Décorations de jardin</Text>
+        </Text>
+        <Text>
+            <GUID>1414006672</GUID>
+            <Text>Build garden ornaments on the island to increase the range of the main garden.</Text>
+        </Text>
+        <Text>
+            <GUID>1442564</GUID>
+            <Text>Portée de jardin</Text>
+        </Text>
+        <Text>
+            <GUID>1442560</GUID>
+            <Text>Entrée de jardin</Text>
+        </Text>
+        <Text>
+            <GUID>1414006793</GUID>
+            <Text>Un service apprécié des résidents. Sa portée peut être amélioré avec des décorations.</Text>
+        </Text>
+        <Text>
+            <GUID>1414006746</GUID>
+            <Text>Décorations de jardin</Text>
+        </Text>
+        <Text>
+            <GUID>1414006718</GUID>
+            <Text>Les décorations de jardin augmentent l'attrait et la portée des jardins.</Text>
+        </Text>
+    </ModOp>
+</ModOps>

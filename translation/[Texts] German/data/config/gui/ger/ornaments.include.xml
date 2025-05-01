@@ -1,0 +1,625 @@
+<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <Text>
+            <GUID>1414016153</GUID>
+            <Text>Fischerboot</Text>  
+        </Text>
+        <Text>
+            <GUID>1414016154</GUID>
+            <Text>Lorcha im Dock</Text>
+        </Text>
+        <Text>
+            <GUID>1414016155</GUID>
+            <Text>Brücke</Text>
+        </Text>
+        <Text>
+            <GUID>1414016156</GUID>
+            <Text>Fässer</Text>
+        </Text>
+        <Text>
+            <GUID>1414016157</GUID>
+            <Text>Sitzbänke</Text>
+        </Text>
+        <Text>
+            <GUID>1414016158</GUID>
+            <Text>Boote</Text>
+        </Text>
+        <Text>
+            <GUID>1414016159</GUID>
+            <Text>Große Boote</Text>
+        </Text>
+        <Text>
+            <GUID>1414016160</GUID>
+            <Text>Fischfallen</Text>
+        </Text>
+        <Text>
+            <GUID>1414016161</GUID>
+            <Text>Kran</Text>
+        </Text>
+        <Text>
+            <GUID>1414016162</GUID>
+            <Text>Baum II</Text>
+        </Text>
+        <Text>
+            <GUID>1414016163</GUID>
+            <Text>Kirschbaum</Text>
+        </Text>
+        <Text>
+            <GUID>1414016164</GUID>
+            <Text>Birnenbaum</Text>
+        </Text>
+        <Text>
+            <GUID>1414016165</GUID>
+            <Text>Kiefer</Text>
+        </Text>
+        <Text>
+            <GUID>1414016166</GUID>
+            <Text>Hängeweide</Text>
+        </Text>
+        <Text>
+            <GUID>1414016167</GUID>
+            <Text>Warenhaus</Text>
+        </Text>
+        <Text>
+            <GUID>1414016168</GUID>
+            <Text>Hortensie</Text>
+        </Text>
+        <Text>
+            <GUID>1414016169</GUID>
+            <Text>Blauregen</Text>
+        </Text>
+        <Text>
+            <GUID>1414016170</GUID>
+            <Text>Koinobori</Text>
+        </Text>
+        <Text>
+            <GUID>1414016000</GUID>
+            <Text>Kies</Text>
+        </Text>
+        <Text>
+            <GUID>1414016027</GUID>
+            <Text>Blanke Mauer</Text>
+        </Text>
+        <Text>
+            <GUID>1414016028</GUID>
+            <Text>Gerahmte Mauer</Text>
+        </Text>
+        <Text>
+            <GUID>1414016029</GUID>
+            <Text>Verkleidete Mauer</Text>
+        </Text>
+        <Text>
+            <GUID>1414016032</GUID>
+            <Text>Blankes Tor</Text>
+        </Text>
+        <Text>
+            <GUID>1414016033</GUID>
+            <Text>Gerahmte Maueröffnung</Text>
+        </Text>
+        <Text>
+            <GUID>1414016034</GUID>
+            <Text>Verkleidetes Tor</Text>
+        </Text>
+        <Text>
+            <GUID>1414016035</GUID>
+            <Text>Gepflasterter Bonsai </Text>
+        </Text>
+        <Text>
+            <GUID>1414016036</GUID>
+            <Text>Gepflasterte Kaki</Text>
+        </Text>
+        <Text>
+            <GUID>1414016037</GUID>
+            <Text>Gepflasterte Sago</Text>
+        </Text>
+        <Text>
+            <GUID>1414016038</GUID>
+            <Text>Gepflasterter Gingko</Text>
+        </Text>
+        <Text>
+            <GUID>1414016039</GUID>
+            <Text>Gepflasterte Birne</Text>
+        </Text>
+        <Text>
+            <GUID>1414016040</GUID>
+            <Text>Gepflasterter Musa Basjoo</Text>
+        </Text>
+        <Text>
+            <GUID>1414016041</GUID>
+            <Text>Gepflasterter Sakura</Text>
+        </Text>
+        <Text>
+            <GUID>1414016042</GUID>
+            <Text>Gepflasterte Hängeweide</Text>
+        </Text>
+        <Text>
+            <GUID>1414016043</GUID>
+            <Text>Gepflasterter Fächer-Ahorn</Text>
+        </Text>
+        <Text>
+            <GUID>1414016044</GUID>
+            <Text>Bonsai</Text>
+        </Text>
+        <Text>
+            <GUID>1414016045</GUID>
+            <Text>Kaki</Text>
+        </Text>
+        <Text>
+            <GUID>1414016046</GUID>
+            <Text>Sago</Text>
+        </Text>
+        <Text>
+            <GUID>1414016047</GUID>
+            <Text>Gingko</Text>
+        </Text>
+        <Text>
+            <GUID>1414016048</GUID>
+            <Text>Birne</Text>
+        </Text>
+        <Text>
+            <GUID>1414016049</GUID>
+            <Text>Musa Basjoo</Text>
+        </Text>
+        <Text>
+            <GUID>1414016050</GUID>
+            <Text>Sakura</Text>
+        </Text>
+        <Text>
+            <GUID>1414016051</GUID>
+            <Text>Hängeweide</Text>
+        </Text>
+        <Text>
+            <GUID>1414016052</GUID>
+            <Text>Fächer-Ahorn</Text>
+        </Text>
+        <Text>
+            <GUID>1414016053</GUID>
+            <Text>Gepflasterter hängender Sakura</Text>
+        </Text>
+        <Text>
+            <GUID>1414016054</GUID>
+            <Text>Hängender Sakura</Text>
+        </Text>
+        <Text>
+            <GUID>1414016055</GUID>
+            <Text>Bambusbaum</Text>
+        </Text>
+        <Text>
+            <GUID>1414016056</GUID>
+            <Text>Gepflasterter Bambusbaum</Text>
+        </Text>
+        <Text>
+            <GUID>1414016057</GUID>
+            <Text>Buddhastatue</Text>  
+        </Text>
+        <Text>
+            <GUID>1414016058</GUID>
+            <Text>Kleiner-Drache Statue</Text> 
+        </Text>
+        <Text>
+            <GUID>1414016059</GUID>
+            <Text>Mandarinstatue</Text>    
+        </Text>
+        <Text>
+            <GUID>1414016060</GUID>
+            <Text>Neko Statue</Text> 
+        </Text>
+        <Text>
+            <GUID>1414016061</GUID>
+            <Text>Großer-Samurai Statue</Text> 
+        </Text>
+        <Text>
+            <GUID>1414016062</GUID>
+            <Text>Stanford-Drachenstatue</Text> 
+        </Text>
+        <Text>
+            <GUID>1414016063</GUID>
+            <Text>Qilinstatue</Text> 
+        </Text>
+        <Text>
+            <GUID>1414016064</GUID>
+            <Text>Chochinlaternen</Text>
+        </Text>
+        <Text>
+            <GUID>1414016065</GUID>
+            <Text>Gepflasterte Steinlampe</Text>
+        </Text>
+        <Text>
+            <GUID>1414016066</GUID>
+            <Text>Steinlampe</Text>
+        </Text>
+        <Text>
+            <GUID>1414016067</GUID>
+            <Text>Hölzerne Lampe</Text>
+        </Text>
+        <Text>
+            <GUID>1414016068</GUID>
+            <Text>Gepflasterte Steinsäule</Text>
+        </Text>
+        <Text>
+            <GUID>1414016069</GUID>
+            <Text>Steinsäule</Text>
+        </Text>
+        <Text>
+            <GUID>1414016006</GUID>
+            <Text>Geharkter Kies</Text>
+        </Text>
+        <Text>
+            <GUID>1414016007</GUID>
+            <Text>Union-Logo</Text>
+        </Text>
+        <Text>
+            <GUID>1414016008</GUID>
+            <Text>Yīn und Yáng</Text> 
+        </Text>
+        <Text>
+            <GUID>1414016009</GUID>
+            <Text>Kies mit Büschen</Text> 
+        </Text>
+        <Text>
+            <GUID>1414016010</GUID>
+            <Text>Geharkter Kies mit Büschen</Text> 
+        </Text>
+        <Text>
+            <GUID>1414016011</GUID>
+            <Text>Kies Buchsbaum</Text>
+        </Text>
+        <Text>
+            <GUID>1414016012</GUID>
+            <Text>Geharkter Kies mit Buchsbaum</Text>
+        </Text>
+        <Text>
+            <GUID>1414016013</GUID>
+            <Text>Geharkter Kies mit Steinen</Text>
+        </Text>
+        <Text>
+            <GUID>1414016014</GUID>
+            <Text>Steinweg</Text>
+        </Text>
+        <Text>
+            <GUID>1414016015</GUID>
+            <Text>Geharkter Steinweg</Text>
+        </Text>
+        <Text>
+            <GUID>1414016016</GUID>
+            <Text>Kies Skulptur</Text>
+        </Text>
+        <Text>
+            <GUID>1414016021</GUID>
+            <Text>Kiesfläche mit Büschen</Text>
+        </Text>
+        <Text>
+            <GUID>1414016022</GUID>
+            <Text>geharkte Kiesfläche mit Büsche</Text>
+        </Text>
+        <Text>
+            <GUID>1414016023</GUID>
+            <Text>Kies mit Steinen</Text>
+        </Text>
+        <Text>
+            <GUID>1414016024</GUID>
+            <Text>Kies mit Muster</Text>
+        </Text>
+        <Text>
+            <GUID>1414016071</GUID>
+            <Text>Weg</Text>
+        </Text>
+        <Text>
+            <GUID>1414016072</GUID>
+            <Text>Gras</Text>
+        </Text>
+        <Text>
+            <GUID>1414016073</GUID>
+            <Text>Heine</Text>
+        </Text>
+        <Text>
+            <GUID>1414016070</GUID>
+            <Text>Große Buddhastatue</Text> 
+        </Text>
+        <Text>
+            <GUID>1414016093</GUID>
+            <Text>Chinaschilf</Text>
+        </Text>
+        <Text>
+            <GUID>1414016094</GUID>
+            <Text>Gepflasterte Wege</Text>
+        </Text>
+        <Text>
+            <GUID>1414016095</GUID>
+            <Text>Leuchtturm</Text> 
+        </Text>
+        <Text>
+            <GUID>1414016096</GUID>
+            <Text>Bambuszaun</Text> 
+        </Text>
+        <Text>
+            <GUID>1414016097</GUID>
+            <Text>Steintafel</Text> 
+        </Text>
+        <Text>
+            <GUID>1414016098</GUID>
+            <Text>Hanfpalme</Text>  
+        </Text>
+        <Text>
+            <GUID>1414016099</GUID>
+            <Text>Gepflasterte Hanfpalme</Text>
+        </Text>
+        <Text>
+            <GUID>1414016100</GUID>
+            <Text>Mondtor</Text> 
+        </Text>
+        <Text>
+            <GUID>1414016101</GUID>
+            <Text>Stadtmauer</Text>
+        </Text>
+        <Text>
+            <GUID>1414016102</GUID>
+            <Text>Stadtmauertürme</Text> 
+        </Text>
+        <Text>
+            <GUID>1414016103</GUID>
+            <Text>Stadttor</Text>
+        </Text>
+        <Text>
+            <GUID>1414016104</GUID>
+            <Text>Befestigtes Stadttor</Text> 
+        </Text>
+        <Text>
+            <GUID>1414016105</GUID>
+            <Text>Schräges Stadttor</Text> 
+        </Text>
+        <Text>
+            <GUID>1414016106</GUID>
+            <Text>Breites Stadttor</Text> 
+        </Text>
+        <Text>
+            <GUID>1414016107</GUID>
+            <Text>Breites befestigtes Stadttor</Text> 
+        </Text>
+        <Text>
+            <GUID>1414016108</GUID>
+            <Text>Arkadeneingang</Text>
+        </Text>
+        <Text>
+            <GUID>1414016109</GUID>
+            <Text>Großer Arkadeneingang</Text>
+        </Text>
+        <Text>
+            <GUID>1414016110</GUID>
+            <Text>Kleine Felsen I</Text>
+        </Text>
+        <Text>
+            <GUID>1414016111</GUID>
+            <Text>Kleine Felsen II</Text>
+        </Text>
+        <Text>
+            <GUID>1414016112</GUID>
+            <Text>Kleine Felsen III</Text>
+        </Text>
+        <Text>
+            <GUID>1414016113</GUID>
+            <Text>Kleine Felsen IV</Text>
+        </Text>
+        <Text>
+            <GUID>1414016114</GUID>
+            <Text>Kleine Felsen V</Text>
+        </Text>
+        <Text>
+            <GUID>1414016115</GUID>
+            <Text>Kleine Felsen VI</Text>
+        </Text>
+        <Text>
+            <GUID>1414016116</GUID>
+            <Text>Kleine Felsen VII</Text>
+        </Text>
+        <Text>
+            <GUID>1414016117</GUID>
+            <Text>Kleine Felsen VIII</Text>
+        </Text>
+        <Text>
+            <GUID>1414016118</GUID>
+            <Text>Mittlere Felsen I</Text>
+        </Text>
+        <Text>
+            <GUID>1414016119</GUID>
+            <Text>Mittlere Felsen II</Text>
+        </Text>
+        <Text>
+            <GUID>1414016120</GUID>
+            <Text>Mittlere Felsen III</Text>
+        </Text>
+        <Text>
+            <GUID>1414016121</GUID>
+            <Text>Mittlere Felsen IV</Text>
+        </Text>
+        <Text>
+            <GUID>1414016122</GUID>
+            <Text>Mittlere Felsen V</Text>
+        </Text>
+        <Text>
+            <GUID>1414016123</GUID>
+            <Text>Große Felsen I</Text>
+        </Text>
+        <Text>
+            <GUID>1414016124</GUID>
+            <Text>Große Felsen II</Text>
+        </Text>
+        <Text>
+            <GUID>1414016125</GUID>
+            <Text>Große Felsen III</Text>
+        </Text>
+
+        <Text>
+            <GUID>1414016126</GUID>
+            <Text>Kleine trockene Felsen I</Text>
+        </Text>
+        <Text>
+            <GUID>1414016127</GUID>
+            <Text>Kleine trockene Felsen II</Text>
+        </Text>
+        <Text>
+            <GUID>1414016128</GUID>
+            <Text>Kleine trockene Felsen III</Text>
+        </Text>
+        <Text>
+            <GUID>1414016129</GUID>
+            <Text>Kleine trockene Felsen IV</Text>
+        </Text>
+        <Text>
+            <GUID>1414016130</GUID>
+            <Text>Kleine trockene Felsen V</Text>
+        </Text>
+        <Text>
+            <GUID>1414016131</GUID>
+            <Text>Kleine trockene Felsen VI</Text>
+        </Text>
+        <Text>
+            <GUID>1414016132</GUID>
+            <Text>Kleine trockene Felsen VII</Text>
+        </Text>
+        <Text>
+            <GUID>1414016133</GUID>
+            <Text>Kleine trockene Felsen VIII</Text>
+        </Text>
+        <Text>
+            <GUID>1414016134</GUID>
+            <Text>Mittlere trockene Felsen I</Text>
+        </Text>
+        <Text>
+            <GUID>1414016135</GUID>
+            <Text>Mittlere trockene Felsen II</Text>
+        </Text>
+        <Text>
+            <GUID>1414016136</GUID>
+            <Text>Mittlere trockene Felsen III</Text>
+        </Text>
+        <Text>
+            <GUID>1414016137</GUID>
+            <Text>Mittlere trockene Felsen IV</Text>
+        </Text>
+        <Text>
+            <GUID>1414016138</GUID>
+            <Text>Mittlere trockene Felsen V</Text>
+        </Text>
+        <Text>
+            <GUID>1414016139</GUID>
+            <Text>Große trockene Felsen I</Text>
+        </Text>
+        <Text>
+            <GUID>1414016140</GUID>
+            <Text>Große trockene Felsen II</Text>
+        </Text>
+        <Text>
+            <GUID>1414016141</GUID>
+            <Text>Große trockene Felsen III</Text>
+        </Text>
+        <Text>
+            <GUID>1414016142</GUID>
+            <Text>Goldröschen</Text>
+        </Text>
+        <Text>
+            <GUID>1414016143</GUID>
+            <Text>Schirmpalme</Text>
+        </Text>
+        <Text>
+            <GUID>1414016144</GUID>
+            <Text>Himmelsbambus</Text>
+        </Text>
+        <Text>
+            <GUID>1414016145</GUID>
+            <Text>Duftblüte</Text>
+        </Text>
+        <Text>
+            <GUID>1414016146</GUID>
+            <Text>Pfingstrose</Text>
+        </Text>
+        <Text>
+            <GUID>1414016147</GUID>
+            <Text>Liguster</Text>
+        </Text>
+        <Text>
+            <GUID>1414016148</GUID>
+            <Text>Rhododendron</Text>
+        </Text>
+        <Text>
+            <GUID>1414016149</GUID>
+            <Text>Rosen</Text>
+        </Text>
+        <Text>
+            <GUID>1414016150</GUID>
+            <Text>Spierstrauch</Text>
+        </Text>
+        <Text>
+            <GUID>1414016151</GUID>
+            <Text>Gepflasterter Baum</Text>
+        </Text>
+        <Text>
+            <GUID>1414016152</GUID>
+            <Text>Baum I</Text>
+        </Text>
+        <Text>
+            <GUID>1414016091</GUID>
+            <Text>Großes Paifangtor</Text>
+        </Text>
+        <Text>
+            <GUID>1414016092</GUID>
+            <Text>Kleines Paifangtor</Text>
+        </Text>
+        <Text>
+            <GUID>1414016090</GUID>
+            <Text>Hayes A</Text>
+        </Text>
+        <Text>
+            <GUID>1414018048</GUID>
+            <Text>Akribisch im Detail und mit außerster Vorsicht hergestellt, steht es für Handwerk, Autentizität, Emotion und Intelligenz. Diese Eigenschaften sind es, die das Symbol zu einem Werkzeug machen. Ein Werkzeug geführt von der Community, um ihre ANNO Welt zu formen. Notwendig, um einen erstklassigen Städtebausimulator zum Leben zu erwecken.</Text>
+        </Text> 
+        <Text>
+            <GUID>1414006704</GUID>
+            <Text>Ein schöner Platz für die ganze Familie. Fehlt nur noch der Fotograf...</Text>
+        </Text>
+        <Text>
+            <GUID>1414006705</GUID>
+            <Text>Es ist kratzig und rau, und unangenehm. Er ist einfach überall... oh warte, falscher Boden.</Text>
+        </Text>
+        <Text>
+            <GUID>1414016026</GUID>
+            <Text>Pagode</Text>
+        </Text>
+        <Text>
+            <GUID>1414016025</GUID>
+            <Text>Zen-Pflaster</Text>
+        </Text>
+        <Text>
+            <GUID>1414016001</GUID>
+            <Text>Gazebo</Text>
+        </Text>
+        <Text>
+            <GUID>1414006703</GUID>
+            <Text>Gartenornament</Text>
+        </Text>
+        <Text>
+            <GUID>1414006672</GUID>
+            <Text>Plaziere Gartenornamente auf dieser Insel, um die Reichweite der Gartentore zu vergrößern.</Text> 
+        </Text>
+        <Text>
+            <GUID>1442564</GUID>
+            <Text>Gartenreichweite</Text>
+        </Text>
+        <Text>
+            <GUID>1442560</GUID>
+            <Text>Gartentor</Text>
+        </Text>
+        <Text>
+            <GUID>1414006793</GUID>
+            <Text>Erfüllt ein Bedürfnis ihrer Einwohner. Die Reichweite kann durch Gartenornamente vergrößert werden.</Text> 
+        </Text>
+        <Text>
+            <GUID>1414006746</GUID>
+            <Text>Gartenornamente</Text>
+        </Text>
+        <Text>
+            <GUID>1414006718</GUID>
+            <Text>Gartenornamente bieten Attraktivität und erhöhen die Reichweite von Gartentoren</Text>
+        </Text>
+    </ModOp>
+</ModOps>

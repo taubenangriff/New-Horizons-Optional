@@ -1,0 +1,373 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- Items -->
+    <Text>
+      <GUID>1414011018</GUID><!-- German: B. Soffski, Experte der Antiabstinenz -->
+      <Text>금욕주의 반대 전문가, 잉커 박사</Text>
+    </Text>
+    <Text>
+      <GUID>1414006105</GUID>
+      <Text>샴페인, 럼주, 보드카, 포도주, 그리고 맥주를 조금 마시면… 아주 놀라운 일이 펼쳐집니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011013</GUID>
+      <Text>녹색 미래의 대변자, 주드 켈러스 웰링턴</Text>
+    </Text>
+    <Text>
+      <GUID>1414006100</GUID>
+      <Text>더 푸르른 미래를 위해서라면 무력행사마저 불사합니다.</Text>      <!--Typo-->
+    </Text>
+    <Text>
+      <GUID>1414011019</GUID>
+      <Text>제지업자</Text>
+    </Text>
+    <Text>
+      <GUID>1414006106</GUID>
+      <Text>물을 쓰지 않는 종이를 팔아서 엔베사 남부의 큰 가뭄을 견뎌냈습니다.</Text>
+    </Text>        
+    <Text>
+      <GUID>1440408</GUID>
+      <Text>식음 시설</Text>
+    </Text>
+    <Text>
+      <GUID>1414011040</GUID>
+      <Text>숙련된 일식 요리사</Text>
+    </Text>
+    <Text>
+      <GUID>1414011041</GUID>
+      <Text>주방장 취엔쮜떠</Text>
+    </Text>
+    <Text>
+      <GUID>1414006678</GUID>
+      <Text>이 요리사는 흉내만 낸 게 아닌 제대로 된 누름 초밥을 만드는 훈련을 거쳤습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006679</GUID>
+      <Text>원조 레시피를 전부 암기하고 있습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011042</GUID>
+      <Text>도예 명장 쮜</Text>
+    </Text>
+    <Text>
+      <GUID>1414006680</GUID>
+      <Text>최고급 도자기를 빚어내는 재능이 있습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011043</GUID>
+      <Text>농부 쩡</Text>
+    </Text>
+    <Text>
+      <GUID>1414006681</GUID>
+      <Text>씨앗을 한치라도 더 가깝게 심기라도 하면…</Text>
+    </Text>
+    <Text>
+      <GUID>1414006682</GUID>
+      <Text>사진을 보듯이 해안선의 모습을 생생히 기억합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011044</GUID>
+      <Text>대나무 숲지기</Text>
+    </Text>
+    <Text>
+      <GUID>1414006683</GUID>
+      <Text>재배 솜씨가 뛰어난 덕분에 대나무가 더 빠르게 자라납니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011045</GUID>
+      <Text>사냥꾼 왕</Text>
+    </Text>
+    <Text>
+      <GUID>1414006684</GUID>
+      <Text>울창한 대나무숲을 손쉽게 헤쳐나가면서 야생 동물을 사냥합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011046</GUID>
+      <Text>3교대 노동자 하나</Text>
+    </Text>
+    <Text>
+      <GUID>1414006685</GUID>
+      <Text>사장의 총애를 받는 직원입니다. 잠을 자면서도 초과 근무를 합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011047</GUID>
+      <Text>물량으로 승부하는 모자 제작자, 로 티엔</Text>
+    </Text>
+    <Text>
+      <GUID>1414006686</GUID>
+      <Text>로는 엄청난 양의 모자를 만들어내는 탓에 때때로 재료를 착각합니다. 그래서 자신도 모르는 사이에 새로운 패션 열풍을 일으킵니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011048</GUID>
+      <Text>은퇴한 소방수</Text>
+    </Text>
+    <Text>
+      <GUID>1414006687</GUID>
+      <Text>물을 대량으로 운송하는 데 도가 텄습니다. 모든 갈증을 손쉽게 해소해 줍니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011049</GUID>
+      <Text>의욕이 지나친 경찰관</Text>
+    </Text>
+    <Text>
+      <GUID>1414006688</GUID>
+      <Text>공공질서 유지에 극성인 탓에 규정에 집착하는 모습이 성가시게 느껴질 수 있습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011050</GUID>
+      <Text>위대한 시장 찌엔</Text>
+    </Text>
+    <Text>
+      <GUID>1414006689</GUID>
+      <Text>지난 선거에서 99.7%의 득표율로 승리했습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011051</GUID>
+      <Text>대중주의 야당 후보</Text>
+    </Text>
+    <Text>
+      <GUID>1414006690</GUID>
+      <Text>선거 운동에서 "뿌리로 돌아가자"는 공약을 주로 내걸었습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006772</GUID>
+      <Text>대중에게 값싼 악기를 보급해도 눈치채지 못할 테죠. 잠깐만요, 이건 고토같이 생기지도 않았잖아요!</Text>
+    </Text>
+    <Text>
+      <GUID>1414011053</GUID>
+      <Text>링 링 워크아웃의 고안자, 링 링</Text>
+    </Text>
+    <Text>
+      <GUID>1414011054</GUID>
+      <Text>어부의 친구</Text>
+    </Text>
+    <Text>
+      <GUID>1414006773</GUID>
+      <Text>여기저기서 진주를 발견하다 보니 모래를 전부 다 파내버렸습니다. 운수가 좋은 걸까요?</Text>
+    </Text>
+    <Text>
+      <GUID>1414011055</GUID>
+      <Text>기 전문가</Text>
+    </Text>
+    <Text>
+      <GUID>1414006774</GUID>
+      <Text>전도유망한 의료 산업은 질환을 수입원으로 여기는 가운데 그녀는 진정한 치료 방법으로 전통 의학을 채택했습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006775</GUID>
+      <Text>호라이 작물의 보관 수용량을 늘립니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1440310</GUID>
+      <Text>좋은 날씨</Text>
+    </Text>
+    <Text>
+      <GUID>1414006776</GUID>
+      <Text>커다란 찻주전자 덕분에 차를 우리기가 쉬워집니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006778</GUID>
+      <Text>집에서 차를 우리면 바다 너머로 다시 나가더라도 식지 않습니다!</Text>
+    </Text>
+    <Text>
+      <GUID>1414006779</GUID>
+      <Text>순식간에 옷감을 짤 수 있다 보니 목화를 뽑을 여유까지 생기는 생산성이 높은 산업용 베틀입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011056</GUID>
+      <Text>보온 찻주전자</Text>
+    </Text>
+    <Text>
+      <GUID>1414011057</GUID>
+      <Text>일광 건조대</Text>
+    </Text>
+    <Text>
+      <GUID>1414011058</GUID>
+      <Text>차 봉지 묶음</Text>
+    </Text>
+    <Text>
+      <GUID>1414011059</GUID>
+      <Text>이중 바퀴 베틀</Text>
+    </Text>    
+    <Text>
+      <GUID>1414011026</GUID>
+      <Text>벼 씨앗</Text>
+    </Text>
+    <Text>
+      <GUID>1414011027</GUID>
+      <Text>차 씨앗</Text>
+    </Text>
+    <Text>
+      <GUID>1414011028</GUID>
+      <Text>삼 씨앗</Text>
+    </Text>
+    <Text>
+      <GUID>1414011029</GUID>
+      <Text>후추 씨앗</Text>
+    </Text>
+    <Text>
+      <GUID>1414011030</GUID>
+      <Text>뽕나무 씨앗</Text>
+    </Text>
+    <Text>
+      <GUID>1414011031</GUID>
+      <Text>매실 씨앗</Text>
+    </Text>
+    <Text>
+      <GUID>1414011032</GUID>
+      <Text>벌통</Text>
+    </Text>
+    <Text>
+      <GUID>1414011033</GUID>
+      <Text>대두 씨앗</Text>
+    </Text>
+    <Text>
+      <GUID>1414006615</GUID>
+      <Text>다른 벼보다 강하고 풍성한 수확량을 자랑하는 품종입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006616</GUID>
+      <Text>어디서나 자라날 수 있는 억센 찻잎입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006617</GUID>
+      <Text>아들아, 집에서 이걸 키울 생각은 절대로 하지 말거라. 어차피 적합한 품종이 아니란다!</Text>
+    </Text>
+    <Text>
+      <GUID>1414006618</GUID>
+      <Text>화끈하고 매운 맛의 향연이 펼쳐진 끝에 더 즐거운 맛이 기다리고 있습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006619</GUID>
+      <Text>열매가 아닌 잎을 얻고자 기르는 나무입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006620</GUID>
+      <Text>차라리 말린 매실이라도 있는 게 낫죠.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006621</GUID>
+      <Text>꽃꿀을 채취하더라도 까다롭게 굴지 않는 벌입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006622</GUID>
+      <Text>거친 환경을 견딜 수 있는 대두 품종입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>13371311</GUID>
+      <Text>상록수림</Text>      <!--Player Trees Jungle -->
+    </Text>
+    <Text>
+      <GUID>13371312</GUID>
+      <Text>대나무숲</Text>      <!--Player Trees Bamboo-->
+    </Text>
+    <Text>
+      <GUID>33002005</GUID>
+      <Text>산족제비</Text>
+    </Text>
+    <Text>
+      <GUID>1414006838</GUID>
+      <Text>길거리 그릴에서 보너스 주민 제공</Text>
+    </Text>
+    <Text>
+      <GUID>1414006839</GUID>
+      <Text>국수 가게에서 보너스 주민 제공</Text>
+    </Text>
+    <Text>
+      <GUID>1414006840</GUID>
+      <Text>찜 요리 가게에서 보너스 주민 제공</Text>
+    </Text>
+    <Text>
+      <GUID>1414006841</GUID>
+      <Text>디저트 가게에서 보너스 주민 제공</Text>
+    </Text>
+    <Text>
+      <GUID>1414006842</GUID>
+      <Text>길거리 그릴의 영향을 받는 주거지의 주민 수가 늘어납니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006843</GUID>
+      <Text>국수 가게의 영향을 받는 주거지의 주민 수가 늘어납니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006844</GUID>
+      <Text>찜 요리 가게의 영향을 받는 주거지의 주민 수가 늘어납니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006845</GUID>
+      <Text>디저트 가게의 영향을 받는 주거지의 주민 수가 늘어납니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011060</GUID>
+      <Text>중노동의 중요성에 관한 논문</Text>
+    </Text>
+    <Text>
+      <GUID>1414006787</GUID>
+      <Text>야간 근무를 수행하면 가족의 명예를 드높이는 기적을 일으킬 수 있습니다. 여러분은 수면이나 식사처럼 품위가 떨어지는 덕목을 갈구하고 있을지도 모릅니다. 그러나 진정 명예로운 노동자라면 이를 제쳐 두고 경제를 부양해야 합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011061</GUID>
+      <Text>십이율 기술 모음집</Text>
+    </Text>
+    <Text>
+      <GUID>1414006781</GUID>
+      <Text>십이율을 순서대로 연주하는 것처럼 아주 쉽습니다. 황종, 대려, 태주, 협종, 고선, 중려, 유빈, 임종, 이칙, 남려, 무역, 응종.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011062</GUID>
+      <Text>초심자를 위한 정수의 전통 교리</Text>
+    </Text>
+    <Text>
+      <GUID>1414006782</GUID>
+      <Text>오행의 순서에 따라 각 장이 배열되어 있습니다. 목, 화, 토, 금, 수.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011063</GUID>
+      <Text>몸과 마음의 균형을 찾는 기술</Text>
+    </Text>
+    <Text>
+      <GUID>1414006783</GUID>
+      <Text>하루에 한 번 싸우면 의사를 볼 일이 없다? 그럴 리가 없습니다. 저는 몸과 마음의 균형을 잃어버린 방탕한 젊은이를 구제하고자 이 책을 썼습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011064</GUID>
+      <Text>오늘날 경제적인 식단을 위한 서른여섯 가지 전략</Text>
+    </Text>
+    <Text>
+      <GUID>1414006784</GUID>
+      <Text>과일에서 상당한 영양분을 섭취할 수 있다는 사실을 아십니까? 생선은 페스코 채식주의자나 먹는 음식입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011065</GUID>
+      <Text>이른바 "세탁기"의 사악한 본질에 관하여</Text>
+    </Text>
+    <Text>
+      <GUID>1414006785</GUID>
+      <Text>언뜻 보기에는 옷을 세탁하기 위해 고안된 것처럼 보이는 기계가 마치 기린이 강림한 것처럼 우르릉 울어댑니다. 이 지옥의 사냥개나 다름없는 기계는 여러분의 아내를 불명예스러운 매춘부로 타락시키고자 하는 열화단의 비밀 음모에서 비롯되었습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011066</GUID>
+      <Text>계엄령의 필요성에 관한 세 가지 책략</Text>
+    </Text>
+    <Text>
+      <GUID>1414006786</GUID>
+      <Text>우리의 새로운 제국에서 영구적인 평화, 정의, 그리고 화합을 이루기 위한 단계별 길잡이입니다. 1단계: 숙청.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006789</GUID>
+      <Text>[ItemAssetData([RefGuid]) ItemOrBuffEffectTargetsFormatted] 주위의 [ItemAssetData([ToolOneHelper ForwardedEffectGuidOrSelf([RefGuid])]) ItemOrBuffEffectTargetsFormatted]에 영향을 미칩니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006790</GUID>
+      <Text>주민들이 [ItemAssetData([ToolOneHelper ForwardedEffectGuidOrSelf([RefGuid])]) InputBenefitAllAdditionalMoneyFormatted]에서 보너스 수입을 제공합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006791</GUID>
+      <Text>주거지가 [ItemAssetData([ToolOneHelper ForwardedEffectGuidOrSelf([RefGuid])]) InputBenefitAllAdditionalSupplyFormatted]에서 보너스 주민을 얻습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006792</GUID>
+      <Text>그녀의 말과 과학적 방법에서 도출된 결론이 상충한다면 사람들은 십중팔구 전자를 따를 겁니다. 어찌 되었든 서방의 약장수가 하는 말은 믿을 수 없습니다. 고대의 신비로운 추출물이 반드시 당신을 치료해 줄 겁니다.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

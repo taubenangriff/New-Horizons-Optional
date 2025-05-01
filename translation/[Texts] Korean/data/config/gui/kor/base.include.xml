@@ -1,0 +1,640 @@
+﻿<ModOps>    
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1446131</GUID>
+      <Text>열화단 제독</Text>
+    </Text>
+    <Text>
+      <GUID>1446109</GUID>
+      <Text>제임스 굿윌</Text>
+    </Text>
+    <Text>
+      <GUID>1446116</GUID>
+      <Text>오국위 제독</Text>
+    </Text>
+    <!-- Admiral Island -->
+    <Text>
+      <GUID>1414006702</GUID>
+      <Text>마지푼</Text>
+    </Text>
+    <!-- Goodwill Island-->
+    <Text>
+      <GUID>1414006420</GUID>
+      <Text>오메가 헤이븐</Text>
+    </Text>
+    <!-- Pyrphorian Island-->
+    <Text>
+      <GUID>1414006698</GUID>
+      <Text>캐스트럼 이그네</Text>
+    </Text>
+    <!-- poptiers -->
+    <Text>
+      <GUID>1445600</GUID>
+      <Text>대실업가</Text>
+    </Text>
+    <Text>
+      <GUID>1445602</GUID>
+      <Text>농민</Text>
+    </Text>
+    <Text>
+      <GUID>1446100</GUID>
+      <Text>농민</Text>
+    </Text>
+    <Text>
+      <GUID>1446101</GUID>
+      <Text>노동자</Text>
+    </Text>
+    <Text>
+      <GUID>1445603</GUID>
+      <Text>노동자</Text>
+    </Text>
+    <Text>
+      <GUID>1446103</GUID>
+      <Text>노동자</Text>
+    </Text>
+    <Text>
+      <GUID>1446106</GUID>
+      <Text>대실업가</Text>
+    </Text>
+    <!-- Products -->
+    <Text>
+      <GUID>1440235</GUID>
+      <Text>삿갓</Text>
+    </Text>    
+    <Text>
+      <GUID>1440004</GUID>
+      <Text>라디오</Text>
+    </Text>    
+    <Text>
+      <GUID>1440007</GUID>
+      <Text>만년필</Text>
+    </Text>
+    <Text>
+      <GUID>1440010</GUID>
+      <Text>라디오 수신기</Text>
+    </Text>
+    <Text>
+      <GUID>1440014</GUID>
+      <Text>블루 치즈</Text>
+    </Text>
+    <Text>
+      <GUID>1440016</GUID>
+      <Text>캐비아 크래커</Text>
+    </Text>
+    <Text>
+      <GUID>1440017</GUID>
+      <Text>후추 열매</Text>
+    </Text>
+    <Text>
+      <GUID>1440018</GUID>
+      <Text>후추</Text>
+    </Text>
+    <Text>
+      <GUID>1440019</GUID>
+      <Text>캐비아</Text>
+    </Text>
+    <Text>
+      <GUID>1440226</GUID>
+      <Text>철갑상어</Text>
+    </Text>
+    <Text>
+      <GUID>1440020</GUID>
+      <Text>만년필 펜촉</Text>
+    </Text>
+    <Text>
+      <GUID>1440021</GUID>
+      <Text>제표기</Text>
+    </Text>
+    <Text>
+      <GUID>1440022</GUID>
+      <Text>버번 위스키</Text>
+    </Text>
+    <Text>
+      <GUID>1440023</GUID>
+      <Text>자동차</Text>
+    </Text>
+    <Text>
+      <GUID>1440024</GUID>
+      <Text>텅스텐</Text>
+    </Text>
+    <Text>
+      <GUID>1440025</GUID>
+      <Text>은괴</Text>
+    </Text>
+    <Text>
+      <GUID>1440026</GUID>
+      <Text>다이아몬드</Text>
+    </Text>
+    
+    <Text>
+      <GUID>1440200</GUID>
+      <Text>쌀</Text>
+    </Text>
+    <Text>
+      <GUID>1440212</GUID>
+      <Text>조류</Text>
+    </Text>
+    <Text>
+      <GUID>1440213</GUID>
+      <Text>누름 초밥</Text>
+    </Text>
+    <Text>
+      <GUID>1440201</GUID>
+      <Text>매실</Text>
+    </Text>
+    <Text>
+      <GUID>1440202</GUID>
+      <Text>찻잎</Text>
+    </Text>
+    <Text>
+      <GUID>1440203</GUID>
+      <Text>녹차</Text>
+    </Text>
+    <Text>
+      <GUID>1440204</GUID>
+      <Text>고령토</Text>
+    </Text>
+    <Text>
+      <GUID>1440205</GUID>
+      <Text>장석</Text>
+    </Text>
+    <Text>
+      <GUID>1440206</GUID>
+      <Text>도자기</Text>
+    </Text>
+    <Text>
+      <GUID>1440207</GUID>
+      <Text>누에고치</Text>
+    </Text>
+    <Text>
+      <GUID>1440209</GUID>
+      <Text>비단</Text>
+    </Text>
+    <Text>
+      <GUID>1440215</GUID>
+      <Text>효모</Text>
+    </Text>
+    <Text>
+      <GUID>1440216</GUID>
+      <Text>사케</Text>
+    </Text>
+    <Text>
+      <GUID>1440217</GUID>
+      <Text>오리</Text>
+    </Text>
+    <Text>
+      <GUID>1440218</GUID>
+      <Text>꿀</Text>
+    </Text>
+    <Text>
+      <GUID>1440219</GUID>
+      <Text>오리구이</Text>
+    </Text>
+    <Text>
+      <GUID>1440220</GUID>
+      <Text>매실주</Text>
+    </Text>
+    <Text>
+      <GUID>1440224</GUID>
+      <Text>삼</Text>
+    </Text>
+    <Text>
+      <GUID>1440225</GUID>
+      <Text>기모노</Text>
+    </Text>
+    <Text>
+      <GUID>1440300</GUID>
+      <Text>귀족 버섯</Text>
+    </Text>
+    <Text>
+      <GUID>1440221</GUID>
+      <Text>이리듐</Text>
+    </Text>
+    <Text>
+      <GUID>1440223</GUID>
+      <Text>대두</Text>
+    </Text>
+    <Text>
+      <GUID>1440402</GUID>
+      <Text>목욕탕</Text>
+    </Text>
+    <Text>
+      <GUID>1440405</GUID>
+      <Text>사찰</Text>
+    </Text>
+    <Text>
+      <GUID>1440404</GUID>
+      <Text>지하철역</Text>
+    </Text>
+    <Text>
+      <GUID>1440229</GUID>
+      <Text>고토</Text>
+    </Text>
+    <Text>
+      <GUID>1440303</GUID>
+      <Text>코지</Text>
+    </Text>
+    <Text>
+      <GUID>1440500</GUID>
+      <Text>약물</Text>
+    </Text>
+    <Text>
+      <GUID>1440501</GUID>
+      <Text>귀중품</Text>
+    </Text>
+    <Text>
+      <GUID>1440502</GUID>
+      <Text>주류</Text>
+    </Text>
+    <Text>
+      <GUID>1440503</GUID>
+      <Text>사치품</Text>
+    </Text>
+    <Text>
+      <GUID>1440504</GUID>
+      <Text>무기</Text>
+    </Text>
+    <Text>
+      <GUID>1440232</GUID>
+      <Text>비단 조끼</Text>
+    </Text>
+    <Text>
+      <GUID>1440233</GUID>
+      <Text>대나무</Text>
+    </Text>
+    <Text>
+      <GUID>1440234</GUID>
+      <Text>점토 플라스터</Text>
+    </Text>
+    <Text>
+      <GUID>1440304</GUID>
+      <Text>옥 조각상</Text>
+    </Text>
+    <Text>
+      <GUID>1440305</GUID>
+      <Text>동양 문학</Text>
+    </Text>
+    <Text>
+      <GUID>1440306</GUID>
+      <Text>향</Text>
+    </Text>
+    <Text>
+      <GUID>1440307</GUID>
+      <Text>두리안</Text>
+    </Text>
+    <Text>
+      <GUID>1440236</GUID>
+      <Text>간장</Text>
+    </Text>
+    <Text>
+      <GUID>1440407</GUID>
+      <Text>정원</Text>
+    </Text>
+    <Text>
+      <GUID>1440237</GUID>
+      <Text>석재 벽돌</Text>
+    </Text>
+    <Text>
+      <GUID>1440239</GUID>
+      <Text>두부</Text>
+    </Text>
+    <Text>
+      <GUID>1440409</GUID>      <!-- Streetfood - Product -->
+      <Text>길거리 음식</Text>
+    </Text>    
+    <Text>
+      <GUID>1337881</GUID>
+      <Text>정크선 조선소</Text>
+    </Text>
+    <Text>
+      <GUID>14740102</GUID>
+      <Text>정크선</Text>
+    </Text>
+    <Text>
+      <GUID>14740115</GUID>
+      <Text>로차선</Text>
+    </Text>
+    <Text>
+      <GUID>1441333</GUID>
+      <Text>주방: 국수</Text>
+    </Text>
+    <Text>
+      <GUID>1441336</GUID>
+      <Text>주방: 두부</Text>
+    </Text>
+    <Text>
+      <GUID>1441233</GUID>
+      <Text>주방: 오리구이</Text>
+    </Text>
+    <Text>
+      <GUID>1441026</GUID>
+      <Text>조리실: 캐비아</Text>
+    </Text>
+    <Text>
+      <GUID>1441204</GUID>
+      <Text>조리실: 누름 초밥</Text>
+    </Text>
+    <Text>
+      <GUID>1441312</GUID>
+      <Text>조리실: 간장</Text>
+    </Text>
+    <!-- Streetfood -->
+    <Text>
+      <GUID>1442701</GUID>      <!-- Streetfood - Noodle Stand (Blank) -->
+      <Text>국수 가게</Text>
+    </Text>    
+    <Text>
+      <GUID>1442702</GUID>      <!-- Streetfood - Noodle Stand - Nigiri-Sushi -->
+      <Text>국수 가게: 주먹 초밥</Text>
+    </Text>
+    <Text>
+      <GUID>1442703</GUID>      <!-- Streetfood - Noodle Stand - Vegetable Tempura -->
+      <Text>국수 가게: 야채 튀김</Text>
+    </Text>
+    <Text>
+      <GUID>1442704</GUID>      <!-- Streetfood - Noodle Stand - Hand-Pulled Beef Noodles -->
+      <Text>국수 가게: 수타 우육면</Text>
+    </Text>
+    <Text>
+      <GUID>1442705</GUID>      <!-- Streetfood - Noodle Stand - Takoyaki -->
+      <Text>국수 가게: 타코야키</Text>
+    </Text>
+    <Text>
+      <GUID>1442706</GUID>      <!-- Streetfood - Street Grill (Blank) -->
+      <Text>길거리 그릴</Text>
+    </Text>
+    <Text>
+      <GUID>1442707</GUID>      <!-- Streetfood - Street Grill - Okonomiyaki -->
+      <Text>길거리 그릴: 오코노미야키</Text>
+    </Text>
+    <Text>
+      <GUID>1442708</GUID>      <!-- Streetfood - Street Grill - Bak Kwa -->
+      <Text>길거리 그릴: 바꾸앙</Text>
+    </Text>
+    <Text>
+      <GUID>1442709</GUID>      <!-- Streetfood - Street Grill - Stir-Fried Rice -->
+      <Text>길거리 그릴: 볶음밥</Text>
+    </Text>
+    <Text>
+      <GUID>1442710</GUID>      <!-- Streetfood - Street Grill - Kushiyaki -->
+      <Text>길거리 그릴: 구시야키</Text>
+    </Text>
+    <Text>
+      <GUID>1442711</GUID>      <!-- Streetfood - Steamer Stand (Blank) -->
+      <Text>찜 요리 가게</Text>
+    </Text>
+    <Text>
+      <GUID>1442712</GUID>      <!-- Streetfood - Steamer Stand - Congee with Youtiao -->
+      <Text>찜 요리 가게: 유탸오를 곁들인 죽</Text>
+    </Text>
+    <Text>
+      <GUID>1442713</GUID>      <!-- Streetfood - Steamer Stand - Steamed Bao Buns -->
+      <Text>찜 요리 가게: 바오번</Text>
+    </Text>
+    <Text>
+      <GUID>1442714</GUID>      <!-- Streetfood - Steamer Stand - Zong Zi -->
+      <Text>찜 요리 가게: 쭝쯔</Text>
+    </Text>
+    <Text>
+      <GUID>1442715</GUID>      <!-- Streetfood - Steamer Stand - Special Dumpling Soup -->
+      <Text>찜 요리 가게: 특제 만둣국</Text>
+    </Text>
+    <Text>
+      <GUID>1442716</GUID>      <!-- Streetfood - Dessert Stand (Blank) -->
+      <Text>디저트 가게</Text>
+    </Text>
+    <Text>
+      <GUID>1442717</GUID>      <!-- Streetfood - Dessert Stand - Dango -->
+      <Text>디저트 가게: 당고</Text>
+    </Text>
+    <Text>
+      <GUID>1442718</GUID>      <!-- Streetfood - Dessert Stand - Sweet Doufuhua -->
+      <Text>디저트 가게: 달콤한 두부 푸딩</Text>
+    </Text>
+    <Text>
+      <GUID>1442719</GUID>      <!-- Streetfood - Dessert Stand - Imagawayaki -->
+      <Text>디저트 가게: 오방떡</Text>
+    </Text>
+    <Text>
+      <GUID>1442720</GUID>      <!-- Streetfood - Dessert Stand - Tanghulu -->
+      <Text>디저트 가게: 탕후루</Text>
+    </Text>
+    <Text>
+      <GUID>1442721</GUID>      <!-- Streetfood - Noodle Recipes -->
+      <Text>국수 레시피</Text>
+    </Text>
+    <Text>
+      <GUID>1442722</GUID>      <!-- Streetfood - Street Grill Recipes -->
+      <Text>길거리 그릴 레시피</Text>
+    </Text>
+    <Text>
+      <GUID>1442723</GUID>      <!-- Streetfood - Steamer Recipes -->
+      <Text>찜 요리 레시피</Text>
+    </Text>
+    <Text>
+      <GUID>1442724</GUID>      <!-- Streetfood - Dessert Recipes -->
+      <Text>디저트 레시피</Text>
+    </Text>
+    <!-- Factories -->    
+    <Text>
+      <GUID>1441010</GUID>
+      <Text>폴리머 공장</Text>
+    </Text>
+    <Text>
+      <GUID>1441015</GUID>
+      <Text>라디오 공장</Text>
+    </Text>
+    <Text>
+      <GUID>1441016</GUID>
+      <Text>펜 공장</Text>
+    </Text>
+    <Text>
+      <GUID>1441020</GUID>
+      <Text>유제품 공장</Text>
+    </Text>
+    <Text>
+      <GUID>1441290</GUID>
+      <Text>비단 조끼 재단소</Text>
+    </Text>
+    <Text>
+      <GUID>1441022</GUID>
+      <Text>후추 공장</Text>
+    </Text>
+    <Text>
+      <GUID>1441025</GUID>
+      <Text>캐비아 크래커 작업장</Text>
+    </Text>
+    <Text>
+      <GUID>1441203</GUID>
+      <Text>조류 양식장</Text>
+    </Text>
+    <Text>
+      <GUID>1441208</GUID>
+      <Text>매실주 증류소</Text>
+    </Text>
+    <Text>
+      <GUID>1441212</GUID>
+      <Text>녹차 제조소</Text>
+    </Text>
+    <Text>
+      <GUID>1441259</GUID>
+      <Text>모자 제작소</Text>
+    </Text>
+    <Text>
+      <GUID>1441215</GUID>
+      <Text>도예 공방</Text>
+    </Text>
+    <Text>
+      <GUID>1441291</GUID>
+      <Text>대나무숲 관리소</Text>
+    </Text>
+    <Text>
+      <GUID>1441223</GUID>
+      <Text>비단 직조소</Text>
+    </Text>
+    <Text>
+      <GUID>1441226</GUID>
+      <Text>사케 양조장</Text>
+    </Text>
+    <Text>
+      <GUID>1441260</GUID>
+      <Text>철갑상어 양어장</Text>
+    </Text>
+    <Text>
+      <GUID>1441283</GUID>
+      <Text>고토 공장</Text>
+    </Text>
+    <Text>
+      <GUID>1441308</GUID>
+      <Text>기모노 재단소</Text>
+    </Text>
+    <Text>
+      <GUID>1441021</GUID>
+      <Text>후추 농장</Text>
+    </Text>
+    <Text>
+      <GUID>1441202</GUID>
+      <Text>쌀 농장</Text>
+    </Text>
+    <Text>
+      <GUID>1441207</GUID>
+      <Text>매실 농장</Text>
+    </Text>
+    <Text>
+      <GUID>1441211</GUID>
+      <Text>찻잎 농장</Text>
+    </Text>
+    <Text>
+      <GUID>1441257</GUID>
+      <Text>삼 농장</Text>
+    </Text>
+    <Text>
+      <GUID>1441218</GUID>
+      <Text>뽕나무 농장</Text>
+    </Text>
+    <Text>
+      <GUID>1441229</GUID>
+      <Text>오리 농장</Text>
+    </Text>
+    <Text>
+      <GUID>1441232</GUID>
+      <Text>양봉장</Text>
+    </Text>
+    <Text>
+      <GUID>1441251</GUID>
+      <Text>대두 농장</Text>
+    </Text>
+    <Text>
+      <GUID>1441281</GUID>
+      <Text>잇꽃 농장</Text>
+    </Text>
+    <Text>
+      <GUID>1441024</GUID>
+      <Text>후추 경작지</Text>
+    </Text>
+    <Text>
+      <GUID>1441201</GUID>
+      <Text>쌀 경작지</Text>
+    </Text>
+    <Text>
+      <GUID>1441206</GUID>
+      <Text>매실 경작지</Text>
+    </Text>
+    <Text>
+      <GUID>1441210</GUID>
+      <Text>찻잎 경작지</Text>
+    </Text>
+    <Text>
+      <GUID>1441258</GUID>
+      <Text>삼 경작지</Text>
+    </Text>
+    <Text>
+      <GUID>1441217</GUID>
+      <Text>뽕나무 경작지</Text>
+    </Text>
+    <Text>
+      <GUID>1441228</GUID>
+      <Text>오리 사육장</Text>
+    </Text>
+    <Text>
+      <GUID>1441231</GUID>
+      <Text>벌통</Text>
+    </Text>
+    <Text>
+      <GUID>1441252</GUID>
+      <Text>대두 경작지</Text>
+    </Text>
+    <Text>
+      <GUID>1441282</GUID>
+      <Text>잇꽃 경작지</Text>
+    </Text>
+    <Text>
+      <GUID>1441213</GUID>
+      <Text>고령토 채취장</Text>
+    </Text>
+    <Text>
+      <GUID>1441327</GUID>
+      <Text>채석장</Text>
+    </Text>
+    <Text>
+      <GUID>1441240</GUID>
+      <Text>철 광산</Text>
+    </Text>
+    <Text>
+      <GUID>1441239</GUID>
+      <Text>이리듐 광산</Text>
+    </Text>
+    <Text>
+      <GUID>1441214</GUID>
+      <Text>장석 광산</Text>
+    </Text>
+    <Text>
+      <GUID>1441014</GUID>
+      <Text>공작소: 라디오 수신기</Text>
+    </Text>
+    <Text>
+      <GUID>1441023</GUID>
+      <Text>공작소: 만년필 펜촉</Text>
+    </Text>
+    <Text>
+      <GUID>1441284</GUID>
+      <Text>공작소: 현</Text>
+    </Text>
+    <Text>
+      <GUID>1441300</GUID>
+      <Text>화학 공장</Text>
+    </Text>
+    <Text>
+      <GUID>1441301</GUID>
+      <Text>화학 공장: 래커</Text>
+    </Text>
+    <Text>
+      <GUID>1441302</GUID>
+      <Text>화학 공장: 셀룰로이드</Text>
+    </Text>
+    <Text>
+      <GUID>1441303</GUID>
+      <Text>화학 공장: 에탄올</Text>
+    </Text>
+  </ModOp>
+</ModOps>

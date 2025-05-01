@@ -1,0 +1,5 @@
+<ModOps>
+    <Include File = "./pol/base.include.xml" />
+    <Include File = "./pol/names.include.xml" />
+    <Include File = "./pol/batch03.include.xml" />
+</ModOps>

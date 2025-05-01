@@ -1,0 +1,558 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- Construction Menu Names -->
+    <Text>
+      <GUID>1445610</GUID>
+      <Text>Industriel</Text>
+    </Text>    
+    <Text>
+      <GUID>1445607</GUID>
+      <Text>Consommables</Text>
+    </Text>
+    <Text>
+      <GUID>1445608</GUID>
+      <Text>Ville</Text>
+    </Text>
+    <Text>
+      <GUID>1445609</GUID>
+      <Text>Matériaux</Text>
+    </Text>    
+    <Text>
+      <GUID>1445001</GUID>
+      <Text>Stylos à plume</Text>
+    </Text>
+    <Text>
+      <GUID>1445002</GUID>
+      <Text>Radios</Text>
+    </Text>
+    <Text>
+      <GUID>1445004</GUID>
+      <Text>Thé</Text>
+    </Text>
+    <Text>
+      <GUID>1445006</GUID>
+      <Text>Téléphones</Text>
+    </Text>
+    <Text>
+      <GUID>1445007</GUID>
+      <Text>Fromage</Text>
+    </Text>
+    <Text>
+      <GUID>1445008</GUID>
+      <Text>Porcelaine</Text>
+    </Text>
+    <Text>
+      <GUID>1445009</GUID>
+      <Text>Gilets en soie</Text>
+    </Text>
+    <Text>
+      <GUID>1445020</GUID>
+      <Text>Oshi-Sushi</Text>
+    </Text>
+    <Text>
+      <GUID>1445019</GUID>
+      <Text>Umeshu</Text>
+    </Text>
+    <Text>
+      <GUID>1445028</GUID>
+      <Text>Thé vert</Text>
+    </Text>
+    <Text>
+      <GUID>1445022</GUID>
+      <Text>Kimonos</Text>
+    </Text>
+    <Text>
+      <GUID>1445024</GUID>
+      <Text>Saké</Text>
+    </Text>
+    <Text>
+      <GUID>1445025</GUID>
+      <Text>Porcelaine</Text>
+    </Text>
+    <Text>
+      <GUID>1445026</GUID>
+      <Text>Canned Food</Text>
+    </Text>
+    <Text>
+      <GUID>1445027</GUID>
+      <Text>Canard grillé</Text>
+    </Text>
+    <Text>
+      <GUID>1445090</GUID>
+      <Text>Champignons</Text>
+    </Text>
+    <Text>
+      <GUID>1414006077</GUID>
+      <Text>Marchandises du commercant</Text>
+    </Text>
+    <Text>
+      <GUID>1414006079</GUID>
+      <Text>Vous ne pouvez pas produire cette marchandise. Achetez-le chez ces commerçants:</Text>
+    </Text>
+    <Text>
+      <GUID>1445080</GUID>
+      <Text>Thé</Text>
+    </Text>
+    <Text>
+      <GUID>1445083</GUID>
+      <Text>Cordes</Text>
+    </Text>
+    <Text>
+      <GUID>1445612</GUID>
+      <Text>Arbres de jungle humide</Text>
+    </Text>
+    <Text>
+      <GUID>1445630</GUID>
+      <Text>Stand de cuisine de rue</Text>      <!-- Construction Category -->
+    </Text>
+    <Text>
+      <GUID>1445631</GUID>
+      <Text>Nouilles</Text>      <!-- Production Chain -->
+    </Text>
+    <Text>
+      <GUID>1445632</GUID>
+      <Text>Tofu</Text>      <!-- Production Chain -->
+    </Text>
+    <Text>
+      <GUID>1445092</GUID>
+      <Text>Kōji</Text>
+    </Text>
+    <Text>
+      <GUID>1445040</GUID>
+      <Text>Crackers au caviar</Text>
+    </Text>
+    <Text>
+      <GUID>1445056</GUID>
+      <Text>Kotos</Text>
+    </Text>
+    <Text>
+      <GUID>1445041</GUID>
+      <Text>Saké</Text>
+    </Text>
+    <Text>
+      <GUID>1445031</GUID>
+      <Text>Planches</Text>
+    </Text>
+    <Text>
+      <GUID>1445032</GUID>
+      <Text>Plâtre d'argile</Text>
+    </Text>
+    <Text>
+      <GUID>1445604</GUID>
+      <Text>Petit port</Text>
+    </Text>
+    <Text>
+      <GUID>1445605</GUID>
+      <Text>Grand port</Text>
+    </Text>    
+    <Text>
+      <GUID>1445039</GUID>
+      <Text>Chapeaux coniques</Text>
+    </Text>    
+    <!-- Outsourced production chains, refer to vanilla texts -->
+    <Text>
+      <GUID>1445042</GUID>
+      <Text>Suif</Text>
+    </Text>
+    <Text>
+      <GUID>1445043</GUID>
+      <Text>Acier</Text>
+    </Text>
+    <Text>
+      <GUID>1445044</GUID>
+      <Text>Poutres d'acier</Text>
+    </Text>
+    <Text>
+      <GUID>1445045</GUID>
+      <Text>Verre</Text>
+    </Text>
+    <Text>
+      <GUID>1445046</GUID>
+      <Text>Filament</Text>
+    </Text>
+    <Text>
+      <GUID>1445047</GUID>
+      <Text>Béton renforcé</Text>
+    </Text>
+    <Text>
+      <GUID>1445048</GUID>
+      <Text>Electricité</Text>
+    </Text>
+    <Text>
+      <GUID>1445049</GUID>
+      <Text>Dynamite</Text>
+    </Text>
+    <Text>
+      <GUID>1445050</GUID>
+      <Text>Laiton</Text>
+    </Text>
+    <Text>
+      <GUID>1445051</GUID>
+      <Text>Moteurs à vapeur</Text>
+    </Text>
+    <Text>
+      <GUID>1445052</GUID>
+      <Text>Or</Text>
+    </Text>
+    <Text>
+      <GUID>1445053</GUID>
+      <Text>Châssis</Text>
+    </Text>
+    <Text>
+      <GUID>1445054</GUID>
+      <Text>Détecteur de signaux</Text>
+    </Text>
+    <Text>
+      <GUID>1445055</GUID>
+      <Text>Pétrole</Text>
+    </Text>
+    <Text>
+      <GUID>1445077</GUID>
+      <Text>Fenêtres</Text>
+    </Text>    
+    <Text>
+      <GUID>1445038</GUID>
+      <Text>[AssetData(269835) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1445033</GUID>
+      <Text>Poutres d'acier</Text>
+    </Text>
+    <Text>
+      <GUID>1445034</GUID>
+      <Text>Or</Text>
+    </Text>
+    <Text>
+      <GUID>1445035</GUID>
+      <Text>Dynamite</Text>
+    </Text>
+    <Text>
+      <GUID>1445036</GUID>
+      <Text>Laiton</Text>
+    </Text>
+    <Text>
+      <GUID>1445037</GUID>
+      <Text>Verre</Text>
+    </Text>
+    <!-- Ornamental -->
+    <Text>
+      <GUID>1445636</GUID>
+      <Text>Roches</Text>
+    </Text>
+    <Text>
+      <GUID>1445637</GUID>
+      <Text>Rochers secs</Text>
+    </Text>
+    <Text>
+      <GUID>1445638</GUID>
+      <Text>Buissons</Text>
+    </Text>
+    <Text>
+      <GUID>1445634</GUID>
+      <Text>Murs de la ville</Text>
+    </Text>
+    <Text>
+      <GUID>1445635</GUID>
+      <Text>Arcades</Text>
+    </Text>
+    <Text>
+      <GUID>1445627</GUID>
+      <Text>Inner City</Text>
+    </Text>
+    <Text>
+      <GUID>1445628</GUID>
+      <Text>Marché de rue</Text>
+    </Text>
+    <Text>
+      <GUID>1445629</GUID>
+      <Text>Pagodes</Text>
+    </Text>
+    <Text>
+      <GUID>1445626</GUID>
+      <Text>Portails</Text>
+    </Text>
+    <Text>
+      <GUID>1445621</GUID>
+      <Text>Gravier</Text>
+    </Text>
+    <Text>
+      <GUID>1445622</GUID>
+      <Text>Architecture</Text>
+    </Text>
+    <Text>
+      <GUID>1445623</GUID>
+      <Text>Herbe</Text>
+    </Text>
+    <Text>
+      <GUID>1445633</GUID>
+      <Text>Port</Text>
+    </Text>
+    <Text>
+      <GUID>1445624</GUID>
+      <Text>Pilliers</Text>
+    </Text>
+    <Text>
+      <GUID>1445625</GUID>
+      <Text>Arbres tempérés</Text>
+    </Text>
+    <Text>
+      <GUID>1445618</GUID>
+      <Text>Arbres du pavé zen</Text>
+    </Text>
+    <Text>
+      <GUID>1445619</GUID>
+      <Text>Arbres du parc</Text>
+    </Text>
+    <Text>
+      <GUID>1445615</GUID>
+      <Text>Gravier ratissé</Text>
+    </Text>
+    <Text>
+      <GUID>1445613</GUID>
+      <Text>Jardin</Text>
+    </Text>
+    <Text>
+      <GUID>1445611</GUID>
+      <Text>Gravier</Text>
+    </Text>
+    <Text>
+      <GUID>1445614</GUID>
+      <Text>Gravier avec végétation</Text>
+    </Text>
+    <Text>
+      <GUID>1445616</GUID>
+      <Text>Gravier avec motif</Text>
+    </Text>
+    <Text>
+      <GUID>1445617</GUID>
+      <Text>Murs</Text>
+    </Text>
+    <Text>
+      <GUID>1445620</GUID>
+      <Text>Statues et lampes</Text>
+    </Text>
+    <!-- Keep "Import Pier" in line with Noblesse Oblige-->
+    <Text>
+      <GUID>1441350</GUID>
+      <Text>Quai d'importation: Tabulateurs</Text>
+    </Text>
+    <Text>
+      <GUID>1441351</GUID>
+      <Text>Quai d'importation: Whiskey Bourbon</Text>
+    </Text>
+    <Text>
+      <GUID>1441352</GUID>
+      <Text>Quai d'importation: Voitures</Text>
+    </Text>
+    <Text>
+      <GUID>1441359</GUID>
+      <Text>Quai d'importation: Diamants</Text>
+    </Text>
+    <Text>
+      <GUID>1441358</GUID>
+      <Text>Quai d'importation: Lingots d'argent</Text>
+    </Text>
+    <Text>
+      <GUID>1441357</GUID>
+      <Text>Quai d'importation: Tungstène</Text>
+    </Text>
+    <Text>
+      <!-- Magnate Buff Building in Asia-->
+      <GUID>1441332</GUID>
+      <Text>Office régional</Text>
+    </Text>
+    <Text>
+      <!-- Redeeming Trade Licenses Text-->
+      <GUID>1441331</GUID>
+      <Text>Redeeming [AssetData(1999005351) Text]</Text>
+    </Text>
+    <!-- Production -->
+    <Text>
+      <GUID>1441279</GUID>
+      <Text>Fonderie de suif</Text>
+    </Text>
+    <Text>
+      <GUID>1441237</GUID>
+      <Text>Mine de charbon</Text>
+    </Text>
+    <Text>
+      <GUID>1441238</GUID>
+      <Text>Mine de cuivre</Text>
+    </Text>
+    <Text>
+      <GUID>1441241</GUID>
+      <Text>Gisement argileux</Text>
+    </Text>
+    <Text>
+      <GUID>1441242</GUID>
+      <Text>Usine de plâtre d'argile</Text>
+    </Text>    
+    <Text>
+      <GUID>1441243</GUID>
+      <Text>[AssetData(1010297) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1441244</GUID>
+      <Text>[AssetData(1010296) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1441245</GUID>
+      <Text>[AssetData(1010327) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1441246</GUID>
+      <Text>[AssetData(1010300) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1441247</GUID>
+      <Text>[AssetData(1010282) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1441248</GUID>
+      <Text>[AssetData(1010310) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1441249</GUID>
+      <Text>[AssetData(1010560) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1441250</GUID>
+      <Text>[AssetData(1010319) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1441234</GUID>
+      <Text>Cabane de bûcheron</Text>
+    </Text>
+    <Text>
+      <GUID>1441236</GUID>
+      <Text>[AssetData(100451) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1441500</GUID>
+      <Text>[AssetData(269849) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1441501</GUID>
+      <Text>[AssetData(269848) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1441502</GUID>
+      <Text>[AssetData(269958) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1441356</GUID>
+      <Text>Caviar</Text>
+    </Text>
+    <Text>
+      <GUID>1441263</GUID>
+      <Text>Fourneau</Text>
+    </Text>
+    <Text>
+      <GUID>1441264</GUID>
+      <Text>Aciérie</Text>
+    </Text>
+    <Text>
+      <GUID>1441265</GUID>
+      <Text>Verrier</Text>
+    </Text>
+    <Text>
+      <GUID>1441266</GUID>
+      <Text>Usine de filaments</Text>
+    </Text>
+    <Text>
+      <GUID>1441267</GUID>
+      <Text>Cimenterie</Text>
+    </Text>
+    <Text>
+      <GUID>1441277</GUID>
+      <Text>Vitrerie</Text>
+    </Text>
+    <Text>
+      <GUID>1441268</GUID>
+      <Text>Centrale pétrolière</Text>
+    </Text>
+    <Text>
+      <GUID>1441269</GUID>
+      <Text>Usine de dynamite</Text>
+    </Text>
+    <Text>
+      <GUID>1441270</GUID>
+      <Text>Fonderie de laiton</Text>
+    </Text>
+    <Text>
+      <GUID>1441271</GUID>
+      <Text>Usine de moteurs</Text>
+    </Text>
+    <Text>
+      <GUID>1441272</GUID>
+      <Text>Orfèvrerie</Text>
+    </Text>
+    <Text>
+      <GUID>1441273</GUID>
+      <Text>Carrossier</Text>
+    </Text>
+    <Text>
+      <GUID>1441275</GUID>
+      <Text>Usine de plastiques</Text>
+    </Text>
+    <Text>
+      <GUID>1441287</GUID>
+      <Text>Détecteur de signeaux</Text>
+    </Text>
+    <Text>
+      <GUID>1441292</GUID>
+      <Text>Raffinerie de pétrole</Text>
+    </Text>
+    <Text>
+      <GUID>1441293</GUID>
+      <Text>Puit de pétrole</Text>
+    </Text>
+    <!-- Recipes -->
+    <Text>
+      <GUID>1441288</GUID>
+      <Text>Cordes</Text>
+    </Text>
+    <Text>
+      <GUID>1441289</GUID>
+      <Text>Plumes de stylo</Text>
+    </Text>
+    <Text>
+      <GUID>1441304</GUID>
+      <Text>Laque</Text>
+    </Text>
+    <Text>
+      <GUID>1441305</GUID>
+      <Text>Celluloid</Text>
+    </Text>
+    <Text>
+      <GUID>1441306</GUID>
+      <Text>Ethanol</Text>
+    </Text>
+    <Text>
+      <GUID>1441314</GUID>
+      <Text>Oshi-Sushi</Text>
+    </Text>
+    <Text>
+      <GUID>1441315</GUID>
+      <Text>Sauce soja</Text>
+    </Text>
+    <Text>
+      <GUID>1441334</GUID>
+      <Text>Nouilles</Text>
+    </Text>
+    <Text>
+      <GUID>1441335</GUID>
+      <Text>Tofu</Text>
+    </Text>
+    <Text>
+      <!-- Blank Recipe-->
+      <GUID>1441319</GUID>
+      <Text>Cuisine</Text>
+    </Text>
+    <Text>
+      <GUID>1441318</GUID>
+      <Text>Canard grillé</Text>
+    </Text>
+    
+  </ModOp>
+</ModOps>

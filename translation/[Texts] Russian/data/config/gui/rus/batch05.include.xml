@@ -1,0 +1,425 @@
+<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <!-- Уровни населения -->
+        <Text>
+            <GUID>15100000</GUID>
+            <Text>Нунминь</Text>
+        </Text>
+        <Text>
+            <GUID>15100001</GUID>
+            <Text>Гунжэнь</Text>
+        </Text>
+        <Text>
+            <GUID>15100002</GUID>
+            <Text>Рабочая сила нунминь</Text>
+        </Text>
+        <Text>
+            <GUID>15100003</GUID>
+            <Text>Рабочая сила гунжэнь</Text>
+        </Text>
+        <Text>
+            <GUID>15100100</GUID>
+            <Text>Магнаты</Text>
+        </Text>
+        <Text>
+            <GUID>15100101</GUID>
+            <Text>Рабочая сила магнатов</Text>
+        </Text>
+        <Text>
+            <GUID>1442500</GUID>
+            <Text>Резиденция магнатов</Text>
+        </Text>
+        <Text>
+            <GUID>1442501</GUID>
+            <Text>Резиденция хорналеро</Text>
+        </Text>
+        <Text>
+            <GUID>1442502</GUID>
+            <Text>Резиденция нунминь</Text>
+        </Text>
+        <Text>
+            <GUID>1442503</GUID>
+            <Text>Резиденция гунжэнь</Text>
+        </Text>
+        <Text>
+            <GUID>1447920</GUID>
+            <Text>Разгневанные магнаты</Text>
+        </Text>
+        <Text>
+            <GUID>1447921</GUID>
+            <Text>Недовольные магнаты</Text>
+        </Text>
+        <Text>
+            <GUID>1447922</GUID>
+            <Text>Довольные магнаты</Text>
+        </Text>
+        <Text>
+            <GUID>1447923</GUID>
+            <Text>Счастливые магнаты</Text>
+        </Text>
+        <Text>
+            <GUID>1447924</GUID>
+            <Text>Пребывающие в эйфории магнаты</Text>
+        </Text>
+        <Text>
+            <GUID>1447930</GUID>
+            <Text>Разгневанные нунминь</Text>
+        </Text>
+        <Text>
+            <GUID>1447931</GUID>
+            <Text>Недовольные нунминь</Text>
+        </Text>
+        <Text>
+            <GUID>1447932</GUID>
+            <Text>Довольные нунминь</Text>
+        </Text>
+        <Text>
+            <GUID>1447933</GUID>
+            <Text>Счастливые нунминь</Text>
+        </Text>
+        <Text>
+            <GUID>1447934</GUID>
+            <Text>Пребывающие в эйфории нунминь</Text>
+        </Text>
+        <Text>
+            <GUID>1447935</GUID>
+            <Text>Разгневанные гунжэнь</Text>
+        </Text>
+        <Text>
+            <GUID>1447936</GUID>
+            <Text>Недовольные гунжэнь</Text>
+        </Text>
+        <Text>
+            <GUID>1447937</GUID>
+            <Text>Довольные гунжэнь</Text>
+        </Text>
+        <Text>
+            <GUID>1447938</GUID>
+            <Text>Счастливые гунжэнь</Text>
+        </Text>
+        <Text>
+            <GUID>1447939</GUID>
+            <Text>Пребывающие в эйфории гунжэнь</Text>
+        </Text>
+        <!-- Deposits -->
+        <Text>
+            <GUID>1447800</GUID>
+            <Text>Месторождение каолина</Text>
+        </Text>
+        <Text>
+            <GUID>1447801</GUID>
+            <Text>Месторождение полевого шпата</Text>            <!--Typo-->
+        </Text>
+        <Text>
+            <GUID>1447805</GUID>
+            <Text>Месторождение железа</Text>
+        </Text>
+        <Text>
+            <GUID>1447806</GUID>
+            <Text>Месторождение меди</Text>
+        </Text>
+        <Text>
+            <GUID>1447807</GUID>
+            <Text>Месторождение иридия</Text>
+        </Text>
+        <Text>
+            <GUID>1447814</GUID>
+            <Text>Месторождение иридия</Text>
+        </Text>
+        <Text>
+            <GUID>1447808</GUID>
+            <Text>Месторождение угля</Text>
+        </Text>
+        <Text>
+            <GUID>1447811</GUID>
+            <Text>Месторождение каолина</Text>
+        </Text>
+        <Text>
+            <GUID>1447812</GUID>
+            <Text>Месторождение полевого шпата</Text>            <!--Typo-->
+        </Text>
+        <Text>
+            <GUID>1447813</GUID>
+            <Text>Месторождение кристаллов пирита</Text>            <!--Typo-->
+        </Text>
+        <Text>
+            <GUID>1447803</GUID>
+            <Text>Месторождение глины</Text>
+        </Text>
+        <Text>
+            <GUID>1447809</GUID>
+            <Text>Месторождение глины</Text>
+        </Text>
+        <Text>
+            <GUID>1447861</GUID>
+            <Text>Месторождение камня</Text>
+        </Text>
+        <Text>
+            <GUID>1414040216</GUID>
+            <Text>Месторождение камня</Text>
+        </Text>
+        <!-- Fertilities -->
+        <Text>
+            <GUID>1414007001</GUID>
+            <Text>Плодородие для риса</Text>
+        </Text>
+        <Text>
+            <GUID>1414007002</GUID>
+            <Text>Плодородие для чая</Text>
+        </Text>
+        <Text>
+            <GUID>1414007003</GUID>
+            <Text>Плодородие для конопли</Text>
+        </Text>
+        <Text>
+            <GUID>1414007004</GUID>
+            <Text>Изобилие осетровых</Text>
+        </Text>
+        <Text>
+            <GUID>1414007006</GUID>
+            <Text>Плодородие для перца</Text>
+        </Text>
+        <Text>
+            <GUID>1414007007</GUID>
+            <Text>Плодородие для шелковицы</Text>
+        </Text>
+        <Text>
+            <GUID>1414007008</GUID>
+            <Text>Плодородие для уме</Text>
+        </Text>
+        <Text>
+            <GUID>1414007009</GUID>
+            <Text>Изобилие пчёл</Text>
+        </Text>
+        <Text>
+            <GUID>1414007010</GUID>
+            <Text>Плодородие для сои</Text>
+        </Text>
+        <!-- Festivals -->
+        <Text>
+            <GUID>1414006720</GUID>
+            <Text>Фестиваль Двойной Девятки</Text>
+        </Text>
+        <Text>
+            <GUID>1414006721</GUID>
+            <Text>Фестиваль Фонарей</Text>
+        </Text>
+        <Text>
+            <GUID>1414006722</GUID>
+            <Text>Лунные празднования</Text>
+        </Text>
+        <Text>
+            <GUID>1414006723</GUID>
+            <Text>Императорский дурбар</Text>
+        </Text>
+        <Text>
+            <GUID>1414006734</GUID>
+            <Text>Девятка? Еще одна девятка?! Это, должно быть, самый грандиозный из всех фестивалей. Само собой разумеется, что ваши люди идеально сбалансированы, как и должно быть во всех отношениях.</Text>
+        </Text>
+        <Text>
+            <GUID>1414006735</GUID>
+            <Text>Чтобы почтить память и отпраздновать вместе, ваши люди запускают в небо фонарики и заводят много новых дружеских отношений и зажигают костры.</Text>
+        </Text>
+        <Text>
+            <GUID>1414006748</GUID>
+            <Text>Новая луна восходит! Народ встречает её роскошными фейерверками, надеясь на хороший урожай в предстоящем сезоне.</Text>
+        </Text>
+        <Text>
+            <GUID>1414006747</GUID>
+            <Text>Наш народ силён, и он не должен забывать, что под властью Короны он живёт лучше, чем когда-либо прежде, в безопасности, под защитой и благословением. Да здравствует Империя!</Text>
+        </Text>
+        <Text>
+            <GUID>1414008600</GUID>
+            <Text>Фестиваль Двойной Девятки</Text>
+        </Text>
+        <Text>
+            <GUID>1414008601</GUID>
+            <Text>Фестиваль Фонарей</Text>
+        </Text>
+        <Text>
+            <GUID>1414008602</GUID>
+            <Text>Лунные празднования</Text>
+        </Text>
+        <Text>
+            <GUID>1414008603</GUID>
+            <Text>Императорский дурбар</Text>
+        </Text>
+        <!-- More Streetfood -->
+        <Text>
+            <GUID>1442742</GUID>            <!-- Streetfood - Noodle Stand - Buff -->
+            <Text>Лапшичный ларёк</Text>
+        </Text>
+        <Text>
+            <GUID>1442743</GUID>            <!-- Streetfood - Street Grill - Buff -->
+            <Text>Уличный гриль</Text>
+        </Text>
+        <Text>
+            <GUID>1442744</GUID>            <!-- Streetfood - Steamer Stand - Buff -->
+            <Text>Паровая кухня</Text>
+        </Text>
+        <Text>
+            <GUID>1442745</GUID>            <!-- Streetfood - Dessert Stand - Buff -->
+            <Text>Десертный ларёк</Text>
+        </Text>
+        <Text>
+            <GUID>1442746</GUID>            <!-- Streetfood - Noodle Stand - Buff -->
+            <Text>Лапшичный ларёк</Text>
+        </Text>
+        <Text>
+            <GUID>1442747</GUID>            <!-- Streetfood - Street Grill - Buff -->
+            <Text>Уличный гриль</Text>
+        </Text>
+        <Text>
+            <GUID>1442748</GUID>            <!-- Streetfood - Steamer Stand - Buff -->
+            <Text>Паровая кухня</Text>
+        </Text>
+        <Text>
+            <GUID>1442749</GUID>            <!-- Streetfood - Dessert Stand - Buff -->
+            <Text>Десертный ларёк</Text>
+        </Text>
+        <Text>
+            <GUID>1442700</GUID>            <!-- Streetfood Stand - Description -->
+            <Text>Использует рецепты для удовлетворения потребностей в уличной еде.</Text>
+        </Text>
+        <Text>
+            <GUID>1442750</GUID>            <!-- Streetfood - Recipelist - Description -->
+            <Text>Заполненные ингредиентами и готовыми блюдами, уличные ларьки с едой — это спасательный круг для жителей Восточного Атолла, ищущих быстрый перекус. Однако не стоит недооценивать блюда, подаваемые здесь, далеко не обыденны, и предприимчивые повара часто меняют меню, чтобы угодить текущим трендам.</Text>
+        </Text>
+        <Text>
+            <GUID>1442725</GUID>            <!-- Streetfood - Nigiri-Sushi Recipe -->
+            <Text>Нигири-суши</Text>
+        </Text>
+        <Text>
+            <GUID>1442751</GUID>            <!-- Streetfood - Nigiri-Sushi Recipe - Description -->
+            <Text>В отличие от своего родственника оши-суши, нигири-суши готовится свежим для каждого заказа. С бесконечным океанским изобилием на выбор, разновидности нигири-суши столь же разнообразны, как и ежедневный улов, и у каждого острова есть своя специализация.</Text>
+        </Text>
+        <Text>
+            <GUID>1442726</GUID>            <!-- Streetfood - Vegetable Tempura Recipe -->
+            <Text>Овощное темпура</Text>
+        </Text>
+        <Text>
+            <GUID>1442752</GUID>            <!-- Streetfood - Vegetable Tempura - Description -->
+            <Text>Скромный картофель и его спутник — красный перец — обмакиваются в тонкое пшеничное тесто и обжариваются до золотистой корочки. Один укус — и вы поймёте, почему они так популярны: хрустящие снаружи и нежные внутри.</Text>
+        </Text>
+        <Text>
+            <GUID>1442727</GUID>            <!-- Streetfood - Hand-Pulled Beef Noodles Recipe -->
+            <Text>Лапша с говядиной ручной работы</Text>
+        </Text>
+        <Text>
+            <GUID>1442753</GUID>            <!-- Streetfood - Hand-Pulled Beef Noodles - Description -->
+            <Text>Пружинистая свежая лапша и нежный тофу томятся в насыщенном говяжьем бульоне, создавая сытное блюдо. Эти большие простые миски часто достаточно сытны, чтобы утолить голод на весь день, если только у вас не аппетит быка.</Text>
+        </Text>
+        <Text>
+            <GUID>1442728</GUID>            <!-- Streetfood - Takoyaki Recipe -->
+            <Text>Такояки</Text>
+        </Text>
+        <Text>
+            <GUID>1442754</GUID>            <!-- Streetfood - Takoyaki - Description -->
+            <Text>Возьмите жареное тесто и добавьте уникально вкусного осьминога из Нового Света — получится знаменитая хрустящая закуска с жевательным кусочком осьминога в сердцевине, покрытая сладкой соевой глазурью.</Text>
+        </Text>
+        <Text>
+            <GUID>1442729</GUID>            <!-- Streetfood - Okonomiyaki Recipe -->
+            <Text>Окономияки</Text>
+        </Text>
+        <Text>
+            <GUID>1442755</GUID>            <!-- Streetfood - Okonomiyaki - Description -->
+            <Text>Многослойный блин из пшеничной муки, уложенный с жареными ингредиентами и измельчёнными водорослями. Покупатель может выбрать, что добавить, пока блин жарится, отсюда и название.</Text>
+        </Text>
+        <Text>
+            <GUID>1442730</GUID>            <!-- Streetfood - Bak Kwa Recipe -->
+            <Text>Бак ква</Text>
+        </Text>
+        <Text>
+            <GUID>1442756</GUID>            <!-- Streetfood - Bak Kwa - Description -->
+            <Text>Жевательные сладко-солёные квадратики медленно жаренного маринованного мяса, происходящие из Восточной Империи как способ консервации пищи. Принцесса Цин — большая поклонница, и всякий раз, когда она пишет домой, она часто просит прислать эти закуски из её любимого магазина в имперской столице.</Text>
+        </Text>
+        <Text>
+            <GUID>1442731</GUID>            <!-- Streetfood - Stir-Fried Rice Recipe -->
+            <Text>Жареный рис</Text>
+        </Text>
+        <Text>
+            <GUID>1442757</GUID>            <!-- Streetfood - Stir-Fried Rice - Description -->
+            <Text>Восхитительно жирное и воздушное рисовое блюдо с ароматными кусочками лап чонга и сладкой кукурузы, жаренное на месте с драматическими вспышками от кулинарного байджу. Вы ожидали риса с креветками?</Text>
+        </Text>
+        <Text>
+            <GUID>1442732</GUID>            <!-- Streetfood - Kushiyaki Recipe -->
+            <Text>Кусияки</Text>
+        </Text>
+        <Text>
+            <GUID>1442758</GUID>            <!-- Streetfood - Kushiyaki - Description -->
+            <Text>Связь Восточных Атоллов с холодной Арктикой и жаркими землями Энбесы позволила усовершенствовать древние рецепты новыми ингредиентами. Сытные шашлыки обретают новое измерение с добавлением дичи, а острые специи обещают отправить сэра Арчибальда Блейка прямиком в туалет.</Text>
+        </Text>
+        <Text>
+            <GUID>1442733</GUID>            <!-- Streetfood - Congee with Youtiao Recipe -->
+            <Text>Каша с ютяо</Text>
+        </Text>
+        <Text>
+            <GUID>1442759</GUID>            <!-- Streetfood - Congee with Youtiao - Description -->
+            <Text>Простая каша, приготовленная из риса и воды с различными ингредиентами, обычно подаётся с полоской хрустящего жареного теста. Хотя её часто едят на завтрак, это блюдо популярно в течение всего дня и среди всех социальных классов.</Text>
+        </Text>
+        <Text>
+            <GUID>1442734</GUID>            <!-- Streetfood - Steamed Bao Buns Recipe -->
+            <Text>Паровые булочки бао</Text>
+        </Text>
+        <Text>
+            <GUID>1442760</GUID>            <!-- Streetfood - Steamed Bao Buns - Description -->
+            <Text>С паром, вырывающимся при открытии бамбуковых пароварок, перед покупателями предстаёт ассортимент пушистых белых булочек бао, каждая с разнообразными начинками. Но что выбрать? Количество съеденного определяет, будет ли это перекус или полноценный обед.</Text>
+        </Text>
+        <Text>
+            <GUID>1442735</GUID>            <!-- Streetfood - Zong Zi Recipe -->
+            <Text>Цзунцзы</Text>
+        </Text>
+        <Text>
+            <GUID>1442761</GUID>            <!-- Streetfood - Zong Zi - Description -->
+            <Text>Клейкий рис и свинина аккуратно заворачиваются в бамбуковые листья и готовятся на пару до совершенства, создавая ароматное лакомство, пропитанное вкусом листьев. Посетители из Нового Света сравнивают это с их кукурузными тамале.</Text>
+        </Text>
+        <Text>
+            <GUID>1442736</GUID>            <!-- Streetfood - Special Dumpling Soup Recipe -->
+            <Text>Особый суп с пельменями</Text>
+        </Text>
+        <Text>
+            <GUID>1442762</GUID>            <!-- Streetfood - Special Dumpling Soup - Description -->
+            <Text>С добавлением нежного лобстера из Энбесы это классическое утешительное блюдо поднимается на новый уровень. Результат — нежные пельмени с мясом лобстера в тёплом наваристом супе с лапшой — и очереди вокруг квартала.</Text>
+        </Text>
+        <Text>
+            <GUID>1442737</GUID>            <!-- Streetfood - Dango Recipe -->
+            <Text>Данго</Text>
+        </Text>
+        <Text>
+            <GUID>1442763</GUID>            <!-- Streetfood - Dango - Description -->
+            <Text>Круглые клёцки из разных видов рисовой муки, покрытые сладкими приправами, такими как мёд и сахар. Подаются с хорошим чаем.</Text>
+        </Text>
+        <Text>
+            <GUID>1442738</GUID>            <!-- Streetfood - Sweet Doufuhua Recipe -->
+            <Text>Сладкий доуфухуа</Text>
+        </Text>
+        <Text>
+            <GUID>1442764</GUID>            <!-- Streetfood - Sweet Doufuhua - Description -->
+            <Text>Приготовленный в большой бамбуковой бочке, этот мягкий и гладкий тофу подаётся, когда большая плоская ложка зачерпывает тонкие слои в миску. Блюдо, подаваемое охлаждённым или комнатной температуры, часто поливается сладким имбирным сиропом, создавая освежающий и лёгкий десерт.</Text>
+        </Text>
+        <Text>
+            <GUID>1442739</GUID>            <!-- Streetfood - Imagawayaki Recipe -->
+            <Text>Имагаваяки</Text>
+        </Text>
+        <Text>
+            <GUID>1442765</GUID>            <!-- Streetfood - Imagawayaki - Description -->
+            <Text>С золотисто-коричневой, похожей на пирог корочкой и начинкой из сладкого картофеля, эти восхитительные сладкие блинчики предлагают сочетание хрустящих краёв и тёплой, тягучей сердцевины, идеальное для удовольствия в любое время дня.</Text>
+        </Text>
+        <Text>
+            <GUID>1442740</GUID>            <!-- Streetfood - Tanghulu Recipe -->
+            <Text>Танхулу</Text>
+        </Text>
+        <Text>
+            <GUID>1442741</GUID>            <!-- Streetfood - Buff -->
+            <Text>Уличная еда</Text>
+        </Text>
+        <Text>
+            <GUID>1442766</GUID>            <!-- Streetfood - Tanghulu - Description -->
+            <Text>Хотя боярышник редко встречается в Восточных Атоллах, изобретательность вашего народа создала не менее вкусную замену — кислые дольки мандарина, сочный виноград и терпкие уме нанизываются на палочку и покрываются прозрачным сиропом. Результат — сладкая и хрустящая закуска с контрастом текстур и вкусов.</Text>
+        </Text>
+        <Text>
+            <GUID>1442700</GUID>            <!-- Streetfood Stand - Description -->
+            <Text>Использует рецепты для удовлетворения потребностей в уличной еде.</Text>
+        </Text>
+    </ModOp>
+</ModOps>

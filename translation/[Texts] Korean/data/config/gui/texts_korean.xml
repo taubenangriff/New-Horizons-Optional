@@ -1,0 +1,22 @@
+<ModOps>
+    <Include File = "./kor/base.include.xml" />
+    <Include File = "./kor/audio.include.xml" />
+    <Include File = "./kor/names.include.xml" />
+    <Include File = "./kor/batch03.include.xml" />
+    <Include File = "./kor/batch05.include.xml" />
+    <Include File = "./kor/batch08.include.xml" />
+    <Include File = "./kor/ornaments.include.xml" />
+    <Include File = "./kor/customsduty.include.xml" />
+    <Include File = "./kor/items.include.xml" />
+    <Include File = "./kor/batch10.include.xml" />
+    <Include File = "./kor/batch11.include.xml" />
+    <Include File = "./kor/batch12.include.xml" />
+    <Include File = "./kor/batch13.include.xml" />
+    <Include File = "./kor/batch14.include.xml" />
+    <Include File = "./kor/batch15.include.xml" />
+    <Include File = "./kor/batch18.include.xml" />
+    <Include File = "./kor/batch19.include.xml" />
+    <Include File = "./kor/quest.include.xml" />
+    <Include File = "./kor/quest02.include.xml" />
+    <Include File = "./kor/edit.include.xml" />
+</ModOps>

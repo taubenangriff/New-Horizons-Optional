@@ -1,0 +1,426 @@
+<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <!-- Population Levels -->
+        <Text>
+            <GUID>15100000</GUID>
+            <Text>佃户</Text>
+        </Text>
+        <Text>
+            <GUID>15100001</GUID>
+            <Text>匠户</Text>
+        </Text>
+        <Text>
+            <GUID>15100002</GUID>
+            <Text>佃户劳动力</Text>
+        </Text>
+        <Text>
+            <GUID>15100003</GUID>
+            <Text>匠户劳动力</Text>
+        </Text>
+        <Text>
+            <GUID>15100100</GUID>
+            <Text>大亨</Text>
+        </Text>
+        <Text>
+            <GUID>15100101</GUID>
+            <Text>大亨劳动力</Text>
+        </Text>
+        <Text>
+            <GUID>1442500</GUID>
+            <Text>大亨住所</Text>
+        </Text>
+        <Text>
+            <GUID>1442501</GUID>
+            <Text>临时工住所</Text>
+        </Text>
+        <Text>
+            <GUID>1442502</GUID>
+            <Text>佃户住所</Text>
+        </Text>
+        <Text>
+            <GUID>1442503</GUID>
+            <Text>匠户住所</Text>
+        </Text>
+        <Text>
+            <GUID>1447920</GUID>
+            <Text>愤怒的大亨</Text>
+        </Text>
+        <Text>
+            <GUID>1447921</GUID>
+            <Text>不开心的大亨</Text>
+        </Text>
+        <Text>
+            <GUID>1447922</GUID>
+            <Text>满意的大亨</Text>
+        </Text>
+        <Text>
+            <GUID>1447923</GUID>
+            <Text>开心的大亨</Text>
+        </Text>
+        <Text>
+            <GUID>1447924</GUID>
+            <Text>狂喜的大亨</Text>
+        </Text>
+        <Text>
+            <GUID>1447930</GUID>
+            <Text>愤怒的佃户</Text>
+        </Text>
+        <Text>
+            <GUID>1447931</GUID>
+            <Text>不开心的佃户</Text>
+        </Text>
+        <Text>
+            <GUID>1447932</GUID>
+            <Text>满意的佃户</Text>
+        </Text>
+        <Text>
+            <GUID>1447933</GUID>
+            <Text>开心的佃户</Text>
+        </Text>
+        <Text>
+            <GUID>1447934</GUID>
+            <Text>狂喜的佃户</Text>
+        </Text>
+        <Text>
+            <GUID>1447935</GUID>
+            <Text>愤怒的匠户</Text>
+        </Text>
+        <Text>
+            <GUID>1447936</GUID>
+            <Text>不开心的匠户</Text>
+        </Text>
+        <Text>
+            <GUID>1447937</GUID>
+            <Text>满意的匠户</Text>
+        </Text>
+        <Text>
+            <GUID>1447938</GUID>
+            <Text>开心的匠户</Text>
+        </Text>
+        <Text>
+            <GUID>1447939</GUID>
+            <Text>狂喜的匠户</Text>
+        </Text>
+        <!-- Deposits -->
+        <Text>
+            <GUID>1447800</GUID>
+            <Text>高岭土矿床</Text>
+        </Text>
+        <Text>
+            <GUID>1447801</GUID>
+            <Text>长石矿床</Text>            <!--Typo-->
+        </Text>
+        <Text>
+            <GUID>1447805</GUID>
+            <Text>铁矿矿床</Text>
+        </Text>
+        <Text>
+            <GUID>1447806</GUID>
+            <Text>铜矿矿床</Text>
+        </Text>
+        <Text>
+            <GUID>1447807</GUID>
+            <Text>铱矿矿床</Text>
+        </Text>
+        <Text>
+            <GUID>1447814</GUID>
+            <Text>铱矿矿床</Text>
+        </Text>
+        <Text>
+            <GUID>1447808</GUID>
+            <Text>煤矿矿床</Text>
+        </Text>
+        <Text>
+            <GUID>1447811</GUID>
+            <Text>高岭土矿床</Text>
+        </Text>
+        <Text>
+            <GUID>1447812</GUID>
+            <Text>长石矿床</Text>            <!--Typo-->
+        </Text>
+        <Text>
+            <GUID>1447813</GUID>
+            <Text>黄铁矿矿床</Text>            <!--Typo-->
+        </Text>
+        <Text>
+            <GUID>1447803</GUID>
+            <Text>陶土矿床</Text>
+        </Text>
+        <Text>
+            <GUID>1447809</GUID>
+            <Text>陶土矿床</Text>
+        </Text>
+        <Text>
+            <GUID>1447861</GUID>
+            <Text>石材矿床</Text>
+        </Text>
+        <Text>
+            <GUID>1414040216</GUID>
+            <Text>石材矿床</Text>
+        </Text>
+        <!-- Fertilities -->
+        <Text>
+            <GUID>1414007001</GUID>
+            <Text>水稻生产力</Text>
+        </Text>
+        <Text>
+            <GUID>1414007002</GUID>
+            <Text>生茶生产力</Text>
+        </Text>
+        <Text>
+            <GUID>1414007003</GUID>
+            <Text>苎麻生产力</Text>
+        </Text>
+        <Text>
+            <GUID>1414007004</GUID>
+            <Text>鲱鱼猎捕量</Text>
+        </Text>
+        <Text>
+            <GUID>1414007006</GUID>
+            <Text>胡椒生产力</Text>
+        </Text>
+        <Text>
+            <GUID>1414007007</GUID>
+            <Text>桑蚕生产力</Text>
+        </Text>
+        <Text>
+            <GUID>1414007008</GUID>
+            <Text>梅子生产力</Text>
+        </Text>
+        <Text>
+            <GUID>1414007009</GUID>
+            <Text>蜜蜂猎捕量</Text>
+        </Text>
+        <Text>
+            <GUID>1414007010</GUID>
+            <Text>大豆生产力</Text>
+        </Text>
+        <!-- Festivals -->
+
+        <Text>
+            <GUID>1414006720</GUID>
+            <Text>双九重阳节</Text>
+        </Text>
+        <Text>
+            <GUID>1414006721</GUID>
+            <Text>元宵灯节</Text>
+        </Text>
+        <Text>
+            <GUID>1414006722</GUID>
+            <Text>新春佳节</Text>
+        </Text>
+        <Text>
+            <GUID>1414006723</GUID>
+            <Text>千秋节</Text>
+        </Text>
+        <Text>
+            <GUID>1414006734</GUID>
+            <Text>九月，又是九日？这一定是最符合纪元精神的节日啦！毋庸置疑，这里的人们生活平和安宁，事事顺意。</Text>
+        </Text>
+        <Text>
+            <GUID>1414006735</GUID>
+            <Text>为了庆祝，你的人民放飞灯笼，夜空中绽放着一片象征情谊的光海。</Text>
+        </Text>
+        <Text>
+            <GUID>1414006748</GUID>
+            <Text>新的一年到来了！人们用奢华的烟花庆祝，希望新的一年有好收成。</Text>
+        </Text>
+        <Text>
+            <GUID>1414006747</GUID>
+            <Text>吾民刚健，王化之下，安其居，乐其业，享其成。社稷永存！</Text>
+        </Text>
+        <Text>
+            <GUID>1414008600</GUID>
+            <Text>双九重阳节</Text>
+        </Text>
+        <Text>
+            <GUID>1414008601</GUID>
+            <Text>元宵灯节</Text>
+        </Text>
+        <Text>
+            <GUID>1414008602</GUID>
+            <Text>新春佳节</Text>
+        </Text>
+        <Text>
+            <GUID>1414008603</GUID>
+            <Text>千秋节</Text>
+        </Text>
+        <!-- More Streetfood -->
+        <Text>
+            <GUID>1442742</GUID>            <!-- Streetfood - Noodle Stand - Buff -->
+            <Text>面食摊</Text>
+        </Text>
+        <Text>
+            <GUID>1442743</GUID>            <!-- Streetfood - Street Grill - Buff -->
+            <Text>小吃摊</Text>
+        </Text>
+        <Text>
+            <GUID>1442744</GUID>            <!-- Streetfood - Steamer Stand - Buff -->
+            <Text>早餐摊</Text>
+        </Text>
+        <Text>
+            <GUID>1442745</GUID>            <!-- Streetfood - Dessert Stand - Buff -->
+            <Text>甜点摊</Text>
+        </Text>
+        <Text>
+            <GUID>1442746</GUID>            <!-- Streetfood - Noodle Stand - Buff -->
+            <Text>面食摊</Text>
+        </Text>
+        <Text>
+            <GUID>1442747</GUID>            <!-- Streetfood - Street Grill - Buff -->
+            <Text>小吃摊</Text>
+        </Text>
+        <Text>
+            <GUID>1442748</GUID>            <!-- Streetfood - Steamer Stand - Buff -->
+            <Text>早餐摊</Text>
+        </Text>
+        <Text>
+            <GUID>1442749</GUID>            <!-- Streetfood - Dessert Stand - Buff -->
+            <Text>甜点摊</Text>
+        </Text>
+        <Text>
+            <GUID>1442700</GUID>            <!-- Streetfood Stand - Description -->
+            <Text>任一个菜谱都能满足街头美食的需求。</Text>
+        </Text>
+        <Text>
+            <GUID>1442750</GUID>            <!-- Streetfood - Recipelist - Description -->
+            <Text>街头美食小摊上堆满了食材和半成品，是东极列岛地区居民在工业化快节奏生活下快速吃上一口的地方。不过，别搞错了，这里的吃食绝不是大路货，而是思维活络厨师用海内外各种新鲜食材改造菜谱的产物。绝对新鲜，绝对时髦。</Text>
+        </Text>
+        <Text>
+            <GUID>1442725</GUID>            <!-- Streetfood - Nigiri-Sushi Recipe -->
+            <Text>精制寿司</Text>
+        </Text>
+        <Text>
+            <GUID>1442751</GUID>            <!-- Streetfood - Nigiri-Sushi Recipe - Description -->
+            <Text>不像岛上其他的寿司，这里的精制寿司是厨师现场制作的。寿司的配料选项多种多样，由于厨师可以获取到的食材不同，每个岛上的精制寿司都有细微差别。</Text>
+        </Text>
+        <Text>
+            <GUID>1442726</GUID>            <!-- Streetfood - Vegetable Tempura Recipe -->
+            <Text>蔬菜天妇罗</Text>
+        </Text>
+        <Text>
+            <GUID>1442752</GUID>            <!-- Streetfood - Vegetable Tempura - Description -->
+            <Text>把不起眼的土豆和红椒裹上薄薄的面糊，然后油炸至金黄色。吃一口，你就会知道它们为何如此受欢迎了，真是外脆里嫩。</Text>
+        </Text>
+        <Text>
+            <GUID>1442727</GUID>            <!-- Streetfood - Hand-Pulled Beef Noodles Recipe -->
+            <Text>牛肉垃面</Text>
+        </Text>
+        <Text>
+            <GUID>1442753</GUID>            <!-- Streetfood - Hand-Pulled Beef Noodles - Description -->
+            <Text>Q弹的新鲜面条和精制的豆腐在美味的牛肉高汤中炖成一顿丰盛的晚餐。这些实惠量大的美食通常足以填饱一个人的肚子，除非他的胃口像牛一样大。</Text>
+        </Text>
+        <Text>
+            <GUID>1442728</GUID>            <!-- Streetfood - Takoyaki Recipe -->
+            <Text>日式章鱼烧</Text>
+        </Text>
+        <Text>
+            <GUID>1442754</GUID>            <!-- Streetfood - Takoyaki - Description -->
+            <Text>这道菜是基于油炸团子的传统吃法，引入异域新鲜食材：鱿鱼制作而成的。它是一种独特的煎制小吃，柔软的圆球里包裹着一大块有嚼劲的章鱼肉，上面撒着一层甜酱油。</Text>
+        </Text>
+        <Text>
+            <GUID>1442729</GUID>            <!-- Streetfood - Okonomiyaki Recipe -->
+            <Text>日式烧饼</Text>
+        </Text>
+        <Text>
+            <GUID>1442755</GUID>            <!-- Streetfood - Okonomiyaki - Description -->
+            <Text>这是一种类似于欧式煎饼的食品，上面可以加炸制的海藻和其他食材。顾客可以随心所欲地添加他们想要的配料。</Text>
+        </Text>
+        <Text>
+            <GUID>1442730</GUID>            <!-- Streetfood - Bak Kwa Recipe -->
+            <Text>猪肉脯</Text>
+        </Text>
+        <Text>
+            <GUID>1442756</GUID>            <!-- Streetfood - Bak Kwa - Description -->
+            <Text>甜咸口的烤制腌肉片。它起源于东方，起初只是食物保存的一种方法。清公主是它的忠实粉丝，每当她写信回家时，都会要求家人给她从帝都她最喜欢的小吃店里寄去猪肉脯。</Text>
+        </Text>
+        <Text>
+            <GUID>1442731</GUID>            <!-- Streetfood - Stir-Fried Rice Recipe -->
+            <Text>炒饭</Text>
+        </Text>
+        <Text>
+            <GUID>1442757</GUID>            <!-- Streetfood - Stir-Fried Rice - Description -->
+            <Text>这是一盘油汪汪、软乎乎的炒饭，配料有美味香肠的和甜玉米，再烹如朗姆酒，碰撞出奇妙的风味。你想在炒饭里加点虾吗？（译者注：咱也不知道炒饭加朗姆酒是啥意思，大概是作者觉得和料酒差不多意思？）</Text>
+        </Text>
+        <Text>
+            <GUID>1442732</GUID>            <!-- Streetfood - Kushiyaki Recipe -->
+            <Text>烤串</Text>
+        </Text>
+        <Text>
+            <GUID>1442758</GUID>            <!-- Streetfood - Kushiyaki - Description -->
+            <Text>随着东方与寒冷的北极和闷热的安贝沙地区的商贸活动逐渐频繁，古老的食谱中正在加入新的原料。美味的烤肉串随着鹿肉的加入而获得了新的味道，而辛辣的香料保证会让阿奇博尔德·布莱克爵士都大呼过瘾。</Text>
+        </Text>
+        <Text>
+            <GUID>1442733</GUID>            <!-- Streetfood - Congee with Youtiao Recipe -->
+            <Text>油条粥</Text>
+        </Text>
+        <Text>
+            <GUID>1442759</GUID>            <!-- Streetfood - Congee with Youtiao - Description -->
+            <Text>这里的粥中包含大米和各式配料，通常配上一条酥脆的油条一起享用。虽然通常被认为是一种早点，但其实一天中任何时候都能看到形形色色的人来这儿用餐。</Text>
+        </Text>
+        <Text>
+            <GUID>1442734</GUID>            <!-- Streetfood - Steamed Bao Buns Recipe -->
+            <Text>肉包子</Text>
+        </Text>
+        <Text>
+            <GUID>1442760</GUID>            <!-- Streetfood - Steamed Bao Buns - Description -->
+            <Text>打开蒸笼时，先是看见一缕蒸汽从蒸笼中逸出，然后就能看见里面热气腾腾的大白包子。这儿的包子有太多口味，以至于让人难以取舍。你吃的数量，决定了它是零食还是正餐。</Text>
+        </Text>
+        <Text>
+            <GUID>1442735</GUID>            <!-- Streetfood - Zong Zi Recipe -->
+            <Text>粽子</Text>
+        </Text>
+        <Text>
+            <GUID>1442761</GUID>            <!-- Streetfood - Zong Zi - Description -->
+            <Text>糯米和猪肉被小心地包在竹叶里，蒸得恰到好处。竹叶的清香完美地融入米饭中，成为一道香气扑鼻的美食。来自新大陆的游客认为它与家乡的玉米粽颇多类似之处。（译者注：此处粽子口味只代表作者观点，不代表译者观点hhh）</Text>
+        </Text>
+        <Text>
+            <GUID>1442736</GUID>            <!-- Streetfood - Special Dumpling Soup Recipe -->
+            <Text>钟水饺</Text>
+        </Text>
+        <Text>
+            <GUID>1442762</GUID>            <!-- Streetfood - Special Dumpling Soup - Description -->
+            <Text>由于新加入的鲜嫩安贝沙龙虾，这道经典的菜肴被提升到一个全新水平。精致的龙虾馅儿饺子，漂浮在汤中。这个小摊一天到晚都有人排队。</Text>
+        </Text>
+        <Text>
+            <GUID>1442737</GUID>            <!-- Streetfood - Dango Recipe -->
+            <Text>大福</Text>
+        </Text>
+        <Text>
+            <GUID>1442763</GUID>            <!-- Streetfood - Dango - Description -->
+            <Text>这种小吃最早出起源于庙会，一根木签串着三块甜米糕，每块都有不同的味道，甜而不腻。这种小吃方便携带，吃起来也不容易脏衣服。在庙会里边走边吃时，这简直是完美的吃食。</Text>
+        </Text>
+        <Text>
+            <GUID>1442738</GUID>            <!-- Streetfood - Sweet Doufuhua Recipe -->
+            <Text>甜豆花</Text>
+        </Text>
+        <Text>
+            <GUID>1442764</GUID>            <!-- Streetfood - Sweet Doufuhua - Description -->
+            <Text>在一个大竹桶里煮熟后，这些柔软的嫩豆腐被一个大大的平底勺一层层地盛到碗里。这道菜可以直接食用但冷藏后风味更佳。通常在食用时会再淋上一层糖浆，清甜可口。</Text>
+        </Text>
+        <Text>
+            <GUID>1442739</GUID>            <!-- Streetfood - Imagawayaki Recipe -->
+            <Text>红豆饼</Text>
+        </Text>
+        <Text>
+            <GUID>1442765</GUID>            <!-- Streetfood - Imagawayaki - Description -->
+            <Text>这些美味的甜饼外表金黄，像蛋糕一样，内里包裹着红豆馅。它酥脆的外壳和温暖粘稠的夹心完美融合在一起。一天中任何时候来上一个都能非常合适。</Text>
+        </Text>
+        <Text>
+            <GUID>1442740</GUID>            <!-- Streetfood - Tanghulu Recipe -->
+            <Text>糖葫芦</Text>
+        </Text>
+        <Text>
+            <GUID>1442741</GUID>            <!-- Streetfood - Buff -->
+            <Text>街头美食</Text>
+        </Text>
+        <Text>
+            <GUID>1442766</GUID>            <!-- Streetfood - Tanghulu - Description -->
+            <Text>虽然本地几乎找不到山楂，但你们的人民足智多谋，已经找到了同样美味的替代配方——甜美的柑橘片、多汁的葡萄和酸爽的青梅被串成一串上，然后涂上透明的糖浆，造就了这种甜脆可口的街头甜品，色香味俱全。</Text>
+        </Text>
+        <Text>
+            <GUID>1442700</GUID>            <!-- Streetfood Stand - Description -->
+            <Text>任一个菜谱都能满足居民街头美食的需求。</Text>
+        </Text>
+    </ModOp>
+</ModOps>

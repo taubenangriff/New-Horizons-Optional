@@ -1,0 +1,360 @@
+<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <Text>
+            <GUID>54005000</GUID>
+            <Text>ÖSTLICHE ERWEITERUNG</Text>
+        </Text>
+        <Text>
+            <GUID>54005001</GUID>
+            <Text>AUSLÄNDISCHE ENTWICKLUNG</Text>
+        </Text>
+        <Text>
+            <GUID>54005002</GUID>
+            <Text>IMPERIALISTEN</Text>
+        </Text>
+        <Text>
+            <GUID>14443001</GUID>
+            <Text>Anlegestellen</Text>
+        </Text>
+        <Text>
+            <GUID>14443002</GUID>
+            <Text>Handelsposten</Text>
+        </Text>
+        <Text>
+            <GUID>14443003</GUID>
+            <Text>Anlegestellen</Text>
+        </Text>
+        <Text>
+            <GUID>14443004</GUID>
+            <Text>Big Berthas</Text>
+        </Text>
+        <Text>
+            <GUID>14443005</GUID>
+            <Text>Frachtpiers und Handelsposten</Text>
+        </Text>
+        <Text>
+            <GUID>14443000</GUID>
+            <Text>Alle Kulturgebäude</Text>
+        </Text>
+        <Text>
+            <GUID>14443000</GUID>
+            <Text>Ölhäfen und Anlegestellen</Text>
+        </Text>
+        <Text>
+            <GUID>14443033</GUID>
+            <Text>Alle horaiesischen Multifabriken</Text>
+        </Text>
+        <Text>
+            <GUID>14443042</GUID>
+            <Text>Alle horaiesischen Kochstellen</Text>
+        </Text>
+        <Text>
+            <GUID>14443043</GUID>
+            <Text>Alle horaiesischen Großküchen</Text>
+        </Text>
+        <Text>
+            <GUID>14443037</GUID>
+            <Text>Magnatenhäuser</Text>
+        </Text>
+        <Text>
+            <GUID>14443036</GUID>
+            <Text>Magnatenwolkenkratzer</Text>
+        </Text>
+        <Text>
+            <GUID>14443016</GUID>
+            <Text>Alle horaiesischen Nutzpflanzenfarmen</Text>
+        </Text>
+        <Text>
+            <GUID>14443032</GUID>
+            <Text>Magnatenunternehmen</Text>
+        </Text>
+        <Text>
+            <GUID>14443030</GUID>
+            <Text>Alle Wohnhäuser aus Horai</Text>
+        </Text>
+        <Text>
+            <GUID>1414006788</GUID>
+            <Text>Alle öffentlichen Gebäude, außer Garten</Text>
+        </Text>
+        <!-- Quest Texts -->
+        <Text>
+            <GUID>1414006407</GUID>
+            <Text>Klicken Sie und erhalten Sie das Geschenk: Frachtschiff</Text>
+        </Text>
+        <Text>
+            <GUID>1414006609</GUID>
+            <Text>Der Magnat freut sich über den Verkauf der U-Bahn-Tickets.</Text>
+        </Text>
+        <Text>            <!-- Goodwill Payout Quest Title -->
+            <GUID>1414040450</GUID>
+            <Text>Jackpot geknackt</Text>
+        </Text>
+        <!-- Buildings -->
+        <Text>
+            <GUID>1446010</GUID>
+            <Text>Erntelager</Text>
+        </Text>
+        <Text>
+            <GUID>1442504</GUID>
+            <Text>Magnatenwolkenkratzer: Stufe 1</Text>
+        </Text>
+        <Text>
+            <GUID>1442505</GUID>
+            <Text>Magnatenwolkenkratzer: Stufe 2</Text>
+        </Text>
+        <Text>
+            <GUID>1442506</GUID>
+            <Text>Magnatenwolkenkratzer: Stufe 3</Text>
+        </Text>
+        <Text>
+            <GUID>1442507</GUID>
+            <Text>Magnatenwolkenkratzer: Stufe 4</Text>
+        </Text>
+        <Text>
+            <GUID>1447915</GUID>
+            <Text>Handelskammer</Text>
+        </Text>
+        <Text>
+            <GUID>1447916</GUID>
+            <Text>Rathaus</Text>
+        </Text>
+        <Text>
+            <GUID>1447914</GUID>
+            <Text>Hafenmeisterei</Text>
+        </Text>
+        <Text>
+            <GUID>1414015026</GUID>
+            <Text>Admiral Wu Guowei's Hafen</Text>
+        </Text>
+        <Text>
+            <GUID>1414015035</GUID>
+            <Text>Büro</Text>
+        </Text>
+        <Text>
+            <GUID>1414015036</GUID>
+            <Text>Gefängnis</Text>
+        </Text>
+        <Text>
+            <GUID>1414015037</GUID>
+            <Text>Feuerballmörser</Text>
+        </Text>
+        <Text>
+            <GUID>1414015032</GUID>
+            <Text>Flakstellung</Text>
+        </Text>
+        <Text>
+            <GUID>1414015027</GUID>
+            <Text>Kanonenturm</Text>
+        </Text>
+        <Text>
+            <GUID>1414015042</GUID>
+            <Text>Hwacha</Text>
+        </Text>
+        <Text>
+            <GUID>14740081</GUID>
+            <Text>Schlachtkreuzer</Text>
+        </Text>
+        <Text>
+            <GUID>14740083</GUID>
+            <Text>Monitor</Text>
+        </Text>
+        <Text>
+            <GUID>14740082</GUID>
+            <Text>Belagerungskreuzer</Text>
+        </Text>
+        <Text>
+            <GUID>1414006699</GUID>
+            <Text>Sehr effektiv gegen Schiffe.</Text>
+        </Text>
+        <Text>
+            <GUID>1414006700</GUID>
+            <Text>Unterdrückt die Inselverteidigung.</Text>
+        </Text>
+        <Text>
+            <GUID>1414006701</GUID>
+            <Text>Spezialisiert darauf, Hafenanlagen in kürzester Zeit niederzubrennen.</Text>
+        </Text>
+        <Text>
+            <GUID>1414015045</GUID>
+            <Text>Löwenkopf</Text>
+        </Text>
+        <Text>
+            <GUID>1414015047</GUID>
+            <Text>Mit Öl bedeckt!</Text>
+        </Text>
+        <Text>
+            <GUID>1414015048</GUID>
+            <Text>Ölpfützen!</Text>
+        </Text>
+        <Text>
+            <GUID>1414015049</GUID>
+            <Text>Ölrückstände!</Text>
+        </Text>
+        <Text>
+            <GUID>1414006706</GUID>
+            <Text>&lt;img src=&apos;data/ui/2kimages/main/icons/ship_info/icon_hitpoints.png&apos; height=&apos;24&apos; width=&apos;24&apos; /&gt; &lt;font size='17' &gt;[Selection Object Attackable CurHitPoints &gt;&gt; hitpoint]&lt;/font&gt;</Text>
+        </Text>
+        <Text>
+            <GUID>1414015039</GUID>
+            <Text>Festung des Nauarchen</Text>
+        </Text>
+        <Text>
+            <GUID>1414015053</GUID>
+            <Text>Flammenwerfer</Text>
+        </Text>
+        <Text>
+            <GUID>1414015058</GUID>
+            <Text>Das Auge des Drachen</Text>
+        </Text>
+        <!-- Random Ship Duplicates -->
+        <Text>
+            <GUID>14740075</GUID>
+            <Text>Massengutfrachter</Text>
+        </Text>
+        <Text>
+            <GUID>14740076</GUID>
+            <Text>Massengutfrachter</Text>
+        </Text>
+        <Text>
+            <GUID>14740077</GUID>
+            <Text>Massengutfrachter</Text>
+        </Text>
+        <Text>
+            <GUID>1414006623</GUID>
+            <Text>Sir Blakes Versorgungsschiff</Text>
+        </Text>
+        <Text>
+            <GUID>1414006624</GUID>
+            <Text>Madame Kahinas Versorgungsschiff</Text>
+        </Text>
+        <Text>
+            <GUID>1414006625</GUID>
+            <Text>Eli Bleakworths Versorgungsschiff</Text>
+        </Text>
+        <Text>
+            <GUID>1414006626</GUID>
+            <Text>Anne Harlows Versorgungsschiff</Text>
+        </Text>
+        <Text>
+            <GUID>1414006627</GUID>
+            <Text>Isabels Versorgungsschiff</Text>
+        </Text>
+        <Text>
+            <GUID>1414006628</GUID>
+            <Text>Jean La Fortunes Versorgungsschiff</Text>
+        </Text>
+        <Text>
+            <GUID>1414006629</GUID>
+            <Text>Das Versorgungsschiff des alten Nate</Text>
+        </Text>
+        <!-- Random stuff -->
+        <Text>
+            <GUID>1414006472</GUID>
+            <Text>BOB &amp; Söhne</Text>
+        </Text>
+        <Text>
+            <GUID>1414006473</GUID>
+            <Text>Mit den Baumaterialien von Bob &amp; Sons gibt es nichts, was Sie nicht bauen können.</Text>
+        </Text>
+        <Text>
+            <GUID>14740078</GUID>
+            <Text>Wanderarbeiter</Text>
+        </Text>
+        <Text>
+            <GUID>1414006475</GUID>
+            <Text>Kulturelle Motivation</Text>
+        </Text>
+        <Text>
+            <GUID>1414006542</GUID>
+            <Text>Der Gōngrén erzählt Ihnen von diesen Ruinen.</Text>
+        </Text>
+        <Text>
+            <GUID>1414006630</GUID>
+            <Text>Magnatenunternehmen</Text>
+        </Text>
+        <Text>
+            <GUID>1414006631</GUID>
+            <Text>Ich bin davon überzeugt, dass private Subunternehmen die Zukunft sind. Schade nur, dass die Krone dieser Denkweise noch um Jahre hinterherhinkt. Zum Glück hat die Königin im Atoll nichts zu sagen.</Text>
+        </Text>
+        <Text>
+            <GUID>1414006632</GUID>
+            <Text>Also, hier ist das Angebot: Du investierst in Fabriken in Horai, und wir kaufen sie dir ab. Wir übernehmen einen Teil der laufenden Kosten und kümmern uns um alle Probleme.</Text>
+        </Text>
+        <Text>
+            <GUID>1414006633</GUID>
+            <Text>Meine Gegenleistung? Nun, ich verlange nicht viel – nur meinen fairen Anteil am Gewinn, wenn Sie verstehen.</Text>
+        </Text>
+        <Text>
+            <GUID>1414006634</GUID>
+            <Text>Oft für Feste reserviert, doch wer könnte ihrem Stil und Komfort im Alltag widerstehen?</Text>
+        </Text>
+        <Text>
+            <GUID>1414006635</GUID>
+            <Text>Fastfood für Pandabären. Sie müssen fressen oder sterben!</Text>
+        </Text>
+        <Text>
+            <GUID>1414006636</GUID>
+            <Text>Das perfekte Wandmaterial bei feuchten Klimabedingungen.</Text>
+        </Text>
+        <Text>
+            <GUID>1414006638</GUID>
+            <Text>[Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount]t [AssetData([Conditions QuestCondition Context]) Text]</Text>
+        </Text>
+        <Text>
+            <GUID>1414006639</GUID>
+            <Text>Kleine Skulpturen und Ornamente aus Jade, welche es in den Minen dieser Region noch zu entdecken gilt.</Text>
+        </Text>
+        <Text>
+            <GUID>1414006640</GUID>
+            <Text>Ein Teil des Fernen Ostens, der Ihr Volk an seine Herkunft erinnert.</Text>
+        </Text>
+        <Text>
+            <GUID>1414006641</GUID>
+            <Text>Intensiv aromatisch und massenproduziert – nur eine ausgewählte Elite weiß, wie man es richtig herstellt. Ein Rezept geheimer als das der neuen Cola Mola Wola.</Text>
+        </Text>
+        <Text>
+            <GUID>1414006642</GUID>
+            <Text>Es sieht aus wie eine Waffe und riecht nach Müll, aber das süße, cremige Fruchtfleisch wird trotzdem geschätzt.</Text>
+        </Text>
+        <!-- Goodwills Export Tutorial -->
+        <Text>
+            <GUID>1414006565</GUID>
+            <Text>
+                <font size = "14">
+                    <font size = "32">HANDELSVERTRAG</font>
+                    <br />
+                    <br/>
+                    <font size = "18">§1 Lieferbedingungen</font>
+                    <br />
+                    <br/>
+§1.1 Waren können jederzeit zum Lagerungsschiff der E.T.A. auf Omega Haven gebracht werden. Die E.T.A. verwahrt diese in ihrem Massenlager, solange Platz vorhanden ist. <br/>
+§1.2 Die E.T.A. akzeptiert ausschließlich vorverpackte Lieferungen. Die genauen Mengen sind in §3 aufgeführt. <br/>
+§1.3 Sobald die maximale Lagerkapazität erreicht ist, sind Sie verpflichtet, die eingelagerten Waren an einen von der E.T.A. bestimmten Käufer zu exportieren, bevor weitere Lieferungen erfolgen können.<br/>
+        <br/>
+        <font size="18">§2 Zulässige Waren</font>
+        <br />
+        <br/>
+§2.1 Es können Waren aus fünf Kategorien bei der E.T.A. eingelagert werden: Drogen, Wertgegenstände, Alkohol, Luxusgüter und Waffen. Eine detaillierte Beschreibung folgt in §4.<br />
+§2.2 Für jede dieser fünf Kategorien existiert ein separates Lager. <br/>
+<br/>
+<font size="18">§3 Liefermengen</font>
+<br />
+<br/>
+§3.1 Drogen: 10t <br/>
+§3.2 Wertgegenstände: 10t <br/>
+§3.3 Alkohol: 200t <br/>
+§3.4 Luxusgüter: 100t <br/>
+§3.4 Waffen: 50t <br/>
+<br/>
+<font size="18">§4 Warendefinitionen </font>
+<br />
+<br/>
+§4.1 Drogen: Drogen <br/>
+§4.2 VWertgegenstände: Wertgegenstände <br/>
+§4.3 Alkohol: Schnaps, Bier, Rum, Champagner, Cognac, Umeshu, Sake <br/>
+§4.4 Luxusgüter: Shampoo, Limonade, Zigarren, Tabakpfeifen, Hanf, Phonographen, Schmuck, Dampfwagen, Telefone, Radios, Füllfederhalter, Violinen, Billardtische <br/>
+§4.5  Waffen: Waffen, fortschrittliche Waffen, Dynamit, Dampfmotoren, Bomben, Seeminen.</font>
+</Text>
+</Text>
+</ModOp>
+</ModOps>

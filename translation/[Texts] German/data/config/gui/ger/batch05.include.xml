@@ -1,0 +1,426 @@
+<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <!-- Population Levels -->
+        <Text>
+            <GUID>15100000</GUID>
+            <Text>Nóngmín</Text>
+        </Text>
+        <Text>
+            <GUID>15100001</GUID>
+            <Text>Gongrén</Text>
+        </Text>
+        <Text>
+            <GUID>15100002</GUID>
+            <Text>Nóngmín-Arbeitskraft</Text>
+        </Text>
+        <Text>
+            <GUID>15100003</GUID>
+            <Text>Gōngrén-Arbeitskraft</Text>
+        </Text>
+        <Text>
+            <GUID>15100100</GUID>
+            <Text>Magnaten</Text>
+        </Text>
+        <Text>
+            <GUID>15100101</GUID>
+            <Text>Magnaten-Arbeitskräfte</Text>
+        </Text>
+        <Text>
+            <GUID>1442500</GUID>
+            <Text>Magnatenhaus</Text>
+        </Text>
+        <Text>
+            <GUID>1442501</GUID>
+            <Text>Jornalerohaus</Text>
+        </Text>
+        <Text>
+            <GUID>1442502</GUID>
+            <Text>Nóngmínhaus</Text>
+        </Text>
+        <Text>
+            <GUID>1442503</GUID>
+            <Text>Gōngrénhaus</Text>
+        </Text>
+        <Text>
+            <GUID>1447920</GUID>
+            <Text>Wütender Magnat</Text>
+        </Text>
+        <Text>
+            <GUID>1447921</GUID>
+            <Text>Unglücklicher Magnat</Text>
+        </Text>
+        <Text>
+            <GUID>1447922</GUID>
+            <Text>Zufriedener Magnat</Text>
+        </Text>
+        <Text>
+            <GUID>1447923</GUID>
+            <Text>Glücklicher Magnat</Text>
+        </Text>
+        <Text>
+            <GUID>1447924</GUID>
+            <Text>Euphorischer Magnat</Text>
+        </Text>
+        <Text>
+            <GUID>1447930</GUID>
+            <Text>Wütender Nóngmín</Text>
+        </Text>
+        <Text>
+            <GUID>1447931</GUID>
+            <Text>Unglücklicher Nóngmín</Text>
+        </Text>
+        <Text>
+            <GUID>1447932</GUID>
+            <Text>Zufriedener Nóngmín</Text>
+        </Text>
+        <Text>
+            <GUID>1447933</GUID>
+            <Text>Glücklicher Nóngmín</Text>
+        </Text>
+        <Text>
+            <GUID>1447934</GUID>
+            <Text>Euphorischer Nóngmín</Text>
+        </Text>
+        <Text>
+            <GUID>1447935</GUID>
+            <Text>Wütender Gōngrén</Text>
+        </Text>
+        <Text>
+            <GUID>1447936</GUID>
+            <Text>Unglücklicher Gōngrén</Text>
+        </Text>
+        <Text>
+            <GUID>1447937</GUID>
+            <Text>Zufriedener Gōngrén</Text>
+        </Text>
+        <Text>
+            <GUID>1447938</GUID>
+            <Text>Glücklicher Gōngrén</Text>
+        </Text>
+        <Text>
+            <GUID>1447939</GUID>
+            <Text>Euphorischer Gōngrén</Text>
+        </Text>
+        <!-- Deposits -->
+        <Text>
+            <GUID>1447800</GUID>
+            <Text>Kaolinvorkommen</Text>
+        </Text>
+        <Text>
+            <GUID>1447801</GUID>
+            <Text>Feldspatvorkommen</Text>            <!--Typo-->
+        </Text>
+        <Text>
+            <GUID>1447805</GUID>
+            <Text>Eisenvorkommen</Text>
+        </Text>
+        <Text>
+            <GUID>1447806</GUID>
+            <Text>Kupfervorkommen</Text>
+        </Text>
+        <Text>
+            <GUID>1447807</GUID>
+            <Text>Iridiumvorkommen</Text>
+        </Text>
+        <Text>
+            <GUID>1447814</GUID>
+            <Text>Iridiumvorkommen</Text>
+        </Text>
+        <Text>
+            <GUID>1447808</GUID>
+            <Text>Kohlevorkommen</Text>
+        </Text>
+        <Text>
+            <GUID>1447811</GUID>
+            <Text>Kaolinvorkommen</Text>
+        </Text>
+        <Text>
+            <GUID>1447812</GUID>
+            <Text>Feldspatvorkommen</Text>            <!--Typo-->
+        </Text>
+        <Text>
+            <GUID>1447813</GUID>
+            <Text>Pyritkristallvorkommen</Text>            <!--Typo-->
+        </Text>
+        <Text>
+            <GUID>1447803</GUID>
+            <Text>Tonvorkommen</Text>
+        </Text>
+        <Text>
+            <GUID>1447809</GUID>
+            <Text>Tonvorkommen</Text>
+        </Text>
+        <Text>
+            <GUID>1447861</GUID>
+            <Text>Steinvorkommen</Text>
+        </Text>
+        <Text>
+            <GUID>1414040216</GUID>
+            <Text>Steinvorkommen</Text>
+        </Text>
+        <!-- Fertilities -->
+        <Text>
+            <GUID>1414007001</GUID>
+            <Text>Reis-Fruchtbarkeit</Text>
+        </Text>
+        <Text>
+            <GUID>1414007002</GUID>
+            <Text>Tee-Fruchtbarkeit</Text>
+        </Text>
+        <Text>
+            <GUID>1414007003</GUID>
+            <Text>Hanf-Fruchtbarkeit</Text>
+        </Text>
+        <Text>
+            <GUID>1414007004</GUID>
+            <Text>Stör im Überfluss</Text>
+        </Text>
+        <Text>
+            <GUID>1414007006</GUID>
+            <Text>Pfeffer-Fruchtbarkeit</Text>
+        </Text>
+        <Text>
+            <GUID>1414007007</GUID>
+            <Text>Maulbeer-Fruchtbarkeit</Text>
+        </Text>
+        <Text>
+            <GUID>1414007008</GUID>
+            <Text>Ume-Fruchtbarkeit</Text>
+        </Text>
+        <Text>
+            <GUID>1414007009</GUID>
+            <Text>Bienen im Überfluss</Text>
+        </Text>
+        <Text>
+            <GUID>1414007010</GUID>
+            <Text>Soja-Fruchtbarkeit</Text>
+        </Text>
+        <!-- Festivals -->
+
+        <Text>
+            <GUID>1414006720</GUID>
+            <Text>Fest der doppelten Neun</Text>
+        </Text>
+        <Text>
+            <GUID>1414006721</GUID>
+            <Text>Laternenfest</Text>
+        </Text>
+        <Text>
+            <GUID>1414006722</GUID>
+            <Text>Fest des Mondes</Text>
+        </Text>
+        <Text>
+            <GUID>1414006723</GUID>
+            <Text>Kaiserlicher Durbar</Text>
+        </Text>
+        <Text>
+            <GUID>1414006734</GUID>
+            <Text>Eine Neun? Wieder eine neun?! Das muss das Anno aller Festivals sein. Es versteht sich von selbst, dass dein Volk perfekt harmoniert, wie es sich für alle Dinge gehört.</Text>
+        </Text>
+        <Text>
+            <GUID>1414006735</GUID>
+            <Text>Zum Gedenken und Feiern lassen eure Leute Laternen in den Himmel steigen – und knüpfen dabei viele neue Freundschaften und entfachen so manches Feuer.</Text>
+        </Text>
+        <Text>
+            <GUID>1414006748</GUID>
+            <Text>Der Neumond geht auf! Die Menschen begrüßen es mit einem extravaganten Feuerwerk und hoffen auf eine gute Ernte in der kommenden Saison.</Text>
+        </Text>
+        <Text>
+            <GUID>1414006747</GUID>
+            <Text>Unser Volk ist stark und darf nie vergessen, dass es ihm unter der Krone besser geht als je zuvor, sicher, beschützt und gesegnet. Es lebe das Imperium!</Text>
+        </Text>
+        <Text>
+            <GUID>1414008600</GUID>
+            <Text>Fest der doppelten Neun</Text>
+        </Text>
+        <Text>
+            <GUID>1414008601</GUID>
+            <Text>Laternenfest</Text>
+        </Text>
+        <Text>
+            <GUID>1414008602</GUID>
+            <Text>Fest des Mondes</Text>
+        </Text>
+        <Text>
+            <GUID>1414008603</GUID>
+            <Text>Kaiserlicher Durbar</Text>
+        </Text>
+        <!-- More Streetfood -->
+        <Text>
+            <GUID>1442742</GUID>            <!-- Streetfood - Noodle Stand - Buff -->
+            <Text>Nudelstand</Text>
+        </Text>
+        <Text>
+            <GUID>1442743</GUID>            <!-- Streetfood - Street Grill - Buff -->
+            <Text>Straßengrill</Text>
+        </Text>
+        <Text>
+            <GUID>1442744</GUID>            <!-- Streetfood - Steamer Stand - Buff -->
+            <Text>Dampfgarer</Text>
+        </Text>
+        <Text>
+            <GUID>1442745</GUID>            <!-- Streetfood - Dessert Stand - Buff -->
+            <Text>Dessertstand</Text>
+        </Text>
+        <Text>
+            <GUID>1442746</GUID>            <!-- Streetfood - Noodle Stand - Buff -->
+            <Text>Nudelstand</Text>
+        </Text>
+        <Text>
+            <GUID>1442747</GUID>            <!-- Streetfood - Street Grill - Buff -->
+            <Text>Straßengrill</Text>
+        </Text>
+        <Text>
+            <GUID>1442748</GUID>            <!-- Streetfood - Steamer Stand - Buff -->
+            <Text>Dampfgarer</Text>
+        </Text>
+        <Text>
+            <GUID>1442749</GUID>            <!-- Streetfood - Dessert Stand - Buff -->
+            <Text>Dessertstand</Text>
+        </Text>
+        <Text>
+            <GUID>1442700</GUID>            <!-- Streetfood Stand - Description -->
+            <Text>Verwendet Rezepte, um den Bedarf an Imbissständen zu decken.</Text>
+        </Text>
+        <Text>
+            <GUID>1442750</GUID>            <!-- Streetfood - Recipelist - Description -->
+            <Text>Randvoll mit Zutaten und frisch zubereiteten Speisen sind die Imbissstände die erste Anlaufstelle für die Bürger der Östlichen Atolle, wenn sie Abwechslung und einen schnellen Happen suchen. Doch täuscht euch nicht – die Gerichte hier sind alles andere als gewöhnlich. Einfallsreiche Köche passen ihre Menüs oft in letzter Minute an, um den neuesten Trends zu folgen.</Text>
+        </Text>
+        <Text>
+            <GUID>1442725</GUID>            <!-- Streetfood - Nigiri-Sushi Recipe -->
+            <Text>Nigirisushi</Text>
+        </Text>
+        <Text>
+            <GUID>1442751</GUID>            <!-- Streetfood - Nigiri-Sushi Recipe - Description -->
+            <Text>Im Gegensatz zu seinem Oshi-Sushi-Verwandten wird Nigiri-Sushi frisch für jede Bestellung zubereitet. Dank der unerschöpflichen Fülle des Meeres sind die Variationen so vielfältig wie der tägliche Fang – und jede Insel hat oft ihre eigene Spezialität.</Text>
+        </Text>
+        <Text>
+            <GUID>1442726</GUID>            <!-- Streetfood - Vegetable Tempura Recipe -->
+            <Text>Gemüse-Tempura</Text>
+        </Text>
+        <Text>
+            <GUID>1442752</GUID>            <!-- Streetfood - Vegetable Tempura - Description -->
+            <Text>Der bescheidene Knollenspross und sein Begleiter aus roter Paprika werden in einem dünnen Weizenteig paniert und dann goldbraun frittiert. Ein Bissen hinein und Sie werden herausfinden, warum sie so beliebt sind – außen knusprig und innen zart.</Text>
+        </Text>
+        <Text>
+            <GUID>1442727</GUID>            <!-- Streetfood - Hand-Pulled Beef Noodles Recipe -->
+            <Text>handgezogene Beefnudeln</Text>
+        </Text>
+        <Text>
+            <GUID>1442753</GUID>            <!-- Streetfood - Hand-Pulled Beef Noodles - Description -->
+            <Text>Saftig-frische Nudeln und zarter Tofu werden in einer herzhaften Rinderbrühe zu einer herzhaften Mahlzeit gegart. Diese großen, einfachen Schüsseln sind oft sättigend genug, um den Hunger für den Tag zu stillen, damit man nicht den Appetit eines Ochsen verspürt.</Text>
+        </Text>
+        <Text>
+            <GUID>1442728</GUID>            <!-- Streetfood - Takoyaki Recipe -->
+            <Text>Takoyaki</Text>
+        </Text>
+        <Text>
+            <GUID>1442754</GUID>            <!-- Streetfood - Takoyaki - Description -->
+            <Text>Nehmen Sie frittierten Teig und stellen Sie einen einzigartig leckeren Oktopus aus der Neuen Welt vor – das Produkt ist ein ikonischer knuspriger frittierter Snack mit einem zähen Stück Oktopus in seinem teigigen runden Herzen, alles gekrönt mit einer süßen Sojaglasur.</Text>
+        </Text>
+        <Text>
+            <GUID>1442729</GUID>            <!-- Streetfood - Okonomiyaki Recipe -->
+            <Text>Okonomiyaki</Text>
+        </Text>
+        <Text>
+            <GUID>1442755</GUID>            <!-- Streetfood - Okonomiyaki - Description -->
+            <Text>Ein geschichteter Pfannkuchen aus Weizenmehl, gestapelt mit frittierten Zutaten und zerkleinertem Seetang. Der Kunde kann wählen, was er hinzufügen möchte, während der Pfannkuchen frittiert wird, daher der Name.</Text>
+        </Text>
+        <Text>
+            <GUID>1442730</GUID>            <!-- Streetfood - Bak Kwa Recipe -->
+            <Text>Bak Kwa</Text>
+        </Text>
+        <Text>
+            <GUID>1442756</GUID>            <!-- Streetfood - Bak Kwa - Description -->
+            <Text>Zähe, süß-würzige Quadrate aus langsam gegrilltem, mariniertem Fleisch – einst im Fernostreich als Methode zur Haltbarmachung entwickelt. Prinzessin Qing ist ein großer Fan und bittet in ihren Briefen nach Hause oft um Geschenke aus ihrem liebsten Snackladen in der kaiserlichen Hauptstadt.</Text>
+        </Text>
+        <Text>
+            <GUID>1442731</GUID>            <!-- Streetfood - Stir-Fried Rice Recipe -->
+            <Text>Gebratener Reis</Text>
+        </Text>
+        <Text>
+            <GUID>1442757</GUID>            <!-- Streetfood - Stir-Fried Rice - Description -->
+            <Text>Ein verführerisch zarter und luftiger Reis, angereichert mit würzigen Häppchen von Lap Chong und süßem Mais, in der Pfanne frisch gebraten und mit den faszinierenden Funken des Baijiu verfeinert. Hattest du etwa gebratenen Reis mit Garnelen erwartet?</Text>
+        </Text>
+        <Text>
+            <GUID>1442732</GUID>            <!-- Streetfood - Kushiyaki Recipe -->
+            <Text>Kushiyaki</Text>
+        </Text>
+        <Text>
+            <GUID>1442758</GUID>            <!-- Streetfood - Kushiyaki - Description -->
+            <Text>Mit der Vereinigung der östlichen Atolle mit den eisigen Weiten des Arktischen Ozeans und den glühend heißen Ländern Enbesas werden uralte Rezepte nun mit neuen Zutaten verfeinert. Herzhaftes Kebap erhält eine neue Dimension durch das zarte, wild würzige Fleisch von Reh, während belebende Gewürze versprechen, Sir Archibald Blake direkt in die Toilette zu jagen.</Text>
+        </Text>
+        <Text>
+            <GUID>1442733</GUID>            <!-- Streetfood - Congee with Youtiao Recipe -->
+            <Text>Congee mit Youtiao</Text>
+        </Text>
+        <Text>
+            <GUID>1442759</GUID>            <!-- Streetfood - Congee with Youtiao - Description -->
+            <Text>Ein einfacher Brei, der durch das Schmoren von Reis und Wasser zusammen mit verschiedenen Zutaten hergestellt wird und gewöhnlicherweise mit einem Streifen knusprigem, frittiertem Teig serviert wird. Obwohl diese Mahlzeit häufig zum Frühstück verzehrt wird, ist sie oft den ganzen Tag über und in allen sozialen Schichten beliebt.</Text>
+        </Text>
+        <Text>
+            <GUID>1442734</GUID>            <!-- Streetfood - Steamed Bao Buns Recipe -->
+            <Text>Gedämpfte Teigtaschen</Text>
+        </Text>
+        <Text>
+            <GUID>1442760</GUID>            <!-- Streetfood - Steamed Bao Buns - Description -->
+            <Text>Mit einem Zischen von Dampf, der entweicht, sobald die Bambusdämpfer geöffnet werden, empfängt eine dampfende Auswahl von flauschigen, weißen Baos die Gäste, jedes gefüllt mit einer Vielzahl herzhafter Zutaten. Doch welche soll man wählen? Wie viele man isst, entscheidet allein, ob es ein Snack oder eine vollständige Mahlzeit werden soll.</Text>
+        </Text>
+        <Text>
+            <GUID>1442735</GUID>            <!-- Streetfood - Zong Zi Recipe -->
+            <Text>Zongzi</Text>
+        </Text>
+        <Text>
+            <GUID>1442761</GUID>            <!-- Streetfood - Zong Zi - Description -->
+            <Text>Klebreis und Schweinefleisch werden sorgfältig in Bambusblätter eingewickelt und perfekt gedämpft, wodurch ein köstlicher und aromatischer Genuss entsteht, bei dem die Aromen der Blätter in den Reis eindringen. Besucher aus der Neuen Welt haben dies positiv mit ihren Mais-Tamales verglichen.</Text>
+        </Text>
+        <Text>
+            <GUID>1442736</GUID>            <!-- Streetfood - Special Dumpling Soup Recipe -->
+            <Text>Kloßsuppe</Text>
+        </Text>
+        <Text>
+            <GUID>1442762</GUID>            <!-- Streetfood - Special Dumpling Soup - Description -->
+            <Text>Mit der Einführung des zarten Enbesa-Hummers wird dieses klassische Wohlfühlessen auf ein neues Niveau gehoben. Das Ergebnis sind zarte, mundgerechte Teigtaschen aus Hummerfleisch, die in einer warmen, herzhaften Nudelsuppe schwimmen – und lange Schlangen vor dem Restaurant.</Text>
+        </Text>
+        <Text>
+            <GUID>1442737</GUID>            <!-- Streetfood - Dango Recipe -->
+            <Text>Dango</Text>
+        </Text>
+        <Text>
+            <GUID>1442763</GUID>            <!-- Streetfood - Dango - Description -->
+            <Text>Runde Teigtaschen aus verschiedenen Reismehlsorten, überzogen mit gesüßten Gewürzen wie Honig und Zucker. Serviert mit einem Schluck guten Tee.</Text>
+        </Text>
+        <Text>
+            <GUID>1442738</GUID>            <!-- Streetfood - Sweet Doufuhua Recipe -->
+            <Text>Süßes Doufuhua</Text>
+        </Text>
+        <Text>
+            <GUID>1442764</GUID>            <!-- Streetfood - Sweet Doufuhua - Description -->
+            <Text>Gekocht in einem großen Bambuskessel, wird dieses weiche, cremige Tofu mit einer großen flachen Kelle herausgehoben und in dünnen Schichten in eine Schüssel gelegt. Das Gericht, das entweder gekühlt oder bei Zimmertemperatur serviert wird, wird häufig mit einem süßen Ingwersirup beträufelt, was es zu einem erfrischenden und leichten Dessert macht.</Text>
+        </Text>
+        <Text>
+            <GUID>1442739</GUID>            <!-- Streetfood - Imagawayaki Recipe -->
+            <Text>Imagawayaki</Text>
+        </Text>
+        <Text>
+            <GUID>1442765</GUID>            <!-- Streetfood - Imagawayaki - Description -->
+            <Text>Mit einer goldbraun gebackenen, kuchenartigen Außenhülle, die eine süßliche Kartoffelfüllung umschließt, bieten diese köstlichen süßen Pfannkuchen eine wunderbare Mischung aus knusprigen Rändern und warmen, zähen Zentren – perfekt für einen genussvollen Snack zu jeder Tageszeit.</Text>
+        </Text>
+        <Text>
+            <GUID>1442740</GUID>            <!-- Streetfood - Tanghulu Recipe -->
+            <Text>Tanghulu</Text>
+        </Text>
+        <Text>
+            <GUID>1442741</GUID>            <!-- Streetfood - Buff -->
+            <Text>Imbissstände</Text>
+        </Text>
+        <Text>
+            <GUID>1442766</GUID>            <!-- Streetfood - Tanghulu - Description -->
+            <Text>Während der Weißdorn in den östlichen Atollen nur selten zu finden ist, hat die Erfindungsgabe deiner Leute einen ebenso köstlichen Ersatz hervorgebracht – saftige Mandarinenstücke, erfrischende Trauben und säuerliche Umes, die auf einen Spieß gesteckt und anschließend in klarem Zuckerguss glasiert werden. Das Ergebnis ist ein süßer und knuspriger Snack, der mit einer verlockenden Vielfalt an Texturen und Aromen spielt.</Text>
+        </Text>
+        <Text>
+            <GUID>1442700</GUID>            <!-- Streetfood Stand - Description -->
+            <Text>Verwendet Rezepte, um den Bedarf an Imbissständen zu decken.</Text>
+        </Text>
+    </ModOp>
+</ModOps>

@@ -1,0 +1,21 @@
+<ModOps>
+    <Include File = "./ger/audio.include.xml" />
+    <Include File = "./ger/base.include.xml" />
+    <Include File = "./ger/names.include.xml" />
+    <Include File = "./ger/batch03.include.xml" />
+    <Include File = "./ger/customsduty.include.xml" />
+    <Include File = "./ger/ornaments.include.xml" />
+    <Include File = "./ger/batch05.include.xml" />
+    <Include File = "./ger/batch08.include.xml" />
+    <Include File = "./ger/items.include.xml" />
+    <Include File = "./ger/batch10.include.xml" />
+    <Include File = "./ger/batch11.include.xml" />
+    <Include File = "./ger/batch12.include.xml" />
+    <Include File = "./ger/batch13.include.xml" />
+    <Include File = "./ger/batch14.include.xml" />
+    <Include File = "./ger/batch15.include.xml" />
+    <Include File = "./ger/batch18.include.xml" />
+    <Include File = "./ger/batch19.include.xml" />
+    <Include File = "./ger/quest.include.xml" />
+    <Include File = "./ger/edit.include.xml" />
+</ModOps>

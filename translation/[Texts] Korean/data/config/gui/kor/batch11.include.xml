@@ -1,0 +1,294 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">  
+    <!-- Ships -->
+    <Text>
+      <GUID>14740009</GUID>
+      <Text>벌크선</Text>
+    </Text>
+    <Text>
+      <GUID>14740010</GUID>
+      <Text>벌크선은 대량의 상품을 장거리로 운송하기 위해 고안되었습니다.</Text>
+    </Text>    
+    <Text>
+      <GUID>1414006566</GUID>
+      <Text>천명 제국의 선박으로 오해받기 십상입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006568</GUID>
+      <Text>호라이에서 볼 수 있는 고전 양식 선박입니다. 현대 표준에 미치지 못합니다. 그나마 아무도 당신이 이 선박을 소유하고 있다고 생각하지 않는 게 다행이죠.</Text>
+    </Text>
+    <Text>
+      <GUID>14740116</GUID>
+      <Text>피나스</Text>
+    </Text>
+    <Text>
+      <GUID>1414018223</GUID>
+      <Text>적선의 돛대를 파괴하는 사슬탄을 발사하는 쾌속 포함입니다. 적을 추격하는 데 뛰어납니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018224</GUID>
+      <Text>섬을 오가며 소량의 화물을 운송할 수 있는 소형 화물선입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>14740117</GUID>
+      <Text>사슬탄</Text>
+    </Text>
+    <Text>
+      <GUID>14740127</GUID>
+      <Text>굿윌의 무자비한 화물선</Text>  <!-- Flavored Shipname-->
+    </Text>
+    <Text>
+      <GUID>14740129</GUID>
+      <Text>굿윌의 무자비한 화물선</Text> <!-- Flavored Shipname-->
+    </Text>
+    <Text>
+      <GUID>14740126</GUID>
+      <Text>오국위 제독의 사악한 정크선</Text> <!-- Flavored Shipname-->
+    </Text>
+    <!-- Goodwill's Island texts -->
+    <Text>
+      <GUID>1414006074</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]이(가) 최근 경제 위기에서 기회를 발견했습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006075</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]이(가) 머나먼 동방 지역에 정착하도록 초대합니다.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1414006403</GUID>
+      <Text>지난 수년간 동방무역공사의 개혁이 진행됨에 따라 천명 제국과의 경제 활동이 대폭 늘어났습니다. 지금껏 구태 세력이 악랄하고 부당한 수단을 동원하여 저지해 온 발전을 이룩한 것이죠. 시모어 제독이 이 지역을 평정한 이래 천명 제국과의 평등 조약이 체결되어 누구나 자유롭고 공정한 성장을 도모할 수 있게 되었습니다. 동방으로 향하여 조차권을 행사하세요.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1414006404</GUID>
+      <Text>탐험을 마치고 호라이에 진입하여 여정을 계속하세요.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006405</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]이(가) 당신이 호라이에 도착한 것을 환영합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006406</GUID>
+      <Text>첫 정착지를 건설하고 운영할 수 있도록 굿윌이 초기 선박을 제공합니다. 식민지를 빠르게 세울수록 유리합니다. 여왕 폐하께서도 이토록 충실한 종복이 다스리는 영토를 샅샅이 뒤지려고 하진 않을 겁니다.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1446111</GUID>
+      <Text>제임스 굿윌의 저장선</Text>
+    </Text>
+    <Text>
+      <GUID>1446113</GUID>
+      <Text>제임스 굿윌의 등대</Text>
+    </Text>
+    <Text>
+      <GUID>1414040002</GUID>
+      <Text>평등 조약</Text>
+    </Text>
+    <Text>
+      <GUID>1414040004</GUID>
+      <Text>대규모 사업 착수</Text>
+    </Text>
+    <Text>
+      <GUID>14740074</GUID>
+      <Text>E.T.A. 제조 작업장</Text>
+    </Text>
+    <Text>
+      <GUID>1414006548</GUID>
+      <Text>평등 조약 체결됨</Text>
+    </Text>
+    <Text>
+      <GUID>1414006549</GUID>
+      <Text>영광스러운 여왕 폐하께 바치는 결정적인 승리 ++ 국가 무역로를 위협하는 동방 제국의 해적 행위를 종식하는 평화 조약 체결 ++ 그에 대한 배상으로 조차지 획득, 총독의 직접 통치 개시 +++ 자세한 내용은 3페이지 참조</Text>
+    </Text>
+    <Text>
+      <GUID>1414006550</GUID>
+      <Text>일꾼이 낡은 선박을 해체하고 있습니다. 나중에 수리에 쓸 예비 부품을 보관해 둘 모양입니다. 이거죠!</Text>
+    </Text>
+    <Text>
+      <GUID>1414006553</GUID>
+      <Text>첩자와 게으름 피우는 일꾼과 다가오는 선박을 멀리서 지켜보고 있습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006554</GUID>
+      <Text>이 낡은 모니터함은 너무 오랫동안 방치된 탓에 결국 뭍에 끌어올려 고정포대로 재활용하게 되었습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006555</GUID>
+      <Text>두통과 감기에 쓰이는 완전히 합법적인 약물입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006556</GUID>
+      <Text>미술품과 금과 다이아몬드, 모두 합법적으로 취득했습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006558</GUID>
+      <Text>정성을 다해 양조하여 품질과 순도를 높였습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006559</GUID>
+      <Text>수입세 20%가 부과된다고요? 코인을 벌 기회를 다 날려버리겠네요! 어떻게 그럴 수가 있습니까!</Text>
+    </Text>
+    <Text>
+      <GUID>1414006560</GUID>
+      <Text>정의로운 자의 손으로 오로지 평화적인 목적으로만 사용해야 합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414015008</GUID>
+      <Text>굿윌의 저택</Text>
+    </Text>
+    <Text>
+      <GUID>1414006557</GUID>
+      <Text>밀수품</Text>
+    </Text>
+    <Text>
+      <GUID>1414040202</GUID>
+      <Text>왕립 수송대: 함선을 격침하여 약물과 귀중품을 확보하세요.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006561</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]이(가) 밀수품을 저장고로 옮길 준비가 되었는지 물어봅니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006562</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]이(가) 밀수품을 창고에 보관했습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006563</GUID>
+      <Text>밀수품 저장고</Text>
+    </Text>
+    <Text>
+      <GUID>1414006564</GUID>
+      <Text>제임스 굿윌이 당신의 선박에 실린 약물을 저장고로 옮겨도 될지 물어봅니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006569</GUID>
+      <Text>제임스 굿윌이 당신의 선박에 실린 귀중품을 저장고로 옮겨도 될지 물어봅니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006570</GUID>
+      <Text>제임스 굿윌이 당신의 선박에 실린 주류를 저장고로 옮겨도 될지 물어봅니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006571</GUID>
+      <Text>제임스 굿윌이 당신의 선박에 실린 사치품을 저장고로 옮겨도 될지 물어봅니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006572</GUID>
+      <Text>제임스 굿윌이 당신의 선박에 실린 무기를 저장고로 옮겨도 될지 물어봅니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006567</GUID>
+      <Text>정크선 건조 허가</Text>
+    </Text>
+    <Text>
+      <GUID>1414015021</GUID>
+      <Text>[Selection Object Residence EconomyModifier(0) &gt;&gt; storagegoodM]/[Selection Object Area Economy StorageCapacity(1440505) &gt;&gt; storagegoodM]톤의 [AssetData(1440505) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414015022</GUID>
+      <Text>[Selection Object Residence EconomyModifier(0) &gt;&gt; storagegoodM]/[Selection Object Area Economy StorageCapacity(1440506) &gt;&gt; storagegoodM]톤의 [AssetData(1440506) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414015023</GUID>
+      <Text>[Selection Object Residence EconomyModifier(0) &gt;&gt; storagegoodM]/[Selection Object Area Economy StorageCapacity(1440502) &gt;&gt; storagegoodM]톤의 [AssetData(1440502) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414015024</GUID>
+      <Text>[Selection Object Residence EconomyModifier(0) &gt;&gt; storagegoodM]/[Selection Object Area Economy StorageCapacity(1440504) &gt;&gt; storagegoodM]톤의 [AssetData(1440504) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414015025</GUID>
+      <Text>[Selection Object Residence EconomyModifier(0) &gt;&gt; storagegoodM]/[Selection Object Area Economy StorageCapacity(1440503) &gt;&gt; storagegoodM]톤의 [AssetData(1440503) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414040210</GUID>
+      <Text>약물 저장고</Text>
+    </Text>
+    <Text>
+      <GUID>1414040211</GUID>
+      <Text>귀중품 저장고</Text>
+    </Text>
+    <Text>
+      <GUID>1414040212</GUID>
+      <Text>주류 저장고</Text>
+    </Text>
+    <Text>
+      <GUID>1414040213</GUID>
+      <Text>무기 저장고</Text>
+    </Text>
+    <Text>
+      <GUID>1414040214</GUID>
+      <Text>사치품 저장고</Text>
+    </Text>
+    <Text>
+      <GUID>14740100</GUID>
+      <Text>[AssetData(1010062) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>14740101</GUID>
+      <Text>[AssetData(1010062) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>14740103</GUID>
+      <Text>위장 깃발</Text>
+    </Text>
+    <Text>
+      <GUID>1414006573</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]이(가) 배송을 마친 걸 알아차립니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006574</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]이(가) 배송에 감사를 표합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006585</GUID>
+      <Text>오메가 헤이븐으로 선박을 보내서 대금을 수령하세요.</Text>
+    </Text>
+    <Text>
+      <GUID>14740120</GUID>
+      <Text>봉쇄 돌파선</Text>
+    </Text>
+    <Text>
+      <GUID>1414006585</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]이(가) 대금을 지급할 준비를 마쳤습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414040217</GUID>
+      <Text>약물을 수출할 준비를 마쳤습니다! 클릭하여 배송 임무를 수행하세요.</Text>
+    </Text>
+    <Text>
+      <GUID>1414040218</GUID>
+      <Text>귀중품을 수출할 준비를 마쳤습니다! 클릭하여 배송 임무를 수행하세요.</Text>
+    </Text>
+    <Text>
+      <GUID>1414040219</GUID>
+      <Text>주류를 수출할 준비를 마쳤습니다! 클릭하여 배송 임무를 수행하세요.</Text>
+    </Text>
+    <Text>
+      <GUID>1414040220</GUID>
+      <Text>무기를 수출할 준비를 마쳤습니다! 클릭하여 배송 임무를 수행하세요.</Text>
+    </Text>
+    <Text>
+      <GUID>1414040221</GUID>
+      <Text>사치품을 수출할 준비를 마쳤습니다! 클릭하여 배송 임무를 수행하세요.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006747</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]이(가) 약물을 수출할 준비를 마쳤음을 알립니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018200</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]이(가) 귀중품을 수출할 준비를 마쳤음을 알립니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018201</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]이(가) 주류를 수출할 준비를 마쳤음을 알립니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018202</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]이(가) 사치품을 수출할 준비를 마쳤음을 알립니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018203</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]이(가) 무기를 수출할 준비를 마쳤음을 알립니다.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

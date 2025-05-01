@@ -1,0 +1,342 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+
+    <Text>
+      <GUID>1414050006</GUID>
+      <Text>寿司危机席“卷”而来！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050007</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]地区的寿司爱好者们失望地发现，由于突如其来的供应问题，本地的寿司店的招牌寿司卷已长期处于短缺状态。本地寿司卷大厨表示，本次供应危机主要是由于本地海鲜供应短缺导致的，目前厨师和店主们都在努力让寿司卷再次伟大。</Text>
+    </Text>
+    <Text>
+      <GUID>1414050022</GUID>
+      <Text>茶饮供应问题正在沸腾！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050023</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]的茶叶供应正处于痛苦的挤兑困境中！居民们沉浸在绝望中，不知道什么时候才能再喝上一杯像样的茶。</Text>
+    </Text>
+    <Text>
+      <GUID>1414050025</GUID>
+      <Text>梅酒？美酒？没酒！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050026</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]的梅酒短缺让当地居民只能对着空杯子叹气！这种短缺会很快得到缓解吗？还是会发酵成全面的灾难？</Text>
+    </Text>
+    <Text>
+      <GUID>1414050028</GUID>
+      <Text>惜斗笠！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050029</GUID>
+      <Text>“风吹斗笠掉，行人速弯腰。若是慢一秒，怕被人捡跑。”这首可笑的民谣在[Newspaper FindArticle([RefGuid]) Context TownName]快速流传，只因当地已长期困于斗笠脱销状态。丰收季节即将到来，当地佃户们都想买顶新斗笠来应付酷暑，但根本买不到！本地居民习惯了这种便宜帽子，不想要也买不到其他替代品。当地一名供应商表示，西式帽子是圆顶的，但本地居民显然更喜爱尖顶的。况且跨洋转运的运费使这些西式帽子的成本高的吓人。</Text>
+    </Text>
+    <Text>
+      <GUID>1414050031</GUID>
+      <Text>和服不合身！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050032</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]爆发和服短缺问题！居民们担心，他们可能很快只能衣不蔽体！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050034</GUID>
+      <Text>鸭飞蛋打！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050035</GUID>
+      <Text>在[Newspaper FindArticle([RefGuid]) Context TownName]，当地人因烤鸭短缺而感到不安，他们迫切需要当局解决日益严重的危机！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050037</GUID>
+      <Text>此地无瓷！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050038</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]的瓷器店里只有空荡荡的货架，而无瓷器售卖！如果当局不采取纠正措施，情况只会变得越来越微妙！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050040</GUID>
+      <Text>黄酒生意要黄了！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050041</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]地区的居民痛苦地发现，他们现在连借酒浇愁的道具——黄酒都已经找不到了！绝望的居民希望地方当局能在人心进一步低落之前拿出解决方案。</Text>
+    </Text>
+    <Text>
+      <GUID>1414050043</GUID>
+      <Text>信息黑洞！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050044</GUID>
+      <Text>收音机已在[Newspaper FindArticle([RefGuid]) Context TownName]地区绝迹！由于没有新闻广播，谣言现在比无线电传播得更快！当局会关注这一通信危机吗？</Text>
+    </Text>
+    <Text>
+      <GUID>1414050046</GUID>
+      <Text>吻别蓝纹奶酪？！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050047</GUID>
+      <Text>在[Newspaper FindArticle([RefGuid]) Context TownName]地区的蓝纹奶酪供应问题快速发酵，让当地人的心都碎了！有传言说，在未来几周内，情况可能都无法缓解！这让当地民怨激增！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050049</GUID>
+      <Text>真丝真没了！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050050</GUID>
+      <Text>一场真丝服饰的供应危机在[Newspaper FindArticle([RefGuid]) Context TownName]地区快速爆发！被真丝面料惯坏的居民现在感到普通衣物是如此粗糙，难以忍耐！随着社会受到服装界供应链问题的程度加深，产能不足的问题还能被缝合吗</Text>
+    </Text>
+    <Text>
+      <GUID>1414050052</GUID>
+      <Text>报业被迫停工！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050053</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]地区钢笔严重短缺，重要协议无法签署，市政服务全面停摆。由于本社也受到此次危机影响，我们勉强制作了这一期！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050055</GUID>
+      <Text>诡异的寂静！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050056</GUID>
+      <Text>由于[Newspaper FindArticle([RefGuid]) Context TownName]地区古筝乐器的短缺，本地音乐家已经很久无法演奏乐曲了。这对本地游客都是个巨大麻烦——没有BGM，怎么体现自己身处何地呢？</Text>
+    </Text>
+    <Text>
+      <GUID>1414050058</GUID>
+      <Text>佃户劳动力不足！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050059</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]的佃户劳动力不足问题已经影响到了本地的粮食生产！一位忧虑的稻农说：“如果想不发生饥荒，我们必须在下个月前完成收割！”</Text>
+    </Text>
+    <Text>
+      <GUID>1414050061</GUID>
+      <Text>匠户劳动力市场紧张！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050062</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]地区的劳动力紧张问题将无数大亨逼向破产的边缘。当地的匠户劳动力短缺问题必须立即解决，以免带崩我们的经济！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050076</GUID>
+      <Text>寺庙落成，天降祥瑞！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050077</GUID>
+      <Text>一座崭新的寺庙在[Newspaper FindArticle([RefGuid]) Context TownName]地区落成，吸引了无数信众与漫天神佛的关注。诸天神佛普遍对该庙设计表示赞赏，但也有不同意见：“没有温泉，下凡显灵的意义何在？”</Text>
+    </Text>
+    <Text>
+      <GUID>1414050079</GUID>
+      <Text>水花飞溅！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050080</GUID>
+      <Text>一座崭新的公共澡堂本周在[Newspaper FindArticle([RefGuid]) Context TownName]地区落成。该澡堂提供舒缓的温泉和宁静的氛围。虽然大多数顾客都很享受这里的氛围，但一位客人尝试在这里高台跳水，导致店方火速出台了禁止戏水打闹的告示牌。</Text>
+    </Text>
+    <Text>
+      <GUID>1414050082</GUID>
+      <Text>和谐之门</Text>
+    </Text>
+    <Text>
+      <GUID>1414050083</GUID>
+      <Text>在[Newspaper FindArticle([RefGuid]) Context TownName]建设一座市政花园的决议日前达成，其规划占地面积惊人。城市规划者还没有最终决定花园布局，尽管无论如何，这里都将是一个逃离现代世界，清心禅修的绝佳场所。</Text>
+    </Text>
+    <Text>
+      <GUID>1414050085</GUID>
+      <Text>自由的市民，自由地穿行于城市</Text>
+    </Text>
+    <Text>
+      <GUID>1414050086</GUID>
+      <Text>像[Newspaper FindArticle([RefGuid]) Context TownName]这样的大城市里，生活节奏正在加速。其中的例证之一就是这里新近落成的地铁工程。一位年轻的大亨评论说：“我非常喜欢新开通的地铁，因为自从开通以来，低端的行人出行都乘地下的地铁而不是占用地上的街道，这真的给我的新车带来了巨大的方便。”</Text>
+    </Text>
+    
+    <Text>
+      <GUID>54005100</GUID>
+      <Text>还是1404的味道</Text>      <!--Grammar-->
+    </Text>
+    <Text>
+      <GUID>54005101</GUID>
+      <Text>美味水果</Text>
+    </Text>
+    <Text>
+      <GUID>54005102</GUID>
+      <Text>有人说，这代表着未来</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005103</GUID>
+      <Text>重要的宣传武器，确保市民都能养成正确三观。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005104</GUID>
+      <Text>巴氏杀菌，均质，含3.5%脂肪。</Text>
+    </Text>
+    <Text>
+      <GUID>54005105</GUID>
+      <Text>滴滴嗒嗒-咔咔嚓嚓-</Text>
+    </Text>
+    <Text>
+      <GUID>54005106</GUID>
+      <Text>第一代橡胶绝缘电线</Text>      <!--Capitalization-->
+    </Text>
+    <Text>
+      <GUID>54005107</GUID>
+      <Text>宣告电报消亡</Text>      <!--Capitalization-->
+    </Text>
+    <Text>
+      <GUID>54005108</GUID>
+      <Text>能检测到哪怕最微弱的无线电信号</Text>      <!--Capitalization-->
+    </Text>
+    <Text>
+      <GUID>54005109</GUID>
+      <Text>神奇的气体，过氯纯化后的版本</Text>      <!--Grammar-->
+    </Text>
+    <Text>
+      <GUID>54005110</GUID>
+      <Text>储存各种数据的基石</Text>      <!--Grammar-->
+    </Text>
+    <Text>
+      <GUID>54005111</GUID>
+      <Text>在那里能创建出一个新世界吗？</Text>      <!--Grammar-->
+    </Text>
+    <Text>
+      <GUID>54005112</GUID>
+      <Text>特别添加的蓝纹配方，使产品口感更好。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005113</GUID>
+      <Text>尖酸，但幽默。</Text>
+    </Text>
+    <Text>
+      <GUID>54005114</GUID>
+      <Text>好喝，又不含酒精</Text>      <!--Capitalization-->
+    </Text>
+    <Text>
+      <GUID>54005115</GUID>
+      <Text>尽管这不是黄金，但这种矿物也是一种重要的资源。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005116</GUID>
+      <Text>一种粘性很大的短粒粳米。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005118</GUID>
+      <Text>手工制作的寿司，含有本地的鱼类和大米。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005119</GUID>
+      <Text>一种特殊的梅子，在酿造过程中加入，可以把普通的黄酒变成梅酒。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005120</GUID>
+      <Text>各种茶叶。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005121</GUID>
+      <Text>茶叶与远东密不可分。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005122</GUID>
+      <Text>尽管来源于泥土，但它像雪一样发出莹白色的光芒。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005123</GUID>
+      <Text>一种随处可见的矿产，除了在你最需要它的时候。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005124</GUID>
+      <Text>别丢了！</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005125</GUID>
+      <Text>丝丝缕缕都蕴含着桑蚕的生命之功。</Text>
+    </Text>
+    <Text>
+      <GUID>54005126</GUID>
+      <Text>最好、最光滑的织物。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005127</GUID>
+      <Text>看起来出奇的绿。</Text>
+    </Text>
+    <Text>
+      <GUID>54005128</GUID>
+      <Text>没看过这些，你都没充分理解什么才叫“丰富多彩”！</Text>
+    </Text>
+    <Text>
+      <GUID>54005129</GUID>
+      <Text>一种富含糖分的，非常粘的物质。</Text>
+    </Text>
+    <Text>
+      <GUID>54005130</GUID>
+      <Text>唯一正宗的费尔德曼酵母。</Text>
+    </Text>
+    <Text>
+      <GUID>54005131</GUID>
+      <Text>西方传统喜欢用浅碟盛着喝。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005132</GUID>
+      <Text>嘎嘎嘎！</Text>
+    </Text>
+    <Text>
+      <GUID>54005133</GUID>
+      <Text>当地蜜蜂，与安贝沙的完全不同。</Text>
+    </Text>
+    <Text>
+      <GUID>54005134</GUID>
+      <Text>多汁的鸭肉配上酥脆的豆皮。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005135</GUID>
+      <Text>任何佃户都欲罢不能的小小嗜好品</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005136</GUID>
+      <Text>一种过于珍贵而没人真正研究过其毒性的蘑菇。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005137</GUID>
+      <Text>其配方比可口可乐还神秘</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005141</GUID>
+      <Text>一种坚硬却易碎的金属，许多制笔商声称它能提高笔芯质量。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005142</GUID>
+      <Text>炖牛肉，但是外包了。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005143</GUID>
+      <Text>作为东方饮食的重要组成部分，这种豆类还没有被素食者滥用到令人生厌的地步。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005144</GUID>
+      <Text>欢迎来品尝顶尖上等精华中的精华！</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005145</GUID>
+      <Text>说真的……到底是谁爱吃这种东西？</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1414006023</GUID>
+      <Text>忘了那些辣椒吧，这是正宗的胡椒！</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1414006024</GUID>
+      <Text>增加风味！</Text>
+    </Text>
+    <Text>
+      <GUID>1414006025</GUID>
+      <Text>一种银色的小鱼，非常美味。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1414006026</GUID>
+      <Text>一片漆黑</Text>
+    </Text>
+  </ModOp>
+</ModOps>

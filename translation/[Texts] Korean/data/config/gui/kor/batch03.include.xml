@@ -1,0 +1,558 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- Construction Menu Names -->
+    <Text>
+      <GUID>1445610</GUID>
+      <Text>산업</Text>
+    </Text>    
+    <Text>
+      <GUID>1445607</GUID>
+      <Text>소비재</Text>
+    </Text>
+    <Text>
+      <GUID>1445608</GUID>
+      <Text>도시</Text>
+    </Text>
+    <Text>
+      <GUID>1445609</GUID>
+      <Text>원자재</Text>
+    </Text>    
+    <Text>
+      <GUID>1445001</GUID>
+      <Text>만년필</Text>
+    </Text>
+    <Text>
+      <GUID>1445002</GUID>
+      <Text>라디오</Text>
+    </Text>
+    <Text>
+      <GUID>1445004</GUID>
+      <Text>녹차</Text>
+    </Text>
+    <Text>
+      <GUID>1445006</GUID>
+      <Text>전화기</Text>
+    </Text>
+    <Text>
+      <GUID>1445007</GUID>
+      <Text>블루 치즈</Text>
+    </Text>
+    <Text>
+      <GUID>1445008</GUID>
+      <Text>도자기</Text>
+    </Text>
+    <Text>
+      <GUID>1445009</GUID>
+      <Text>비단 조끼</Text>
+    </Text>
+    <Text>
+      <GUID>1445020</GUID>
+      <Text>누름 초밥</Text>
+    </Text>
+    <Text>
+      <GUID>1445019</GUID>
+      <Text>매실주</Text>
+    </Text>
+    <Text>
+      <GUID>1445028</GUID>
+      <Text>녹차</Text>
+    </Text>
+    <Text>
+      <GUID>1445022</GUID>
+      <Text>기모노</Text>
+    </Text>
+    <Text>
+      <GUID>1445024</GUID>
+      <Text>사케</Text>
+    </Text>
+    <Text>
+      <GUID>1445025</GUID>
+      <Text>도자기</Text>
+    </Text>
+    <Text>
+      <GUID>1445026</GUID>
+      <Text>통조림</Text>
+    </Text>
+    <Text>
+      <GUID>1445027</GUID>
+      <Text>오리구이</Text>
+    </Text>
+    <Text>
+      <GUID>1445090</GUID>
+      <Text>귀족 버섯</Text>
+    </Text>
+    <Text>
+      <GUID>1414006077</GUID>
+      <Text>무역 상품</Text>
+    </Text>
+    <Text>
+      <GUID>1414006079</GUID>
+      <Text>이 상품은 생산할 수 없습니다. 무역상으로부터 구입하세요.</Text>
+    </Text>
+    <Text>
+      <GUID>1445080</GUID>
+      <Text>녹차</Text>
+    </Text>
+    <Text>
+      <GUID>1445083</GUID>
+      <Text>현</Text>
+    </Text>
+    <Text>
+      <GUID>1445612</GUID>
+      <Text>열대 우림 나무</Text>
+    </Text>
+    <Text>
+      <GUID>1445630</GUID>
+      <Text>길거리 음식 가게</Text>      <!-- Construction Category -->
+    </Text>
+    <Text>
+      <GUID>1445631</GUID>
+      <Text>국수</Text>      <!-- Production Chain -->
+    </Text>
+    <Text>
+      <GUID>1445632</GUID>
+      <Text>두부</Text>      <!-- Production Chain -->
+    </Text>
+    <Text>
+      <GUID>1445092</GUID>
+      <Text>코지</Text>
+    </Text>
+    <Text>
+      <GUID>1445040</GUID>
+      <Text>캐비아 크래커</Text>
+    </Text>
+    <Text>
+      <GUID>1445056</GUID>
+      <Text>고토</Text>
+    </Text>
+    <Text>
+      <GUID>1445041</GUID>
+      <Text>사케</Text>
+    </Text>
+    <Text>
+      <GUID>1445031</GUID>
+      <Text>목재</Text>
+    </Text>
+    <Text>
+      <GUID>1445032</GUID>
+      <Text>점토 플라스터</Text>
+    </Text>
+    <Text>
+      <GUID>1445604</GUID>
+      <Text>소형 항만</Text>
+    </Text>
+    <Text>
+      <GUID>1445605</GUID>
+      <Text>대형 항만</Text>
+    </Text>    
+    <Text>
+      <GUID>1445039</GUID>
+      <Text>삿갓</Text>
+    </Text>    
+    <!-- Outsourced production chains, refer to vanilla texts -->
+    <Text>
+      <GUID>1445042</GUID>
+      <Text>수지</Text>
+    </Text>
+    <Text>
+      <GUID>1445043</GUID>
+      <Text>강철</Text>
+    </Text>
+    <Text>
+      <GUID>1445044</GUID>
+      <Text>철재</Text>
+    </Text>
+    <Text>
+      <GUID>1445045</GUID>
+      <Text>유리</Text>
+    </Text>
+    <Text>
+      <GUID>1445046</GUID>
+      <Text>필라멘트</Text>
+    </Text>
+    <Text>
+      <GUID>1445047</GUID>
+      <Text>강화 콘크리트</Text>
+    </Text>
+    <Text>
+      <GUID>1445048</GUID>
+      <Text>전기</Text>
+    </Text>
+    <Text>
+      <GUID>1445049</GUID>
+      <Text>다이너마이트</Text>
+    </Text>
+    <Text>
+      <GUID>1445050</GUID>
+      <Text>황동</Text>
+    </Text>
+    <Text>
+      <GUID>1445051</GUID>
+      <Text>증기 모터</Text>
+    </Text>
+    <Text>
+      <GUID>1445052</GUID>
+      <Text>금</Text>
+    </Text>
+    <Text>
+      <GUID>1445053</GUID>
+      <Text>차체</Text>
+    </Text>
+    <Text>
+      <GUID>1445054</GUID>
+      <Text>라디오 수신기</Text>
+    </Text>
+    <Text>
+      <GUID>1445055</GUID>
+      <Text>석유</Text>
+    </Text>
+    <Text>
+      <GUID>1445077</GUID>
+      <Text>창문</Text>
+    </Text>    
+    <Text>
+      <GUID>1445038</GUID>
+      <Text>[AssetData(269835) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1445033</GUID>
+      <Text>철재</Text>
+    </Text>
+    <Text>
+      <GUID>1445034</GUID>
+      <Text>금</Text>
+    </Text>
+    <Text>
+      <GUID>1445035</GUID>
+      <Text>다이너마이트</Text>
+    </Text>
+    <Text>
+      <GUID>1445036</GUID>
+      <Text>황동</Text>
+    </Text>
+    <Text>
+      <GUID>1445037</GUID>
+      <Text>유리</Text>
+    </Text>
+    <!-- Ornamental -->
+    <Text>
+      <GUID>1445636</GUID>
+      <Text>바위</Text>
+    </Text>
+    <Text>
+      <GUID>1445637</GUID>
+      <Text>정원 바위</Text>
+    </Text>
+    <Text>
+      <GUID>1445638</GUID>
+      <Text>관목</Text>
+    </Text>
+    <Text>
+      <GUID>1445634</GUID>
+      <Text>도성</Text>
+    </Text>
+    <Text>
+      <GUID>1445635</GUID>
+      <Text>회랑</Text>
+    </Text>
+    <Text>
+      <GUID>1445627</GUID>
+      <Text>도심</Text>
+    </Text>
+    <Text>
+      <GUID>1445628</GUID>
+      <Text>야외 시장</Text>
+    </Text>
+    <Text>
+      <GUID>1445629</GUID>
+      <Text>탑</Text>
+    </Text>
+    <Text>
+      <GUID>1445626</GUID>
+      <Text>대문</Text>
+    </Text>
+    <Text>
+      <GUID>1445621</GUID>
+      <Text>자갈</Text>
+    </Text>
+    <Text>
+      <GUID>1445622</GUID>
+      <Text>건축</Text>
+    </Text>
+    <Text>
+      <GUID>1445623</GUID>
+      <Text>잔디</Text>
+    </Text>
+    <Text>
+      <GUID>1445633</GUID>
+      <Text>항만</Text>
+    </Text>
+    <Text>
+      <GUID>1445624</GUID>
+      <Text>기둥</Text>
+    </Text>
+    <Text>
+      <GUID>1445625</GUID>
+      <Text>온대 나무</Text>
+    </Text>
+    <Text>
+      <GUID>1445618</GUID>
+      <Text>일본식 정원 나무</Text>
+    </Text>
+    <Text>
+      <GUID>1445619</GUID>
+      <Text>공원 나무</Text>
+    </Text>
+    <Text>
+      <GUID>1445615</GUID>
+      <Text>일본식 정원 자갈</Text>
+    </Text>
+    <Text>
+      <GUID>1445613</GUID>
+      <Text>정원</Text>
+    </Text>
+    <Text>
+      <GUID>1445611</GUID>
+      <Text>자갈</Text>
+    </Text>
+    <Text>
+      <GUID>1445614</GUID>
+      <Text>초목을 심은 자갈</Text>
+    </Text>
+    <Text>
+      <GUID>1445616</GUID>
+      <Text>무늬를 이룬 자갈</Text>
+    </Text>
+    <Text>
+      <GUID>1445617</GUID>
+      <Text>벽</Text>
+    </Text>
+    <Text>
+      <GUID>1445620</GUID>
+      <Text>조각상 조명</Text>
+    </Text>
+    <!-- Keep "Import Pier" in line with Noblesse Oblige-->
+    <Text>
+      <GUID>1441350</GUID>
+      <Text>수입 부두: 제표기</Text>
+    </Text>
+    <Text>
+      <GUID>1441351</GUID>
+      <Text>수입 부두: 버번 위스키</Text>
+    </Text>
+    <Text>
+      <GUID>1441352</GUID>
+      <Text>수입 부두: 자동차</Text>
+    </Text>
+    <Text>
+      <GUID>1441359</GUID>
+      <Text>수입 부두: 다이아몬드</Text>
+    </Text>
+    <Text>
+      <GUID>1441358</GUID>
+      <Text>수입 부두: 은괴</Text>
+    </Text>
+    <Text>
+      <GUID>1441357</GUID>
+      <Text>수입 부두: 텅스텐</Text>
+    </Text>
+    <Text>
+      <!-- Magnate Buff Building in Asia-->
+      <GUID>1441332</GUID>
+      <Text>지역 사무소</Text>
+    </Text>
+    <Text>
+      <!-- Redeeming Trade Licenses Text-->
+      <GUID>1441331</GUID>
+      <Text>Redeeming [AssetData(1999005351) Text]</Text>
+    </Text>
+    <!-- Production -->
+    <Text>
+      <GUID>1441279</GUID>
+      <Text>축산 가공장</Text>
+    </Text>
+    <Text>
+      <GUID>1441237</GUID>
+      <Text>석탄 광산</Text>
+    </Text>
+    <Text>
+      <GUID>1441238</GUID>
+      <Text>구리 광산</Text>
+    </Text>
+    <Text>
+      <GUID>1441241</GUID>
+      <Text>점토 채취장</Text>
+    </Text>
+    <Text>
+      <GUID>1441242</GUID>
+      <Text>점토 플라스터 공장</Text>
+    </Text>    
+    <Text>
+      <GUID>1441243</GUID>
+      <Text>[AssetData(1010297) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1441244</GUID>
+      <Text>[AssetData(1010296) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1441245</GUID>
+      <Text>[AssetData(1010327) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1441246</GUID>
+      <Text>[AssetData(1010300) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1441247</GUID>
+      <Text>[AssetData(1010282) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1441248</GUID>
+      <Text>[AssetData(1010310) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1441249</GUID>
+      <Text>[AssetData(1010560) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1441250</GUID>
+      <Text>[AssetData(1010319) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1441234</GUID>
+      <Text>벌목꾼의 오두막</Text>
+    </Text>
+    <Text>
+      <GUID>1441236</GUID>
+      <Text>[AssetData(100451) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1441500</GUID>
+      <Text>[AssetData(269849) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1441501</GUID>
+      <Text>[AssetData(269848) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1441502</GUID>
+      <Text>[AssetData(269958) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1441356</GUID>
+      <Text>캐비아</Text>
+    </Text>
+    <Text>
+      <GUID>1441263</GUID>
+      <Text>제철소</Text>
+    </Text>
+    <Text>
+      <GUID>1441264</GUID>
+      <Text>제강소</Text>
+    </Text>
+    <Text>
+      <GUID>1441265</GUID>
+      <Text>유리 제조소</Text>
+    </Text>
+    <Text>
+      <GUID>1441266</GUID>
+      <Text>필라멘트 공장</Text>
+    </Text>
+    <Text>
+      <GUID>1441267</GUID>
+      <Text>콘크리트 공장</Text>
+    </Text>
+    <Text>
+      <GUID>1441277</GUID>
+      <Text>창문 공장</Text>
+    </Text>
+    <Text>
+      <GUID>1441268</GUID>
+      <Text>유류 발전소</Text>
+    </Text>
+    <Text>
+      <GUID>1441269</GUID>
+      <Text>다이너마이트 공장</Text>
+    </Text>
+    <Text>
+      <GUID>1441270</GUID>
+      <Text>황동 제작소</Text>
+    </Text>
+    <Text>
+      <GUID>1441271</GUID>
+      <Text>전동기 공장</Text>
+    </Text>
+    <Text>
+      <GUID>1441272</GUID>
+      <Text>금 세공소</Text>
+    </Text>
+    <Text>
+      <GUID>1441273</GUID>
+      <Text>마차 제작소</Text>
+    </Text>
+    <Text>
+      <GUID>1441275</GUID>
+      <Text>플라스틱 공장</Text>
+    </Text>
+    <Text>
+      <GUID>1441287</GUID>
+      <Text>라디오 수신기</Text>
+    </Text>
+    <Text>
+      <GUID>1441292</GUID>
+      <Text>정유 공장</Text>
+    </Text>
+    <Text>
+      <GUID>1441293</GUID>
+      <Text>유정</Text>
+    </Text>
+    <!-- Recipes -->
+    <Text>
+      <GUID>1441288</GUID>
+      <Text>현</Text>
+    </Text>
+    <Text>
+      <GUID>1441289</GUID>
+      <Text>만년필 펜촉</Text>
+    </Text>
+    <Text>
+      <GUID>1441304</GUID>
+      <Text>래커</Text>
+    </Text>
+    <Text>
+      <GUID>1441305</GUID>
+      <Text>셀룰로이드</Text>
+    </Text>
+    <Text>
+      <GUID>1441306</GUID>
+      <Text>에탄올</Text>
+    </Text>
+    <Text>
+      <GUID>1441314</GUID>
+      <Text>누름 초밥</Text>
+    </Text>
+    <Text>
+      <GUID>1441315</GUID>
+      <Text>간장</Text>
+    </Text>
+    <Text>
+      <GUID>1441334</GUID>
+      <Text>국수</Text>
+    </Text>
+    <Text>
+      <GUID>1441335</GUID>
+      <Text>두부</Text>
+    </Text>
+    <Text>
+      <!-- Blank Recipe-->
+      <GUID>1441319</GUID>
+      <Text>주방</Text>
+    </Text>
+    <Text>
+      <GUID>1441318</GUID>
+      <Text>오리구이</Text>
+    </Text>
+    
+  </ModOp>
+</ModOps>

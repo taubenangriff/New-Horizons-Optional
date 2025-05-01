@@ -1,0 +1,342 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+
+    <Text>
+      <GUID>1414050006</GUID>
+      <Text>초밥 품귀현상!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050007</GUID>
+      <Text>급작스러운 공급 부족으로 식당에서 시그니처 롤을 대접하기 어려워지자 [Newspaper FindArticle([RefGuid]) Context TownName]의 초밥 소비자 사이에서 실망이 커지고 있다. 수산물 수입 중단에 따른 품귀현상 탓에 손님과 요리사 모두 좋은 분위기를 이어가는 데 어려움을 겪고 있다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414050022</GUID>
+      <Text>차 품귀현상!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050023</GUID>
+      <Text>차 공급 부족으로 [Newspaper FindArticle([RefGuid]) Context TownName]의 형편이 어려워졌다. 주민은 좌절감에 젖어 언제 제대로 된 차 한 잔을 다시 마시게 될지 의문을 표하고 있다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414050025</GUID>
+      <Text>매실주 품귀현상!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050026</GUID>
+      <Text>매실주 공급 부족으로 [Newspaper FindArticle([RefGuid]) Context TownName]의 주민이 빈 잔에 눈물을 쏟아내고 있다. 조만간 이 갈증이 해소될지, 아니면 더 큰 재앙으로 닥칠지는 아무도 모른다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414050028</GUID>
+      <Text>삿갓 품귀현상!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050029</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]에서 삿갓이 모습을 감췄다. 다가오는 추수를 앞두고 현지 농부가 저축해 둔 돈으로 새로운 모자를 장만하고 싶어 하나 재고를 찾을 수가 없다. 대체품은 드문 데다가 인기도 떨어진다. 현지 상인의 말에 따르면 서양식 모자는 윗부분이 너무 둥글어 삿갓처럼 뾰족해야 한다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414050031</GUID>
+      <Text>기모노 품귀현상!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050032</GUID>
+      <Text>기모노 공급 부족으로 [Newspaper FindArticle([RefGuid]) Context TownName]의 처지가 곤란해졌다. 복식 예절이 흐트러질까 봐 주민이 불안에 떨고 있다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414050034</GUID>
+      <Text>오리구이 품귀현상!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050035</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]에서 갑작스레 발생한 오리고기 품귀현상을 두고 현지 주민이 갈수록 고조되는 위기에 대응할 해결책을 갈구하고 있다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414050037</GUID>
+      <Text>도자기 품귀현상!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050038</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]에서 도자기 공급이 모자란 탓에 식탁과 선반이 텅텅 비었다. 당국의 시정 조치가 없다면 상황은 악화 일로를 걷게 될 뿐이다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414050040</GUID>
+      <Text>사케 품귀현상!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050041</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]에서 발생한 사케 품귀현상이 씁쓸한 뒷맛을 잔뜩 남기고 있다. 주민은 절박한 마음으로 현지 의회가 더 늦기 전에 사기 저하를 막을 수 있도록 해결책을 제시하길 기대하고 있다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414050043</GUID>
+      <Text>라디오 품귀현상!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050044</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]에서 라디오가 자취를 감췄다. 방송으로 새 소식을 전할 수 없게 되면 헛소문이 빠르게 퍼질 것이다. 과연 이번 소통 위기를 해결하고자 당국이 조율에 나설지 의문이 든다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414050046</GUID>
+      <Text>블루 치즈 품귀현상!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050047</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]에서 블루 치즈가 부족해지면서 현지 주민의 억장이 무너지고 있다. 앞으로 몇 주 동안 공급 문제가 해결되지 않을 거라는 소문이 무성한 가운데 사기가 급격하게 떨어지고 있다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414050049</GUID>
+      <Text>비단 조끼 품귀현상!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050050</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]에서 비단 조끼가 부족해지면서 상류층이 점차 품위를 잃어가고 있다. 사회 전체의 복식 유행이 위협받는 가운데 수요와 공급의 무시무시한 간극을 봉합할 수 있을지는 의문이다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414050052</GUID>
+      <Text>만년필 품귀현상!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050053</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]에서 만년필 품귀현상이 심해지면서 중요한 약정을 체결하거나 주민의 불만을 접수하지 못하고 있다. 잉크가 잘 나오지 않아서 이번 호를 발행하는 데 정말 애를 먹었다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414050055</GUID>
+      <Text>고토 품귀현상!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050056</GUID>
+      <Text>현지 음악가가 고토를 입수할 수 없게 되자 [Newspaper FindArticle([RefGuid]) Context TownName]의 길거리가 침묵에 휩싸였다. 나머지 주민은 언제나 울려 퍼지던 음악을 갑작스레 누리지 못하게 되어버렸다. 이제 어떻게 아시아 지역에 있다는 사실을 인식하겠는가?</Text>
+    </Text>
+    <Text>
+      <GUID>1414050058</GUID>
+      <Text>추수할 농민 부족!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050059</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]에서 농민이 부족해지면서 현지 식량 공급에 차질이 생길지도 모른다는 우려가 일고 있다. 한 벼 농사꾼은 "기근을 막으려면 다음 달 안으로 추수 작업을 마쳐야 한다"며 염려를 내비쳤다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414050061</GUID>
+      <Text>노동자 부족!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050062</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]의 공장에서 노동력이 부족해지면서 수많은 대실업가의 수익성에 빨간불이 켜졌다. 경제가 무너지는 걸 막으려면 즉각 노동력 부족 문제를 해결해야 한다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414050076</GUID>
+      <Text>사찰 개원을 축복하는 신</Text>
+    </Text>
+    <Text>
+      <GUID>1414050077</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]에서 새로운 신사가 베일을 벗으면서 수많은 신도와 호기심 많은 영혼이 몰려들고 있다. 대부분의 영혼이 신사의 설계에 흡족해하는 가운데, 한 영혼이 "온천도 없는데 여기서 현현할 이유가 있겠냐"며 불평하는 소리가 들리기도 했다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414050079</GUID>
+      <Text>즐거움 가득한 물보라</Text>
+    </Text>
+    <Text>
+      <GUID>1414050080</GUID>
+      <Text>이번 주 [Newspaper FindArticle([RefGuid]) Context TownName]에서 안락한 온천과 흠잡을 데 없는 장식을 갖춘 훌륭한 목욕탕이 새로 문을 열었다. 대부분의 손님이 평온함을 만끽한 가운데, 한 손님의 배출 시도로 인해 악취 폭탄 엄금 정책이 도입되었다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414050082</GUID>
+      <Text>화합을 향한 관문</Text>
+    </Text>
+    <Text>
+      <GUID>1414050083</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]에서 거대한 정원으로 이어지는 관문이 들어섰다. 도시 계획 담당자가 아직 정원의 설계를 확정하지 않았으나, 어떤 모습이든 간에 현대 세계에서 벗어나 더 단순했던 시절로 떠나는 멋진 경험을 선사할 공간이 되리라.</Text>
+    </Text>
+    <Text>
+      <GUID>1414050085</GUID>
+      <Text>자유로운 주민, 자유로운 이동</Text>
+    </Text>
+    <Text>
+      <GUID>1414050086</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]에서의 생활이 대도시 지하에서 운행을 시작한 새로운 지하철만큼이나 급격하게 빨라지고 있다. 한 젊은 사업가는 이렇게 전했다. "새로 생긴 지하철이 정말 마음에 듭니다. 운행을 시작한 뒤로 서민 행인이 거리를 나다니지 않고 열차를 타고 오가게 되었거든요. 그 덕분에 새로 장만한 차를 몰고 다니기 쾌적해졌습니다."</Text>
+    </Text>
+    
+    <Text>
+      <GUID>54005100</GUID>
+      <Text>1404년 그 맛 그대로입니다!</Text>      <!--Grammar-->
+    </Text>
+    <Text>
+      <GUID>54005101</GUID>
+      <Text>맛있는 과일입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>54005102</GUID>
+      <Text>이게 인류의 미래라고들 합니다.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005103</GUID>
+      <Text>주민에게 올바른 말을 전하는 데 꼭 필요한 도구입니다.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005104</GUID>
+      <Text>저온 살균 및 균질화 처리, 3.5% 지방 함유.</Text>
+    </Text>
+    <Text>
+      <GUID>54005105</GUID>
+      <Text>딸깍, 딸깍, 딸깍.</Text>
+    </Text>
+    <Text>
+      <GUID>54005106</GUID>
+      <Text>1세대 절연 전선입니다.</Text>      <!--Capitalization-->
+    </Text>
+    <Text>
+      <GUID>54005107</GUID>
+      <Text>전보의 종말입니다.</Text>      <!--Capitalization-->
+    </Text>
+    <Text>
+      <GUID>54005108</GUID>
+      <Text>미세한 무선 신호를 감지합니다.</Text>      <!--Capitalization-->
+    </Text>
+    <Text>
+      <GUID>54005109</GUID>
+      <Text>만능 가스인 염소로 표백했습니다.</Text>      <!--Grammar-->
+    </Text>
+    <Text>
+      <GUID>54005110</GUID>
+      <Text>온갖 지식을 저장합니다.</Text>      <!--Grammar-->
+    </Text>
+    <Text>
+      <GUID>54005111</GUID>
+      <Text>저 위로 새로운 세상이 펼쳐지나요?</Text>      <!--Grammar-->
+    </Text>
+    <Text>
+      <GUID>54005112</GUID>
+      <Text>맛을 개선하고자 푸른 곰팡이를 특별히 더했습니다.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005113</GUID>
+      <Text>신랄하면서도 해학적입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>54005114</GUID>
+      <Text>술이 없어도 즐겁습니다.</Text>      <!--Capitalization-->
+    </Text>
+    <Text>
+      <GUID>54005115</GUID>
+      <Text>금인 줄 알고 속은 사람은 아쉽게 됐지만, 이 광물은 여전히 중요한 자원입니다.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005116</GUID>
+      <Text>찰지고 알이 작은 쌀입니다.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005118</GUID>
+      <Text>고등어와 식초에 절인 밥을 정성스레 눌러 담았습니다.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005119</GUID>
+      <Text>평범한 사케를 매실주로 탈바꿈시키는 특별한 매실 품종입니다.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005120</GUID>
+      <Text>온갖 종류의 차입니다.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005121</GUID>
+      <Text>차는 머나먼 동방과 떼려야 뗄 수 없죠.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005122</GUID>
+      <Text>땅에서 나는 데도 눈처럼 하얗게 빛납니다.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005123</GUID>
+      <Text>풍부한 광물이지만, 막상 찾을 땐 잘 보이지 않습니다.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005124</GUID>
+      <Text>떨어뜨리지 마세요!</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005125</GUID>
+      <Text>한 가닥마다 누에 한 마리의 일생이 담겨 있습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>54005126</GUID>
+      <Text>세상에서 가장 정교하고 매끄러운 옷감입니다.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005127</GUID>
+      <Text>놀랍도록 푸른빛입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>54005128</GUID>
+      <Text>이걸 보기 전까지는 "다채롭다"는 말을 입에 담을 수 없습니다!</Text>
+    </Text>
+    <Text>
+      <GUID>54005129</GUID>
+      <Text>설탕으로 만든 몹시 끈적거리는 물질입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>54005130</GUID>
+      <Text>유일무이한 원조 펠드먼 효모입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>54005131</GUID>
+      <Text>얕은 컵에 담아 따뜻하게 한 모금 마시는 게 최고입니다.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005132</GUID>
+      <Text>꽥? 꽥꽥!</Text>
+    </Text>
+    <Text>
+      <GUID>54005133</GUID>
+      <Text>아프리카 품종과는 완전히 다른 호라이 벌입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>54005134</GUID>
+      <Text>간장으로 양념한 바삭한 껍질에 덮인 육즙 가득한 오리고기입니다.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005135</GUID>
+      <Text>농민 누구에게나 은밀한 즐거움입니다.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005136</GUID>
+      <Text>너무나 기품 넘치게 생겨서 몸에 해로울 리가 없는 버섯입니다.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005137</GUID>
+      <Text>콜라 몰라 올라의 제조법보다도 더 꼭꼭 숨겨둔 비밀입니다.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005141</GUID>
+      <Text>많은 만년필 제조사가 선의 품질 향상에 도움이 된다고 말하는 단단하면서도 부서지기 쉬운 금속입니다.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005142</GUID>
+      <Text>외주로 만든 굴라시입니다.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005143</GUID>
+      <Text>동양 식단의 대표 식품인 콩류는 여전히 그 지위를 굳건히 지키고 있습니다.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005144</GUID>
+      <Text>우아함의 정수를 만나보세요!</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005145</GUID>
+      <Text>정말로… 누가 이런 걸 먹겠습니까?</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1414006023</GUID>
+      <Text>스코빌 척도는 잊어버리세요. 이게 원조 고추입니다!</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1414006024</GUID>
+      <Text>풍미를 더합시다!</Text>
+    </Text>
+    <Text>
+      <GUID>1414006025</GUID>
+      <Text>별미로 가득한 흉측한 생김새의 고대 물고기입니다.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1414006026</GUID>
+      <Text>칠흑같이 새까맣습니다.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

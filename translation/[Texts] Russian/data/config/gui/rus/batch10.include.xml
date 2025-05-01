@@ -1,0 +1,528 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">    
+    <Text>
+      <GUID>133700000</GUID>
+      <Text>Хорай</Text>
+    </Text>
+    <Text>
+      <GUID>1414006543</GUID>
+      <Text>Строительство только в Хорае</Text>
+    </Text>
+    <Text>
+      <GUID>1414006544</GUID>
+      <Text>Импортировано из Хорая</Text>
+    </Text>
+    <Text>
+      <GUID>1414006545</GUID>
+      <Text>Войти в "Хорай"</Text>
+    </Text>
+    <Text>
+      <GUID>1414018025</GUID>
+      <Text>Новые горизонты</Text>
+    </Text>
+    <Text>
+      <GUID>1414018026</GUID>
+      <Text>Династия в беде</Text>
+    </Text>
+    <!-- Wonder Terminology -->
+    <Text>
+      <GUID>1447815</GUID>
+      <Text>Заброшенные руины</Text>
+    </Text>
+    <Text>
+      <GUID>1414040222</GUID>
+      <Text>Фундамент чуда</Text>
+    </Text>
+    <Text>
+      <GUID>1414018122</GUID>
+      <Text>Руины чуда</Text>
+    </Text>
+    <Text>
+      <GUID>1414018123</GUID>
+      <Text>Проведите раскопки этих руин, чтобы узнать, какое чудо когда-то стояло на этом месте.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018124</GUID>
+      <Text>Чудо</Text>
+    </Text>
+    <Text>
+      <GUID>1414018125</GUID>
+      <Text>Заброшенное чудо очищено</Text>
+    </Text>
+    <Text>
+      <GUID>1414018126</GUID>
+      <Text>Начать раскопки</Text>
+    </Text>
+    <Text>
+      <GUID>1414018127</GUID>
+      <Text>Построить фундамент</Text>
+    </Text>
+    <Text>
+      <GUID>1414018128</GUID>
+      <Text>Эти руины исследуют ваши археологи.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018129</GUID>
+      <Text>Руины этого заброшенного чуда раскопаны. Узнайте, какое чудо здесь когда-то стояло, и начните строительство фундамента.</Text>
+    </Text>
+    <Text>
+      <GUID>1447850</GUID>
+      <Text>Чудесные руины</Text>
+    </Text>
+    <Text>
+      <GUID>1414187000</GUID>
+      <Text>Фундамент чуда</Text>
+    </Text>
+    <!-- Season Texts -->
+    <Text>
+      <GUID>1414018169</GUID>
+      <Text>В Хорае начался сезон муссонов</Text>
+    </Text>
+    <Text>
+      <GUID>1414018170</GUID>
+      <Text>В Хорае начался сухой сезон</Text>
+    </Text>
+    <Text>
+      <GUID>1414008651</GUID>
+      <Text>Сухой сезон</Text>
+    </Text>
+    <Text>
+      <GUID>1414008650</GUID>
+      <Text>Сезон муссонов</Text>
+    </Text>
+    <Text>
+      <GUID>1414006753</GUID>
+      <Text>Сезон муссонов</Text>
+    </Text>
+    <Text>
+      <GUID>1414006754</GUID>
+      <Text>Сухой сезон</Text>
+    </Text>
+    <Text>
+      <GUID>1414006755</GUID>
+      <Text>Остановка ферм</Text>
+    </Text>
+    <Text>
+      <GUID>1414006756</GUID>
+      <Text>Урожай возможен</Text>
+    </Text>
+    <Text>
+      <GUID>1414040215</GUID>
+      <Text>Производство приостановлено во время сезона муссонов.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006757</GUID>
+      <Text>Остановка</Text>
+    </Text>
+    <Text>
+      <GUID>1414006759</GUID>
+      <Text>Фермы не могут собирать урожай во время сезона муссонов. Следующий цикл выращивания уже начался.</Text>
+    </Text>
+    <Text>
+      <GUID>1414008655</GUID>
+      <Text>Сезон муссонов</Text>
+    </Text>
+    <Text>
+      <GUID>1414008656</GUID>
+      <Text>Сухой сезон</Text>
+    </Text>
+    <Text>
+      <GUID>1414006760</GUID>
+      <Text>Урожай</Text>
+    </Text>
+    <Text>
+      <GUID>1414006761</GUID>
+      <Text>Время сбора урожая! Пополните запасы, чтобы пережить следующий сезон муссонов.</Text>
+    </Text>
+
+    <!-- -->
+    <Text>
+      <GUID>1337862</GUID>
+      <Text>Пассажирский причал</Text>
+    </Text>
+    <Text>
+      <GUID>1660300</GUID>
+      <Text>Большая Бетти</Text>
+    </Text>
+    <Text>
+      <GUID>54005139</GUID>
+      <Text>Эксклюзивный товар</Text>
+    </Text>
+    <Text>
+      <GUID>1446352</GUID>
+      <Text>Импортировано из Хорая</Text>      <!--Grammar-->
+    </Text>
+    <Text>
+      <GUID>1414011014</GUID>
+      <Text>Миссис Айви, Эффективный Мыслитель</Text>
+    </Text>
+    <Text>
+      <GUID>1414006101</GUID>
+      <Text>Посвятила вечность размышлениям над самым захватывающим вопросом времени: как оптимизировать производство.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1442526</GUID>
+      <Text>Баня</Text>      <!--Rephrasing for new Gōngrén public service-->
+    </Text>
+    <Text>
+      <GUID>1442528</GUID> <!-- Nongmin Public service -->
+      <Text>Храм</Text>
+    </Text>
+    <Text>
+      <GUID>1442540</GUID>    <!-- Magnate Public Service-->
+      <Text>Станция метро</Text>
+    </Text>
+    <Text>
+      <GUID>1443119</GUID>
+      <Text>Вторжение: Огонь и ярость</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1443120</GUID>
+      <Text>Вторжение: Горизонты пепла</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1443121</GUID>
+      <Text>Вторжение: Конец империи</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54006005</GUID>
+      <Text>Мы пришли за местью. Бегите, если дорожите жизнью.</Text>
+    </Text>
+    <Text>
+      <GUID>54006006</GUID>
+      <Text>Мы — священные Несущие Пламя. Всё обратится в пепел. А вы станете нашим топливом.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54006007</GUID>
+      <Text>Шестой Век Человека приближается. Нет света, нет тьмы. Нет правды, нет лжи — только пламя и пепел. Началось.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54006009</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] приказывает своим войскам очистить это место.</Text>
+    </Text>
+    <Text>
+      <GUID>54006011</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] в ярости из-за своего поражения.</Text>
+    </Text>
+    <Text>
+      <GUID>54006012</GUID>
+      <Text>Уничтожьте все корабли Наварха Пирфорийцев, чтобы остановить вторжение.</Text>      <!--Capitalization-->
+    </Text>
+    <Text>
+      <GUID>54006017</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] отчаянно просит вас помочь в защите территории Империи.</Text>
+    </Text>
+    <Text>
+      <GUID>54006018</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] благодарен вам за остановку вторжения.</Text>
+    </Text>
+    <!-- Infrastructure Buildings -->
+    <Text>
+      <GUID>1446002</GUID>
+      <Text>Маленький склад</Text>
+    </Text>
+    <Text>
+      <GUID>1446003</GUID>
+      <Text>Средний склад</Text>
+    </Text>
+    <Text>
+      <GUID>1446004</GUID>
+      <Text>Большой склад</Text>
+    </Text>
+    <Text>
+      <GUID>14443006</GUID>
+      <Text>Нефтяные причалы</Text>
+    </Text>
+    <Text>
+      <GUID>14443007</GUID>
+      <Text>Грузовые причалы</Text>
+    </Text>
+    <Text>
+      <GUID>14443009</GUID>
+      <Text>Украшения Всемирной выставки</Text>
+    </Text>
+    <Text>
+      <GUID>14443010</GUID>
+      <Text>Жилые дома рабочих, ремесленников, обреро, старейшин и гунжэнь</Text>
+    </Text>
+    <Text>
+      <GUID>14443008</GUID>
+      <Text>Нефтяные гавани и причалы</Text>
+    </Text>
+    <Text>
+      <GUID>1337863</GUID>
+      <Text>Депо</Text>
+    </Text>
+    <Text>
+      <GUID>1337864</GUID>
+      <Text>Пакл-ган</Text>
+    </Text>
+    <Text>
+      <GUID>1337865</GUID>
+      <Text>Пушечная башня</Text>
+    </Text>
+    <Text>
+      <GUID>1337866</GUID>
+      <Text>Большая Бетти</Text>
+    </Text>
+    <Text>
+      <GUID>1337867</GUID>
+      <Text>Грузовой причал</Text>
+    </Text>
+    <Text>
+      <GUID>1337868</GUID>
+      <Text>Нефтяной причал</Text>
+    </Text>
+    <Text>
+      <GUID>1337871</GUID>
+      <Text>Маленькая нефтяная гавань</Text>
+    </Text>
+    <Text>
+      <GUID>1337872</GUID>
+      <Text>Средняя нефтяная гавань</Text>
+    </Text>
+    <Text>
+      <GUID>1337873</GUID>
+      <Text>Большая нефтяная гавань</Text>
+    </Text>
+    <Text>
+      <GUID>1337874</GUID>
+      <Text>Великая нефтяная гавань</Text>
+    </Text>
+    <Text>
+      <GUID>1337875</GUID>
+      <Text>Нефтяной склад</Text>
+    </Text>
+    <Text>
+      <GUID>1337869</GUID>
+      <Text>Нефтяной причал</Text>
+    </Text>
+    <Text>
+      <GUID>1337870</GUID>
+      <Text>Нефтяной причал</Text>
+    </Text>
+    <Text>
+      <GUID>1337877</GUID>
+      <Text>Большая Бетти</Text>
+    </Text>
+    <Text>
+      <GUID>1337876</GUID>
+      <Text>Нефтяной причал</Text>
+    </Text>
+    <Text>
+      <GUID>1337879</GUID>
+      <Text>Причал для посетителей</Text>
+    </Text>
+    <Text>
+      <GUID>14443015</GUID>
+      <Text>Продвинутые причалы</Text>
+    </Text>
+    <Text>
+      <GUID>1414011017</GUID>
+      <Text>Сэр Дымокур</Text>
+    </Text>
+    <Text>
+      <GUID>1414006104</GUID>
+      <Text>Устал ждать легализации!</Text>
+    </Text>
+    <Text>
+      <GUID>1442525</GUID>
+      <Text>Рынок</Text>
+    </Text>
+    <Text>
+      <GUID>1442521</GUID>
+      <Text>Пожарная станция</Text>
+    </Text>
+    <Text>
+      <GUID>1442522</GUID>
+      <Text>Полицейский участок</Text>
+    </Text>
+    <Text>
+      <GUID>1442523</GUID>
+      <Text>Больница</Text>
+    </Text>
+    <Text>
+      <GUID>1414006013</GUID>
+      <Text>Потребности нунминь</Text>
+    </Text>
+    <Text>
+      <GUID>1414006014</GUID>
+      <Text>Потребности гунжэнь</Text>
+    </Text>
+    <Text>
+      <GUID>1414006015</GUID>
+      <Text>Товары торговцев</Text>
+    </Text>
+    <Text>
+      <GUID>14740053</GUID>
+      <Text>Торговый корабль Арчибальда Блейка</Text>
+    </Text>
+    <Text>
+      <GUID>14740054</GUID>
+      <Text>Торговый корабль мадам Кахин</Text>
+    </Text>
+    <Text>
+      <GUID>14740055</GUID>
+      <Text>Торговый корабль Джеймса Гудвилла</Text>
+    </Text>
+    <Text>
+      <GUID>14740056</GUID>
+      <Text>Торговый корабль Энн Харлоу</Text>
+    </Text>
+    <Text>
+      <GUID>14740057</GUID>
+      <Text>Торговый корабль Изабелы Сарменто</Text>
+    </Text>
+    <Text>
+      <GUID>14740058</GUID>
+      <Text>Торговый корабль Жана Ла Фортуна</Text>
+    </Text>
+    <Text>
+      <GUID>14740059</GUID>
+      <Text>Торговый корабль Старого Нейта</Text>
+    </Text>
+    <!-- Quest Texts -->
+    <Text>
+      <GUID>1414006050</GUID>
+      <Text>Первые магнаты заселяются.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006051</GUID>
+      <Text>Магнат приветствует вас.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006052</GUID>
+      <Text>Магнат приветствует вас.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006053</GUID>
+      <Text>Магнат уже думает, как заставить вас заплатить за восстановление его дома.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006054</GUID>
+      <Text>Магнат беспокоится, не истощит ли его болезнь богатство.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006055</GUID>
+      <Text>Магнат волнуется, в безопасности ли его деньги.</Text>      <!--Typo-->
+    </Text>
+    <Text>
+      <GUID>1414006056</GUID>
+      <Text>Магнат предлагает вам квест.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006057</GUID>
+      <Text>Магнат рад, что вы согласились.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006058</GUID>
+      <Text>Магнат благодарит вас за помощь.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006059</GUID>
+      <Text>Магнат в ужасе от вашей некомпетентности.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006060</GUID>
+      <Text>Магнат в ярости, что вы бросили задание.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006061</GUID>
+      <Text>Магнат торопит вас завершить его квест.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006062</GUID>
+      <Text>Магнат спрашивает, были ли вы успешны.</Text>
+    </Text>
+    <Text>
+      <GUID>14443014</GUID>
+      <Text>Все производственные здания в Хорае</Text>
+    </Text>
+    <Text>
+      <GUID>1414006064</GUID>
+      <Text>Гунжэнь приветствует вас.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006065</GUID>
+      <Text>Гунжэнь предлагает вам квест.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006066</GUID>
+      <Text>Гунжэнь рад, что вы согласились.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006067</GUID>
+      <Text>Гунжэнь благодарит вас за помощь.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006068</GUID>
+      <Text>Гунжэнь разочарован вашей неудачей.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006069</GUID>
+      <Text>Гунжэнь разочарован, что вы бросили квест.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006070</GUID>
+      <Text>Гунжэнь напоминает вам о задании.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006071</GUID>
+      <Text>Гунжэнь спрашивает, были ли вы успешны.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006072</GUID>
+      <Text>Первые гунжэнь заселяются.</Text>
+    </Text>
+    <Text>
+      <GUID>1446115</GUID>
+      <Text>Бродячие рабочие</Text>
+    </Text>
+    <!-- Product Fluffs -->    
+    <Text>
+      <GUID>1414006010</GUID>
+      <Text>Не курить!</Text>
+    </Text>
+    <Text>
+      <GUID>1414006011</GUID>
+      <Text>Простая одежда для повседневной жизни.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006453</GUID>
+      <Text>Издает нежный, воздушный звук.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006454</GUID>
+      <Text>Цветущие священные красавицы.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006455</GUID>
+      <Text>Издает звонкий звук при игре.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006794</GUID>
+      <Text>Очень массивные блоки.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006836</GUID>
+      <Text>Изготовлено из раздавленных соевых бобов.</Text>
+    </Text>
+    <!-- Multifactory Flufftexts -->    
+    <Text>
+      <GUID>1414006589</GUID>
+      <Text>Кристаллические детекторы — невероятно продвинутая технология, настолько малая, что её едва видно невооружённым глазом. Любая царапина или скол на тщательно отобранном кристалле пирита исказит радиосигнал.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006590</GUID>
+      <Text>Струны кото быстро изнашиваются, и их приходится менять дважды в неделю. Эта новая машина — идеальное решение, так как производит струны быстрее, чем любой ученик может их порвать.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006591</GUID>
+      <Text>Ручка должна ощущаться как продолжение мысли. Тщательная обработка этих перьев гарантирует именно это — ведь какой врач станет использовать ручку, которая делает его почерк нечитаемым?</Text>
+    </Text>
+    <Text>
+      <GUID>1414006592</GUID>
+      <Text>Точный гравировальный станок — одна из великих технических революций. То, что раньше требовало многолетнего мастерства, теперь можно сделать за несколько часов.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

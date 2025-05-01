@@ -1,0 +1,383 @@
+﻿<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+
+        <Text>
+            <GUID>1414011068</GUID>            <!-- Imperial Book Collection: Farming Volume I -->
+            <Text>제국 서적 모음집: 농업 제1권</Text>
+        </Text>
+        <Text>
+            <GUID>1414006797</GUID>            <!-- Imperial Book Collection: Farming Volume I - Description -->
+            <Text>초보 농사꾼을 위한 기본서입니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011069</GUID>            <!-- Imperial Book Collection: Farming Volume II -->
+            <Text>제국 서적 모음집: 농업 제2권</Text>
+        </Text>
+        <Text>
+            <GUID>1414006798</GUID>            <!-- Imperial Book Collection: Farming Volume II - Description -->
+            <Text>농사법을 더 자세히 설명한 책입니다. 논에 나가서 실습해 봅시다.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011070</GUID>            <!-- Imperial Book Collection: Farming Volume III -->
+            <Text>제국 서적 모음집: 농업 제3권</Text>
+        </Text>
+        <Text>
+            <GUID>1414006799</GUID>            <!-- Imperial Book Collection: Farming Volume III - Description -->
+            <Text>오직 숙련된 농사꾼만이 이 책을 보고 익힐 수 있습니다. 이제 실수란 없습니다. 농사와 날씨를 전부 다 꿰뚫고 있으니까요.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011071</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume I -->
+            <Text>제국 서적 모음집: 요식업 제1권</Text>
+        </Text>
+        <Text>
+            <GUID>1414006800</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume I - Description -->
+            <Text>초보 요리사를 위한 기본서입니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011072</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume II -->
+            <Text>제국 서적 모음집: 요식업 제2권</Text>
+        </Text>
+        <Text>
+            <GUID>1414006801</GUID>            <!--Imperial Book Collection: Food & Drinks Volume II - Description -->
+            <Text>조리법을 더 자세히 설명한 책입니다. 직접 만드신 걸 시식해 보세요.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011073</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume III -->
+            <Text>제국 서적 모음집: 요식업 제3권</Text>
+        </Text>
+        <Text>
+            <GUID>1414006802</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume III - Description -->
+            <Text>오직 숙련된 요리사만이 이 책을 보고 익힐 수 있습니다. 아직도 손가락을 다친다면 이 책을 읽을 자격이 없습니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011074</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume IV -->
+            <Text>제국 서적 모음집: 요식업 제4권</Text>
+        </Text>
+        <Text>
+            <GUID>1414006803</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume IV - Description -->
+            <Text>오직 숙련된 요리사만이 이 책을 보고 익힐 수 있습니다. 미각 경험을 쌓고자 눈을 가린 채로 모든 음식을 시식합니다….</Text>
+        </Text>
+        <Text>
+            <GUID>14443039</GUID>            <!-- All Asian Food production - ItemEffectTargetPool -->
+            <Text>모든 호라이 식량 생산 시설</Text>
+        </Text>
+        <Text>
+            <GUID>14443040</GUID>            <!-- All Asian Drinks production - ItemEffectTargetPool -->
+            <Text>모든 호라이 음료 생산 시설</Text>
+        </Text>
+        <Text>
+            <GUID>1414011075</GUID>            <!-- Shen Xu, Purveyor of all Fabrics -->
+            <Text>직물 납품업자, 션 쉬</Text>
+        </Text>
+        <Text>
+            <GUID>1414006804</GUID>            <!-- Shen Xu, Purveyor of all Fabrics - Description -->
+            <Text>션은 손에 쥐고 있는 옷감을 눈으로 보지 않고서 손가락의 감각만으로 무엇인지 알아맞히는 경지에 이르렀습니다. 옷감을 먹을 수 있었다면 그러고도 남았을 테죠.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011076</GUID>            <!-- Jhin Sasaki, Master of the wheel -->
+            <Text>도자기 바퀴의 달인, 진 사사키</Text>
+        </Text>
+        <Text>
+            <GUID>1414006805</GUID>            <!-- Jhin Sasaki, Master of the wheel - Description -->
+            <Text>진의 손을 거치지 않은 도자기는 세상에 없습니다. 도자기 바퀴를 다루는 데 정점에 다다른 자입니다. 점토를 비롯한 천연 재료로 이 놀라운 예술품을 거침없이 빚어냅니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011077</GUID>            <!-- Chiyoko Watanabe, Luring in more than fish -->
+            <Text>생선 그 이상을 낚는 자, 치요코 와타나베</Text>
+        </Text>
+        <Text>
+            <GUID>1414006806</GUID>            <!-- Chiyoko Watanabe, Luring in more than fish - Description -->
+            <Text>미끼로 무엇을 쓸까요? 치요코는 자기만의 비법으로 귀한 몸인 랍스터까지 꾀어냅니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011078</GUID>            <!-- Sushi knife -->
+            <Text>회칼</Text>
+        </Text>
+        <Text>
+            <GUID>1414006807</GUID>            <!-- Sushi knife - Description -->
+            <Text>보통의 칼보다 더 날카롭습니다. 언제든지 손가락을 베여 음식에 피를 흘릴 수 있죠.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011079</GUID>            <!-- Ichika Takahashi, Is it spicy enough? -->
+            <Text>매운맛 중독자, 이치카 타카하시</Text>
+        </Text>
+        <Text>
+            <GUID>1414006808</GUID>            <!-- Ichika Takahashi, Is it spicy enough? - Description -->
+            <Text>매운 음식을 먹으면 혀가 얼얼하기 마련입니다. 그러나 이치카는 다릅니다. 후추 같은 향신료 없이는 못 배기죠. 후추를 향한 열정으로 더 뛰어난 제분 방법을 알아냈습니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011080</GUID>            <!-- Nanami Shimizu, How much is the fish? -->
+            <Text>생선 값을 매기는 자, 나나미 시미즈</Text>
+        </Text>
+        <Text>
+            <GUID>1414006809</GUID>            <!-- Nanami Shimizu, How much is the fish? - Description -->
+            <Text>생선을 다루고 손질하는 건 아무나 할 수 있는 일이 아닙니다. 집에 돌아오면 온몸에 생선 냄새가 잔뜩 배어 있습니다. 그러나 나나미는 개의치 않습니다. 오히려 언제나 생선 냄새를 맡는 걸 즐기죠.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011081</GUID>            <!-- Ryuu Yamada, Nobody says no to sushi -->
+            <Text>초밥 애호가, 류 야마다</Text>
+        </Text>
+        <Text>
+            <GUID>1414006810</GUID>            <!-- Ryuu Yamada, Nobody says no to sushi - Description -->
+            <Text>류는 고급 요리 주방장입니다. 정성과 열정을 다해 모든 식사를 준비합니다. 그러한 마음은 호화로운 메인 코스에 앞서 애피타이저로 내놓는 초밥에 담겨 있습니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011082</GUID>            <!-- Sister Hilarius, Tea solves problems not alcohol -->
+            <Text>수도원 차 공급자, 힐라리우스 자매</Text>
+        </Text>
+        <Text>
+            <GUID>1414006811</GUID>            <!-- Sister Hilarius, Tea solves problems not alcohol - Description -->
+            <Text>힐라리우스 자매는 힐라리우스 형제처럼 신앙의 길을 따르기로 했습니다. 오라버니와 마찬가지로 동료 자매에게 전할 음료를 만들면서 시간을 보냅니다. 그러나 두 남매 사이에는 커다란 차이점이 있죠. 그녀는 술을 거들떠보지도 않으며, 차가 모든 문제를 해결할 수 있다고 생각합니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011083</GUID>            <!-- Luong Ku Tim, The City Wok -->
+            <Text>시티 웍, 루옹 쿠 팀</Text>
+        </Text>
+        <Text>
+            <GUID>1414006812</GUID>            <!-- Luong Ku Tim, The City Wok - Description -->
+            <Text>루옹 쿠 팀에게서 친절함을 기대하지 마세요. 다행히도 음식은 맛있습니다. 아니, 이따금 맛있다고 해야 할까요.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011084</GUID>            <!-- Asian bird lover -->
+            <Text>호라이 조류 애호가</Text>
+        </Text>
+        <Text>
+            <GUID>1414006813</GUID>            <!-- Asian bird lover - Description -->
+            <Text>온갖 새에 둘러싸인 채 시간을 보냅니다. 울음소리만 듣고도 모든 새를 구별할 수 있죠.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011085</GUID>            <!-- Additional Crop Storage module -->
+            <Text>추가 작물 저장고</Text>
+        </Text>
+        <Text>
+            <GUID>1414006814</GUID>            <!-- Additional Crop Storage module - Description -->
+            <Text>작물 저장고에 사일로를 증설하여 작물 보존성을 높이세요.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011086</GUID>            <!-- Masao Miura, Lobster is all he needs -->
+            <Text>랍스터 만능론자, 마사오 미우라</Text>
+        </Text>
+        <Text>
+            <GUID>1414006815</GUID>            <!-- Masao Miura, Lobster is all he needs - Description -->
+            <Text>마사오는 평범해 보이는 생선 대신 랍스터를 넣어서 풍미를 더합니다. 이 바다 생물에 마음을 뺏긴 나머지 그 맛을 보기라도 하면 눈 녹듯이 마음이 녹아내립니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011087</GUID>            <!-- Imperial Sketch Collection: Industry Volume 1  -->
+            <Text>제국 도면 모음집: 산업 제1권 </Text>
+        </Text>
+        <Text>
+            <GUID>1414006816</GUID>            <!-- Imperial Sketch Collection: Industry Volume 1 - Description -->
+            <Text>공작소를 운영하는 방법을 가르치는 기본서입니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011088</GUID>            <!-- Imperial Sketch Collection: Industry Volume 2 -->
+            <Text>제국 도면 모음집: 산업 제2권</Text>
+        </Text>
+        <Text>
+            <GUID>1414006817</GUID>            <!-- Imperial Sketch Collection: Industry Volume 2 - Description -->
+            <Text>공작소를 운영하는 방법을 더 자세히 설명합니다. 작동 중인 기계에 손가락을 넣지 마세요.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011089</GUID>            <!-- Imperial Sketch Collection: Industry Volume 3 -->
+            <Text>제국 도면 모음집: 산업 제3권</Text>
+        </Text>
+        <Text>
+            <GUID>1414006818</GUID>            <!-- Imperial Sketch Collection: Industry Volume 3 - Description -->
+            <Text>오직 숙련된 자만이 이처럼 복잡한 기계 도면을 이해할 수 있습니다. 전기의 작동 원리를 이해하지 못했다면 아직 이 도면을 보기에는 이릅니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011090</GUID>            <!-- Imperial Sketch Collection: Advanced Industry Volume 1  -->
+            <Text>제국 도면 모음집: 고급 산업 제1권 </Text>
+        </Text>
+        <Text>
+            <GUID>1414006819</GUID>            <!-- Imperial Sketch Collection: Advanced Industry Volume 1 - Description -->
+            <Text>첨단 공장이 작동하는 원리의 기초를 다룹니다. 초보자가 읽기에 딱 알맞습니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011091</GUID>            <!-- Imperial Sketch Collection: Advanced Industry Volume 2 -->
+            <Text>제국 도면 모음집: 고급 산업 제2권</Text>
+        </Text>
+        <Text>
+            <GUID>1414006820</GUID>            <!-- Imperial Sketch Collection: Advanced Industry Volume 2 - Description -->
+            <Text>첨단 중공업의 운영 방법을 자세히 설명합니다. "누르지 마시오"라는 문구가 적힌 커다랗고 빨간 버튼을 누르지 마세요.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011092</GUID>            <!-- Imperial Sketch Collection: Advanced Industry Volume 3 -->
+            <Text>제국 도면 모음집: 고급 산업 제3권</Text>
+        </Text>
+        <Text>
+            <GUID>1414006821</GUID>            <!-- Imperial Sketch Collection: Advanced Industry Volume 3 - Description -->
+            <Text>오직 숙련된 자만이 이처럼 시대를 앞서가는 기계 도면을 이해할 수 있습니다. 힘의 작동 원리를 이해하지 못했다면 아직 이 도면을 보기에는 이릅니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011093</GUID>            <!-- Hendrik Baker, Not just one polymer -->
+            <Text>폴리머 전문가, 헨드릭 베이커</Text>
+        </Text>
+        <Text>
+            <GUID>1414006822</GUID>            <!-- Hendrik Baker, Not just one polymer - Description -->
+            <Text>헨드릭은 지금까지 제조된 모든 폴리머의 냄새를 알아볼 수 있습니다. 눈을 감고 손만 대어도 구별할 수 있는 경지입니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011094</GUID>            <!-- Yui Sato, The finest tailoring -->
+            <Text>최고의 재단사, 유이 사토</Text>
+        </Text>
+        <Text>
+            <GUID>1414006823</GUID>            <!-- Yui Sato, The finest tailoring - Description -->
+            <Text>유이는 재봉틀을 갖고 태어났다고들 합니다. 만 5세에 손수 자기 옷을 지어서 입었습니다. 그 이후로는 부유층을 대상으로 고급 의복을 만드는 데 집중하고 있습니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011095</GUID>            <!-- Misaki Makino, Vegan cheesemaker -->
+            <Text>채식주의 치즈 제조가, 미사키 마키노</Text>
+        </Text>
+        <Text>
+            <GUID>1414006824</GUID>            <!-- Misaki Makino, Vegan cheesemaker - Description -->
+            <Text>미사키는 동물 농장에서 자랐습니다. 그래서 사람이 소의 젖을 뺏어서 먹는다는 사실이 정말 달갑지 않았죠. 그녀는 평생 채식주의자로 살면서 동물의 젖 없이 치즈를 만드는 방법을 찾았습니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011096</GUID>            <!-- Worker 2 (Outsourced) -->
+            <Text>3교대 노동자 요시</Text>
+        </Text>
+        <Text>
+            <GUID>1414011097</GUID>            <!-- Worker 2 (Outsourced) - Description -->
+            <Text>요시는 동료의 교대 근무를 대신 맡아주느라 과로하기 일쑤입니다. 그 덕분에 동료는 가족과 더 많은 시간을 보낼 수 있게 되었죠.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011098</GUID>            <!-- Worker 3 (Outsourced) -->
+            <Text>대체 작업자 강</Text>
+        </Text>
+        <Text>
+            <GUID>1414011099</GUID>            <!-- Worker 3 (Outsourced) - Description -->
+            <Text>강은 기존 방식대로 작업하지 않습니다. 틀을 깨는 작업 방식을 도입하여 생산 비용을 줄입니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011100</GUID>            <!-- Worker 4 (Outsourced) -->
+            <Text>사장의 아들, 바오 </Text>
+        </Text>
+        <Text>
+            <GUID>1414011101</GUID>            <!-- Worker 4 (Outsourced) - Description -->
+            <Text>바오는 아버지가 정한 모든 절차가 준수되는지 감독합니다.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011102</GUID>            <!-- Propaganda Banner -->
+            <Text>선전 현수막</Text>
+        </Text>
+        <Text>
+            <GUID>1414011103</GUID>            <!-- Propaganda Banner - Description -->
+            <Text>도시를 정비하고 애정을 뽐내세요.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011104</GUID>            <!-- Propaganda Banner -->
+            <Text>선거 깃발</Text>
+        </Text>
+        <Text>
+            <GUID>1414011105</GUID>            <!-- Propaganda Banner - Description -->
+            <Text>지지하는 당에 대한 애정을 보여주세요.</Text>
+        </Text>
+
+        <!-- ### Additional Ornaments ### -->
+        <Text>
+            <GUID>133700400</GUID>
+            <Text>운하(포장)</Text>
+        </Text>
+        <Text>
+            <GUID>133700401</GUID>
+            <Text>운하(비포장)</Text>
+        </Text>
+        <Text>
+            <GUID>133700402</GUID>
+            <Text>운하 다리(비포장)</Text>            <!-- no translation required -->
+        </Text>
+        <Text>
+            <GUID>133700403</GUID>
+            <Text>운하 다리(포장)</Text>            <!-- no translation required -->
+        </Text>
+        <Text>
+            <GUID>133700404</GUID>
+            <Text>벤치 등불</Text>
+        </Text>
+        <Text>
+            <GUID>133700405</GUID>
+            <Text>토리이(2x1)</Text>
+        </Text>
+        <Text>
+            <GUID>133700406</GUID>
+            <Text>토리이(3x1)</Text>
+        </Text>
+        <Text>
+            <GUID>133700407</GUID>
+            <Text>회랑</Text>
+        </Text>
+        <Text>
+            <GUID>133700408</GUID>
+            <Text>용 수반</Text>
+        </Text>
+        <Text>
+            <GUID>133700409</GUID>
+            <Text>불꽃놀이</Text>
+        </Text>
+        <Text>
+            <GUID>133700410</GUID>
+            <Text>깃대</Text>
+        </Text>
+        <Text>
+            <GUID>133700411</GUID>
+            <Text>길거리 등불</Text>
+        </Text>
+        <Text>
+            <GUID>133700412</GUID>
+            <Text>보석 가판대</Text>
+        </Text>
+        <Text>
+            <GUID>133700413</GUID>
+            <Text>예배소</Text>
+        </Text>
+        <Text>
+            <GUID>133700414</GUID>
+            <Text>야채 가판대</Text>
+        </Text>
+        <Text>
+            <GUID>133700415</GUID>
+            <Text>의류 가판대</Text>
+        </Text>
+        <Text>
+            <GUID>133700416</GUID>
+            <Text>책 가판대</Text>
+        </Text>
+        <Text>
+            <GUID>133700417</GUID>
+            <Text>음식 가판대 1</Text>
+        </Text>
+        <Text>
+            <GUID>133700418</GUID>
+            <Text>실내 정원</Text>
+        </Text>
+        <Text>
+            <GUID>133700419</GUID>
+            <Text>탑(2x2)</Text>
+        </Text>
+        <Text>
+            <GUID>133700420</GUID>
+            <Text>종탑(2x2)</Text>
+        </Text>
+        <Text>
+            <GUID>133700421</GUID>
+            <Text>연꽃 연못</Text>
+        </Text>
+        <Text>
+            <GUID>133700423</GUID>
+            <Text>음식 가판대 2</Text>
+        </Text>
+        <Text>
+            <GUID>133700424</GUID>
+            <Text>꽃 가판대</Text>
+        </Text>
+        <Text>
+            <GUID>133700425</GUID>
+            <Text>과일 가판대</Text>
+        </Text>
+        <Text>
+            <GUID>133700426</GUID>
+            <Text>사진 가판대</Text>
+        </Text>
+    </ModOp>
+</ModOps>

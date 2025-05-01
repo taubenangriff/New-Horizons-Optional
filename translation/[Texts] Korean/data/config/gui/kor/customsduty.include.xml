@@ -1,0 +1,668 @@
+﻿<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+    
+        <!-- Customs Duty Items -->
+
+        <Text>
+            <GUID>1414009000</GUID>
+            <Text>관세: 생선</Text>
+        </Text>
+        <Text>
+            <GUID>1414009001</GUID>
+            <Text>관세: 생선</Text>
+        </Text>
+        <Text>
+            <GUID>1414009003</GUID>
+            <Text>관세: 슈냅스</Text>
+        </Text>
+        <Text>
+            <GUID>1414009004</GUID>
+            <Text>관세: 슈냅스</Text>
+        </Text>
+        <Text>
+            <GUID>1414009006</GUID>
+            <Text>관세: 작업복</Text>
+        </Text>
+        <Text>
+            <GUID>1414009007</GUID>
+            <Text>관세: 작업복</Text>
+        </Text>
+        <Text>
+            <GUID>1414009009</GUID>
+            <Text>관세: 소시지</Text>
+        </Text>
+        <Text>
+            <GUID>1414009010</GUID>
+            <Text>관세: 소시지</Text>
+        </Text>
+        <Text>
+            <GUID>1414009012</GUID>
+            <Text>관세: 빵</Text>
+        </Text>
+        <Text>
+            <GUID>1414009013</GUID>
+            <Text>관세: 빵</Text>
+        </Text>
+        <Text>
+            <GUID>1414009015</GUID>
+            <Text>관세: 비누</Text>
+        </Text>
+        <Text>
+            <GUID>1414009016</GUID>
+            <Text>관세: 비누</Text>
+        </Text>
+        <Text>
+            <GUID>1414009018</GUID>
+            <Text>관세: 맥주</Text>
+        </Text>
+        <Text>
+            <GUID>1414009019</GUID>
+            <Text>관세: 맥주</Text>
+        </Text>
+        <Text>
+            <GUID>1414009021</GUID>
+            <Text>관세: 통조림</Text>
+        </Text>
+        <Text>
+            <GUID>1414009022</GUID>
+            <Text>관세: 통조림</Text>
+        </Text>
+        <Text>
+            <GUID>1414009024</GUID>
+            <Text>관세: 재봉틀</Text>
+        </Text>
+        <Text>
+            <GUID>1414009025</GUID>
+            <Text>관세: 재봉틀</Text>
+        </Text>
+        <Text>
+            <GUID>1414009027</GUID>
+            <Text>관세: 럼주</Text>
+        </Text>
+        <Text>
+            <GUID>1414009028</GUID>
+            <Text>관세: 럼주</Text>
+        </Text>
+        <Text>
+            <GUID>1414009030</GUID>
+            <Text>관세: 모피 코트</Text>
+        </Text>
+        <Text>
+            <GUID>1414009031</GUID>
+            <Text>관세: 모피 코트</Text>
+        </Text>
+        <Text>
+            <GUID>1414009033</GUID>
+            <Text>관세: 안경</Text>
+        </Text>
+        <Text>
+            <GUID>1414009034</GUID>
+            <Text>관세: 안경</Text>
+        </Text>
+        <Text>
+            <GUID>1414009036</GUID>
+            <Text>관세: 자전거</Text>
+        </Text>
+        <Text>
+            <GUID>1414009037</GUID>
+            <Text>관세: 자전거</Text>
+        </Text>
+        <Text>
+            <GUID>1414009039</GUID>
+            <Text>관세: 회중시계</Text>
+        </Text>
+        <Text>
+            <GUID>1414009040</GUID>
+            <Text>관세: 회중시계</Text>
+        </Text>
+        <Text>
+            <GUID>1414009042</GUID>
+            <Text>관세: 커피</Text>
+        </Text>
+        <Text>
+            <GUID>1414009043</GUID>
+            <Text>관세: 커피</Text>
+        </Text>
+        <Text>
+            <GUID>1414009045</GUID>
+            <Text>관세: 전구</Text>
+        </Text>
+        <Text>
+            <GUID>1414009046</GUID>
+            <Text>관세: 전구</Text>
+        </Text>
+        <Text>
+            <GUID>1414009048</GUID>
+            <Text>관세: 샴페인</Text>
+        </Text>
+        <Text>
+            <GUID>1414009049</GUID>
+            <Text>관세: 샴페인</Text>
+        </Text>
+        <Text>
+            <GUID>1414009051</GUID>
+            <Text>관세: 시가</Text>
+        </Text>
+        <Text>
+            <GUID>1414009052</GUID>
+            <Text>관세: 시가</Text>
+        </Text>
+        <Text>
+            <GUID>1414009054</GUID>
+            <Text>관세: 초콜릿</Text>
+        </Text>
+        <Text>
+            <GUID>1414009055</GUID>
+            <Text>관세: 초콜릿</Text>
+        </Text>
+        <Text>
+            <GUID>1414009057</GUID>
+            <Text>관세: 보석</Text>
+        </Text>
+        <Text>
+            <GUID>1414009058</GUID>
+            <Text>관세: 보석</Text>
+        </Text>
+        <Text>
+            <GUID>1414009060</GUID>
+            <Text>관세: 축음기</Text>
+        </Text>
+        <Text>
+            <GUID>1414009061</GUID>
+            <Text>관세: 축음기</Text>
+        </Text>
+        <Text>
+            <GUID>1414009063</GUID>
+            <Text>관세: 증기차</Text>
+        </Text>
+        <Text>
+            <GUID>1414009064</GUID>
+            <Text>관세: 증기차</Text>
+        </Text>
+        <Text>
+            <GUID>1414009066</GUID>
+            <Text>관세: 가죽 장화</Text>
+        </Text>
+        <Text>
+            <GUID>1414009067</GUID>
+            <Text>관세: 가죽 장화</Text>
+        </Text>
+        <Text>
+            <GUID>1414009069</GUID>
+            <Text>관세: 중산모</Text>
+        </Text>
+        <Text>
+            <GUID>1414009070</GUID>
+            <Text>관세: 중산모</Text>
+        </Text>
+        <Text>
+            <GUID>1414009072</GUID>
+            <Text>관세: 히비스커스 차</Text>
+        </Text>
+        <Text>
+            <GUID>1414009073</GUID>
+            <Text>관세: 히비스커스 차</Text>
+        </Text>
+        <Text>
+            <GUID>1414009075</GUID>
+            <Text>관세: 맞춤복</Text>
+        </Text>
+        <Text>
+            <GUID>1414009076</GUID>
+            <Text>관세: 맞춤복</Text>
+        </Text>
+        <Text>
+            <GUID>1414009078</GUID>
+            <Text>관세: 해산물 스튜</Text>
+        </Text>
+        <Text>
+            <GUID>1414009079</GUID>
+            <Text>관세: 해산물 스튜</Text>
+        </Text>
+        <Text>
+            <GUID>1414009081</GUID>
+            <Text>관세: 태피스트리</Text>
+        </Text>
+        <Text>
+            <GUID>1414009082</GUID>
+            <Text>관세: 태피스트리</Text>
+        </Text>
+        <Text>
+            <GUID>1414009084</GUID>
+            <Text>관세: 점토 파이프</Text>
+        </Text>
+        <Text>
+            <GUID>1414009085</GUID>
+            <Text>관세: 점토 파이프</Text>
+        </Text>
+        <Text>
+            <GUID>1414009087</GUID>
+            <Text>관세: 전화기</Text>
+        </Text>
+        <Text>
+            <GUID>1414009088</GUID>
+            <Text>관세: 전화기</Text>
+        </Text>
+        <Text>
+            <GUID>1414009090</GUID>
+            <Text>관세: 플랜테인 튀김</Text>
+        </Text>
+        <Text>
+            <GUID>1414009091</GUID>
+            <Text>관세: 플랜테인 튀김</Text>
+        </Text>
+        <Text>
+            <GUID>1414009093</GUID>
+            <Text>관세: 판초</Text>
+        </Text>
+        <Text>
+            <GUID>1414009094</GUID>
+            <Text>관세: 판초</Text>
+        </Text>
+        <Text>
+            <GUID>1414009096</GUID>
+            <Text>관세: 토르티야</Text>
+        </Text>
+        <Text>
+            <GUID>1414009097</GUID>
+            <Text>관세: 토르티야</Text>
+        </Text>
+        <Text>
+            <GUID>1414009099</GUID>
+            <Text>관세: 페미컨</Text>
+        </Text>
+        <Text>
+            <GUID>1414009100</GUID>
+            <Text>관세: 페미컨</Text>
+        </Text>
+        <Text>
+            <GUID>1414009102</GUID>
+            <Text>관세: 침낭</Text>
+        </Text>
+        <Text>
+            <GUID>1414009103</GUID>
+            <Text>관세: 침낭</Text>
+        </Text>
+        <Text>
+            <GUID>1414009105</GUID>
+            <Text>관세: 기름 램프</Text>
+        </Text>
+        <Text>
+            <GUID>1414009106</GUID>
+            <Text>관세: 기름 램프</Text>
+        </Text>
+        <Text>
+            <GUID>1414009108</GUID>
+            <Text>관세: 파카</Text>
+        </Text>
+        <Text>
+            <GUID>1414009109</GUID>
+            <Text>관세: 파카</Text>
+        </Text>
+        <Text>
+            <GUID>1414009111</GUID>
+            <Text>관세: 허스키 썰매</Text>
+        </Text>
+        <Text>
+            <GUID>1414009112</GUID>
+            <Text>관세: 허스키 썰매</Text>
+        </Text>
+        <Text>
+            <GUID>1414009114</GUID>
+            <Text>관세: 염소 우유</Text>
+        </Text>
+        <Text>
+            <GUID>1414009115</GUID>
+            <Text>관세: 염소 우유</Text>
+        </Text>
+        <Text>
+            <GUID>1414009117</GUID>
+            <Text>관세: 장신구류</Text>
+        </Text>
+        <Text>
+            <GUID>1414009118</GUID>
+            <Text>관세: 장신구류</Text>
+        </Text>
+        <Text>
+            <GUID>1414009120</GUID>
+            <Text>관세: 말린 고기</Text>
+        </Text>
+        <Text>
+            <GUID>1414009121</GUID>
+            <Text>관세: 말린 고기</Text>
+        </Text>
+        <Text>
+            <GUID>1414009123</GUID>
+            <Text>관세: 도자기</Text>
+        </Text>
+        <Text>
+            <GUID>1414009124</GUID>
+            <Text>관세: 도자기</Text>
+        </Text>
+        <Text>
+            <GUID>1414009126</GUID>
+            <Text>관세: 채색한 필사본</Text>
+        </Text>
+        <Text>
+            <GUID>1414009127</GUID>
+            <Text>관세: 채색한 필사본</Text>
+        </Text>
+        <Text>
+            <GUID>1414009129</GUID>
+            <Text>관세: 등불</Text>
+        </Text>
+        <Text>
+            <GUID>1414009130</GUID>
+            <Text>관세: 등불</Text>
+        </Text>
+        <Text>
+            <GUID>1414009132</GUID>
+            <Text>관세: 라디오</Text>
+        </Text>
+        <Text>
+            <GUID>1414009133</GUID>
+            <Text>관세: 라디오</Text>
+        </Text>
+        <Text>
+            <GUID>1414009135</GUID>
+            <Text>관세: 만년필</Text>
+        </Text>
+        <Text>
+            <GUID>1414009136</GUID>
+            <Text>관세: 만년필</Text>
+        </Text>
+        <Text>
+            <GUID>1414009138</GUID>
+            <Text>관세: 레모네이드</Text>
+        </Text>
+        <Text>
+            <GUID>1414009139</GUID>
+            <Text>관세: 레모네이드</Text>
+        </Text>
+        <Text>
+            <GUID>1414009141</GUID>
+            <Text>관세: 블루 치즈</Text>
+        </Text>
+        <Text>
+            <GUID>1414009142</GUID>
+            <Text>관세: 블루 치즈</Text>
+        </Text>
+        <Text>
+            <GUID>1414009144</GUID>
+            <Text>관세: 도자기</Text>
+        </Text>
+        <Text>
+            <GUID>1414009145</GUID>
+            <Text>관세: 도자기</Text>
+        </Text>
+        <Text>
+            <GUID>1414009147</GUID>
+            <Text>관세: 삿갓</Text>
+        </Text>
+        <Text>
+            <GUID>1414009148</GUID>
+            <Text>관세: 삿갓</Text>
+        </Text>
+        <Text>
+            <GUID>1414009150</GUID>
+            <Text>관세: 사케</Text>
+        </Text>
+        <Text>
+            <GUID>1414009151</GUID>
+            <Text>관세: 사케</Text>
+        </Text>
+        <Text>
+            <GUID>1414009153</GUID>
+            <Text>관세: 누름 초밥</Text>
+        </Text>
+        <Text>
+            <GUID>1414009154</GUID>
+            <Text>관세: 누름 초밥</Text>
+        </Text>
+        <Text>
+            <GUID>1414009156</GUID>
+            <Text>관세: 매실주</Text>
+        </Text>
+        <Text>
+            <GUID>1414009157</GUID>
+            <Text>관세: 매실주</Text>
+        </Text>
+        <Text>
+            <GUID>1414009159</GUID>
+            <Text>관세: 녹차</Text>
+        </Text>
+        <Text>
+            <GUID>1414009160</GUID>
+            <Text>관세: 녹차</Text>
+        </Text>
+        <Text>
+            <GUID>1414009162</GUID>
+            <Text>관세: 기모노</Text>
+        </Text>
+        <Text>
+            <GUID>1414009163</GUID>
+            <Text>관세: 기모노</Text>
+        </Text>
+        <Text>
+            <GUID>1414009165</GUID>
+            <Text>관세: 오리구이</Text>
+        </Text>
+        <Text>
+            <GUID>1414009166</GUID>
+            <Text>관세: 오리구이</Text>
+        </Text>
+        <Text>
+            <GUID>1414009168</GUID>
+            <Text>관세: 고토</Text>
+        </Text>
+        <Text>
+            <GUID>1414009169</GUID>
+            <Text>관세: 고토</Text>
+        </Text>
+        <Text>
+            <GUID>1414009171</GUID>
+            <Text>관세: 비단 조끼</Text>
+        </Text>
+        <Text>
+            <GUID>1414009172</GUID>
+            <Text>관세: 비단 조끼</Text>
+        </Text>
+
+        <Text>
+            <GUID>1414009174</GUID>
+            <Text>관세: 잼</Text>
+        </Text>
+        <Text>
+            <GUID>1414009175</GUID>
+            <Text>관세: 잼</Text>
+        </Text>
+        <Text>
+            <GUID>1414009177</GUID>
+            <Text>관세: 샴푸</Text>
+        </Text>
+        <Text>
+            <GUID>1414009178</GUID>
+            <Text>관세: 샴푸</Text>
+        </Text>
+        <Text>
+            <GUID>1414009183</GUID>
+            <Text>관세: 레모네이드</Text>
+        </Text>
+        <Text>
+            <GUID>1414009184</GUID>
+            <Text>관세: 레모네이드</Text>
+        </Text>
+        <Text>
+            <GUID>1414009189</GUID>
+            <Text>관세: 기념품</Text>
+        </Text>
+        <Text>
+            <GUID>1414009190</GUID>
+            <Text>관세: 기념품</Text>
+        </Text>
+        <Text>
+            <GUID>1414009191</GUID>
+            <Text>관세: 껌</Text>
+        </Text>
+        <Text>
+            <GUID>1414009192</GUID>
+            <Text>관세: 껌</Text>
+        </Text>
+        <Text>
+            <GUID>1414009194</GUID>
+            <Text>관세: 비스킷 </Text>
+        </Text>
+        <Text>
+            <GUID>1414009195</GUID>
+            <Text>관세: 비스킷 </Text>
+        </Text>
+        <Text>
+            <GUID>1414009197</GUID>
+            <Text>관세: 코냑</Text>
+        </Text>
+        <Text>
+            <GUID>1414009198</GUID>
+            <Text>관세: 코냑</Text>
+        </Text>
+        <Text>
+            <GUID>1414009200</GUID>
+            <Text>관세: 타자기</Text>
+        </Text>
+        <Text>
+            <GUID>1414009201</GUID>
+            <Text>관세: 타자기</Text>
+        </Text>
+        <Text>
+            <GUID>1414009203</GUID>
+            <Text>관세: 당구대</Text>
+        </Text>
+        <Text>
+            <GUID>1414009204</GUID>
+            <Text>관세: 당구대</Text>
+        </Text>
+        <Text>
+            <GUID>1414009206</GUID>
+            <Text>관세: 바이올린</Text>
+        </Text>
+        <Text>
+            <GUID>1414009207</GUID>
+            <Text>관세: 바이올린</Text>
+        </Text>
+        <Text>
+            <GUID>1414009209</GUID>
+            <Text>관세: 장난감</Text>
+        </Text>
+        <Text>
+            <GUID>1414009210</GUID>
+            <Text>관세: 장난감</Text>
+        </Text>
+        <Text>
+            <GUID>1414009213</GUID>
+            <Text>관세: 축구공</Text>
+        </Text>
+        <Text>
+            <GUID>1414009214</GUID>
+            <Text>관세: 축구공</Text>
+        </Text>
+        <Text>
+            <GUID>1414009216</GUID>
+            <Text>관세: 메즈칼</Text>
+        </Text>
+        <Text>
+            <GUID>1414009217</GUID>
+            <Text>관세: 메즈칼</Text>
+        </Text>
+        <Text>
+            <GUID>1414009219</GUID>
+            <Text>관세: 할레아</Text>
+        </Text>
+        <Text>
+            <GUID>1414009220</GUID>
+            <Text>관세: 할레아</Text>
+        </Text>
+        <Text>
+            <GUID>1414009222</GUID>
+            <Text>관세: 아이스크림</Text>
+        </Text>
+        <Text>
+            <GUID>1414009223</GUID>
+            <Text>관세: 아이스크림</Text>
+        </Text>
+        <Text>
+            <GUID>1414009225</GUID>
+            <Text>관세: 향수</Text>
+        </Text>
+        <Text>
+            <GUID>1414009226</GUID>
+            <Text>관세: 향수</Text>
+        </Text>
+        <Text>
+            <GUID>1414009228</GUID>
+            <Text>관세: 선풍기</Text>
+        </Text>
+        <Text>
+            <GUID>1414009229</GUID>
+            <Text>관세: 선풍기</Text>
+        </Text>
+        <Text>
+            <GUID>1414009231</GUID>
+            <Text>관세: 스쿠터</Text>
+        </Text>
+        <Text>
+            <GUID>1414009232</GUID>
+            <Text>관세: 스쿠터</Text>
+        </Text>
+        <Text>
+            <GUID>1414009234</GUID>
+            <Text>관세: 핫소스</Text>
+        </Text>
+        <Text>
+            <GUID>1414009235</GUID>
+            <Text>관세: 핫소스</Text>
+        </Text>
+        <Text>
+            <GUID>1414009237</GUID>
+            <Text>관세: 아톨레</Text>
+        </Text>
+        <Text>
+            <GUID>1414009238</GUID>
+            <Text>관세: 아톨레</Text>
+        </Text>
+        <Text>
+            <GUID>1414009240</GUID>
+            <Text>관세: 옥</Text>
+        </Text>
+        <Text>
+            <GUID>1414009241</GUID>
+            <Text>관세: 옥</Text>
+        </Text>
+        <Text>
+            <GUID>1414009243</GUID>
+            <Text>관세: 서적</Text>
+        </Text>
+        <Text>
+            <GUID>1414009244</GUID>
+            <Text>관세: 서적</Text>
+        </Text>
+        <Text>
+            <GUID>1414009246</GUID>
+            <Text>관세: 향</Text>
+        </Text>
+        <Text>
+            <GUID>1414009247</GUID>
+            <Text>관세: 향</Text>
+        </Text>
+        <Text>
+            <GUID>1414009249</GUID>
+            <Text>관세: 두리안</Text>
+        </Text>
+        <Text>
+            <GUID>1414009250</GUID>
+            <Text>관세: 두리안</Text>
+        </Text>
+        <Text>
+            <GUID>1414006029</GUID>
+            <Text>교역소에서 관세가 활성화되면 섬에 있는 모든 부두에도 해당 효과가 적용됩니다.</Text>
+        </Text>
+    </ModOp>
+</ModOps>

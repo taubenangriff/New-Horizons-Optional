@@ -1,0 +1,384 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">    
+    <Text>
+      <GUID>1414018244</GUID>
+      <Text>HUMILIATION</Text>
+    </Text>
+    <Text>
+      <GUID>1414018245</GUID>
+      <Text>RESTAURATION</Text>
+    </Text>
+    <Text>
+      <GUID>1414006637</GUID>
+      <Text>皇家护航队</Text>
+    </Text>
+    <Text>
+      <GUID>1414018044</GUID>
+      <Text>一个更大的市场，有一个更高的中央高塔，适合大型城市。</Text>
+    </Text>
+    <Text>
+      <GUID>1442800</GUID>
+      <Text>城市市场</Text>
+    </Text>
+    <Text>
+      <GUID>1414018045</GUID>
+      <Text>中央都市</Text>
+    </Text>
+    <Text>
+      <GUID>1414018172</GUID>
+      <Text>带[AssetData(5380) Text]到你东极列岛地区的贸易站</Text>
+    </Text>
+    <Text>
+      <GUID>1414018173</GUID>
+      <Text>带[AssetData(133097) Text]到你东极列岛地区的贸易站</Text>
+    </Text>
+    <Text>
+      <GUID>1414018174</GUID>
+      <Text>带[AssetData(118728) Text]到你东极列岛地区的贸易站</Text>
+    </Text>
+    <Text>
+      <GUID>1414018175</GUID>
+      <Text>带[AssetData(112694) Text]到你东极列岛地区的贸易站</Text>
+    </Text>
+
+    <!-- 3rdparty Fluffs when clicking island buildings -->
+    <Text>
+      <GUID>1414018121</GUID><!-- Goodwill Lost shipment text -->
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]对你在这批货物上的损失感到非常失望，并将调整你今后的抽成。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006695</GUID>
+      <Text>这艘飞船看起来是很好，可以作为任何意外的最后逃生手段，这是走私者需要时刻做好准备的事情。所以它就在那里，耐心地等待着它未来发光发亮的时刻。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006696</GUID>
+      <Text>这栋办公楼里处置的文书工作过去看起来很不一样。现在，大多数前东方贸易公司的领地都被纳入了王室的直接控制之下，因此这里残存的雇员们已经将工作重心转向了黑市交易。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006697</GUID>
+      <Text>虽然这些房间是20年前作为预备扩建的办公楼而建造的，但现在却成了一个非常好的监狱。你说走私生意怎么有如此多囚犯？没人知道……但可以确认的是，每次参观都能看到里面有大量的新面孔……</Text>
+    </Text>
+    <Text>
+      <GUID>1414015072</GUID>
+      <Text>红夷大炮</Text>
+    </Text>
+    <Text>
+      <GUID>1414015071</GUID>
+      <Text>戎克船厂</Text>
+    </Text>
+    <Text>
+      <GUID>1414015061</GUID>
+      <Text>主帅行辕</Text>
+    </Text>
+    <Text>
+      <GUID>1414040615</GUID>
+      <Text>海军提督吴将军的灯塔</Text>
+    </Text>
+    <Text>
+      <GUID>1414018130</GUID>
+      <Text>一个多世纪前，吴都督的曾祖父亲自指挥了夺回神器龙之眼的战役，当时天朝帝国的船队声势浩大。虽然它们的建造技术从那时起没有太多变化，但时代已经不同——曾经非常先进的船只现在已经过时——但天朝帝国既没有能力更新造船技术，也不愿意购买外国现代船只。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018131</GUID>
+      <Text>现在的天朝帝国处于完全崩溃的边缘，她现在只靠两样东西维系在一起：军事力量和传统惯性。马吉蓬的人们，像许多其他生活在东方的人民一样，默默祈祷自己能早日摆脱这个屈辱的世纪。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018132</GUID>
+      <Text>漫步在花园中，游客可以体验到皇家园林设计师们精心构思的美景。即便在国家危亡之际，皇帝依旧愿意付出巨大代价来维持皇家花园的设计水平——这是他少数能完全掌控的事情之一。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018133</GUID>
+      <Text>天朝帝国的士兵们将这些大炮命名为“红夷大炮”，以纪念他们从拉科罗纳入侵者那里缴获的第一批此类大炮。尽管有所改善，但它们仍然已经过时。它们就像这里的天朝帝国士兵一样，他们的辉煌属于过去。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018160</GUID>
+      <Text>主帅行辕不仅是他的舰队指挥总部，也是他的官邸，以及这一地区的行政中枢。更重要的是，这里标志着天朝帝国还没有放弃这片列岛主权的争夺。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018161</GUID>
+      <Text>马吉蓬当地居民在这些农场工作，种植大米和生茶养活自己。他们应当能够自给自足，至少在吴都督看来是这样。</Text>
+    </Text>
+    <Text>
+      <GUID>1414015077</GUID>
+      <Text>总督府衙</Text>
+    </Text>
+    <Text>  <!-- Geb and Nut are James Goodwills pets. -->
+      <GUID>1414015089</GUID>
+      <Text>盖布的小屋</Text>
+    </Text>
+    <Text>
+      <GUID>1414015090</GUID>
+      <Text>努特的小屋</Text>
+    </Text>
+    <Text>
+      <GUID>1414015091</GUID>
+      <Text>杜读管</Text>
+    </Text>
+    <Text>
+      <GUID>1414018176</GUID>
+      <Text>这座雄伟的宝塔建于几个世纪以前。在一个巨大的楼梯的尽头，是一座象征通往神界的拱门。它高于世俗生活之上，象征着凡人世界与神圣世界之间的桥梁。</Text>
+    </Text>
+    <Text>
+      <GUID>1414015084</GUID>
+      <Text>白鸽宝塔</Text>
+    </Text>
+    <Text>
+      <GUID>1414018177</GUID>
+      <Text>工人望向中央钟楼，却只发现还远没到换班时间。</Text>
+    </Text>
+    <Text>
+      <GUID>1414015085</GUID>
+      <Text>钟楼</Text>
+    </Text>
+    <!-- Item -->
+    <Text>
+      <GUID>1414011052</GUID>
+      <Text>皇家图书馆馆长</Text>
+    </Text>
+    <Text>
+      <GUID>1414006736</GUID>
+      <Text>他读完了皇家图书馆里他能找到的所有图书，并领悟到了最精妙的知识。想象一下这时候他才发现，图书馆实际还有个地下室......</Text>
+    </Text>
+    <Text>
+      <GUID>1440508</GUID>
+      <Text>[AssetData(1999005351) Text]</Text>
+    </Text>
+    <!-- Foreign Trading Company Texts (NH specific)-->
+    <Text>
+      <GUID>1414018030</GUID>
+      <Text>为周围的大亨企业提供[AssetData(1999005351) Text]，增加它们的产量。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018031</GUID>
+      <Text>向周围的巨头企业提供[AssetData(1999005351) Text]。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018032</GUID>
+      <Text>这是一个港口，可以以此为基础建立大型企业，并从世界各地进口商品。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018046</GUID>
+      <Text>生产[AssetData(1999005351) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414018047</GUID>
+      <Text>每消耗一个单位此资源，就会生产一单位[AssetData(1999005351) Text]。</Text>
+    </Text>
+    <!-- Zoo -->    
+    <Text>
+      <GUID>14443035</GUID>
+      <Text>东极列岛地区食品与饮品生产建筑</Text>
+    </Text>
+    <Text>
+      <GUID>1414017000</GUID>
+      <Text>人猿星球</Text>
+    </Text>
+    <Text>
+      <GUID>1414017002</GUID>
+      <Text>竹林</Text>
+    </Text>
+    <Text>
+      <GUID>1414017003</GUID>
+      <Text>大洋洲</Text>
+    </Text>
+    <Text>
+      <GUID>1414006829</GUID>      <!-- Oceania - ItemSet - Description -->
+      <Text>在亚洲东南方的海对面，长相奇怪的原始澳洲动物向我们招手。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006830</GUID>      <!-- Bamboo Forest SETBUFF - TownhallBuff - Description -->
+      <Text>耐心是野生动物带给人们的智慧。看到这些动物悠然自得的样子，让你的市民悟到，可以放慢生活节奏，珍惜生活中的每件小事，就像静心品茶才能尝出更深的滋味。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006831</GUID>      <!-- Planet of the Apes SETBUFF - TownhallBuff - Description -->
+      <Text>这些人类表亲的滑稽行为让人们反思自己的丑态，举止更加得体。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006833</GUID>      <!-- Oceania SETBUFF - TownhallBuff - Description -->
+      <Text>这些奇怪的外来动物让市民们都忘了吃饭，令他们更加珍惜美食艺术。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006834</GUID>      <!-- Planet of the Apes - Itemset - Description -->
+      <Text>团结的猿类永不会被打败。对吗，凯撒？</Text>
+    </Text>
+    <Text>
+      <GUID>1414017004</GUID>
+      <Text>小熊猫</Text>
+    </Text>
+    <Text>
+      <GUID>1414017005</GUID>
+      <Text>大熊猫</Text>
+    </Text>
+    <Text>
+      <GUID>1414017006</GUID>
+      <Text>考拉</Text>
+    </Text>
+    <Text>
+      <GUID>1414017007</GUID>
+      <Text>猕猴</Text>
+    </Text>
+    <Text>
+      <GUID>1414017008</GUID>
+      <Text>鲸鲨</Text>
+    </Text>
+    <Text>
+      <GUID>1414017009</GUID>
+      <Text>黑掌树蛙</Text>
+    </Text>
+    <Text>
+      <GUID>1414017010</GUID>
+      <Text>网纹蟒</Text>
+    </Text>
+    <Text>
+      <GUID>1414017011</GUID>
+      <Text>科莫多巨蜥</Text>
+    </Text>
+    <Text>
+      <GUID>1414017012</GUID>
+      <Text>海狮</Text>
+    </Text>
+    <Text>
+      <GUID>1414017013</GUID>
+      <Text>穿山甲</Text>
+    </Text>
+    <Text>
+      <GUID>1414017014</GUID>
+      <Text>东北豹</Text>
+    </Text>
+    <Text>
+      <GUID>1414006737</GUID>
+      <Text>这只可爱的小青蛙生活在雾气弥漫、阳光普照的巽他岛的树冠中。它们实际上不会飞，但跳跃能力确实很强。</Text>
+    </Text>
+    <Text>
+      <GUID>1414017018</GUID>
+      <Text>黄鼠狼围栏</Text>
+    </Text>
+   <Text>
+      <GUID>1414006738</GUID>
+      <Text>学名香鼬。它实际上并不生活在高原的深山山巅，而是生活在丘陵地区山麓茂密的竹林中。据神话中描述，它们会在没人注意的地方建造自己的城市。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006739</GUID>
+      <Text>世界上最可爱的黑白配色大熊。它们似乎可以整天都坐在那里吃竹子，唯恐错过一顿饭。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006740</GUID>
+      <Text>这种来自巽他岛的巨大蜥蜴不是喷火龙，但确实是一种有毒的危险爬行动物。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006741</GUID>
+      <Text>人类已知的最长的蛇。它不是用毒液捕猎，而是用巨大的身体缠绕猎物，无声而高效地将其勒死。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006742</GUID>
+      <Text>一只来自东极列岛以北山区的红脸小猴子。它们天生顽皮狡猾，学习能力强，而且是狂热的温泉爱好者，进去了就不愿出来。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006743</GUID>
+      <Text>这种沉默、胆小的动物在夜间以白蚁和蚂蚁为食，被东方居民视为珍宝，有传言说它的鳞片对疾病有奇效。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018225</GUID>
+      <Text>一只迷人的火红色可爱小熊。除了名字相似外，它和大熊猫几乎没有任何共同之处，除了它也爱吃竹子。它的脸上像是带着面具，尾巴上带有多个白色环状毛皮，以及猫咪的优雅。它喜欢在树上生活，在晨昏时分捕猎。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018226</GUID>
+      <Text>生活在新荷兰北部群岛上的海豹，喜欢温暖的天气和晒太阳。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018227</GUID>
+      <Text>一只好奇的小熊，大部分时间都在桉树上度过。事实上，他们与桉树的绑定是如此的深，以至于他们离开桉树完全无法生存。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018228</GUID>
+      <Text>这是鲸鱼吗？是鲨鱼吗？还是……两者皆是？这些巨大的生物生活在热带海洋中，以磷虾和浮游生物为食，只有最小的个体小到可以在动物园里展出。</Text>
+    </Text>
+    <!-- Wonder Buff Texts -->    
+    <Text>
+      <GUID>1414018178</GUID>
+      <Text>生产力Buff</Text>
+    </Text>
+    <Text>
+      <GUID>1414018179</GUID>
+      <Text>住所Buff</Text>
+    </Text>
+    <Text>
+      <GUID>1414018180</GUID>
+      <Text>在连接范围内的住所将产出额外[AssetData(1440405) Text]。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018181</GUID>
+      <Text>加成Buff</Text>
+    </Text>
+    <Text>
+      <GUID>1414018182</GUID>
+      <Text>影响街道连接范围内的：</Text>
+    </Text>
+    <Text>
+      <GUID>1414187028</GUID>
+      <Text>[Selection Object Factory PostboxResidents]半径范围内的住所</Text>
+    </Text>
+    <Text>
+      <GUID>1414018183</GUID>
+      <Text>住所从[ItemAssetData(1414187031) InputBenefitAllAdditionalHappinessFormatted]处获得额外幸福度。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018184</GUID>
+      <Text>独特Buff</Text>
+    </Text>
+
+    <Text>
+      <GUID>1414018185</GUID>
+      <Text>影响在街道连接范围内的[ItemAssetData(1414187030) ItemOrBuffEffectTargetsFormatted]</Text>
+    </Text>
+    <Text>
+      <GUID>1414018186</GUID>
+      <Text>影响全岛范围内的[ItemAssetData(1414187033) ItemOrBuffEffectTargetsFormatted]</Text>
+    </Text>
+    <Text>
+      <GUID>1414018187</GUID>
+      <Text>影响全岛的：</Text>
+    </Text>
+    <Text>
+      <GUID>1414018188</GUID>
+      <Text>防御Buff</Text>
+    </Text>
+    <Text>
+      <GUID>1414018189</GUID>
+      <Text>影响全岛的[ItemAssetData(1414187034) ItemOrBuffEffectTargetsFormatted]</Text>
+    </Text>
+    <Text>
+      <GUID>1414018190</GUID>
+      <Text>影响在街道连接范围内的[ItemAssetData(1414187036) ItemOrBuffEffectTargetsFormatted]</Text>
+    </Text>
+    <Text>
+      <GUID>1414018191</GUID>
+      <Text>满足[ItemAssetData(1414187039) AllSubstituteNeedsFormatted]需求的住所，将额外提供[ItemAssetData(1414187039) AllProvidedNeedsFormatted]。</Text>
+    </Text>
+    <Text><!-- Gen 3rdParty Feedback to Wonder built -->
+      <GUID>1414006694</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]对你修复古迹的行为感到高兴。</Text>
+    </Text>
+    <!-- Botanical Garden Buff Texts -->
+    <Text>
+      <GUID>1414018210</GUID>
+      <Text>一旦在东极列岛建成，激活[AssetData(1414007001) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414018211</GUID>
+      <Text>一旦在东极列岛建成，激活[AssetData(1414007002) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414018212</GUID>
+      <Text>一旦在东极列岛建成，激活[AssetData(1414007003) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414018213</GUID>
+      <Text>一旦在东极列岛建成，激活[AssetData(1414007007) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414018214</GUID>
+      <Text>一旦在东极列岛建成，激活[AssetData(1414007010) Text]</Text>
+    </Text>
+  </ModOp>
+</ModOps>

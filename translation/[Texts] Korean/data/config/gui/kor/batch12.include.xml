@@ -1,0 +1,325 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>54005000</GUID>
+      <Text>동방 진출</Text>
+    </Text>
+    <Text>
+      <GUID>54005001</GUID>
+      <Text>대외 개발</Text>
+    </Text>
+    <Text>
+      <GUID>54005002</GUID>
+      <Text>제국주의</Text>
+    </Text>
+    <Text>
+      <GUID>14443001</GUID>
+      <Text>부두</Text>
+    </Text>
+    <Text>
+      <GUID>14443002</GUID>
+      <Text>교역소</Text>
+    </Text>
+    <Text>
+      <GUID>14443003</GUID>
+      <Text>부두</Text>
+    </Text>
+    <Text>
+      <GUID>14443004</GUID>
+      <Text>빅 베사</Text>
+    </Text>
+    <Text>
+      <GUID>14443005</GUID>
+      <Text>화물 부두 및 교역소</Text>
+    </Text>
+    <Text>
+      <GUID>14443000</GUID>
+      <Text>모든 문화 건물</Text>
+    </Text>
+    <Text>
+      <GUID>14443000</GUID>
+      <Text>유류 적하항 및 부두</Text>
+    </Text>    
+    <Text>
+      <GUID>14443033</GUID>
+      <Text>모든 호라이 복합 생산 시설</Text>
+    </Text>
+    <Text>
+      <GUID>14443042</GUID>
+      <Text>모든 호라이 조리실</Text>
+    </Text>
+    <Text>
+      <GUID>14443043</GUID>
+      <Text>모든 호라이 주방</Text>
+    </Text>
+    <Text>
+      <GUID>14443037</GUID>
+      <Text>대실업가 주거지</Text>
+    </Text>
+    <Text>
+      <GUID>14443036</GUID>
+      <Text>대실업가 마천루</Text>
+    </Text>
+    <Text>
+      <GUID>14443016</GUID>
+      <Text>모든 호라이 농장</Text>
+    </Text>
+    <Text>
+      <GUID>14443032</GUID>
+      <Text>대실업가 사업체</Text>
+    </Text>
+    <Text>
+      <GUID>14443030</GUID>
+      <Text>호라이 주거지</Text>
+    </Text>
+    <Text>
+      <GUID>1414006788</GUID>
+      <Text>정원을 제외한 모든 공공시설</Text>
+    </Text>
+    <!-- Quest Texts -->
+    <Text>
+      <GUID>1414006407</GUID>
+      <Text>클릭하여 선물을 받으세요: 화물선</Text>
+    </Text>
+    <Text>
+      <GUID>1414006609</GUID>
+      <Text>지하철표의 할인 소식에 대실업가가 기뻐합니다.</Text>
+    </Text>
+    <Text><!-- Goodwill Payout Quest Title -->
+      <GUID>1414040450</GUID>
+      <Text>현금화</Text>
+    </Text>
+    <!-- Buildings -->    
+    <Text>
+      <GUID>1446010</GUID>
+      <Text>작물 창고</Text>
+    </Text>
+    <Text>
+      <GUID>1442504</GUID>
+      <Text>대실업가 마천루: 1단계</Text>
+    </Text>
+    <Text>
+      <GUID>1442505</GUID>
+      <Text>대실업가 마천루: 2단계</Text>
+    </Text>
+    <Text>
+      <GUID>1442506</GUID>
+      <Text>대실업가 마천루: 3단계</Text>
+    </Text>
+    <Text>
+      <GUID>1442507</GUID>
+      <Text>대실업가 마천루: 4단계</Text>
+    </Text>
+    <Text>
+      <GUID>1447915</GUID>
+      <Text>무역 연합</Text>
+    </Text>
+    <Text>
+      <GUID>1447916</GUID>
+      <Text>시청</Text>
+    </Text>
+    <Text>
+      <GUID>1447914</GUID>
+      <Text>항만 관리소장실</Text>
+    </Text>
+    <Text>
+      <GUID>1414015026</GUID>
+      <Text>오국위 제독의 항구</Text>
+    </Text>
+    <Text>
+      <GUID>1414015035</GUID>
+      <Text>사무소</Text>
+    </Text>
+    <Text>
+      <GUID>1414015036</GUID>
+      <Text>감옥</Text>
+    </Text>
+    <Text>
+      <GUID>1414015037</GUID>
+      <Text>화염탄 박격포</Text>
+    </Text>
+    <Text>
+      <GUID>1414015032</GUID>
+      <Text>대공포 포좌</Text>
+    </Text>
+    <Text>
+      <GUID>1414015027</GUID>
+      <Text>중형 해안 포대</Text>
+    </Text>
+    <Text>
+      <GUID>1414015042</GUID>
+      <Text>화차</Text>
+    </Text>
+    <Text>
+      <GUID>14740081</GUID>
+      <Text>전투 순양함</Text>
+    </Text>
+    <Text>
+      <GUID>14740083</GUID>
+      <Text>모니터함</Text>
+    </Text>
+    <Text>
+      <GUID>14740082</GUID>
+      <Text>공성 순양함</Text>
+    </Text>
+    <Text>
+      <GUID>1414006699</GUID>
+      <Text>선박 상대로 아주 효과적입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006700</GUID>
+      <Text>섬의 방어 시설을 무력화합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006701</GUID>
+      <Text>항만 시설을 순식간에 불태우는 데 특화되어 있습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414015045</GUID>
+      <Text>라이언 헤드</Text>
+    </Text>
+    <Text>
+      <GUID>1414015047</GUID>
+      <Text>기름에 덮임!</Text>
+    </Text>
+    <Text>
+      <GUID>1414015048</GUID>
+      <Text>기름이 고임!</Text>
+    </Text>
+    <Text>
+      <GUID>1414015049</GUID>
+      <Text>기름 잔여물!</Text>
+    </Text>
+    <Text>
+      <GUID>1414006706</GUID>
+      <Text>&lt;img src='data/ui/2kimages/main/icons/ship_info/icon_hitpoints.png' height='24' width='24' /&gt; &lt;font size='17' &gt;[Selection Object Attackable CurHitPoints &gt;&gt; healthpoint]&lt;/font&gt;</Text>
+    </Text>
+    <Text>
+      <GUID>1414015039</GUID>
+      <Text>열화단 제독의 요새</Text>
+    </Text>
+    <Text>
+      <GUID>1414015053</GUID>
+      <Text>화염방사기</Text>
+    </Text>
+    <Text>
+      <GUID>1414015058</GUID>
+      <Text>용의 눈</Text>
+    </Text>    
+    <!-- Random Ship Duplicates -->
+    <Text>
+      <GUID>14740075</GUID>
+      <Text>벌크선</Text>
+    </Text>
+    <Text>
+      <GUID>14740076</GUID>
+      <Text>벌크선</Text>
+    </Text>
+    <Text>
+      <GUID>14740077</GUID>
+      <Text>벌크선</Text>
+    </Text>    
+    <Text>
+      <GUID>1414006623</GUID>
+      <Text>아치발드 블레이크 경의 보급선</Text>
+    </Text>
+    <Text>
+      <GUID>1414006624</GUID>
+      <Text>마담 카히나의 보급선</Text>
+    </Text>
+    <Text>
+      <GUID>1414006625</GUID>
+      <Text>일라이 블릭워스의 보급선</Text>
+    </Text>
+    <Text>
+      <GUID>1414006626</GUID>
+      <Text>앤 할로우의 보급선</Text>
+    </Text>
+    <Text>
+      <GUID>1414006627</GUID>
+      <Text>이사벨 사르멘토의 보급선</Text>
+    </Text>
+    <Text>
+      <GUID>1414006628</GUID>
+      <Text>장 라 포르튠의 보급선</Text>
+    </Text>
+    <Text>
+      <GUID>1414006629</GUID>
+      <Text>올드 네이트의 보급선</Text>
+    </Text>
+    <!-- Random stuff -->
+    <Text>
+      <GUID>1414006472</GUID>
+      <Text>밥 앤 선즈</Text>
+    </Text>
+    <Text>
+      <GUID>1414006473</GUID>
+      <Text>밥 앤 선즈의 건설재로 짓지 못할 건물은 없습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>14740078</GUID>
+      <Text>배회하는 노동자</Text>
+    </Text>
+    <Text>
+      <GUID>1414006475</GUID>
+      <Text>문화적 동기</Text>
+    </Text>
+    <Text>
+      <GUID>1414006542</GUID>
+      <Text>노동자가 유적에 대해 알려줍니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006630</GUID>
+      <Text>대실업가 사업체</Text>
+    </Text>
+    <Text>
+      <GUID>1414006631</GUID>
+      <Text>저는 사기업 자회사가 미래라고 생각합니다. 왕실이 아직도 수년이나 뒤처진 사고방식을 갖고 있다는 게 안타깝네요. 저희로서는 이 지역에 제국의 입김이 미치지 않는다는 게 다행일 따름입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006632</GUID>
+      <Text>자, 그러면 이렇게 합시다. 당신이 호라이 지역의 공장에 투자하고, 저희가 그걸 사들이도록 하죠. 운영비도 일부 부담하고 문제가 생기면 해결해 드리겠습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006633</GUID>
+      <Text>제가 보는 이득은 뭐냐고요? 너무 많은 걸 바라지는 않겠습니다. 괜찮으시다면 그저 제 몫을 제대로 나눠 갖길 바랄 뿐입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006634</GUID>
+      <Text>주로 축제 때 입는 의상이지만, 일상생활 속에서도 그 옷매무새와 편안함의 유혹을 이겨내기 어렵습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006635</GUID>
+      <Text>판다의 패스트푸드입니다. 먹어야 산다!</Text>
+    </Text>
+    <Text>
+      <GUID>1414006636</GUID>
+      <Text>습한 기후 환경에 알맞은 최고의 벽 재료입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006638</GUID>
+      <Text>[AssetData([Conditions QuestCondition Context]) Text] [Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount]톤</Text>
+    </Text>
+    <Text>
+      <GUID>1414006639</GUID>
+      <Text>호라이에서 아직 발견하지 못한 작은 옥 조각상과 장신구입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006640</GUID>
+      <Text>그네들이 나고 자란 곳이 떠오르는 머나먼 동방의 일부입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006641</GUID>
+      <Text>강렬한 향을 갖춘 채로 양산되는 상품입니다. 극소수만이 제대로 만드는 법을 알고 있죠. 그 제조법은 콜라 몰라 올라 음료 신제품보다도 더 비밀에 싸여 있습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006642</GUID>
+      <Text>쓰레기 같은 냄새가 나는 무기처럼 보이지만, 그 신선하고 부드러운 살은 가치가 높습니다.</Text>
+    </Text>
+    <!-- Goodwills Export Tutorial -->
+    <Text>
+      <GUID>1414006565</GUID>
+      <Text>&lt;font size = "14"&gt;&lt;font size = "32"&gt;무역 계약&lt;/font&gt;&lt;br /&gt;&lt;br/&gt;&lt;font size = "18"&gt;§1 배송 방법&lt;/font&gt;&lt;br /&gt;&lt;br/&gt;§1.1 오메가 헤이븐의 동방무역공사(이하 E.T.A) 저장선으로 상품을 운송한다. 배송은 언제든지 가능하다. E.T.A는 대용량 저장고가 가득찰 때까지 상품을 저장한다. &lt;br/&gt;§1.2 E.T.A는 포장된 상품의 배송만 허용한다. 자세한 수량은 §3에 기재되어 있다. &lt;br/&gt;1.3 저장고가 가득차면 추가 상품을 운송하기 전에 E.T.A가 지정한 구매자에게 저장된 상품을 수출해야 한다.&lt;br/&gt;&lt;br/&gt;&lt;font size="18"&gt;§2 배송 상품&lt;/font&gt;&lt;br /&gt;&lt;br/&gt;§2.1 다음 다섯 가지 유형의 상품을 취급한다: 약물, 귀중품, 주류, 사치품, 무기. 세부 내역은 §4에 기재되어 있다.&lt;br /&gt;§2.2 E.T.A는 다섯 가지 유형의 상품을 독립적으로 보관할 저장고를 보유하고 있다. &lt;br/&gt;&lt;br/&gt;&lt;font size="18"&gt;§3 배송별 상품 수량&lt;/font&gt;&lt;br /&gt;&lt;br/&gt;§3.1 약물: 10톤 &lt;br/&gt;§3.2 귀중품: 10톤 &lt;br/&gt;§3.3 주류: 200톤 &lt;br/&gt;§3.4 사치품: 100톤 &lt;br/&gt;§3.4 무기류: 50톤 &lt;br/&gt;&lt;br/&gt;&lt;font size="18"&gt;§4 상품 유형&lt;/font&gt;&lt;br /&gt;&lt;br/&gt;§4.1 약물: 약물 &lt;br/&gt;§4.2 귀중품: 귀중품 &lt;br/&gt;§4.3 주류: 슈냅스, 맥주, 럼주, 샴페인, 코냑, 매실주, 사케 &lt;br/&gt;§4.4 사치품: 샴푸, 레모네이드, 시가, 점토 파이프, 삼, 축음기, 보석, 증기차, 전화기, 라디오, 만년필, 바이올린, 당구대 &lt;br/&gt;§4.5 무기: 무기, 고급 무기, 다이너마이트, 증기 모터, 폭탄, 기뢰.&lt;/font&gt;</Text>
+    </Text>
+  </ModOp>
+</ModOps>

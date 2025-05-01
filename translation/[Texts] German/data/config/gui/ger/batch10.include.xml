@@ -1,0 +1,527 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">    
+    <Text>
+      <GUID>133700000</GUID>
+      <Text>Horai</Text>
+    </Text>
+    <Text>
+      <GUID>1414006543</GUID>
+      <Text>Kann nur in Horai gebaut werden</Text>
+    </Text>
+    <Text>
+      <GUID>1414006544</GUID>
+      <Text>Importiert aus Horai</Text>
+    </Text>
+    <Text>
+      <GUID>1414006545</GUID>
+      <Text>"Horai" betreten</Text>
+    </Text>
+    <Text>
+      <GUID>1414018025</GUID>
+      <Text>Neue Horizonte</Text>
+    </Text>
+    <Text>
+      <GUID>1414018026</GUID>
+      <Text>Eine Dynastie im freien Fall</Text>
+    </Text>
+    <!-- Wonder Terminology -->
+    <Text>
+      <GUID>1447815</GUID>
+      <Text>Verlassene Ruinen</Text>
+    </Text>
+    <Text>
+      <GUID>1414040222</GUID>
+      <Text>Wunderfundament</Text>
+    </Text>
+    <Text>
+      <GUID>1414018122</GUID>
+      <Text>Wunderruinen</Text>
+    </Text>
+    <Text>
+      <GUID>1414018123</GUID>
+      <Text>Führt eine Ausgrabung an diesen Ruinen durch, um zu entdecken, welches Wunder an dieser Stelle einmal stand.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018124</GUID>
+      <Text>Wunder</Text>
+    </Text>
+    <Text>
+      <GUID>1414018125</GUID>
+      <Text>Verlassene Ruinen aufgeräumt</Text>
+    </Text>
+    <Text>
+      <GUID>1414018126</GUID>
+      <Text>Ausgrabung starten</Text>
+    </Text>
+    <Text>
+      <GUID>1414018127</GUID>
+      <Text>Fundament bauen</Text>
+    </Text>
+    <Text>
+      <GUID>1414018128</GUID>
+      <Text>Diese Ruinen werden von Ihren Archäologen ausgegraben</Text>
+    </Text>
+    <Text>
+      <GUID>1414018129</GUID>
+      <Text>Die Ruinen dieses verlassenen Wunders wurden ausgegraben. Entdeckt, welches Wunder einmal an dieser Stelle gestanden hat, indem Ihr den Bau eines Fundaments startet.</Text>
+    </Text>
+    <Text>
+      <GUID>1447850</GUID>
+      <Text>Wundersame Ruinen</Text>
+    </Text>
+    <Text>
+      <GUID>1414187000</GUID>
+      <Text>Wunderfundament</Text>
+    </Text>
+    <!-- Season Texts -->
+    <Text>
+      <GUID>1414018169</GUID>
+      <Text>In Horai hat die Monsunzeit begonnen</Text>
+    </Text>
+    <Text>
+      <GUID>1414018170</GUID>
+      <Text>In Horai hat die Trockenzeit begonnen</Text>
+    </Text>
+    <Text>
+      <GUID>1414008651</GUID>
+      <Text>Trockenzeit</Text>
+    </Text>
+    <Text>
+      <GUID>1414008650</GUID>
+      <Text>Monsunzeit</Text>
+    </Text>
+    <Text>
+      <GUID>1414006753</GUID>
+      <Text>Monsunzeit</Text>
+    </Text>
+    <Text>
+      <GUID>1414006754</GUID>
+      <Text>Trockenzeit</Text>
+    </Text>
+    <Text>
+      <GUID>1414006755</GUID>
+      <Text>Farmstillstand</Text>
+    </Text>
+    <Text>
+      <GUID>1414006756</GUID>
+      <Text>Ernte ist möglich</Text>
+    </Text>
+    <Text>
+      <GUID>1414040215</GUID>
+      <Text>Während der Monsunzeit kann nicht produziert werden.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006757</GUID>
+      <Text>Stillstand</Text>
+    </Text>
+    <Text>
+      <GUID>1414006759</GUID>
+      <Text>Farmen können ihre Ernte während der Monsunzeit nicht einfahren. Die nächste Ernte wird angepflanzt.</Text>
+    </Text>
+    <Text>
+      <GUID>1414008655</GUID>
+      <Text>Monsunzeit</Text>
+    </Text>
+    <Text>
+      <GUID>1414008656</GUID>
+      <Text>Trockenzeit</Text>
+    </Text>
+    <Text>
+      <GUID>1414006760</GUID>
+      <Text>Ernte</Text>
+    </Text>
+    <Text>
+      <GUID>1414006761</GUID>
+      <Text>Es ist Erntezeit! Füllt Eure Lager, um für den nächsten Monsun gewappnet zu sein</Text>
+    </Text>
+    <!-- -->
+    <Text>
+      <GUID>1337862</GUID>
+      <Text>Pendlerkai</Text>
+    </Text>
+    <Text>
+      <GUID>1660300</GUID>
+      <Text>Dicke Berta</Text>
+    </Text>
+    <Text>
+      <GUID>54005139</GUID>
+      <Text>Exklusive Ware</Text>
+    </Text>
+    <Text>
+      <GUID>1446352</GUID>
+      <Text>Importiert aus Horai</Text>      <!--Grammar-->
+    </Text>
+    <Text>
+      <GUID>1414011014</GUID>
+      <Text>Mrs. Ivy, die Effizienzdenkerin</Text>
+    </Text>
+    <Text>
+      <GUID>1414006101</GUID>
+      <Text>Hat eine Ewigkeit damit verbracht, die einzig wahre Frage zu beantworten: Wie können wir diese Produktion optimal optimieren?</Text>
+    </Text>
+    <Text>
+      <GUID>1442526</GUID>
+      <Text>Badehaus</Text>      <!--Rephrasing for new Gōngrén public service-->
+    </Text>
+    <Text>
+      <GUID>1442528</GUID> <!-- Nongmin Public service -->
+      <Text>Tempel</Text>
+    </Text>
+    <Text>
+      <GUID>1442540</GUID>    <!-- Magnate Public Service-->
+      <Text>U-Bahn Station</Text>
+    </Text>
+    <Text>
+      <GUID>1443119</GUID>
+      <Text>Invasion: Feuersturm</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1443120</GUID>
+      <Text>Invasion: aschener Horizont</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1443121</GUID>
+      <Text>Invasion: Das Ende der Welt</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54006005</GUID>
+      <Text>Rache. Darum sind wir hier. Rennt, sofern Ihr euer Leben retten wollt.</Text>
+    </Text>
+    <Text>
+      <GUID>54006006</GUID>
+      <Text>Wir bringen das Feuer. Asche zu Asche, Staub zu Staub. Und Ihr - Ihr werdet auf unserem Scheiterhaufen liegen.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54006007</GUID>
+      <Text>Die Zeit des sechsten Zeitalters ist gekommen. Es gibt weder Licht, noch Dunkelheit, keine Wahrheit, nur Feuer und Asche. Es beginnt. Jetzt.</Text>
+    </Text>
+    <Text>
+      <GUID>54006009</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] befehligt seinen Truppen, diesen Ort zu Staub zu verwandeln.</Text>
+    </Text>
+    <Text>
+      <GUID>54006011</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] ist erzürnt über seinen Verlust.</Text>
+    </Text>
+    <Text>
+      <GUID>54006012</GUID>
+      <Text>Zerstört alle Schiffe des Pyrphorischen Nauarchen, um seine Invasion abzuwehren.</Text>      <!--Capitalization-->
+    </Text>
+    <Text>
+      <GUID>54006017</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] erbittet verzweifelt Ihre Hilfe bei der Verteidigung.</Text>
+    </Text>
+    <Text>
+      <GUID>54006018</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] ist dankbar, dass die Invasion gestoppt wurde.</Text>
+    </Text>
+    <!-- Infrastructure Buildings -->
+    <Text>
+      <GUID>1446002</GUID>
+      <Text>Lagerhaus</Text>
+    </Text>
+    <Text>
+      <GUID>1446003</GUID>
+      <Text>Lagerhalle</Text>
+    </Text>
+    <Text>
+      <GUID>1446004</GUID>
+      <Text>Magazin</Text>
+    </Text>
+    <Text>
+      <GUID>14443006</GUID>
+      <Text>Öl-Anlegestelles</Text>
+    </Text>
+    <Text>
+      <GUID>14443007</GUID>
+      <Text>Fracht-Anlegestelles</Text>
+    </Text>
+    <Text>
+      <GUID>14443009</GUID>
+      <Text>Ornamente der Weltausstellung</Text>
+    </Text>
+    <Text>
+      <GUID>14443010</GUID>
+      <Text>Arbeiter, Handwerker, Obrero, Älstesten und Gōngrén-Residenzen</Text>
+    </Text>
+    <Text>
+      <GUID>14443008</GUID>
+      <Text>Ölhäfen und Öl-Anlegestelles</Text>
+    </Text>
+    <Text>
+      <GUID>1337863</GUID>
+      <Text>Depot</Text>
+    </Text>
+    <Text>
+      <GUID>1337864</GUID>
+      <Text>Geschützstellung</Text>
+    </Text>
+    <Text>
+      <GUID>1337865</GUID>
+      <Text>Kanonenturm</Text>
+    </Text>
+    <Text>
+      <GUID>1337866</GUID>
+      <Text>Dicke Berta</Text>
+    </Text>
+    <Text>
+      <GUID>1337867</GUID>
+      <Text>Fracht-Anlegestelle</Text>
+    </Text>
+    <Text>
+      <GUID>1337868</GUID>
+      <Text>Öl-Anlegestelle</Text>
+    </Text>
+    <Text>
+      <GUID>1337871</GUID>
+      <Text>Kleiner Ölhafen</Text>
+    </Text>
+    <Text>
+      <GUID>1337872</GUID>
+      <Text>Mittlerer Ölhafen</Text>
+    </Text>
+    <Text>
+      <GUID>1337873</GUID>
+      <Text>Großer Ölhafen</Text>
+    </Text>
+    <Text>
+      <GUID>1337874</GUID>
+      <Text>Riesiger Ölhafen</Text>
+    </Text>
+    <Text>
+      <GUID>1337875</GUID>
+      <Text>Öllager</Text>
+    </Text>
+    <Text>
+      <GUID>1337869</GUID>
+      <Text>Öl-Anlegestelle</Text>
+    </Text>
+    <Text>
+      <GUID>1337870</GUID>
+      <Text>Öl-Anlegestelle</Text>
+    </Text>
+    <Text>
+      <GUID>1337877</GUID>
+      <Text>Dicke Berta</Text>
+    </Text>
+    <Text>
+      <GUID>1337876</GUID>
+      <Text>Ölpier</Text>
+    </Text>
+    <Text>
+      <GUID>1337879</GUID>
+      <Text>Besucherhafen</Text>
+    </Text>
+    <Text>
+      <GUID>14443015</GUID>
+      <Text>Fortschrittliche Anlegestellen</Text>
+    </Text>
+    <Text>
+      <GUID>1414011017</GUID>
+      <Text>Sir Smoke-a-lot</Text>
+    </Text>
+    <Text>
+      <GUID>1414006104</GUID>
+      <Text>Habemus Bubatz! Feiert die Legalisierung des Hanfes.</Text>
+    </Text>
+    <Text>
+      <GUID>1442525</GUID>
+      <Text>Marktplatz</Text>
+    </Text>
+    <Text>
+      <GUID>1442521</GUID>
+      <Text>Feuerwache</Text>
+    </Text>
+    <Text>
+      <GUID>1442522</GUID>
+      <Text>Polizeiwache</Text>
+    </Text>
+    <Text>
+      <GUID>1442523</GUID>
+      <Text>Krankenhaus</Text>
+    </Text>
+    <Text>
+      <GUID>1414006013</GUID>
+      <Text>Nóngmín-Bedürfnisse</Text>
+    </Text>
+    <Text>
+      <GUID>1414006014</GUID>
+      <Text>Gōngrén-Bedürfnisse</Text>
+    </Text>
+    <Text>
+      <GUID>1414006015</GUID>
+      <Text>Handelswaren</Text>
+    </Text>
+    <Text>
+      <GUID>14740053</GUID>
+      <Text>Archibald Blakes Versorgungsschiff</Text>
+    </Text>
+    <Text>
+      <GUID>14740054</GUID>
+      <Text>Madame Kahinas Supply Ship</Text>
+    </Text>
+    <Text>
+      <GUID>14740055</GUID>
+      <Text>James Goodwills Versorgungsschiff</Text>
+    </Text>
+    <Text>
+      <GUID>14740056</GUID>
+      <Text>Anne Harlows Versorgungsschiff</Text>
+    </Text>
+    <Text>
+      <GUID>14740057</GUID>
+      <Text>Isabel Sarmentos Versorgungsschiff</Text>
+    </Text>
+    <Text>
+      <GUID>14740058</GUID>
+      <Text>Jean La Fortunes Versorgungsschiff</Text>
+    </Text>
+    <Text>
+      <GUID>14740059</GUID>
+      <Text>Old Nates Versorgungsschiff</Text>
+    </Text>
+    <!-- Quest Texts -->
+    <Text>
+      <GUID>1414006050</GUID>
+      <Text>Die ersten Magnaten ziehen ein</Text>
+    </Text>
+    <Text>
+      <GUID>1414006051</GUID>
+      <Text>Der Magnat begrüßt Sie.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006052</GUID>
+      <Text>Der Magnat begrüßt Sie.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006053</GUID>
+      <Text>Der Magnat denkt darüber nach, wie er Ihr Vermögen für den Wiederaufbau seines Hauses heranziehen kann.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006054</GUID>
+      <Text>Der Magnat fragt sich, wie ihn seine Reichtümer vor dieser Krankheit retten können.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006055</GUID>
+      <Text>Der Magnat sorgt sich, ob seine Reichtümer in Ihren Ländern sicher sind.</Text>      <!--Typo-->
+    </Text>
+    <Text>
+      <GUID>1414006056</GUID>
+      <Text>Der Magnat bietet Ihnen einen Auftrag an.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006057</GUID>
+      <Text>Der Magnat ist glücklich, dass Sie angenommen haben.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006058</GUID>
+      <Text>Der Magnat dankt für Ihre Hilfe.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006059</GUID>
+      <Text>Der Magnat ist von Ihrer Inkompetenz beleidigt.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006060</GUID>
+      <Text>Der Magnat tobt, da sie seine Aufgabe als minder wichtig abtun.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006061</GUID>
+      <Text>Der Magnat drängt Sie, seinen Auftrag zu vollenden.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006062</GUID>
+      <Text>Der Magnat fragt, ob Sie erfolgreich waren.</Text>
+    </Text>
+    <Text>
+      <GUID>14443014</GUID>
+      <Text>Alle Produktionsgebäude in Horai</Text>
+    </Text>
+    <Text>
+      <GUID>1414006064</GUID>
+      <Text>Der Gōngrén begrüßt sie.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006065</GUID>
+      <Text>Der Gōngrén erfragt Ihre Hilfe.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006066</GUID>
+      <Text>Der Gōngrén ist dankbar, dass sie akzeptiert haben.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006067</GUID>
+      <Text>Der Gōngrén dankt Ihnen für die Hilfe.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006068</GUID>
+      <Text>Der Gōngrén ist unglücklich über Ihr Versagen.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006069</GUID>
+      <Text>Der Gōngrén ist enttäuscht, dass Sie seinen Auftrag nicht erfüllt haben.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006070</GUID>
+      <Text>Der Gōngrén erinnert Sie an Ihre Aufgabe.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006071</GUID>
+      <Text>Der Gōngrén fragt, ob sie erfolgreich waren.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006072</GUID>
+      <Text>Die ersten Gōngrén ziehen ein.</Text>
+    </Text>
+    <Text>
+      <GUID>1446115</GUID>
+      <Text>Wanderarbeiter</Text>
+    </Text>
+    <!-- Product Fluffs -->    
+    <Text>
+      <GUID>1414006010</GUID>
+      <Text>Rauchen verboten!</Text>
+    </Text>
+    <Text>
+      <GUID>1414006011</GUID>
+      <Text>Einfache Alltagskleidung</Text>
+    </Text>
+    <Text>
+      <GUID>1414006453</GUID>
+      <Text>Erzeugt einen delikaten, ätherischen und außerweltlichen Klang</Text>
+    </Text>
+    <Text>
+      <GUID>1414006454</GUID>
+      <Text>Blühend-heilige Schönheiten.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006455</GUID>
+      <Text>Erzeugt beim Zupfen einen sanglichen Klang.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006794</GUID>
+      <Text>Sehr blockige Blöcke.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006836</GUID>
+      <Text>Aus zerdrückten Sojabohnen gegossen.</Text>
+    </Text>
+    <!-- Multifactory Flufftexts -->    
+    <Text>
+      <GUID>1414006589</GUID>
+      <Text>Detektorempfänger sind sehr fortschrittliche Technologie in Miniaturausführung. Jeder Kratzer oder abgebrochene Ecke am sorgfältig ausgewählten Kristall würde später das Radiosignal stören.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006590</GUID>
+      <Text>Instrumentensaiten sind sehr kurzlebig, sodass sie zweimal in der Woche gewechselt werden müssen. Diese Maschine ist die beste Lösung, denn sie produziert sie schneller, als der fleißigste Student sie kaputtbekommt.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006591</GUID>
+      <Text>Ein Füller sollte sich wie die Erweiterung des Verstandes anfühlen. Die präzise Fräsung dieser Spitzen sorgt genau dafür - denn welcher Arzt will schon, dass durch einen schlechten Stift seine Handschrift unleserlich wird?</Text>
+    </Text>
+    <Text>
+      <GUID>1414006592</GUID>
+      <Text>Eine Präzise Fräsemaschine ist eine technische Revolution. Wofür Kunsthandwerker Jahre an Feinarbeit gebraucht hatten, erledigt diese Maschine in einer Stunde.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

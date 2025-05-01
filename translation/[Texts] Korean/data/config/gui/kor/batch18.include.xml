@@ -1,0 +1,441 @@
+﻿<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        
+    <Text>
+        <GUID>1414018050</GUID>
+        <Text>금 세공소, 황동 제작소 및 제철소의 생산성 +30%</Text>
+      </Text>
+      <Text>
+        <GUID>1414008550</GUID>
+        <Text>업무량 규제 완화법</Text>
+      </Text>
+      <Text>
+        <GUID>1414018051</GUID>
+        <Text>전구 공장, 축음기 공장 및 귀금속 세공소에서 필요한 노동력 -20%</Text>
+      </Text>
+      <Text>
+        <GUID>1414008551</GUID>
+        <Text>프리메이슨리</Text>
+      </Text>
+      <Text>
+        <GUID>1414018052</GUID>
+        <Text>모든 항만 관리소장실의 아이템 슬롯 +1</Text>
+      </Text>
+      <Text>
+        <GUID>1414008552</GUID>
+        <Text>항만 관리법</Text>
+      </Text>
+      <Text>
+        <GUID>1414008553</GUID>
+        <Text>다자간 자유 무역법</Text>
+      </Text>
+      <Text>
+        <GUID>1414018053</GUID>
+        <Text>수입 부두의 수입 속도 +50%</Text>
+      </Text>
+      <Text>
+        <GUID>14443044</GUID>
+        <Text>수입 부두</Text>
+      </Text>
+      <Text>
+        <GUID>1414008554</GUID>
+        <Text>작물 비축법</Text>
+      </Text>
+      <Text>
+        <GUID>1414018054</GUID>
+        <Text>작물 저장고 및 창고의 저장 공간 +25</Text>
+      </Text>
+      <Text>
+        <GUID>1414018163</GUID>
+        <Text>[AssetData([NotificationContext CharacterGUID]) Text]이(가) 비둘기 떼의 습격을 받아서 더러운 꼴을 당했습니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414018164</GUID>
+        <Text>[AssetData([NotificationContext CharacterGUID]) Text]이(가) 이 무례한 범인을 잡아달라고 부탁합니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414018165</GUID>
+        <Text>한 대실업가가 야생 비둘기의 습격을 받았습니다. 그러자 그의 안경 제작자가 세척 비용을 청구했습니다. 아무래도 납세자가 나서야 할 상황인 것 같네요.</Text>
+      </Text>
+      <Text>
+        <GUID>1414018166</GUID>
+        <Text>[AssetData([NotificationContext CharacterGUID]) Text]이(가) 현지 안경 제작자가 청구한 안경 세척 비용을 지불해달라고 요청합니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414040619</GUID>
+        <Text>비둘기의 습격</Text>
+      </Text>
+      <Text>
+        <GUID>1414018167</GUID>
+        <Text>대실업가의 안경을 더럽힌 비둘기를 붙잡으세요.</Text>
+      </Text>
+      <Text>
+        <GUID>1414018168</GUID>
+        <Text>대실업가의 안경 세척 비용 5코인을 지불하세요.</Text>
+      </Text>
+      <Text>
+        <GUID>1414018171</GUID>
+        <Text>상품을 생산합니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414019073</GUID>
+        <Text>새로운 지평을 향하여</Text>
+      </Text>
+      <Text>
+        <GUID>1414019074</GUID>
+        <Text>새로운 지평을 향하여</Text>
+      </Text>
+      <Text>
+        <GUID>1414019075</GUID>
+        <Text>평등 조약의 체결 이후 여왕은 동부 국경 지대에 총독을 파견하여 조차를 시작했습니다. 해당 지역으로 진출하여 정착하세요.</Text>
+      </Text>
+      <Text>
+        <GUID>1414006017</GUID>
+        <Text>자동 무역의 힘을 간과하지 마세요. 무역상과 거래하면서 모든 지역의 농산품과 중간재를 획득할 수 있습니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414187049</GUID>
+        <Text>불아</Text>
+      </Text>
+      <Text>
+        <GUID>1414187050</GUID>
+        <Text>금과 수정으로 장식된 부처님의 치아 유물에서 경외심이 은은하게 피어납니다. 시대를 초월하여 계몽과 헌신을 상징합니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414187051</GUID>
+        <Text>여의봉</Text>
+      </Text>
+      <Text>
+        <GUID>1414187052</GUID>
+        <Text>바다 깊은 곳에서 태어나 마법으로 봉인된 손오공의 지팡이는 자유자재로 늘어나고 줄어듭니다. 손오공이 직접 휘두르는 혼돈을 상징하는 무기입니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414187053</GUID>
+        <Text>상보심금파</Text>
+      </Text>
+      <Text>
+        <GUID>1414187054</GUID>
+        <Text>천상의 철로 벼려진 아홉 개의 무시무시한 발톱이 달린 상보심금파는 하늘의 무게와 땅의 의지를 담아 적을 꿰뚫습니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414187055</GUID>
+        <Text>의식의 인장</Text>
+      </Text>
+      <Text>
+        <GUID>1414187056</GUID>
+        <Text>권위를 머금은 이 석재 인장은 단지 표식을 남기는 데 그치지 않습니다. 정체성, 권력, 그리고 잔잔한 전통의 무게를 함께 새깁니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414187057</GUID>
+        <Text>보검</Text>
+      </Text>
+      <Text>
+        <GUID>1414187058</GUID>
+        <Text>불꽃과 영혼에 벼려진 이 보검은 선조의 자긍심으로 빛나며, 적을 넘어 운명까지도 베어냅니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414187059</GUID>
+        <Text>의식용 향</Text>
+      </Text>
+      <Text>
+        <GUID>1414187060</GUID>
+        <Text>향기로운 연기처럼 하늘로 솟아오르는 의식용 향은 인간과 신을 잇는 보이지 않는 다리를 놓아줍니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414005072</GUID>
+        <Text>1 스투파 유물</Text>
+      </Text>
+      <Text>
+        <GUID>1414018222</GUID>
+        <Text>스투파 비경에 배치하는 진품 유물</Text>
+      </Text>
+      <Text>
+        <GUID>1414018300</GUID>
+        <Text>[AssetData(1441330) Text]의 영향 범위 안에 있어야 함</Text>
+      </Text>
+      <Text>
+        <GUID>1414018301</GUID>
+        <Text>상회 생산 시설</Text>
+      </Text>
+      <Text>
+        <GUID>1414018302</GUID>
+        <Text>모든 상회 생산 시설</Text>
+      </Text>
+      <Text>
+        <GUID>1414018303</GUID>
+        <Text>우기에는 농작물을 수확할 수 없습니다. 모든 농장 모듈의 운영이 자동으로 중단됩니다. 수확을 재개하려면 건기까지 기다리세요.</Text>
+      </Text>
+      <Text>
+        <GUID>1414040223</GUID>
+        <Text>잊힌 유적을 발굴하고 있습니다….</Text>
+      </Text>
+      <Text>
+        <GUID>1414011006</GUID>
+        <Text>농작물 수확 배낭</Text>
+      </Text>
+      <Text>
+        <GUID>1414011007</GUID>
+        <Text>등이 버틸 수 있는 데까지 짚 배낭에 농작물을 채워 넣으세요.</Text>
+      </Text>
+      <Text>
+        <GUID>1414011008</GUID>
+        <Text>선물 받은 젓가락</Text>
+      </Text>
+      <Text>
+        <GUID>1414011009</GUID>
+        <Text>제독의 어머니로부터 선물 받은 특별한 젓가락입니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414011010</GUID>
+        <Text>찻잎 상자</Text>
+      </Text>
+      <Text>
+        <GUID>1414011011</GUID>
+        <Text>최고의 차를 우려낼 수 있도록 찻잎을 신선하게 보관하는 특별한 상자입니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414011012</GUID>
+        <Text>매실주 단지</Text>
+      </Text>
+      <Text>
+        <GUID>1414011106</GUID>
+        <Text>언제든지 매실주를 손쉽게 보관할 수 있는 값싼 항아리입니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414011107</GUID>
+        <Text>옷칠한 도시락 상자</Text>
+      </Text>
+      <Text>
+        <GUID>1414011108</GUID>
+        <Text>멋진 도시락 상자에 점심 식사를 담아냅니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414011109</GUID>
+        <Text>바둑판</Text>
+      </Text>
+      <Text>
+        <GUID>1414011110</GUID>
+        <Text>악기 연주 대신 게임을 합니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414011111</GUID>
+        <Text>호리병</Text>
+      </Text>
+      <Text>
+        <GUID>1414011112</GUID>
+        <Text>인생 최고의 도자기입니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414011113</GUID>
+        <Text>사케 잔</Text>
+      </Text>
+      <Text>
+        <GUID>1414011114</GUID>
+        <Text>이 멋진 잔으로 사케를 마십니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414011115</GUID>
+        <Text>벤또</Text>
+      </Text>
+      <Text>
+        <GUID>1414011116</GUID>
+        <Text>신선한 과일을 언제든지 꺼내먹을 수 있습니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414011117</GUID>
+        <Text>토끼 향</Text>
+      </Text>
+      <Text>
+        <GUID>1414011118</GUID>
+        <Text>평범한 향이 아닙니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414011119</GUID>
+        <Text>고양이 조각상</Text>
+      </Text>
+      <Text>
+        <GUID>1414011124</GUID>
+        <Text>이 고양이를 보셨나요?</Text>
+      </Text>
+      <Text>
+        <GUID>1414011125</GUID>
+        <Text>분재</Text>
+      </Text>
+      <Text>
+        <GUID>1414011126</GUID>
+        <Text>집 안에 정원을 만듭니다. 비록 작지만요.</Text>
+      </Text>
+      <Text>
+        <GUID>1414011127</GUID>
+        <Text>만화</Text>
+      </Text>
+      <Text>
+        <GUID>1414011128</GUID>
+        <Text>누구나 볼 수 없는 책도 있습니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414011129</GUID>
+        <Text>온천 양동이</Text>
+      </Text>
+      <Text>
+        <GUID>1414011130</GUID>
+        <Text>특별한 온천 양동이로 집 안에서 온천 분위기를 내어 보세요.</Text>
+      </Text>
+      <Text>
+        <GUID>1414011131</GUID>
+        <Text>탑 건설 계획</Text>
+      </Text>
+      <Text>
+        <GUID>1414011132</GUID>
+        <Text>성소 건설 계획</Text>
+      </Text>
+      <Text>
+        <GUID>1414011133</GUID>
+        <Text>왕궁 건설 계획</Text>
+      </Text>
+      <Text>
+        <GUID>1414011134</GUID>
+        <Text>불상 건설 계획</Text>
+      </Text>
+      <Text>
+        <GUID>1414011135</GUID>
+        <Text>왕자의 탑 건설 계획</Text>
+      </Text>
+      <Text>
+        <GUID>1414011136</GUID>
+        <Text>스투파 건설 계획</Text>
+      </Text>
+      <Text>
+        <GUID>1414011137</GUID>
+        <Text>앵무새 네쓰케 단추 시제품</Text>
+      </Text>
+      <Text>
+        <GUID>1414011138</GUID>
+        <Text>도자기도 보석이 될 수 있습니다. 이 시제품은 그만한 아름다움을 뽐내면서 보는 이의 감탄과 부러움을 자아냅니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414005073</GUID>
+        <Text>기념물 건설 계획</Text>
+      </Text> 
+      <Text>
+        <GUID>1414018304</GUID>
+        <Text>해외 무역 상회는 호라이에서 일정 반경 내 상회 생산 시설을 지원합니다. 섬의 주민 수가 늘어남에 따라서 반경이 확장됩니다.</Text>
+      </Text>    
+      <Text>
+        <GUID>1414018305</GUID>
+        <Text>해외 무역 상회 창고를 건설하여 무역 허가증 저장 용량을 늘려보세요. 무역 허가증이 없다면 대실업가 수요를 맞추거나 제 섬에서 배송 임무를 수행하거나 구대륙 해외 무역 상회에서 수출 부두를 건설하여 확보할 수 있습니다.</Text>
+      </Text>    
+      <Text>
+        <GUID>1414018306</GUID>
+        <Text>아울러, 여분의 무역 허가증으로 세계 시장에서 새로운 자원을 수입할 수 있습니다. 제가 알기로는 귀하의 섬에는 아직 텅스텐이 없습니다. 그런데도 여전히 손에 넣을 수 있죠. 아시다시피 텅스텐은 전구 필라멘트로서 우수한 성능을 자랑합니다. 그 외에도 다양한 활용처가 있습니다!</Text>
+      </Text>       
+      <Text>
+        <GUID>1414018307</GUID>
+        <Text>무역 허가증을 소지하고 있다면 지역 사무소를 건설하여 주변 상회 생산 시설의 생산량을 높일 수 있습니다.</Text>
+      </Text>      
+      <Text>
+        <GUID>1414018308</GUID>
+        <Text>대실업가는 무역 허가증을 생성할 수 있으며, 그 효율도 상당히 높습니다! 라디오, 블루 치즈, 비단 조끼 및 만년필을 소비할 때마다 무역 허가증이 저장고에 쌓입니다. 무역 허가증은 해외 무역 상회에서 사용하거나 호라이로 운송하여 지역 사무소에 공급할 수 있습니다.</Text>
+      </Text>    
+      <Text>
+        <GUID>1414018309</GUID>
+        <Text>외형 변경</Text>
+      </Text>      
+      <Text>
+        <GUID>1414018310</GUID>
+        <Text>이 건물의 또 다른 외형입니다.</Text>
+      </Text>  
+      <Text>
+        <GUID>1414018311</GUID>
+        <Text>외형 변경 스킨</Text>
+      </Text>  
+      <Text>
+        <GUID>1414018312</GUID>
+        <Text>만세의 왕관 모조품</Text>
+      </Text>  
+      <Text>
+        <GUID>1414018313</GUID>
+        <Text>바보의 눈을 속일 수 있지만, 모조품은 모조품에 불과합니다. 진품 유물이 더 나은 선택일지도 모릅니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414006752</GUID>
+        <Text>떠돌이 노동자가 더 나은 미래를 꿈꾸며 당신의 도시에 찾아옵니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414006749</GUID>
+        <Text>떠돌이 노동자가 아쉬움을 뒤로 한 채 다른 곳에서 행운을 찾길 바라면서 떠납니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414006750</GUID>
+        <Text>떠돌이 노동자가 따뜻한 환대에 기뻐하며 당신의 도시에 정착합니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414006751</GUID>
+        <Text>천명 제국은 그야말로 지상에 도래한 지옥이나 다름없습니다. 가는 곳마다 고통과 폭력으로 가득합니다. 이 도시에 머무를 수 있도록 너그러이 허락해 주신다면 영원히 충성을 다하겠습니다….</Text>
+      </Text>
+      <Text>
+        <GUID>1414006762</GUID>
+        <Text>오메가 헤이븐의 근무자가 머무르는 이 작은 주거지의 주민은 날마다 아침이면 신비로운 예배당에 모여서 미사를 드립니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414006763</GUID>
+        <Text>[AssetData([NotificationContext CharacterGUID]) Text]이(가) 노동자를 받아들이지 않기로 한 당신의 결정을 지지합니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414006764</GUID>
+        <Text>[AssetData([NotificationContext CharacterGUID]) Text]이(가) 천명 제국의 노동력을 착취하는 당신을 경멸합니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414006765</GUID>
+        <Text>[AssetData([NotificationContext CharacterGUID]) Text]이(가) 호라이에서 식민지를 확장하는 당신을 비난합니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414006766</GUID>
+        <Text>마지푼은 한때 국경지대에서 번영하던 섬 주거지였습니다. 그러나 서방 열강과의 전쟁에서 패배한 이후로 황제의 확장 계획은 물거품이 되었습니다. 접경지대에 있는 마지푼 섬은 이제 오국위 제독의 군정 아래 해군 기지로 쓰이고 있습니다. 과거 찬란한 미래를 꿈꾸던 주민은 희망을 잃은 채로 섬을 떠나는 길을 선택하기 시작했습니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414006767</GUID>
+        <Text>제독이 이주 노동자가 저지른 범죄에 대한 증거를 확보하고 체포영장을 발부했습니다. 지명수배자를 찾아서 송환한다면 제독의 거친 언사를 당분간 잠재울 수 있을 겁니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414040611</GUID>
+        <Text>지명수배자</Text>
+      </Text>
+      <Text>
+        <GUID>1414040610</GUID>
+        <Text>체포영장</Text>
+      </Text>
+      <Text>
+        <GUID>1414006768</GUID>
+        <Text>마지푼 항구에서 출항하여 정기 순찰을 하는 중에 내 부하가 불법행위를 포착했다. 네 섬으로 향한 지명수배자로 보인다. 황제의 이름으로 그놈들을 즉시 구속할 수 있는 체포 영장을 발부받았다. 내게 그 범죄자들을 순순히 넘겨줄 거라고 믿고 있겠다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414006769</GUID>
+        <Text>사케는 신앙을 유지하는 데 반드시 필요한 상품이지만, 그렇다고 해서 식수까지 대체할 수는 없지. 주민의 사케 소비를 줄여야 할 것 같군.</Text>
+      </Text>
+      <Text>
+        <GUID>1414006771</GUID>
+        <Text>네가 섬에 정착한 이후로 마지푼 주민이 온종일 술에 취해 있군! 네 도시의 주민이 끔찍한 본보기가 되어주고 있다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414006770</GUID>
+        <Text>지역 전반에서 유지:&lt;br/&gt; [Conditions QuestCondition TimeLimit &gt;&gt; time] 동안 [AssetData([Conditions QuestCondition Context]) Text]의 공급 [Conditions QuestCondition Amount]% 이하(현재: [Conditions QuestCondition CurrentAmount]%)</Text>
+      </Text>
+      <Text>
+        <GUID>1414040616</GUID>
+        <Text>회상</Text>
+      </Text>
+      <Text>
+        <GUID>1414006744</GUID>
+        <Text>무역 상품</Text>
+      </Text>
+      <Text>
+        <GUID>1414006745</GUID>
+        <Text>이 특별한 동물은 동남부 아대륙의 외딴 지역에서만 서식합니다. 그러나 인간이 고립된 대나무숲을 서서히 침범하여 이들을 내쫓거나 사냥하면서 개체수가 급격히 감소할 위험에 놓였습니다.</Text>
+      </Text>
+      <Text>
+        <GUID>1414006027</GUID>
+        <Text>48시간이라고요? 지금 당장 게임을 끄세요!</Text>
+      </Text>
+    </ModOp>
+</ModOps>

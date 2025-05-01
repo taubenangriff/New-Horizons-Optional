@@ -1,0 +1,325 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>54005000</GUID>
+      <Text>ВОСТОЧНАЯ ЭКСПАНСИЯ</Text>
+    </Text>
+    <Text>
+      <GUID>54005001</GUID>
+      <Text>ЗАРУБЕЖНОЕ РАЗВИТИЕ</Text>
+    </Text>
+    <Text>
+      <GUID>54005002</GUID>
+      <Text>ИМПЕРИАЛИЗМ</Text>
+    </Text>
+    <Text>
+      <GUID>14443001</GUID>
+      <Text>Пирсы</Text>
+    </Text>
+    <Text>
+      <GUID>14443002</GUID>
+      <Text>Торговые посты</Text>
+    </Text>
+    <Text>
+      <GUID>14443003</GUID>
+      <Text>Пирсы</Text>
+    </Text>
+    <Text>
+      <GUID>14443004</GUID>
+      <Text>Большие Берты</Text>
+    </Text>
+    <Text>
+      <GUID>14443005</GUID>
+      <Text>Грузовые пирсы и торговые посты</Text>
+    </Text>
+    <Text>
+      <GUID>14443000</GUID>
+      <Text>Все культурные здания</Text>
+    </Text>
+    <Text>
+      <GUID>14443000</GUID>
+      <Text>Нефтяные гавани и пирсы</Text>
+    </Text>    
+    <Text>
+      <GUID>14443033</GUID>
+      <Text>Все многофункциональные фабрики Хорай</Text>
+    </Text>
+    <Text>
+      <GUID>14443042</GUID>
+      <Text>Все кухни Хорай</Text>
+    </Text>
+    <Text>
+      <GUID>14443043</GUID>
+      <Text>Все кухни Хорай</Text>
+    </Text>
+    <Text>
+      <GUID>14443037</GUID>
+      <Text>Резиденции магнатов</Text>
+    </Text>
+    <Text>
+      <GUID>14443036</GUID>
+      <Text>Небоскребы магнатов</Text>
+    </Text>
+    <Text>
+      <GUID>14443016</GUID>
+      <Text>Все фермы Хорай</Text>
+    </Text>
+    <Text>
+      <GUID>14443032</GUID>
+      <Text>Бизнесы магнатов</Text>
+    </Text>
+    <Text>
+      <GUID>14443030</GUID>
+      <Text>Жилые дома Хорай</Text>
+    </Text>
+    <Text>
+      <GUID>1414006788</GUID>
+      <Text>Все общественные службы, кроме садов</Text>
+    </Text>
+    <!-- Quest Texts -->
+    <Text>
+      <GUID>1414006407</GUID>
+      <Text>Нажмите и получите подарок: Грузовое судно</Text>
+    </Text>
+    <Text>
+      <GUID>1414006609</GUID>
+      <Text>Магнат доволен продажами билетов на метро.</Text>
+    </Text>
+    <Text><!-- Goodwill Payout Quest Title -->
+      <GUID>1414040450</GUID>
+      <Text>Получение прибыли</Text>
+    </Text>
+    <!-- Buildings -->    
+    <Text>
+      <GUID>1446010</GUID>
+      <Text>Склад для урожая</Text>
+    </Text>
+    <Text>
+      <GUID>1442504</GUID>
+      <Text>Небоскреб магната: Уровень 1</Text>
+    </Text>
+    <Text>
+      <GUID>1442505</GUID>
+      <Text>Небоскреб магната: Уровень 2</Text>
+    </Text>
+    <Text>
+      <GUID>1442506</GUID>
+      <Text>Небоскреб магната: Уровень 3</Text>
+    </Text>
+    <Text>
+      <GUID>1442507</GUID>
+      <Text>Небоскреб магната: Уровень 4</Text>
+    </Text>
+    <Text>
+      <GUID>1447915</GUID>
+      <Text>Торговый союз</Text>
+    </Text>
+    <Text>
+      <GUID>1447916</GUID>
+      <Text>Ратуша</Text>
+    </Text>
+    <Text>
+      <GUID>1447914</GUID>
+      <Text>Офис гавани</Text>
+    </Text>
+    <Text>
+      <GUID>1414015026</GUID>
+      <Text>Гавань адмирала Ву Говэя</Text>
+    </Text>
+    <Text>
+      <GUID>1414015035</GUID>
+      <Text>Офис</Text>
+    </Text>
+    <Text>
+      <GUID>1414015036</GUID>
+      <Text>Тюрьма</Text>
+    </Text>
+    <Text>
+      <GUID>1414015037</GUID>
+      <Text>Огненный миномет</Text>
+    </Text>
+    <Text>
+      <GUID>1414015032</GUID>
+      <Text>Зенитная установка</Text>
+    </Text>
+    <Text>
+      <GUID>1414015027</GUID>
+      <Text>Пушечная башня</Text>
+    </Text>
+    <Text>
+      <GUID>1414015042</GUID>
+      <Text>Хвача</Text>
+    </Text>
+    <Text>
+      <GUID>14740081</GUID>
+      <Text>Линейный крейсер</Text>
+    </Text>
+    <Text>
+      <GUID>14740083</GUID>
+      <Text>Монитор</Text>
+    </Text>
+    <Text>
+      <GUID>14740082</GUID>
+      <Text>Осадный крейсер</Text>
+    </Text>
+    <Text>
+      <GUID>1414006699</GUID>
+      <Text>Очень эффективен против кораблей.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006700</GUID>
+      <Text>Подавляет островную защиту.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006701</GUID>
+      <Text>Специализируется на быстром уничтожении портовых зданий.</Text>
+    </Text>
+    <Text>
+      <GUID>1414015045</GUID>
+      <Text>Голова льва</Text>
+    </Text>
+    <Text>
+      <GUID>1414015047</GUID>
+      <Text>Покрыто нефтью!</Text>
+    </Text>
+    <Text>
+      <GUID>1414015048</GUID>
+      <Text>Нефтяные лужи!</Text>
+    </Text>
+    <Text>
+      <GUID>1414015049</GUID>
+      <Text>Нефтяные остатки!</Text>
+    </Text>
+    <Text>
+      <GUID>1414006706</GUID>
+      <Text>&lt;img src=&apos;data/ui/2kimages/main/icons/ship_info/icon_hitpoints.png&apos; height=&apos;24&apos; width=&apos;24&apos; /&gt; &lt;font size='17' &gt;[Selection Object Attackable CurHitPoints &gt;&gt; healthpoint]&lt;/font&gt;</Text>
+    </Text>
+    <Text>
+      <GUID>1414015039</GUID>
+      <Text>Крепость наварха Пирфории</Text>
+    </Text>
+    <Text>
+      <GUID>1414015053</GUID>
+      <Text>Огнемет</Text>
+    </Text>
+    <Text>
+      <GUID>1414015058</GUID>
+      <Text>Глаз дракона</Text>
+    </Text>    
+    <!-- Random Ship Duplicates -->
+    <Text>
+      <GUID>14740075</GUID>
+      <Text>Тяжелый грузовой корабль</Text>
+    </Text>
+    <Text>
+      <GUID>14740076</GUID>
+      <Text>Тяжелый грузовой корабль</Text>
+    </Text>
+    <Text>
+      <GUID>14740077</GUID>
+      <Text>Тяжелый грузовой корабль</Text>
+    </Text>    
+    <Text>
+      <GUID>1414006623</GUID>
+      <Text>Грузовое судно сэра Блейка</Text>
+    </Text>
+    <Text>
+      <GUID>1414006624</GUID>
+      <Text>Грузовое судно мадам Кахины</Text>
+    </Text>
+    <Text>
+      <GUID>1414006625</GUID>
+      <Text>Грузовое судно Эли Бликворта</Text>
+    </Text>
+    <Text>
+      <GUID>1414006626</GUID>
+      <Text>Грузовое судно Энн Харлоу</Text>
+    </Text>
+    <Text>
+      <GUID>1414006627</GUID>
+      <Text>Грузовое судно Изабелы</Text>
+    </Text>
+    <Text>
+      <GUID>1414006628</GUID>
+      <Text>Грузовое судно Жана Ла Фортуна</Text>
+    </Text>
+    <Text>
+      <GUID>1414006629</GUID>
+      <Text>Грузовое судно Старого Нейта</Text>
+    </Text>
+    <!-- Random stuff -->
+    <Text>
+      <GUID>1414006472</GUID>
+      <Text>БОБ и сыновья</Text>
+    </Text>
+    <Text>
+      <GUID>1414006473</GUID>
+      <Text>Нет ничего, что нельзя построить с материалами от БОБ и сыновей.</Text>
+    </Text>
+    <Text>
+      <GUID>14740078</GUID>
+      <Text>Бродячие рабочие</Text>
+    </Text>
+    <Text>
+      <GUID>1414006475</GUID>
+      <Text>Культурная мотивация</Text>
+    </Text>
+    <Text>
+      <GUID>1414006542</GUID>
+      <Text>Гунрэн рассказывает вам об этих руинах.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006630</GUID>
+      <Text>Бизнес магната</Text>
+    </Text>
+    <Text>
+      <GUID>1414006631</GUID>
+      <Text>Я верю, что частные субкомпании — это будущее. Жаль, что Корона все еще отстает в этом вопросе. К счастью для нас, Империя не имеет власти над атоллом.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006632</GUID>
+      <Text>Вот сделка: вы инвестируете в фабрики в Хорай, а мы выкупаем их у вас. Мы оплатим часть их расходов и разберемся с любыми проблемами.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006633</GUID>
+      <Text>Моя выгода? Я прошу немного — просто хочу получить свою долю прибыли, если вы понимаете.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006634</GUID>
+      <Text>Часто используются на праздниках, но их стиль и комфорт трудно игнорировать в повседневной жизни.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006635</GUID>
+      <Text>Фастфуд для панд. Они должны жевать или умереть!</Text>
+    </Text>
+    <Text>
+      <GUID>1414006636</GUID>
+      <Text>Идеальный материал для стен в условиях влажного климата.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006638</GUID>
+      <Text>[Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount]т [AssetData([Conditions QuestCondition Context]) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414006639</GUID>
+      <Text>Маленькие скульптуры и украшения, вырезанные из нефрита, который еще предстоит найти в Хорай.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006640</GUID>
+      <Text>Часть Дальнего Востока, напоминающая вашему народу об их происхождении.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006641</GUID>
+      <Text>Интенсивно ароматный и массово производимый, лишь немногие знают, как его правильно приготовить — рецепт более секретный, чем у нового напитка Cola Mola Wola.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006642</GUID>
+      <Text>Выглядит как оружие и пахнет как мусор, но его сладкая мякоть все же ценится.</Text>
+    </Text>
+    <!-- Goodwills Export Tutorial -->
+    <Text>
+      <GUID>1414006565</GUID>
+      <Text>&lt;font size = &quot;14&quot;&gt;&lt;font size = &quot;32&quot;&gt;ТОРГОВЫЙ ДОГОВОР&lt;/font&gt;&lt;br /&gt;&lt;br/&gt;&lt;font size = &quot;18&quot;&gt;§1 Способ доставки&lt;/font&gt;&lt;br /&gt;&lt;br/&gt;§1.1 Вы можете доставлять товары на складское судно E.T.A. в Омега Хейвен. Доставка может быть произведена в любое время. E.T.A. будет хранить эти товары в своем массовом хранилище до его заполнения. &lt;br/&gt;§1.2 E.T.A. принимает только предварительно упакованные партии. Подробные количества указаны в §3. &lt;br/&gt;§1.3 При достижении полной емкости хранилища вы обязаны экспортировать хранящиеся товары покупателю, выбранному E.T.A., прежде чем ввозить новые товары.&lt;br/&gt;&lt;br/&gt;&lt;font size=&quot;18&quot;&gt;§2 Товары для доставки&lt;/font&gt;&lt;br /&gt;&lt;br/&gt;§2.1 В E.T.A. можно доставлять товары пяти категорий: Наркотики, Ценности, Алкоголь, Предметы роскоши, Оружие. Подробнее в §4.&lt;br /&gt;§2.2 E.T.A. имеет отдельные хранилища для этих пяти категорий. &lt;br/&gt;&lt;br/&gt;&lt;font size=&quot;18&quot;&gt;§3 Количество товаров на доставку&lt;/font&gt;&lt;br /&gt;&lt;br/&gt;§3.1 Наркотики: 10т &lt;br/&gt;§3.2 Ценности: 10т &lt;br/&gt;§3.3 Алкоголь: 200т &lt;br/&gt;§3.4 Предметы роскоши: 100т &lt;br/&gt;§3.4 Оружие: 50т &lt;br/&gt;&lt;br/&gt;&lt;font size=&quot;18&quot;&gt;§4 Типы товаров&lt;/font&gt;&lt;br /&gt;&lt;br/&gt;§4.1 Наркотики: Наркотики &lt;br/&gt;§4.2 Ценности: Ценности &lt;br/&gt;§4.3 Алкоголь: Шнапс, Пиво, Ром, Шампанское, Коньяк, Умесю, Саке &lt;br/&gt;§4.4 Предметы роскоши: Шампунь, Лимонад, Сигары, Трубки, Конопля, Патефоны, Ювелирные изделия, Паровые кареты, Телефоны, Радио, Ручки, Скрипки, Бильярдные столы &lt;br/&gt;§4.5 Оружие: Оружие, Продвинутое оружие, Динамит, Паровые двигатели, Бомбы, Морские мины.&lt;/font&gt;</Text>
+    </Text>
+  </ModOp>
+</ModOps>

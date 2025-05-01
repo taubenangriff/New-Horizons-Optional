@@ -1,0 +1,620 @@
+<ModOps>    
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1446131</GUID>
+      <Text>Пирфорианец Наварх</Text>
+    </Text>
+    <Text>
+      <GUID>1446109</GUID>
+      <Text>Джеймс Гудвилл</Text>
+    </Text>
+    <Text>
+      <GUID>1446116</GUID>
+      <Text>Адмирал У Гуовей</Text>
+    </Text>
+    <!-- Admiral Island -->
+    <Text>
+      <GUID>1414006702</GUID>
+      <Text>Маджипун</Text>
+    </Text>
+    <!-- Goodwill Island-->
+    <Text>
+      <GUID>1414006420</GUID>
+      <Text>Порт Омега</Text>
+    </Text>
+    <!-- Pyrphorian Island-->
+    <Text>
+      <GUID>1414006698</GUID>
+      <Text>Замок Огня</Text>
+    </Text>
+    <!-- poptiers -->
+    <Text>
+      <GUID>1445600</GUID>
+      <Text>Магнаты</Text>
+    </Text>
+    <Text>
+      <GUID>1445602</GUID>
+      <Text>Нунмини</Text>
+    </Text>
+    <Text>
+      <GUID>1446100</GUID>
+      <Text>Нунмини</Text>
+    </Text>
+    <Text>
+      <GUID>1446101</GUID>
+      <Text>Гунжени</Text>
+    </Text>
+    <Text>
+      <GUID>1445603</GUID>
+      <Text>Гунжени</Text>
+    </Text>
+    <Text>
+      <GUID>1446103</GUID>
+      <Text>Гунжени</Text>
+    </Text>
+    <Text>
+      <GUID>1446106</GUID>
+      <Text>Магнаты</Text>
+    </Text>
+    <!-- Products -->
+    <Text>
+      <GUID>1440235</GUID>
+      <Text>Нонла</Text>
+    </Text>    
+    <Text>
+      <GUID>1440004</GUID>
+      <Text>Радиоприёмники</Text>
+    </Text>    
+    <Text>
+      <GUID>1440007</GUID>
+      <Text>Перьевые ручки</Text>
+    </Text>
+    <Text>
+      <GUID>1440010</GUID>
+      <Text>Детекторные приёмники</Text>
+    </Text>
+    <Text>
+      <GUID>1440014</GUID>
+      <Text>Голубой сыр</Text>
+    </Text>
+    <Text>
+      <GUID>1440016</GUID>
+      <Text>Икорные чипсы</Text>
+    </Text>
+    <Text>
+      <GUID>1440017</GUID>
+      <Text>Перец горошком</Text>
+    </Text>
+    <Text>
+      <GUID>1440018</GUID>
+      <Text>Черный перец</Text>
+    </Text>
+    <Text>
+      <GUID>1440019</GUID>
+      <Text>Икра</Text>
+    </Text>
+    <Text>
+      <GUID>1440226</GUID>
+      <Text>Осетр</Text>
+    </Text>
+    <Text>
+      <GUID>1440020</GUID>
+      <Text>Перья для перьевых ручек</Text>
+    </Text>
+    <Text>
+      <GUID>1440021</GUID>
+      <Text>Табуляторы</Text>
+    </Text>
+    <Text>
+      <GUID>1440022</GUID>
+      <Text>Бурбон</Text>
+    </Text>
+    <Text>
+      <GUID>1440023</GUID>
+      <Text>Автомобили</Text>
+    </Text>
+    <Text>
+      <GUID>1440024</GUID>
+      <Text>Вольфрам</Text>
+    </Text>
+    <Text>
+      <GUID>1440025</GUID>
+      <Text>Серебряные слитки</Text>
+    </Text>
+    <Text>
+      <GUID>1440026</GUID>
+      <Text>Бриллианты</Text>
+    </Text>
+    
+    <Text>
+      <GUID>1440200</GUID>
+      <Text>Рис</Text>
+    </Text>
+    <Text>
+      <GUID>1440213</GUID>
+      <Text>Оши-суши</Text>
+    </Text>
+    <Text>
+      <GUID>1440201</GUID>
+      <Text>Японские абрикосы</Text>
+    </Text>
+    <Text>
+      <GUID>1440202</GUID>
+      <Text>Чайный лист</Text>
+    </Text>
+    <Text>
+      <GUID>1440203</GUID>
+      <Text>Зеленый чай</Text>
+    </Text>
+    <Text>
+      <GUID>1440204</GUID>
+      <Text>Каолин</Text>
+    </Text>
+    <Text>
+      <GUID>1440205</GUID>
+      <Text>Полевой шпат</Text>
+    </Text>
+    <Text>
+      <GUID>1440206</GUID>
+      <Text>Фарфор</Text>
+    </Text>
+    <Text>
+      <GUID>1440207</GUID>
+      <Text>Шелковые коконы</Text>
+    </Text>
+    <Text>
+      <GUID>1440209</GUID>
+      <Text>Шелковая ткань</Text>
+    </Text>
+    <Text>
+      <GUID>1440215</GUID>
+      <Text>Дрожжи</Text>
+    </Text>
+    <Text>
+      <GUID>1440216</GUID>
+      <Text>Саке</Text>
+    </Text>
+    <Text>
+      <GUID>1440217</GUID>
+      <Text>Утки</Text>
+    </Text>
+    <Text>
+      <GUID>1440218</GUID>
+      <Text>Мед</Text>
+    </Text>
+    <Text>
+      <GUID>1440219</GUID>
+      <Text>Жареные утки</Text>
+    </Text>
+    <Text>
+      <GUID>1440220</GUID>
+      <Text>Абрикосовый ликер</Text>
+    </Text>
+    <Text>
+      <GUID>1440224</GUID>
+      <Text>Конопля</Text>
+    </Text>
+    <Text>
+      <GUID>1440225</GUID>
+      <Text>Кимоно</Text>
+    </Text>
+    <Text>
+      <GUID>1440300</GUID>
+      <Text>Благородные грибы</Text>
+    </Text>
+    <Text>
+      <GUID>1440221</GUID>
+      <Text>Иридий</Text>
+    </Text>
+    <Text>
+      <GUID>1440223</GUID>
+      <Text>Соевые бобы</Text>
+    </Text>
+    <Text>
+      <GUID>1440402</GUID>
+      <Text>Баня</Text>
+    </Text>
+    <Text>
+      <GUID>1440405</GUID>
+      <Text>Храм</Text>
+    </Text>
+    <Text>
+      <GUID>1440404</GUID>
+      <Text>Станция метро</Text>
+    </Text>
+    <Text>
+      <GUID>1440229</GUID>
+      <Text>Цитры</Text>
+    </Text>
+    <Text>
+      <GUID>1440303</GUID>
+      <Text>Дрожжи кодзи</Text>
+    </Text>
+    <Text>
+      <GUID>1440500</GUID>
+      <Text>Наркотики</Text>
+    </Text>
+    <Text>
+      <GUID>1440501</GUID>
+      <Text>Ценности</Text>
+    </Text>
+    <Text>
+      <GUID>1440502</GUID>
+      <Text>Алкоголь</Text>
+    </Text>
+    <Text>
+      <GUID>1440503</GUID>
+      <Text>Предметы роскоши</Text>
+    </Text>
+    <Text>
+      <GUID>1440504</GUID>
+      <Text>Оружие</Text>
+    </Text>
+    <Text>
+      <GUID>1440232</GUID>
+      <Text>Шелковые жилеты</Text>
+    </Text>
+    <Text>
+      <GUID>1440233</GUID>
+      <Text>Бамбук</Text>
+    </Text>
+    <Text>
+      <GUID>1440234</GUID>
+      <Text>Глиняная штукатурка</Text>
+    </Text>
+    <Text>
+      <GUID>1440236</GUID>
+      <Text>Соевый соус</Text>
+    </Text>
+    <Text>
+      <GUID>1440407</GUID>
+      <Text>Сад</Text>
+    </Text>
+    <Text>
+      <GUID>1440237</GUID>
+      <Text>Каменные блоки</Text>
+    </Text>
+    <Text>
+      <GUID>1440239</GUID>
+      <Text>Тофу</Text>
+    </Text>
+    <Text>
+      <GUID>1440409</GUID>      <!-- Streetfood - Product -->
+      <Text>Уличная еда</Text>
+    </Text>    
+    <Text>
+      <GUID>1337881</GUID>
+      <Text>Верфь джонок</Text>
+    </Text>
+    <Text>
+      <GUID>14740102</GUID>
+      <Text>Джонка</Text>
+    </Text>
+    <Text>
+      <GUID>14740115</GUID>
+      <Text>Лорча</Text>
+    </Text>
+    <Text>
+      <GUID>1441333</GUID>
+      <Text>Кухня: лапша</Text>
+    </Text>
+    <Text>
+      <GUID>1441336</GUID>
+      <Text>Кухня: тофу</Text>
+    </Text>
+    <Text>
+      <GUID>1441233</GUID>
+      <Text>Кухня: жареная утка</Text>
+    </Text>
+    <Text>
+      <GUID>1441026</GUID>
+      <Text>Кухонный домик: икра</Text>
+    </Text>
+    <Text>
+      <GUID>1441204</GUID>
+      <Text>Кухонный домик: оши-суши</Text>
+    </Text>
+    <Text>
+      <GUID>1441312</GUID>
+      <Text>Кухонный домик: соевый соус</Text>
+    </Text>
+    <!-- Streetfood -->
+    <Text>
+      <GUID>1442701</GUID>      <!-- Streetfood - Noodle Stand (Blank) -->
+      <Text>Лапшичный киоск</Text>
+    </Text>    
+    <Text>
+      <GUID>1442702</GUID>      <!-- Streetfood - Noodle Stand - Nigiri-Sushi -->
+      <Text>Лапшичный киоск: нигири-суши</Text>
+    </Text>
+    <Text>
+      <GUID>1442703</GUID>      <!-- Streetfood - Noodle Stand - Vegetable Tempura -->
+      <Text>Лапшичный киоск: овощная темпура</Text>
+    </Text>
+    <Text>
+      <GUID>1442704</GUID>      <!-- Streetfood - Noodle Stand - Hand-Pulled Beef Noodles -->
+      <Text>Лапшичный киоск: лапша с говядиной</Text>
+    </Text>
+    <Text>
+      <GUID>1442705</GUID>      <!-- Streetfood - Noodle Stand - Takoyaki -->
+      <Text>Лапшичный киоск: такояки</Text>
+    </Text>
+    <Text>
+      <GUID>1442706</GUID>      <!-- Streetfood - Street Grill (Blank) -->
+      <Text>Уличный гриль</Text>
+    </Text>
+    <Text>
+      <GUID>1442707</GUID>      <!-- Streetfood - Street Grill - Okonomiyaki -->
+      <Text>Уличный гриль: окономияки</Text>
+    </Text>
+    <Text>
+      <GUID>1442708</GUID>      <!-- Streetfood - Street Grill - Bak Kwa -->
+      <Text>Уличный гриль: бак ква</Text>
+    </Text>
+    <Text>
+      <GUID>1442709</GUID>      <!-- Streetfood - Street Grill - Stir-Fried Rice -->
+      <Text>Уличный гриль: жареный рис</Text>
+    </Text>
+    <Text>
+      <GUID>1442710</GUID>      <!-- Streetfood - Street Grill - Kushiyaki -->
+      <Text>Уличный гриль: кушияки</Text>
+    </Text>
+    <Text>
+      <GUID>1442711</GUID>      <!-- Streetfood - Steamer Stand (Blank) -->
+      <Text>Киоск еды на пару</Text>
+    </Text>
+    <Text>
+      <GUID>1442712</GUID>      <!-- Streetfood - Steamer Stand - Congee with Youtiao -->
+      <Text>Киоск еды на пару: конджи ютяо</Text>
+    </Text>
+    <Text>
+      <GUID>1442713</GUID>      <!-- Streetfood - Steamer Stand - Steamed Bao Buns -->
+      <Text>Киоск еды на пару: булочки бао</Text>
+    </Text>
+    <Text>
+      <GUID>1442714</GUID>      <!-- Streetfood - Steamer Stand - Zong Zi -->
+      <Text>Киоск еды на пару: цзунцзы</Text>
+    </Text>
+    <Text>
+      <GUID>1442715</GUID>      <!-- Streetfood - Steamer Stand - Special Dumpling Soup -->
+      <Text>Киоск еды на пару: суп с клёцками</Text>
+    </Text>
+    <Text>
+      <GUID>1442716</GUID>      <!-- Streetfood - Dessert Stand (Blank) -->
+      <Text>Киоск с десертами</Text>
+    </Text>
+    <Text>
+      <GUID>1442717</GUID>      <!-- Streetfood - Dessert Stand - Dango -->
+      <Text>Киоск с десертами: данго</Text>
+    </Text>
+    <Text>
+      <GUID>1442718</GUID>      <!-- Streetfood - Dessert Stand - Sweet Doufuhua -->
+      <Text>Киоск с десертами: тофу-пудинг</Text>
+    </Text>
+    <Text>
+      <GUID>1442719</GUID>      <!-- Streetfood - Dessert Stand - Imagawayaki -->
+      <Text>Киоск с десертами: имагаваяки</Text>
+    </Text>
+    <Text>
+      <GUID>1442720</GUID>      <!-- Streetfood - Dessert Stand - Tanghulu -->
+      <Text>Киоск с десертами: танхулу</Text>
+    </Text>
+    <Text>
+      <GUID>1442721</GUID>      <!-- Streetfood - Noodle Recipes -->
+      <Text>Рецепты лапши</Text>
+    </Text>
+    <Text>
+      <GUID>1442722</GUID>      <!-- Streetfood - Street Grill Recipes -->
+      <Text>Рецепты уличного гриля</Text>
+    </Text>
+    <Text>
+      <GUID>1442723</GUID>      <!-- Streetfood - Steamer Recipes -->
+      <Text>Рецепты еды на пару</Text>
+    </Text>
+    <Text>
+      <GUID>1442724</GUID>      <!-- Streetfood - Dessert Recipes -->
+      <Text>Рецепты десертов</Text>
+    </Text>
+    <!-- Factories -->    
+    <Text>
+      <GUID>1441010</GUID>
+      <Text>Завод полимеров</Text>
+    </Text>
+    <Text>
+      <GUID>1441015</GUID>
+      <Text>Завод радиоприёмников</Text>
+    </Text>
+    <Text>
+      <GUID>1441016</GUID>
+      <Text>Мастерская перьевых ручек</Text>
+    </Text>
+    <Text>
+      <GUID>1441020</GUID>
+      <Text>Завод молочных продуктов</Text>
+    </Text>
+    <Text>
+      <GUID>1441290</GUID>
+      <Text>Фабрика шелковых жилетов</Text>
+    </Text>
+    <Text>
+      <GUID>1441022</GUID>
+      <Text>Мельница перца</Text>
+    </Text>
+    <Text>
+      <GUID>1441025</GUID>
+      <Text>Фабрика икорных чипсов</Text>
+    </Text>
+    <Text>
+      <GUID>1441203</GUID>
+      <Text>Ферма водорослей</Text>
+    </Text>
+    <Text>
+      <GUID>1441208</GUID>
+      <Text>Ликерный завод</Text>
+    </Text>
+    <Text>
+      <GUID>1441212</GUID>
+      <Text>Чайная фабрика</Text>
+    </Text>
+    <Text>
+      <GUID>1441259</GUID>
+      <Text>Фабрика нонла</Text>
+    </Text>
+    <Text>
+      <GUID>1441215</GUID>
+      <Text>Печь для обжига фарфора</Text>
+    </Text>
+    <Text>
+      <GUID>1441291</GUID>
+      <Text>Бамбуковое лесное хозяйство</Text>
+    </Text>
+    <Text>
+      <GUID>1441223</GUID>
+      <Text>Шелкоткацкая фабрика</Text>
+    </Text>
+    <Text>
+      <GUID>1441226</GUID>
+      <Text>Сакэварня</Text>
+    </Text>
+    <Text>
+      <GUID>1441260</GUID>
+      <Text>Осетровый промысел</Text>
+    </Text>
+    <Text>
+      <GUID>1441283</GUID>
+      <Text>Мастерская цитр</Text>
+    </Text>
+    <Text>
+      <GUID>1441308</GUID>
+      <Text>Фабрика кимоно</Text>
+    </Text>
+    <Text>
+      <GUID>1441021</GUID>
+      <Text>Перечная ферма</Text>
+    </Text>
+    <Text>
+      <GUID>1441202</GUID>
+      <Text>Рисовая плантация</Text>
+    </Text>
+    <Text>
+      <GUID>1441207</GUID>
+      <Text>Абрикосовая плантация</Text>
+    </Text>
+    <Text>
+      <GUID>1441211</GUID>
+      <Text>Чайная плантация</Text>
+    </Text>
+    <Text>
+      <GUID>1441257</GUID>
+      <Text>Конопляная ферма</Text>
+    </Text>
+    <Text>
+      <GUID>1441218</GUID>
+      <Text>Тутовая плантация</Text>
+    </Text>
+    <Text>
+      <GUID>1441229</GUID>
+      <Text>Утиная ферма</Text>
+    </Text>
+    <Text>
+      <GUID>1441232</GUID>
+      <Text>Пасека</Text>
+    </Text>
+    <Text>
+      <GUID>1441251</GUID>
+      <Text>Соевая плантация</Text>
+    </Text>
+    <Text>
+      <GUID>1441281</GUID>
+      <Text>Сафлоровая плантация</Text>
+    </Text>
+    <Text>
+      <GUID>1441024</GUID>
+      <Text>Перечное поле</Text>
+    </Text>
+    <Text>
+      <GUID>1441201</GUID>
+      <Text>Рисовое поле</Text>
+    </Text>
+    <Text>
+      <GUID>1441206</GUID>
+      <Text>Абрикосовое поле</Text>
+    </Text>
+    <Text>
+      <GUID>1441210</GUID>
+      <Text>Чайное поле</Text>
+    </Text>
+    <Text>
+      <GUID>1441258</GUID>
+      <Text>Конопляное поле</Text>
+    </Text>
+    <Text>
+      <GUID>1441217</GUID>
+      <Text>Тутовое поле</Text>
+    </Text>
+    <Text>
+      <GUID>1441228</GUID>
+      <Text>Загон для уток</Text>
+    </Text>
+    <Text>
+      <GUID>1441231</GUID>
+      <Text>Пчелиный улей</Text>
+    </Text>
+    <Text>
+      <GUID>1441252</GUID>
+      <Text>Соевое поле</Text>
+    </Text>
+    <Text>
+      <GUID>1441282</GUID>
+      <Text>Сафлоровое поле</Text>
+    </Text>
+    <Text>
+      <GUID>1441213</GUID>
+      <Text>Каолиновый карьер</Text>
+    </Text>
+    <Text>
+      <GUID>1441327</GUID>
+      <Text>Каменоломня</Text>
+    </Text>
+    <Text>
+      <GUID>1441240</GUID>
+      <Text>Железный рудник</Text>
+    </Text>
+    <Text>
+      <GUID>1441239</GUID>
+      <Text>Иридиевый рудник</Text>
+    </Text>
+    <Text>
+      <GUID>1441214</GUID>
+      <Text>Шахта полевого шпата</Text>
+    </Text>
+    <Text>
+      <GUID>1441014</GUID>
+      <Text>Фрезерный цех: детекторные приёмники</Text>
+    </Text>
+    <Text>
+      <GUID>1441023</GUID>
+      <Text>Фрезерный цех: перья для перьевых ручек</Text>
+    </Text>
+    <Text>
+      <GUID>1441284</GUID>
+      <Text>Фрезерный цех: струны</Text>
+    </Text>
+    <Text>
+      <GUID>1441300</GUID>
+      <Text>Химический завод</Text>
+    </Text>
+    <Text>
+      <GUID>1441301</GUID>
+      <Text>Химический завод: краски и лак</Text>
+    </Text>
+    <Text>
+      <GUID>1441302</GUID>
+      <Text>Химический завод: целлулоид</Text>
+    </Text>
+    <Text>
+      <GUID>1441303</GUID>
+      <Text>Химический завод: этанол</Text>
+    </Text>
+  </ModOp>
+</ModOps>

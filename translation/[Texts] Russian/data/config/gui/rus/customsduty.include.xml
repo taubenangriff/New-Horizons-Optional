@@ -1,0 +1,667 @@
+<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+    
+        <!-- Customs Duty Items -->
+
+        <Text>
+            <GUID>1414009000</GUID>
+            <Text>Таможенная пошлина: Рыба</Text>
+        </Text>
+        <Text>
+            <GUID>1414009001</GUID>
+            <Text>Таможенная пошлина: Рыба</Text>
+        </Text>
+        <Text>
+            <GUID>1414009003</GUID>
+            <Text>Таможенная пошлина: Шнапс</Text>
+        </Text>
+        <Text>
+            <GUID>1414009004</GUID>
+            <Text>Таможенная пошлина: Шнапс</Text>
+        </Text>
+        <Text>
+            <GUID>1414009006</GUID>
+            <Text>Таможенная пошлина: Рабочая одежда</Text>
+        </Text>
+        <Text>
+            <GUID>1414009007</GUID>
+            <Text>Таможенная пошлина: Рабочая одежда</Text>
+        </Text>
+        <Text>
+            <GUID>1414009009</GUID>
+            <Text>Таможенная пошлина: Колбаски</Text>
+        </Text>
+        <Text>
+            <GUID>1414009010</GUID>
+            <Text>Таможенная пошлина: Колбаски</Text>
+        </Text>
+        <Text>
+            <GUID>1414009012</GUID>
+            <Text>Таможенная пошлина: Хлеб</Text>
+        </Text>
+        <Text>
+            <GUID>1414009013</GUID>
+            <Text>Таможенная пошлина: Хлеб</Text>
+        </Text>
+        <Text>
+            <GUID>1414009015</GUID>
+            <Text>Таможенная пошлина: Мыло</Text>
+        </Text>
+        <Text>
+            <GUID>1414009016</GUID>
+            <Text>Таможенная пошлина: Мыло</Text>
+        </Text>
+        <Text>
+            <GUID>1414009018</GUID>
+            <Text>Таможенная пошлина: Пиво</Text>
+        </Text>
+        <Text>
+            <GUID>1414009019</GUID>
+            <Text>Таможенная пошлина: Пиво</Text>
+        </Text>
+        <Text>
+            <GUID>1414009021</GUID>
+            <Text>Таможенная пошлина: Консервы</Text>
+        </Text>
+        <Text>
+            <GUID>1414009022</GUID>
+            <Text>Таможенная пошлина: Консервы</Text>
+        </Text>
+        <Text>
+            <GUID>1414009024</GUID>
+            <Text>Таможенная пошлина: Швейные машины</Text>
+        </Text>
+        <Text>
+            <GUID>1414009025</GUID>
+            <Text>Таможенная пошлина: Швейные машины</Text>
+        </Text>
+        <Text>
+            <GUID>1414009027</GUID>
+            <Text>Таможенная пошлина: Ром</Text>
+        </Text>
+        <Text>
+            <GUID>1414009028</GUID>
+            <Text>Таможенная пошлина: Ром</Text>
+        </Text>
+        <Text>
+            <GUID>1414009030</GUID>
+            <Text>Таможенная пошлина: Шубы</Text>
+        </Text>
+        <Text>
+            <GUID>1414009031</GUID>
+            <Text>Таможенная пошлина: Шубы</Text>
+        </Text>
+        <Text>
+            <GUID>1414009033</GUID>
+            <Text>Таможенная пошлина: Очки</Text>
+        </Text>
+        <Text>
+            <GUID>1414009034</GUID>
+            <Text>Таможенная пошлина: Очки</Text>
+        </Text>
+        <Text>
+            <GUID>1414009036</GUID>
+            <Text>Таможенная пошлина: Пенни-фартинги</Text>
+        </Text>
+        <Text>
+            <GUID>1414009037</GUID>
+            <Text>Таможенная пошлина: Пенни-фартинги</Text>
+        </Text>
+        <Text>
+            <GUID>1414009039</GUID>
+            <Text>Таможенная пошлина: Карманные часы</Text>
+        </Text>
+        <Text>
+            <GUID>1414009040</GUID>
+            <Text>Таможенная пошлина: Карманные часы</Text>
+        </Text>
+        <Text>
+            <GUID>1414009042</GUID>
+            <Text>Таможенная пошлина: Кофе</Text>
+        </Text>
+        <Text>
+            <GUID>1414009043</GUID>
+            <Text>Таможенная пошлина: Кофе</Text>
+        </Text>
+        <Text>
+            <GUID>1414009045</GUID>
+            <Text>Таможенная пошлина: Электролампы</Text>
+        </Text>
+        <Text>
+            <GUID>1414009046</GUID>
+            <Text>Таможенная пошлина: Электролампы</Text>
+        </Text>
+        <Text>
+            <GUID>1414009048</GUID>
+            <Text>Таможенная пошлина: Игристое вино</Text>
+        </Text>
+        <Text>
+            <GUID>1414009049</GUID>
+            <Text>Таможенная пошлина: Игристое вино</Text>
+        </Text>
+        <Text>
+            <GUID>1414009051</GUID>
+            <Text>Таможенная пошлина: Сигары</Text>
+        </Text>
+        <Text>
+            <GUID>1414009052</GUID>
+            <Text>Таможенная пошлина: Сигары</Text>
+        </Text>
+        <Text>
+            <GUID>1414009054</GUID>
+            <Text>Таможенная пошлина: Шоколад</Text>
+        </Text>
+        <Text>
+            <GUID>1414009055</GUID>
+            <Text>Таможенная пошлина: Шоколад</Text>
+        </Text>
+        <Text>
+            <GUID>1414009057</GUID>
+            <Text>Таможенная пошлина: Украшения</Text>
+        </Text>
+        <Text>
+            <GUID>1414009058</GUID>
+            <Text>Таможенная пошлина: Украшения</Text>
+        </Text>
+        <Text>
+            <GUID>1414009060</GUID>
+            <Text>Таможенная пошлина: Грамофоны</Text>
+        </Text>
+        <Text>
+            <GUID>1414009061</GUID>
+            <Text>Таможенная пошлина: Грамофоны</Text>
+        </Text>
+        <Text>
+            <GUID>1414009063</GUID>
+            <Text>Таможенная пошлина: Паровой транспорт</Text>
+        </Text>
+        <Text>
+            <GUID>1414009064</GUID>
+            <Text>Таможенная пошлина: Паровой транспорт</Text>
+        </Text>
+        <Text>
+            <GUID>1414009066</GUID>
+            <Text>Таможенная пошлина: Кожаная обувь</Text>
+        </Text>
+        <Text>
+            <GUID>1414009067</GUID>
+            <Text>Таможенная пошлина: Кожаная обувь</Text>
+        </Text>
+        <Text>
+            <GUID>1414009069</GUID>
+            <Text>Таможенная пошлина: Котелки</Text>
+        </Text>
+        <Text>
+            <GUID>1414009070</GUID>
+            <Text>Таможенная пошлина: Котелки</Text>
+        </Text>
+        <Text>
+            <GUID>1414009072</GUID>
+            <Text>Таможенная пошлина: Чай из гибискуса</Text>
+        </Text>
+        <Text>
+            <GUID>1414009073</GUID>
+            <Text>Таможенная пошлина: Чай из гибискуса</Text>
+        </Text>
+        <Text>
+            <GUID>1414009075</GUID>
+            <Text>Таможенная пошлина: Костюмы на заказ</Text>
+        </Text>
+        <Text>
+            <GUID>1414009076</GUID>
+            <Text>Таможенная пошлина: Костюмы на заказ</Text>
+        </Text>
+        <Text>
+            <GUID>1414009078</GUID>
+            <Text>Таможенная пошлина: Похлебка из морепродуктов</Text>
+        </Text>
+        <Text>
+            <GUID>1414009079</GUID>
+            <Text>Таможенная пошлина: Похлебка из морепродуктов</Text>
+        </Text>
+        <Text>
+            <GUID>1414009081</GUID>
+            <Text>Таможенная пошлина: Гобелены</Text>
+        </Text>
+        <Text>
+            <GUID>1414009082</GUID>
+            <Text>Таможенная пошлина: Гобелены</Text>
+        </Text>
+        <Text>
+            <GUID>1414009084</GUID>
+            <Text>Таможенная пошлина: Глиняные трубки</Text>
+        </Text>
+        <Text>
+            <GUID>1414009085</GUID>
+            <Text>Таможенная пошлина: Глиняные трубки</Text>
+        </Text>
+        <Text>
+            <GUID>1414009087</GUID>
+            <Text>Таможенная пошлина: Телефоны</Text>
+        </Text>
+        <Text>
+            <GUID>1414009088</GUID>
+            <Text>Таможенная пошлина: Телефоны</Text>
+        </Text>
+        <Text>
+            <GUID>1414009090</GUID>
+            <Text>Таможенная пошлина: Жареные бананы</Text>
+        </Text>
+        <Text>
+            <GUID>1414009091</GUID>
+            <Text>Таможенная пошлина: Жареные бананы</Text>
+        </Text>
+        <Text>
+            <GUID>1414009093</GUID>
+            <Text>Таможенная пошлина: Пончо</Text>
+        </Text>
+        <Text>
+            <GUID>1414009094</GUID>
+            <Text>Таможенная пошлина: Пончо</Text>
+        </Text>
+        <Text>
+            <GUID>1414009096</GUID>
+            <Text>Таможенная пошлина: Тортильи</Text>
+        </Text>
+        <Text>
+            <GUID>1414009097</GUID>
+            <Text>Таможенная пошлина: Тортильи</Text>
+        </Text>
+        <Text>
+            <GUID>1414009099</GUID>
+            <Text>Таможенная пошлина: Пеммикан</Text>
+        </Text>
+        <Text>
+            <GUID>1414009100</GUID>
+            <Text>Таможенная пошлина: Пеммикан</Text>
+        </Text>
+        <Text>
+            <GUID>1414009102</GUID>
+            <Text>Таможенная пошлина: Спальные мешки</Text>
+        </Text>
+        <Text>
+            <GUID>1414009103</GUID>
+            <Text>Таможенная пошлина: Спальные мешки</Text>
+        </Text>
+        <Text>
+            <GUID>1414009105</GUID>
+            <Text>Таможенная пошлина: Масляные лампы</Text>
+        </Text>
+        <Text>
+            <GUID>1414009106</GUID>
+            <Text>Таможенная пошлина: Масляные лампы</Text>
+        </Text>
+        <Text>
+            <GUID>1414009108</GUID>
+            <Text>Таможенная пошлина: Парки</Text>
+        </Text>
+        <Text>
+            <GUID>1414009109</GUID>
+            <Text>Таможенная пошлина: Парки</Text>
+        </Text>
+        <Text>
+            <GUID>1414009111</GUID>
+            <Text>Таможенная пошлина: Нарты</Text>
+        </Text>
+        <Text>
+            <GUID>1414009112</GUID>
+            <Text>Таможенная пошлина: Нарты</Text>
+        </Text>
+        <Text>
+            <GUID>1414009114</GUID>
+            <Text>Таможенная пошлина: Козье молоко</Text>
+        </Text>
+        <Text>
+            <GUID>1414009115</GUID>
+            <Text>Таможенная пошлина: Козье молоко</Text>
+        </Text>
+        <Text>
+            <GUID>1414009117</GUID>
+            <Text>Таможенная пошлина: Галантерея</Text>
+        </Text>
+        <Text>
+            <GUID>1414009118</GUID>
+            <Text>Таможенная пошлина: Галантерея</Text>
+        </Text>
+        <Text>
+            <GUID>1414009120</GUID>
+            <Text>Таможенная пошлина: Сушеное мясо</Text>
+        </Text>
+        <Text>
+            <GUID>1414009121</GUID>
+            <Text>Таможенная пошлина: Сушеное мясо</Text>
+        </Text>
+        <Text>
+            <GUID>1414009123</GUID>
+            <Text>Таможенная пошлина: Керамика</Text>
+        </Text>
+        <Text>
+            <GUID>1414009124</GUID>
+            <Text>Таможенная пошлина: Керамика</Text>
+        </Text>
+        <Text>
+            <GUID>1414009126</GUID>
+            <Text>Таможенная пошлина: Иллюстрированный текст</Text>
+        </Text>
+        <Text>
+            <GUID>1414009127</GUID>
+            <Text>Таможенная пошлина: Иллюстрированный текст</Text>
+        </Text>
+        <Text>
+            <GUID>1414009129</GUID>
+            <Text>Таможенная пошлина: Фонари</Text>
+        </Text>
+        <Text>
+            <GUID>1414009130</GUID>
+            <Text>Таможенная пошлина: Фонари</Text>
+        </Text>
+        <Text>
+            <GUID>1414009132</GUID>
+            <Text>Таможенная пошлина: Радио</Text>
+        </Text>
+        <Text>
+            <GUID>1414009133</GUID>
+            <Text>Таможенная пошлина: Радио</Text>
+        </Text>
+        <Text>
+            <GUID>1414009135</GUID>
+            <Text>Таможенная пошлина: Перьевые ручки</Text>
+        </Text>
+        <Text>
+            <GUID>1414009136</GUID>
+            <Text>Таможенная пошлина: Перьевые ручки</Text>
+        </Text>
+        <Text>
+            <GUID>1414009138</GUID>
+            <Text>Таможенная пошлина: Лимонад</Text>
+        </Text>
+        <Text>
+            <GUID>1414009139</GUID>
+            <Text>Таможенная пошлина: Лимонад</Text>
+        </Text>
+        <Text>
+            <GUID>1414009141</GUID>
+            <Text>Таможенная пошлина: Голубой сыр</Text>
+        </Text>
+        <Text>
+            <GUID>1414009142</GUID>
+            <Text>Таможенная пошлина: Голубой сыр</Text>
+        </Text>
+        <Text>
+            <GUID>1414009144</GUID>
+            <Text>Таможенная пошлина: Фарфор</Text>
+        </Text>
+        <Text>
+            <GUID>1414009145</GUID>
+            <Text>Таможенная пошлина: Фарфор</Text>
+        </Text>
+        <Text>
+            <GUID>1414009147</GUID>
+            <Text>Таможенная пошлина: Конические шляпы</Text>
+        </Text>
+        <Text>
+            <GUID>1414009148</GUID>
+            <Text>Таможенная пошлина: Конические шляпы</Text>
+        </Text>
+        <Text>
+            <GUID>1414009150</GUID>
+            <Text>Таможенная пошлина: Саке</Text>
+        </Text>
+        <Text>
+            <GUID>1414009151</GUID>
+            <Text>Таможенная пошлина: Саке</Text>
+        </Text>
+        <Text>
+            <GUID>1414009153</GUID>
+            <Text>Таможенная пошлина: Оши-суши</Text>
+        </Text>
+        <Text>
+            <GUID>1414009154</GUID>
+            <Text>Таможенная пошлина: Оши-суши</Text>
+        </Text>
+        <Text>
+            <GUID>1414009156</GUID>
+            <Text>Таможенная пошлина: Умесю</Text>
+        </Text>
+        <Text>
+            <GUID>1414009157</GUID>
+            <Text>Таможенная пошлина: Умесю</Text>
+        </Text>
+        <Text>
+            <GUID>1414009159</GUID>
+            <Text>Таможенная пошлина: Зелёный чай</Text>
+        </Text>
+        <Text>
+            <GUID>1414009160</GUID>
+            <Text>Таможенная пошлина: Зелёный чай</Text>
+        </Text>
+        <Text>
+            <GUID>1414009162</GUID>
+            <Text>Таможенная пошлина: Кимоно</Text>
+        </Text>
+        <Text>
+            <GUID>1414009163</GUID>
+            <Text>Таможенная пошлина: Кимоно</Text>
+        </Text>
+        <Text>
+            <GUID>1414009165</GUID>
+            <Text>Таможенная пошлина: Утка по-пекински</Text>
+        </Text>
+        <Text>
+            <GUID>1414009166</GUID>
+            <Text>Таможенная пошлина: Утка по-пекински</Text>
+        </Text>
+        <Text>
+            <GUID>1414009168</GUID>
+            <Text>Таможенная пошлина: Кото</Text>
+        </Text>
+        <Text>
+            <GUID>1414009169</GUID>
+            <Text>Таможенная пошлина: Кото</Text>
+        </Text>
+        <Text>
+            <GUID>1414009171</GUID>
+            <Text>Таможенная пошлина: Шёлковые жилеты</Text>
+        </Text>
+        <Text>
+            <GUID>1414009172</GUID>
+            <Text>Таможенная пошлина: Шёлковые жилеты</Text>
+        </Text>
+        <Text>
+            <GUID>1414009174</GUID>
+            <Text>Таможенная пошлина: Джем</Text>
+        </Text>
+        <Text>
+            <GUID>1414009175</GUID>
+            <Text>Таможенная пошлина: Джем</Text>
+        </Text>
+        <Text>
+            <GUID>1414009177</GUID>
+            <Text>Таможенная пошлина: Шампунь</Text>
+        </Text>
+        <Text>
+            <GUID>1414009178</GUID>
+            <Text>Таможенная пошлина: Шампунь</Text>
+        </Text>
+        <Text>
+            <GUID>1414009183</GUID>
+            <Text>Таможенная пошлина: Лимонад</Text>
+        </Text>
+        <Text>
+            <GUID>1414009184</GUID>
+            <Text>Таможенная пошлина: Лимонад</Text>
+        </Text>
+        <Text>
+            <GUID>1414009189</GUID>
+            <Text>Таможенная пошлина: Сувениры</Text>
+        </Text>
+        <Text>
+            <GUID>1414009190</GUID>
+            <Text>Таможенная пошлина: Сувениры</Text>
+        </Text>
+        <Text>
+            <GUID>1414009191</GUID>
+            <Text>Таможенная пошлина: Жевательная резинка</Text>
+        </Text>
+        <Text>
+            <GUID>1414009192</GUID>
+            <Text>Таможенная пошлина: Жевательная резинка</Text>
+        </Text>
+        <Text>
+            <GUID>1414009194</GUID>
+            <Text>Таможенная пошлина: Печенье</Text>
+        </Text>
+        <Text>
+            <GUID>1414009195</GUID>
+            <Text>Таможенная пошлина: Печенье</Text>
+        </Text>
+        <Text>
+            <GUID>1414009197</GUID>
+            <Text>Таможенная пошлина: Коньяк</Text>
+        </Text>
+        <Text>
+            <GUID>1414009198</GUID>
+            <Text>Таможенная пошлина: Коньяк</Text>
+        </Text>
+        <Text>
+            <GUID>1414009200</GUID>
+            <Text>Таможенная пошлина: Печатная машинка</Text>
+        </Text>
+        <Text>
+            <GUID>1414009201</GUID>
+            <Text>Таможенная пошлина: Печатная машинка</Text>
+        </Text>
+        <Text>
+            <GUID>1414009203</GUID>
+            <Text>Таможенная пошлина: Бильярдные столы</Text>
+        </Text>
+        <Text>
+            <GUID>1414009204</GUID>
+            <Text>Таможенная пошлина: Бильярдные столы</Text>
+        </Text>
+        <Text>
+            <GUID>1414009206</GUID>
+            <Text>Таможенная пошлина: Скрипки</Text>
+        </Text>
+        <Text>
+            <GUID>1414009207</GUID>
+            <Text>Таможенная пошлина: Скрипки</Text>
+        </Text>
+        <Text>
+            <GUID>1414009209</GUID>
+            <Text>Таможенная пошлина: Игрушки</Text>
+        </Text>
+        <Text>
+            <GUID>1414009210</GUID>
+            <Text>Таможенная пошлина: Игрушки</Text>
+        </Text>
+        <Text>
+            <GUID>1414009213</GUID>
+            <Text>Таможенная пошлина: Футбольные мячи</Text>
+        </Text>
+        <Text>
+            <GUID>1414009214</GUID>
+            <Text>Таможенная пошлина: Футбольные мячи</Text>
+        </Text>
+        <Text>
+            <GUID>1414009216</GUID>
+            <Text>Таможенная пошлина: Мескаль</Text>
+        </Text>
+        <Text>
+            <GUID>1414009217</GUID>
+            <Text>Таможенная пошлина: Мескаль</Text>
+        </Text>
+        <Text>
+            <GUID>1414009219</GUID>
+            <Text>Таможенная пошлина: Джалеа</Text>
+        </Text>
+        <Text>
+            <GUID>1414009220</GUID>
+            <Text>Таможенная пошлина: Джалеа</Text>
+        </Text>
+        <Text>
+            <GUID>1414009222</GUID>
+            <Text>Таможенная пошлина: Мороженое</Text>
+        </Text>
+        <Text>
+            <GUID>1414009223</GUID>
+            <Text>Таможенная пошлина: Мороженое</Text>
+        </Text>
+        <Text>
+            <GUID>1414009225</GUID>
+            <Text>Таможенная пошлина: Духи</Text>
+        </Text>
+        <Text>
+            <GUID>1414009226</GUID>
+            <Text>Таможенная пошлина: Духи</Text>
+        </Text>
+        <Text>
+            <GUID>1414009228</GUID>
+            <Text>Таможенная пошлина: Вентиляторы</Text>
+        </Text>
+        <Text>
+            <GUID>1414009229</GUID>
+            <Text>Таможенная пошлина: Вентиляторы</Text>
+        </Text>
+        <Text>
+            <GUID>1414009231</GUID>
+            <Text>Таможенная пошлина: Мотороллеры</Text>
+        </Text>
+        <Text>
+            <GUID>1414009232</GUID>
+            <Text>Таможенная пошлина: Мотороллеры</Text>
+        </Text>
+        <Text>
+            <GUID>1414009234</GUID>
+            <Text>Таможенная пошлина: Острый соус</Text>
+        </Text>
+        <Text>
+            <GUID>1414009235</GUID>
+            <Text>Таможенная пошлина: Острый соус</Text>
+        </Text>
+        <Text>
+            <GUID>1414009237</GUID>
+            <Text>Таможенная пошлина: Атоле</Text>
+        </Text>
+        <Text>
+            <GUID>1414009238</GUID>
+            <Text>Таможенная пошлина: Атоле</Text>
+        </Text>
+        <Text>
+            <GUID>1414009240</GUID>
+            <Text>Таможенная пошлина: Нефрит</Text>
+        </Text>
+        <Text>
+            <GUID>1414009241</GUID>
+            <Text>Таможенная пошлина: Нефрит</Text>
+        </Text>
+        <Text>
+            <GUID>1414009243</GUID>
+            <Text>Таможенная пошлина: Литература</Text>
+        </Text>
+        <Text>
+            <GUID>1414009244</GUID>
+            <Text>Таможенная пошлина: Литература</Text>
+        </Text>
+        <Text>
+            <GUID>1414009246</GUID>
+            <Text>Таможенная пошлина: Благовония</Text>
+        </Text>
+        <Text>
+            <GUID>1414009247</GUID>
+            <Text>Таможенная пошлина: Благовония</Text>
+        </Text>
+        <Text>
+            <GUID>1414009249</GUID>
+            <Text>Таможенная пошлина: Дурианы</Text>
+        </Text>
+        <Text>
+            <GUID>1414009250</GUID>
+            <Text>Таможенная пошлина: Дурианы</Text>
+        </Text>
+        <Text>
+            <GUID>1414006029</GUID>
+            <Text>Если таможенная пошлина активирована на торговом посту, она также будет применяться ко всем причалам на этом острове.</Text>
+        </Text>
+    </ModOp>
+</ModOps>

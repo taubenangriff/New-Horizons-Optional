@@ -1,0 +1,342 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+
+    <Text>
+      <GUID>1414050006</GUID>
+      <Text>СУШИ-КРИЗИС В ПОЛНОМ РАЗГАРЕ</Text>
+    </Text>
+    <Text>
+      <GUID>1414050007</GUID>
+      <Text>Любители суши в [Newspaper FindArticle([RefGuid]) Context TownName] столкнулись с чередой разочарований: внезапный дефицит поставок оставил рестораны без их фирменных роллов. Нехватка морепродуктов из-за перебоев в импорте заставляет и поваров, и посетителей изо всех сил поддерживать атмосферу праздника.</Text>
+    </Text>
+    <Text>
+      <GUID>1414050022</GUID>
+      <Text>ЧАЙНЫЙ КРИЗИС НАБИРАЕТ ОБОРОТЫ!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050023</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName] в горьком положении: запасы чая иссякли! Жители в отчаянии — когда же они снова смогут насладиться чашечкой хорошего чая?</Text>
+    </Text>
+    <Text>
+      <GUID>1414050025</GUID>
+      <Text>БЕЗ УМЭШУ КАК БЕЗ РУК!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050026</GUID>
+      <Text>Нехватка умэшу в [Newspaper FindArticle([RefGuid]) Context TownName] заставляет жителей лить слёзы в пустые чашки! Удастся ли утолить жажду, или ситуация перерастёт в полномасштабную катастрофу?</Text>
+    </Text>
+    <Text>
+      <GUID>1414050028</GUID>
+      <Text>ШЛЯПЫ ЗАКОНЧИЛИСЬ!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050029</GUID>
+      <Text>Конические шляпы в [Newspaper FindArticle([RefGuid]) Context TownName] полностью распроданы! В преддверии сезона сбора урожая местные фермеры хотят вложить сбережения в новые шляпы, но их просто не найти! Альтернативы скудны и непопулярны — один торговец заявил, что западные шляпы "слишком круглые", а нужны остроконечные.</Text>
+    </Text>
+    <Text>
+      <GUID>1414050031</GUID>
+      <Text>КИМОНО ЗАКОНЧИЛИСЬ!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050032</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName] в тисках дефицита кимоно! Жители боятся, что их стиль вот-вот развалится!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050034</GUID>
+      <Text>ПТИЧИЙ КРИЗИС!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050035</GUID>
+      <Text>В [Newspaper FindArticle([RefGuid]) Context TownName] неожиданная нехватка жареной утки оставила жителей без любимого блюда. Голодные горожане ищут решение этого неприятного кризиса!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050037</GUID>
+      <Text>РАЗБИТЫЕ МЕЧТЫ!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050038</GUID>
+      <Text>Дефицит фарфора в [Newspaper FindArticle([RefGuid]) Context TownName] оставил столы пустыми, а полки — голыми! Ситуация становится всё более хрупкой без вмешательства властей.</Text>
+    </Text>
+    <Text>
+      <GUID>1414050040</GUID>
+      <Text>РАДИ ВСЕГО СВЯТОГО!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050041</GUID>
+      <Text>Отсутствие сакэ в [Newspaper FindArticle([RefGuid]) Context TownName] оставило горький осадок у многих жителей! Отчаявшиеся горожане надеются, что местные власти найдут решение, пока моральный дух не ухудшился окончательно.</Text>
+    </Text>
+    <Text>
+      <GUID>1414050043</GUID>
+      <Text>РАДИОМОЛЧАНИЕ!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050044</GUID>
+      <Text>Радиоприёмники исчезли из [Newspaper FindArticle([RefGuid]) Context TownName]! Без новостей и передач слухи распространяются быстрее сигналов! Настроятся ли власти на волну этого кризиса связи?</Text>
+    </Text>
+    <Text>
+      <GUID>1414050046</GUID>
+      <Text>ГОЛУБОЙ СЫРНЫЙ БЛЮЗ!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050047</GUID>
+      <Text>Нехватка голубого сыра в [Newspaper FindArticle([RefGuid]) Context TownName] разбивает сердца жителей! Ходят слухи, что ситуация не улучшится ещё несколько недель, что резко снижает моральный дух!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050049</GUID>
+      <Text>ШЁЛК БОЛЬШЕ НЕ ДЛЯ ВИЗИТОК!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050050</GUID>
+      <Text>Нехватка шёлковых жилетов в [Newspaper FindArticle([RefGuid]) Context TownName] заставляет высший свет нервничать! С угрозой модного апокалипсиса — можно ли ещё залатать дыру в производстве?</Text>
+    </Text>
+    <Text>
+      <GUID>1414050052</GUID>
+      <Text>ЧЕРНИЛЬНАЯ КАТАСТРОФА!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050053</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName] страдает от острой нехватки ручек: важные договоры остаются неподписанными, а жалобы граждан — неуслышанными. С такими темпами мы еле смогли напечатать этот выпуск!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050055</GUID>
+      <Text>4'33!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050056</GUID>
+      <Text>Тишина на улицах [Newspaper FindArticle([RefGuid]) Context TownName]: местные музыканты не могут найти кото, а остальные жители внезапно остались без стереотипной азиатской фоновой музыки. Как теперь понять, что они в Азии?</Text>
+    </Text>
+    <Text>
+      <GUID>1414050058</GUID>
+      <Text>НЕКОМУ УБИРАТЬ УРОЖАЙ!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050059</GUID>
+      <Text>Нехватка нунминь в [Newspaper FindArticle([RefGuid]) Context TownName] угрожает продовольственным запасам. «Урожай нужно собрать в течение месяца, иначе начнётся голод», — говорит обеспокоенный рисовый фермер.</Text>
+    </Text>
+    <Text>
+      <GUID>1414050061</GUID>
+      <Text>НЕДОСТАТОК РАБОЧИХ!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050062</GUID>
+      <Text>Нехватка рабочей силы на фабриках [Newspaper FindArticle([RefGuid]) Context TownName] ставит под угрозу прибыль магнатов. Проблему нужно решить немедленно, иначе экономика рухнет!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050076</GUID>
+      <Text>КАМИ ОТМЕЧАЮТ ОТКРЫТИЕ ХРАМА</Text>
+    </Text>
+    <Text>
+      <GUID>1414050077</GUID>
+      <Text>Новый синтоистский храм открылся в [Newspaper FindArticle([RefGuid]) Context TownName], привлекая толпы верующих и любопытных духов. Хотя большинство ками похвалили дизайн, один пробормотал: «Никаких горячих источников? Зачем тогда здесь проявляться?»</Text>
+    </Text>
+    <Text>
+      <GUID>1414050079</GUID>
+      <Text>ВОЛНЫ ВОСТОРГА</Text>
+    </Text>
+    <Text>
+      <GUID>1414050080</GUID>
+      <Text>В [Newspaper FindArticle([RefGuid]) Context TownName] открылся роскошный новый банный комплекс с горячими источниками. Хотя большинство гостей наслаждались спокойствием, один посетитель устроил потоп, что привело к строгому запрету на «бомбардировки».</Text>
+    </Text>
+    <Text>
+      <GUID>1414050082</GUID>
+      <Text>ВРАТА ГАРМОНИИ</Text>
+    </Text>
+    <Text>
+      <GUID>1414050083</GUID>
+      <Text>В [Newspaper FindArticle([RefGuid]) Context TownName] появились ворота, ведущие в большой сад. Планировка ещё не утверждена, но что бы ни построили, это будет побег из современности в простые времена.</Text>
+    </Text>
+    <Text>
+      <GUID>1414050085</GUID>
+      <Text>СВОБОДА ПЕРЕДВИЖЕНИЯ</Text>
+    </Text>
+    <Text>
+      <GUID>1414050086</GUID>
+      <Text>Жизнь в [Newspaper FindArticle([RefGuid]) Context TownName] ускоряется вместе с новым метро. Молодой бизнесмен заметил: «Мне нравится подземка — теперь низший класс ездит на поездах, а улицы свободны для моего нового автомобиля».</Text>
+    </Text>
+
+    <Text>
+      <GUID>54005100</GUID>
+      <Text>На вкус как из 1404 года!</Text>      <!--Grammar-->
+    </Text>
+    <Text>
+      <GUID>54005101</GUID>
+      <Text>Вкусные фрукты.</Text>
+    </Text>
+    <Text>
+      <GUID>54005102</GUID>
+      <Text>Говорят, это будущее человечества.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005103</GUID>
+      <Text>Важный инструмент для внедрения нужных нарративов в умы граждан.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005104</GUID>
+      <Text>Пастеризованное, гомогенизированное, 3.5% жирности.</Text>
+    </Text>
+    <Text>
+      <GUID>54005105</GUID>
+      <Text>Клик-клак, клик-клак, клик-</Text>
+    </Text>
+    <Text>
+      <GUID>54005106</GUID>
+      <Text>Первое поколение изолированных электрических проводов.</Text>      <!--Capitalization-->
+    </Text>
+    <Text>
+      <GUID>54005107</GUID>
+      <Text>Смерть телеграфа.</Text>      <!--Capitalization-->
+    </Text>
+    <Text>
+      <GUID>54005108</GUID>
+      <Text>Улавливает малейшие радиосигналы.</Text>      <!--Capitalization-->
+    </Text>
+    <Text>
+      <GUID>54005109</GUID>
+      <Text>Отбелено хлором — чудо-газом.</Text>      <!--Grammar-->
+    </Text>
+    <Text>
+      <GUID>54005110</GUID>
+      <Text>Хранит всевозможные знания.</Text>      <!--Grammar-->
+    </Text>
+    <Text>
+      <GUID>54005111</GUID>
+      <Text>Есть ли новый мир наверху?</Text>      <!--Grammar-->
+    </Text>
+    <Text>
+      <GUID>54005112</GUID>
+      <Text>Обогащён благородной плесенью для изысканного вкуса.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005113</GUID>
+      <Text>Кислый, но с юмором.</Text>
+    </Text>
+    <Text>
+      <GUID>54005114</GUID>
+      <Text>Веселье без алкоголя.</Text>      <!--Capitalization-->
+    </Text>
+    <Text>
+      <GUID>54005115</GUID>
+      <Text>Хотя его путают с золотом, этот минерал — ценный ресурс.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005116</GUID>
+      <Text>Клейкий короткозёрный рис.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005118</GUID>
+      <Text>Аккуратно спрессованная скумбрия с рисовым уксусом.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005119</GUID>
+      <Text>Особый сорт сливы, превращающий сакэ в умэшу.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005120</GUID>
+      <Text>Разнообразие чаёв.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005121</GUID>
+      <Text>Чай неотделим от Дальнего Востока.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005122</GUID>
+      <Text>Несмотря на земное происхождение, сияет, как снег.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005123</GUID>
+      <Text>Обильный минерал, кроме тех случаев, когда он нужнее всего.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005124</GUID>
+      <Text>Только не уроните!</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005125</GUID>
+      <Text>Каждая нить — дело жизни одного шелкопряда.</Text>
+    </Text>
+    <Text>
+      <GUID>54005126</GUID>
+      <Text>Самая тонкая и мягкая ткань на свете.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005127</GUID>
+      <Text>Неожиданно зелёный.</Text>
+    </Text>
+    <Text>
+      <GUID>54005128</GUID>
+      <Text>Не смейте говорить «красочный», пока не увидели это!</Text>
+    </Text>
+    <Text>
+      <GUID>54005129</GUID>
+      <Text>Ужасно липкая субстанция из сахара.</Text>
+    </Text>
+    <Text>
+      <GUID>54005130</GUID>
+      <Text>Единственная оригинальная дрожжевая культура Фельдмана.</Text>
+    </Text>
+    <Text>
+      <GUID>54005131</GUID>
+      <Text>Лучше всего пить тёплым из мелкой чашки.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005132</GUID>
+      <Text>Кря? Кря!</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005133</GUID>
+      <Text>Пчёлы Хорай — совсем не как африканские.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005134</GUID>
+      <Text>Сочная утятина с хрустящей кожей под соевой глазурью.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005135</GUID>
+      <Text>Тайная слабость любого нунминь.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005136</GUID>
+      <Text>Гриб слишком благородный, чтобы быть вредным.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005137</GUID>
+      <Text>Хранится в большей тайне, чем рецепт «Кола Мола Вола»!</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005141</GUID>
+      <Text>Твердый хрупкий металл, востребованный многими производителями ручек для улучшения качества линий.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005142</GUID>
+      <Text>Гуляш, но на аутсорсинге.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005143</GUID>
+      <Text>Основной продукт восточной кухни, пока не погрязший в дурной славе.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005144</GUID>
+      <Text>Добро пожаловать в элиту элегантности!</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005145</GUID>
+      <Text>Серьёзно... кто бы это ел?</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1414006023</GUID>
+      <Text>Забудьте Сковиллы — это оригинальный перец!</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1414006024</GUID>
+      <Text>Острее некуда!</Text>
+    </Text>
+    <Text>
+      <GUID>1414006025</GUID>
+      <Text>Уродливая и древняя рыба, наполненная деликатесами внутри.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1414006026</GUID>
+      <Text>Чернее ночи.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

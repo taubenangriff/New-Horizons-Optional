@@ -1,0 +1,69 @@
+﻿<ModOps>
+    <ModOp Path = "//Text[GUID = '1414006698']/Text" Type = "replace">
+        <Text>락사가르바</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1440226']/Text" Type = "replace">
+        <Text>청어</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1441260']/Text" Type = "replace">
+        <Text>청어 양어장</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1440405']/Text" Type = "replace">
+        <Text>사찰</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414007004']/Text" Type = "replace">
+        <Text>청어 서식지</Text>
+    </ModOp>
+    <!-- Streetfood - Dango - Description -->
+    <ModOp Path = "//Text[GUID = '1442763']/Text" Type = "replace">
+        <Text>신사 축제에서 흔히 찾아볼 수 있는 간식으로 꼬치에 달콤한 떡을 세 개 꽂았습니다. 들고 다니기 편한 데다 깔끔하게 먹을 수 있어서 벚꽃을 구경하면서 공원을 산책하는 데 안성맞춤입니다.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414006025']/Text" Type = "replace">
+        <Text>맛있는 속살로 가득한 무리 지어 헤엄치는 물고기입니다.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414015084']/Text" Type = "replace">
+        <Text>비둘기 대탑</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414006829']/Text" Type = "replace">
+        <Text>월리스선 너머에서 먼 옛날의 모습을 간직한 동물이 손짓합니다.</Text>
+    </ModOp>
+    <!-- Bamboo Forest SETBUFF - TownhallBuff - Description -->
+    <ModOp Path = "//Text[GUID = '1414006830']/Text" Type = "replace">
+        <Text>자연에서 인내라는 지혜를 배웁니다. 이 동물이 품은 평온한 힘을 보면서 주민은 느림의 미학을 깨닫고 삶의 매 순간을 음미하게 됩니다. 고요함 속에서는 차 한 잔의 맛조차 더 깊어집니다.</Text>
+    </ModOp>
+    <!-- Planet of the Apes SETBUFF - TownhallBuff - Description -->
+    <ModOp Path = "//Text[GUID = '1414006831']/Text" Type = "replace">
+        <Text>이 원숭이 친구들의 짓궂은 장난을 보면서 주민은 스스로를 돌아보고 몸가짐을 더욱 신중히 합니다. </Text>
+    </ModOp>
+    <!-- Oceania SETBUFF - TownhallBuff - Description -->
+    <ModOp Path = "//Text[GUID = '1414006833']/Text" Type = "replace">
+        <Text>이 낯설고 이국적인 동물을 보면서 주민은 식욕을 다스리면서 성심성의를 다해 검소한 식사를 하는 방법을 배웁니다.</Text>
+    </ModOp>
+    <!-- Planet of the Apes - Itemset - Description -->
+    <ModOp Path = "//Text[GUID = '1414006833']/Text" Type = "replace">
+        <Text>유인원은 뭉치면 강합니다. 원쑹이로 도라가쟈. 이거 맞죠?</Text>
+    </ModOp>
+
+
+    <ModOp Path = "//Text[GUID = '1414018145']/Text" Type = "replace">
+        <Text>우뚝 솟은 대탑은 현지 풍수 사상을 고취하면서 때때로 주민들이 전통을 이어 나가게끔 일깨웁니다. 그러려면 탑을 더 높이 쌓아 올려야 합니다.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018146']/Text" Type = "replace">
+        <Text>승려가 명상과 기도에 전념할 수 있는 공간을 건설하려면 엄청난 양의 석재 벽돌을 정교하게 깎아내고 조립해야 합니다. 지붕을 금으로 칠하고 법륜으로 장식하는 건 두말할 것도 없죠. 다 깨달음을 얻기 위해서입니다….</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018147']/Text" Type = "replace">
+        <Text>철골 구조가 일상이 된 시대에서 거대한 처마를 얹는 일쯤은 대수롭지 않아 보일지도 모릅니다. 그러나 여러분의 건축가들은 전통을 고집하면서 기발함을 발휘하여 오로지 나무 골조만으로 금빛 기와로 가득한 지붕을 떠받쳤습니다. 왕관은 실로 무거운 법입니다.</Text>
+    </ModOp>    
+    <ModOp Path = "//Text[GUID = '1414018148']/Text" Type = "replace">
+        <Text>강철 구조물 위에 하나하나 주조한 청동판을 조립해서 만든 웅장한 불상입니다. 외관은 오래되어 보이지만, 내부 구조는 아주 현대적입니다. "신대륙"이라는 머나먼 땅에서 전해지는 말에 따르면 동격의 신을 본뜬 동상 또한 이와 유사한 방식으로 세워졌다고 합니다.</Text>
+    </ModOp> 
+    <ModOp Path = "//Text[GUID = '1414018149']/Text" Type = "replace">
+        <Text>기쁨의 누각은 호라이의 문인과 풍류객이 한데 모여드는 공간입니다. 형형색색의 등불이 층마다 빛나는 가운데 서까래를 타고 음악이 은은하게 흘러나옵니다. 세련된 문화의 숨결이 가득합니다.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018242']/Text" Type = "replace">
+        <Text>열화단에 관해 알려진 바는 거의 없습니다. 어디에서 왔는지, 무슨 목적으로 움직이는지, 누구의 지휘를 받는지 아무도 모릅니다. 그러나 정세가 불안정한 호라이 일대를 장악하는 데 핵심이 되는 고대 힌두교 사원 요새인 락사가르바에서 다시 힘을 모으면서 막강한 군세를 조직하고 있다는 사실 하나만큼은 분명합니다. 견고한 성벽으로 둘러싸인 어둠이 깃든 전당에서 열화단은 회수한 "용의 눈"으로 인간의 이해를 초월한 사악한 힘을 창조하려는 미지의 실험을 거듭하고 있습니다.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018243']/Text" Type = "replace">
+        <Text>고대 아틀란티스 문명의 해군 전통에 따라 열화단은 오직 한 명의 제독만을 두고 있습니다. 열화단 제독은 친히 모든 군사 행동을 감독합니다. 열화단 제독은 단장과 끊임없이 경쟁하는 관계로 알려져 있습니다. 그러나 열화단 제독이 성도에서 용의 눈을 탈취한 이래, 오래된 대립 구도에 균열이 생기며 제국의 향방마저 뒤흔들 거대한 변동을 예고하고 있습니다.</Text>
+    </ModOp>
+</ModOps>

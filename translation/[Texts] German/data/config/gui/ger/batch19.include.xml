@@ -1,0 +1,527 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1414015081</GUID>
+      <Text>Reislager</Text>
+    </Text>
+    <Text>
+      <GUID>1414006474</GUID>
+      <Text>Verdopplung in kürzester Zeit</Text>
+    </Text>
+    <Text>
+      <GUID>14740110</GUID>
+      <Text>Blockadebrecher: Drogen</Text>
+    </Text>
+    <Text>
+      <GUID>1414006575</GUID>
+      <Text>Tantive</Text>
+    </Text>
+    <Text>
+      <GUID>14740110</GUID>
+      <Text>Blockadebrecher (Drogen)</Text>
+    </Text>
+    <Text>
+      <GUID>14740120</GUID>
+      <Text>Blockadebrecher (Wertgegenstände)</Text>
+    </Text>
+    <Text>
+      <GUID>14740121</GUID>
+      <Text>Blockadebrecher (Alkohol)</Text>
+    </Text>
+    <Text>
+      <GUID>14740122</GUID>
+      <Text>Blockadebrecher (Luxusgüter)</Text>
+    </Text>
+    <Text>
+      <GUID>14740123</GUID>
+      <Text>Blockadebrecher (Waffen)</Text>
+    </Text>
+    <Text>
+      <GUID>14740124</GUID>
+      <Text>Blockadebrecher</Text>
+    </Text>
+    <Text>
+      <GUID>14740105</GUID>
+      <Text>Dschunke</Text>
+    </Text>
+    <Text>
+      <GUID>14740106</GUID>
+      <Text>Dschunke</Text>
+    </Text>
+    <Text>
+      <GUID>14740107</GUID>
+      <Text>Dschunke</Text>
+    </Text>
+    <Text>
+      <GUID>14740111</GUID>
+      <Text>Königliches Linienschiff</Text>
+    </Text>
+    <Text>
+      <GUID>14740112</GUID>
+      <Text>Königliches Linienschiff</Text>
+    </Text>
+    <Text>
+      <GUID>14740113</GUID>
+      <Text>Königliches Linienschiff</Text>
+    </Text>
+    <Text>
+      <GUID>1414006593</GUID>
+      <Text>Bonuseinwohner durch:</Text>
+    </Text>
+    <Text>
+      <GUID>1414006643</GUID>
+      <Text>Importwaren</Text>
+    </Text>
+    <!-- Cookhouse Fluffs -->
+    <Text>
+      <GUID>1414006691</GUID>
+      <Text>Die Nóngmín haben große Freude an der traditionellen Küche.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006692</GUID>
+      <Text>Oshizushi, oder gepresstes Sushi, ist eine traditionelle Delikatesse, die in Garküchen hergestellt wird, wo Schichten von in Essig eingelegtem Reis und gepökeltem Fisch sorgfältig in Holzformen gepresst werden. Ursprünglich als Konservierungsmethode entwickelt, hat sich dieser kulinarische Grundstock zu den vielen anderen heute bekannten Formen von Sushi entwickelt.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006693</GUID>
+      <Text>Sojasauce ist ein fermentiertes Gewürz, das in Kochhäusern durch eine sorgfältige Mischung aus Sojabohnen, Weizen, Salz und Zeit zu einer reichhaltigen, schmackhaften Flüssigkeit gebraut wird. Einst eine Methode zur Konservierung von Sojabohnen, hat sie sich zu einer unverzichtbaren Zutat entwickelt, die für ihren tiefen Umami-Geschmack und ihre vielseitige Verwendung in unzähligen Gerichten bekannt ist.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006835</GUID>
+      <Text>Nudeln sind handgefertigte Teigstränge, die in Garküchen durch Dehnen, Schneiden oder Rollen von Weizen- oder Reismehl in zarte Formen gebracht werden. Einst ein einfaches Grundnahrungsmittel, haben sie sich zu einer vielseitigen Grundlage für herzhafte Brühen, Pfannengerichte und zahlreiche regionale Spezialitäten entwickelt.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006837</GUID>
+      <Text>Tofu, der für seinen feinen Geschmack und seine Anpassungsfähigkeit geschätzt wird, wird in Garküchen hergestellt, indem frische Sojamilch gerinnt und in Blöcke gepresst wird. Ursprünglich als einfache Fleischalternative gedacht, hat er sich zu einer kulinarischen Leinwand entwickelt, die die Essenz von Brühen, Soßen und Gewürzen aufnimmt.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006780</GUID>
+      <Text>Gebratene Ente wird mit duftenden Gewürzen mariniert und langsam gebraten, um eine knusprige, goldene Haut und zartes, schmackhaftes Fleisch zu erhalten. Diese altehrwürdige Technik verwandelt eine einfache Zutat in ein reich gewürztes Herzstück der Tafel.</Text>
+    </Text>
+    <!-- Influence Category -->
+    <Text>
+      <GUID>1414018315</GUID>
+      <Text>Magnaten-/Investorenhäuser</Text>
+    </Text>
+    <!-- Garden Ornament Fluffs -->
+    <Text>
+      <GUID>1414018316</GUID>
+      <Text>Hier herumzutrampeln ist eine Ordnungswidrigkeit.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018317</GUID>
+      <Text>Bestärkt das Gemeinschaftsgefühl</Text>
+    </Text>
+    <Text>
+      <GUID>1414018318</GUID>
+      <Text>Perfekt ausbalanciert, wie es alle Dinge sein sollten.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018319</GUID>
+      <Text>Die Sträucher werden genau so kreisförmig geschnitten wie der geharkte Kreis um sie herum.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018320</GUID>
+      <Text>"Der Boden ist Lava" in langweilig.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018321</GUID>
+      <Text>Eine durchgehende Schotterfläche, die nicht wirklich wie eine durchgehende Schotterfläche aussieht.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018322</GUID>
+      <Text>Bepflanzte Inseln in einem weiten Meer aus Schotter.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018323</GUID>
+      <Text>Kleine Felseninseln in einem weiten Meer aus Kieselsteinen.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018324</GUID>
+      <Text>Die Harkrichtung des Kies symbolisiert den Fluss des Wassers.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018325</GUID>
+      <Text>Bietet Beobachtern Platz zum Spazierengehen.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018326</GUID>
+      <Text>Die Anzahl der Dächer ist ungerade, wie es immer der Fall war.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018327</GUID>
+      <Text>Unterteilt Ihren Garten in Tableaus, so dass der Betrachter nie das ganze Bild sieht, sondern nur Eindrücke.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018328</GUID>
+      <Text>Wenn man durch dieses Tor geht, hat man oft das Gefühl, eine andere Dimension zu betreten.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018329</GUID>
+      <Text>Ein einzelner Baum in einer Betonwüste.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018330</GUID>
+      <Text>Ungeschnittene Bäume, unberührte Natur in unberührter Natur.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018331</GUID>
+      <Text>Eine dekorierende Statue.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018332</GUID>
+      <Text>Bei Nacht wird dieses Licht sehr geschätzt.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018333</GUID>
+      <Text>Aus einem einzigen Steinblock gehauene Säule.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018334</GUID>
+      <Text>Das ist der Weg.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018335</GUID>
+      <Text>Vor vielen Jahrhunderten wurden diese drachenköpfigen Tore für hohe Beamte gebaut.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018336</GUID>
+      <Text>Ein hohes, anmutiges Gras mit seidenen Federn, die sich im Wind wiegen und das Land in ein silbernes Meer verwandeln können.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018337</GUID>
+      <Text>Gute Nachbarschaft beruht auf guten Zäunen</Text>
+    </Text>
+    <Text>
+      <GUID>1414018338</GUID>
+      <Text>Niemand hat die Absicht, eine Mauer zu errichten.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018339</GUID>
+      <Text>Ein Eingang mit Grandeur.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018340</GUID>
+      <Text>Die trockenen Felsen bilden eine natürliche Skulptur.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018341</GUID>
+      <Text>Bodennahe Vegetation.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018342</GUID>
+      <Text>Ein anmutiger Rahmen, umhüllt von kaskadenartigen Glyzinienblüten, die die Luft über Ihrem Kopf mit einem süßen Duft erfüllen.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018343</GUID>
+      <Text>Hoch fliegend, ein Koi, der im Wind schwimmt - und doch für immer an die Erde gefesselt.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018344</GUID>
+      <Text>Der trockene Drache wohnt im trockenen Wasser.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018345</GUID>
+      <Text>Eine einstöckige Miniaturpagode, in der die Glocken laute Geräusche machen können.</Text>
+    </Text>
+    <Text>
+      <GUID>1441400</GUID>
+      <Text>Baumschule (Horai)</Text>
+    </Text>
+    <Text>
+      <GUID>1414042800</GUID>
+      <Text>Das Schiffswrack</Text>
+    </Text>
+    <Text>
+      <GUID>1414042801</GUID>
+      <Text>Verdächtige Fracht</Text>
+    </Text>
+    <Text>
+      <GUID>1414042803</GUID>
+      <Text>Ich habe einen Auftrag für Sie: Ich habe - nein - hatte ein völlig legales Schiff, das in einem Sturm auf Grund gelaufen ist. Wie ich höre, haben Sie einen Bergungsspezialisten zur Hand. Wären Sie in der Lage, die Ladung aus dem Wrack zu bergen und sie mir zurückzubringen? Natürlich so unauffällig wie möglich.</Text>
+    </Text>
+    <Text>
+      <GUID>1414042804</GUID>
+      <Text>Goodwill kommt schnell näher und sieht sehr verängstigt aus. Er behauptet, ein „völlig legales“ Schiff zu besitzen, das durch einen unglücklichen Zufall auf ein Riff aufgelaufen und während eines Sturms in der Nähe gesunken sei. Er bittet dringend um Ihre Hilfe bei der diskreten Bergung der Schiffsladung.</Text>
+    </Text>
+    <Text>
+      <GUID>1414042805</GUID>
+      <Text>Ich weiß, dass Sie diesem verfluchten Schmuggler helfen! Dieser Reichtum gehört rechtmäßig dem großen Ruize-Kaiser, und ich werde ihn in Kürze zurückfordern!</Text>
+    </Text>
+    <Text>
+      <GUID>1441403</GUID>
+      <Text>Importpier: Edelpilze</Text>
+    </Text>
+    <Text>
+      <GUID>1414018346</GUID>
+      <Text>Kaviar aus Heringsrogen bietet einen salzigen, delikaten Geschmack mit einer festen Textur, die die Eleganz seines traditionellen Gegenstücks widerspiegelt. Obwohl er aus bescheidenen Quellen hergestellt wird, ist er vom gleichen Geist des Genusses und der sorgfältigen Zubereitung geprägt.</Text>
+    </Text>
+    <!-- ETA Export Quests -->
+     
+    <Text>
+      <GUID>1414045000</GUID>
+      <Text>O.H.K. Lieferung: Pfeil und Bogen.</Text>
+    </Text>
+    <Text>
+      <GUID>1414045002</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] dankt ihnen verlegen für die Rückgabe der Piratenüberreste</Text>
+    </Text>
+    <Text>
+      <GUID>1414045013</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] möchte ihnen die Haubitze aushändigen.</Text>
+    </Text>
+    <Text>
+      <GUID>1414045003</GUID>
+      <Text>Schwere Haubitze 95</Text>
+    </Text>
+    <Text>
+      <GUID>1414045004</GUID>
+      <Text>Remains</Text>
+    </Text>
+    <Text>
+      <GUID>1414045005</GUID>
+      <Text>Nicht mehr wirklich identifizierbare Piratenüberreste</Text>
+    </Text>
+    <Text>
+      <GUID>1414045006</GUID>
+      <Text>Eine schwere Haubitze im Kaliber 24cm, die stark genug ist, jedes Piratenschiff in ein Piratenwrack zu verwandeln.</Text>
+    </Text>
+    <Text>
+      <GUID>1414045006</GUID>
+      <Text>Haben Sie in Horai: &lt;br/&gt;[Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount] [AssetData([Conditions QuestCondition Context]) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414045008</GUID>
+      <Text>Ich wünschte nur, der Hampelmann der Königin könnte sich so zügeln wie die Mandarine von Tianming... Oh, was ist nur aus unserem geliebten Thron geworden! Wie dem auch sei, da der Admiral für die nächsten Wochen zum Schweigen gebracht wurde, kann ich endlich mit dem Verkauf unserer Bestände beginnen - es sollte keine weiteren Unruhen geben.</Text>
+    </Text>
+    <Text>
+      <GUID>1414045009</GUID>
+      <Text>Es scheint, als würden diese Verrückten ihren Plan wirklich durchziehen. Die Schreibtischkrieger im Königlichen Rat werden keine weitere Runde direkter aggressiver Verhandlungen mit dem Admiral genehmigen. Wenn er und sein kleines Piratenunternehmen es also auf die harte Tour wollen, dann soll es so sein. Es wird keine offizielle Gerichtsverhandlung geben - ihre verkohlten Überreste werden das einzige Urteil sein.</Text>
+    </Text>
+    <Text>
+      <GUID>1414045010</GUID>
+      <Text>Ich habe glaubwürdige Informationen, dass sich die Piraten in einer nahe gelegenen Bucht neu formieren, um unsere Ladung zu versenken, wenn sie sie sehen. Natürlich wird der Thron jede Beteiligung abstreiten, wie sie es immer tun. Ein Blutvergießen kann vermieden werden - vorausgesetzt, wir sorgen für ausreichende Abschreckung.</Text>
+    </Text>
+    <Text>
+      <GUID>1414045011</GUID>
+      <Text>Der Vertrag über die Gleichberechtigung erlaubt ausdrücklich die unbegrenzte Ausfuhr von Alkohol in das Tianming-Reich. Bei einer Lieferung dieser Größenordnung könnte der Admiral eine sanfte Erinnerung an diese Tatsache benötigen.</Text>
+    </Text>
+    <Text>
+      <GUID>1414045012</GUID>
+      <Text>Verwenden Sie [AssetData(1414045003) Text] auf:&lt;br/&gt;[AssetData([Conditions QuestCondition Context]) Text] [Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount]</Text>
+    </Text>
+    <!-- Agricultral Literature Quest -->
+    <Text>
+      <GUID>1414041900</GUID>
+      <Text>Landwirtschafts Literatur</Text>
+    </Text>
+    <Text>
+      <GUID>1414041901</GUID>
+      <Text>Ein Gōngrén wendet sich an Sie und bittet Sie um Hilfe bei der Zusammenstellung des Nachlasses seines verstorbenen Vaters zu einem Fachbuch über die Landwirtschaft, damit das hart erarbeitete Wissen seines Vaters auch weiterhin anderen zugute kommen kann.</Text>
+    </Text>
+    <Text>
+      <GUID>1414041902</GUID>
+      <Text>Mein Vater, ein angesehener Agrarwissenschaftler, ist leider verstorben. Ich möchte seine Weisheiten in einem Buch festhalten, damit sein Wissen weiterleben kann. Werden Sie mir dabei helfen?</Text>
+    </Text>
+    <Text>
+      <GUID>1414041903</GUID>
+      <Text>Bitte übergeben Sie dieses Manuskript dem Admiral. Ich vertraue darauf, dass er sein Wissen im ganzen Land weitergeben kann. Ich hoffe, es wird noch vielen Menschen zu einem besseren Leben verhelfen.</Text>
+    </Text>
+    <Text>
+      <GUID>1414041904</GUID>
+      <Text>Ein unscheinbares Taschenbuch, das ein Leben lang landwirtschaftliche Forschung aus allen Ecken des Tianming-Reiches enthält.</Text>
+    </Text>
+    <Text>
+      <!-- QuestItem -->
+      <GUID>1414041905</GUID>
+      <Text>Yuans Manuskript</Text>
+    </Text>
+    <Text>
+      <GUID>1414041906</GUID>
+      <Text>Was? Mr. Yuan ist verstorben? Ich verstehe. Seine Arbeit wurde von meinen Kollegen und den Literaten sehr geschätzt. Wir müssen dafür sorgen, dass dieses Wissen weitergegeben wird - der Bau einer Pagode zu seinen Ehren wäre ein angemessener Tribut.</Text>
+    </Text>
+    <Text>
+      <GUID>1414041907</GUID>
+      <Text>Ruhe in Frieden, Vater. Deine Weisheit wird Bestand haben, und eines Tages werden unsere Länder keinen Hunger mehr kennen.</Text>
+    </Text>
+    <!-- Hideaway (Val02) -->
+    <Text>
+      <GUID>1414045100</GUID>
+      <Text>O.H.K. Lieferung: Hideaway</Text>
+    </Text>
+    <Text>
+      <GUID>1414045101</GUID>
+      <Text>Fast jeder hat schon einmal die Geschichten von Piraten gehört, die auf fernen Inseln Schätze vergraben. Für einige wecken diese Geschichten schöne Erinnerungen an die Abenteuer ihrer Kindheit. Für andere dienen sie als clevere Inspiration für die Umgehung von Zollkontrollen.</Text>
+    </Text>
+    <Text>
+      <GUID>1414045102</GUID>
+      <Text>Wählen Sie einen Ort, an den die Wertsachen exportiert werden sollen.</Text>
+    </Text>
+    <Text>
+      <GUID>1414045103</GUID>
+      <Text>Nein, ich glaube nicht, dass diese Insel geeignet ist. Keine Höhle, kein Versteck.</Text>
+    </Text>
+    <Text>
+      <GUID>1414045104</GUID>
+      <Text>Ich habe das Gefühl, dass diese Insel bereits beansprucht werden könnte. Lasst ihn einfach, wo er ist - er ist unausstehlich talentiert in Sachen Musik.</Text>
+    </Text>
+    <Text>
+      <GUID>1414045105</GUID>
+      <Text>Let me &lt;br/&gt;Feel the sky and feel the moon &lt;br/&gt;Let me sing an honest tune &lt;br/&gt;To my hideaway</Text>
+    </Text>
+    <Text>
+      <GUID>1414045106</GUID>
+      <Text>Ja, das ist es. Wir können die Vorratskisten in den Höhlen lagern, und der Kunde wird sie von dort mitnehmen.</Text>
+    </Text>
+    <!-- Sunken Not-So-Treasures (Drg01) -->     
+    <Text>
+      <GUID>1414042400</GUID>
+      <Text>O.H.K. Delivery: Drogenschießen</Text>
+    </Text>
+    <Text>
+      <GUID>1414042401</GUID>
+      <Text>Der Admiral blockiert aktiv die Drogeneinfuhr nach Majipun und verstößt damit absichtlich gegen den Vertrag über die Gleichberechtigung - und James Goodwill ist viel zu schlau, um das einfach so hinzunehmen.</Text>
+    </Text>
+    <Text>
+      <GUID>1414042402</GUID>
+      <Text>Durch eine grobe Berechnung der Meeresströmungen und Windmuster können wir vorhersagen, wo wir diese Bojen absetzen müssen, damit sie direkt auf Majpun an Land treiben. Unsere Kontaktpersonen auf der Insel werden sie dann wieder einholen.</Text>
+    </Text>
+    <Text>
+      <GUID>1414042403</GUID>
+      <Text>Werfen Sie die Drogenbojen genau auf die Markierung.</Text>
+    </Text>
+    <Text>
+      <GUID>1414042404</GUID>
+      <Text>Drogenboje</Text>
+    </Text>
+    <!-- Double Agent -->     
+    <Text>
+      <GUID>1414041700</GUID>
+      <Text>Der Doppelagent</Text>
+    </Text>   
+    <Text>
+      <GUID>1414041701</GUID>
+      <Text>Admiral Wu weiß, dass das Tianming-Reich technologisch hinter seinen Konkurrenten zurückgeblieben ist. Wenn er die Invasoren morgen zurückschlagen will, muss er heute von ihnen lernen. Und so hat er Sie aufgesucht - werden Sie ihm helfen und seine Bitte erfüllen?</Text>
+    </Text>
+    <Text>
+      <GUID>1414041702</GUID>
+      <Text>Ich weiß, dass Sie viele Schiffe besitzen, und ich würde sie mir gerne näher ansehen. Könnten Sie mir vielleicht ein paar Fotos Ihrer Flotte zeigen?</Text>
+    </Text>
+    <Text>
+      <GUID>1414041703</GUID>
+      <Text>Wie wunderbar ist ein Schiff, das nicht von den Launen des Windes abhängig ist, im Gegensatz zu den Dschunken unseres Reiches. Da uns die Mittel fehlen, um selbst moderne Dampfschiffe herzustellen, möchte ich eine Flotte erwerben, die den Handel in der gesamten Region erheblich verbessern würde.</Text>
+    </Text>
+    <Text>
+      <GUID>1414041704</GUID>
+      <Text>Der Ruize Kaiser möchte in Zukunft die ersten Dampfschiffswerften in Foocheng errichten, und im Rahmen dieser Initiative bauen wir derzeit den Prototyp eines Handelsschiffs. Wäre ein Technologietransfer von Dampfturbinen möglich? Leider sind unsere Ingenieure mit Dampfmaschinen dieser Komplexität nicht vertraut...</Text>
+    </Text>
+    <!-- The Revolt -->     
+    <Text>
+      <GUID>1414041100</GUID>
+      <Text>Revolte</Text>
+    </Text>   
+    <Text>
+      <GUID>1414041101</GUID>
+      <Text>Ein geheimnisvoller Fremder aus der Alten Welt hat in einer örtlichen Fabrik Unruhe unter den Gōngrén gestiftet. Der Magnat bittet Sie, der Sache auf den Grund zu gehen.</Text>
+    </Text>   
+    <Text>
+      <GUID>1414041102</GUID>
+      <Text>„Dieser Mensch hat mir in letzter Zeit viel Kopfzerbrechen bereitet. Er behauptet, er spreche für das Volk, aber pah! Er ist nur hier, um Chaos zu säen. Er erwähnte einen Arzt in der Alten Welt, aber ich bezweifle sehr, dass ein seriöser Arzt sich mit einem solchen Schwachkopf einlassen würde. Eigentum in den Händen der einfachen Leute? Das ist doch lächerlich! Das ist nichts als eine Farce. Ihr müsst ihn mit allen Mitteln aufhalten!“</Text>
+    </Text>   
+    <Text>
+      <GUID>1414041103</GUID>
+      <Text>Endlich ist dieser Narr verhaftet worden. Aber es scheint, dass seine Festnahme die Arbeiter so sehr aufgewühlt hat, dass sie sich weigern, ohne ihn zu arbeiten. Sie sind in den Streik getreten und fordern seine Rückkehr. Ihr müsst schnell handeln! Ich kann es mir nicht leisten, weitere Gewinne zu verlieren. Bezahlt seine Kaution und schafft ihn aus diesem Land, wo er keinen Ärger mehr machen kann!</Text>
+    </Text>   
+    <!-- River Rebellion (Wpn02) -->
+    <Text>
+      <GUID>1414047000</GUID>
+      <Text>O.H.K. Lieferung: extreme Strömungen</Text>
+    </Text>   
+    <Text>
+      <GUID>1414047001</GUID>
+      <Text>Eine Rebellion im Tianming-Festland eskaliert schnell. Bald werden mehr Waffen benötigt, denn die aufständischen Bauern bereiten einen Angriff auf die kaiserliche Hauptstadt vor.</Text>
+    </Text>   
+    <Text>
+      <GUID>1414047002</GUID>
+      <Text>Interne Angelegenheiten des Tianming-Reiches interessieren uns normalerweise nicht, solange sie sich an die von ihnen unterzeichneten Verträge halten. Doch es ist klar, dass sie, sobald sich die Gelegenheit ergibt, versuchen werden, diese Verträge zu brechen. Daher ist es in unserem Interesse, die wachsende Rebellion zu unterstützen, die sich nun anschickt, ihre Hauptstadt anzugreifen. Wir werden diese Waffen den Huanghe-Fluss hinaufschicken und den Rebellen ungehindert erlauben, die Schiffe zu beschlagnahmen.</Text>
+    </Text>   
+    <Text>
+      <GUID>1414047003</GUID>
+      <Text>Das reicht aus. Mit diesen Fotos können die Rebellen die Schiffe identifizieren, die ihre Waffen transportieren. Sie haben bereits einen ihrer Spione losgeschickt, um die Fotos zu sammeln.</Text>
+    </Text>   
+    <Text>
+      <GUID>1414047004</GUID>
+      <Text>Rebellenfreund</Text>
+    </Text>   
+    <Text>
+      <GUID>1414047005</GUID>
+      <Text>Foto von zivilen Schiffen</Text>
+    </Text>   
+    <!-- Freeport (Lux02) -->
+    <Text>
+      <GUID>1414047100</GUID>
+      <Text>O.H.K. Lieferung: Freihafen</Text>
+    </Text>   
+    <Text>
+      <GUID>1414047101</GUID>
+      <Text>Goodwill hat einen Käufer für Ihren gesamten Bestand an Luxusgütern gefunden. Die Beförderung der Sendung durch den Zoll ist ein Kinderspiel, da Fernhandelscompagnien praktischerweise über steuerfreie Räume verfügen.</Text>
+    </Text>   
+    <Text>
+      <GUID>1414047102</GUID>
+      <Text>Mein Kunde hat darum gebeten, dass wir seine Ladung direkt auf die Handelscompagnie vorbei an dem Straßenräuber liefern, der das Finanzamt ist. Von dort aus können wir sie in seinem Freihafenlager deponieren, so dass er die Waren auf unbestimmte Zeit lagern kann, ohne jemals Steuern oder Zollgebühren zu zahlen.</Text>
+    </Text>   
+    <!-- Eastern Medicine -->
+    <Text>
+      <GUID>1414042900</GUID>
+      <Text>Ostmedizin</Text>
+  </Text>        
+  <Text>
+      <GUID>1414042901</GUID>
+      <Text>Ein junger Arzt aus der Region ist neugierig auf die moderne westliche Medizin und träumt davon, diese mit der traditionellen östlichen Medizin zu verbinden. Entschlossen klopft er an Ihre Bürotür und bittet Sie um Rat und Zusammenarbeit.</Text>
+  </Text> 
+  <Text>
+      <GUID>1414042902</GUID>
+      <Text>Hallo Administrator. Meine Familie praktiziert seit Generationen Medizin, und ich habe mich gefragt, ob sich westliche und östliche Medizin miteinander verbinden lassen. Zuerst würde ich gerne sehen, wie ein westliches Krankenhaus wirklich ist.</Text>
+  </Text>
+  <Text>
+      <GUID>1414042903</GUID>
+      <Text>Oh, ausgezeichnet. Als nächstes möchte ich einige der in diesen Krankenhäusern verwendeten Medikamente untersuchen. Das sollte mir einige Ideen geben.</Text>
+  </Text>
+  <!-- Furious Fourier -->
+  <Text>
+      <GUID>1414041200</GUID>
+      <Text>Furioser Fourier</Text>
+  </Text>    
+  <Text>
+      <GUID>1414041201</GUID>
+      <Text>Abgesehen von seiner Verachtung für die Alte Welt bleibt der Admiral neugierig auf die Technologien des Westens, die angeblich fortschrittlicher sind als die des Tianming-Reiches.</Text>
+  </Text>      
+  <Text>
+      <GUID>1414041202</GUID>
+      <Text>Die Erfindungen Ihrer Ingenieure sind bemerkenswert. Ich habe über diese Geräte gelesen, aber ich verstehe nicht ganz, wie diese in Massenproduktion hergestellten „Radios“ funktionieren. Wie kann die eigene Stimme eingefangen und durch einen Kristall übertragen werden?</Text>
+  </Text>         
+  <Text>
+      <GUID>1414041203</GUID>
+      <Text>Faszinierend... Wahrlich faszinierend. Wenn Sie mir ein paar dieser so genannten „Detektoren“ zur Verfügung stellen könnten, die in der Lage sind, Schall zu übertragen, würde mein Imperator eine solche Zusammenarbeit auf dem Gebiet der Signalübertragung gerne belohnen. Wir könnten im Gegenzug sogar unsere billigen Arbeitskräfte anbieten.</Text>
+  </Text>        
+    <Text>
+      <GUID>1414042410</GUID>
+      <Text>Holen Sie [AssetData(1414042404) Text] bei &lt;br/&gt;[AssetData([Conditions QuestCondition ItemPlace]) Text] ab</Text>
+    </Text>
+    <Text>
+      <GUID>1414042411</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] möchte Ihnen die Drogenbojen übergeben</Text>
+    </Text>
+    <Text>
+      <GUID>14443032</GUID>
+      <Text>Alle Compagnieproduktionen</Text>
+    </Text>
+    <Text>
+      <GUID>1414045111</GUID>
+      <Text>Holen Sie 200t Ware bei James Goodwill's Leuchtturm ab</Text>
+    </Text>
+    <Text>
+      <GUID>1414045108</GUID>
+      <Text>Potenzielles Versteck</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,373 @@
+<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <Text>
+            <GUID>1414050006</GUID>
+            <Text>SUSHI-KRISE ROLLT HERAN</Text>
+        </Text>
+        <Text>
+            <GUID>1414050007</GUID>
+            <Text>Sushi-Liebhaber in  [Newspaper FindArticle([RefGuid]) Context TownName] sind völlig von der Rolle, denn eine plötzliche Lieferknappheit bringt Restaurants in Bedrängnis, ihre beliebten Rollen noch auf den Teller zu bringen. Die Engpässe, verursacht durch Störungen in den Meeresfrüchte-Importen, sorgen bei Gästen und Köchen gleichermaßen für Verstimmungen.</Text>
+        </Text>
+        <Text>
+            <GUID>1414050022</GUID>
+            <Text>TEE-KRISE ZIEHT AUF!</Text>
+        </Text>
+        <Text>
+            <GUID>1414050023</GUID>
+            <Text>[Newspaper FindArticle([RefGuid]) Context TownName] in bitterer Notlage, da die Teevorräte zur Neige gehen! Die Bewohner versinken in Verzweiflung und fragen sich, wann sie endlich wieder eine anständige Tasse genießen können.</Text>
+        </Text>
+        <Text>
+            <GUID>1414050025</GUID>
+            <Text>WAS FÜR PFLAUMEN!</Text>
+        </Text>
+        <Text>
+            <GUID>1414050026</GUID>
+            <Text>Umeshu-Mangel in [Newspaper FindArticle([RefGuid]) Context TownName] – die Bewohner weinen in ihre leeren Becher! Wird dieser Durst bald gestillt, oder gärt die Lage zu einer handfesten Katastrophe heran?</Text>
+        </Text>
+        <Text>
+            <GUID>1414050028</GUID>
+            <Text>HUT AB!</Text>
+        </Text>
+        <Text>
+            <GUID>1414050029</GUID>
+            <Text>Spitzhüte sind in [Newspaper FindArticle([RefGuid]) Context TownName] so gut wie ausverkauft! Angesichts der bevorstehenden Erntesaison wollen die Bauern vor Ort ihre Ersparnisse in neue Hüte investieren, aber es sind einfach keine zu finden! Alternativen sind rar und nicht sehr gefragt. Ein lokaler Anbieter weist darauf hin, dass westliche Hutbekleidung oben zu rund sei und eigentlich spitz sein müsse.</Text>
+        </Text>
+        <Text>
+            <GUID>1414050031</GUID>
+            <Text>KEINE SCHÄRPEN MEHR!</Text>
+        </Text>
+        <Text>
+            <GUID>1414050032</GUID>
+            <Text>[Newspaper FindArticle([RefGuid]) Context TownName] in der Klemme, da eine Kimono-Knappheit um sich greift! Die Bewohner fürchten, dass ihre sartoriale Integrität bald völlig aus den Nähten geht!</Text>
+        </Text>
+        <Text>
+            <GUID>1414050034</GUID>
+            <Text>DA BRAT MIR EINER 'NE ENTE!</Text>
+        </Text>
+        <Text>
+            <GUID>1414050035</GUID>
+            <Text>In [Newspaper FindArticle([RefGuid]) Context TownName] waren die Einheimischen angesichts des unerwarteten Mangels an gebratenen Enten hungrig nach einer Lösung für die zunehmend unappetitliche Krise!</Text>
+        </Text>
+        <Text>
+            <GUID>1414050037</GUID>
+            <Text>ZERSPRUNGENE TRÄUME!</Text>
+        </Text>
+        <Text>
+            <GUID>1414050038</GUID>
+            <Text>Die Porzellanknappheit in [Newspaper FindArticle([RefGuid]) Context TownName] hinterlässt leere Tische und Regale! Die Situation wird ohne Korrekturmaßnahmen der Behörden immer heikler!</Text>
+        </Text>
+        <Text>
+            <GUID>1414050040</GUID>
+            <Text>UM HIMMELS WILLEN!</Text>
+        </Text>
+        <Text>
+            <GUID>1414050041</GUID>
+            <Text>Das Fehlen von Sake in [Newspaper FindArticle([RefGuid]) Context TownName] hat bei vielen einen bitteren Nachgeschmack hinterlassen! Verzweifelte Bewohner hoffen, dass der Gemeinderat eine Lösung finden kann, bevor die Moral weiter sinkt.</Text>
+        </Text>
+        <Text>
+            <GUID>1414050043</GUID>
+            <Text>FUNKSTILLE!</Text>
+        </Text>
+        <Text>
+            <GUID>1414050044</GUID>
+            <Text>Radiogeräte verschwinden aus [Newspaper FindArticle([RefGuid]) Context TownName]! Ohne tägliche Übertragungen verbreiten sich Gerüchte jetzt schneller als Signale! Werden die Behörden jemals etwas gegen diese Kommunikationskrise tun?</Text>
+        </Text>
+        <Text>
+            <GUID>1414050046</GUID>
+            <Text>SCHIMMLIGE SCHIMMELKÄSEKNAPPHEIT</Text>
+        </Text>
+        <Text>
+            <GUID>1414050047</GUID>
+            <Text>Schimmelkäseknappheit in [Newspaper FindArticle([RefGuid]) Context TownName] – die Herzen der Einheimischen zerbröseln! Gerüchte machen die Runde, dass eine Besserung wochenlang ausbleiben könnte, was die Stimmung spürbar verschärft!</Text>
+        </Text>
+        <Text>
+            <GUID>1414050049</GUID>
+            <Text>AM SEIDENEN FADEN!</Text>
+        </Text>
+        <Text>
+            <GUID>1414050050</GUID>
+            <Text>Ein Mangel an Seidenwesten in [Newspaper FindArticle([RefGuid]) Context TownName] lässt die Oberschicht ausfransen! Da die Gesellschaft selbst von einer modischen Katastrophe bedroht ist, bleibt die Frage: Kann diese bedrohliche Lücke in der Produktion noch rechtzeitig zusammengenäht werden?</Text>
+        </Text>
+        <Text>
+            <GUID>1414050052</GUID>
+            <Text>UNERFÜLLBARE FÜLLERWÜNSCHE</Text>
+        </Text>
+        <Text>
+            <GUID>1414050053</GUID>
+            <Text>[Newspaper FindArticle([RefGuid]) Context TownName] leidet unter einer kritischen Füller-Knappheit – wichtige Verträge bleiben nicht unterzeichnet, und die Beschwerden der Bürger verhallen ungehört. Wegen nicht vorhandener Tinte konnten wir diese Ausgabe gerade so noch drucken!</Text>
+        </Text>
+        <Text>
+            <GUID>1414050055</GUID>
+            <Text>4'33!</Text>
+        </Text>
+        <Text>
+            <GUID>1414050056</GUID>
+            <Text>Stille auf den Straßen von [Newspaper FindArticle([RefGuid]) Context TownName], denn die lokalen Musiker finden keine Koto-Instrumente mehr, um zu spielen. Währenddessen bleibt der Rest der Bevölkerung unerwartet ohne die gewohnte stereotype Hintergrundmusik zurück. Woran sollen sie jetzt noch erkennen, dass sie in Asien sind?</Text>
+        </Text>
+        <Text>
+            <GUID>1414050058</GUID>
+            <Text>KEINE NONGMIN FÜR DIE ERNTE!</Text>
+        </Text>
+        <Text>
+            <GUID>1414050059</GUID>
+            <Text>Der Mangel an Nongmin in [Newspaper FindArticle([RefGuid]) Context TownName] ist besorgniserregend für die lokale Lebensmittelversorgung. „Unsere Ernte muss im nächsten Monat eingeholt werden, damit es nicht zu einer Hungersnot kommt“, sagt ein besorgter Reisbauer.</Text>
+        </Text>
+        <Text>
+            <GUID>1414050061</GUID>
+            <Text>MANGEL AN GONGREN-ARBEITERN!</Text>
+        </Text>
+        <Text>
+            <GUID>1414050062</GUID>
+            <Text>Ein Arbeitskräftemangel in den Fabriken von [Newspaper FindArticle([RefGuid]) Context TownName] bringt die Gewinne unzähliger Magnaten in Gefahr. Dieses Problem muss sofort gelöst werden, um unsere Wirtschaft vor dem Ruin zu bewahren!</Text>
+        </Text>
+        <Text>
+            <GUID>1414050076</GUID>
+            <Text>KAMI FEIERN TEMPLERÖFFNUNG</Text>
+        </Text>
+        <Text>
+            <GUID>1414050077</GUID>
+            <Text>In [Newspaper FindArticle([RefGuid]) Context TownName] wurde ein neuer Shinto-Tempel enthüllt, der Scharen von Gläubigen und neugierigen Geistern anzieht. Während die meisten Kami das Design lobten, hörte man einen murmeln: „Keine heißen Quellen? Welchen Sinn hat es, sich hier zu manifestieren?“</Text>
+        </Text>
+        <Text>
+            <GUID>1414050079</GUID>
+            <Text>EIN SCHÖNER TAG IM FREIBAD</Text>
+        </Text>
+        <Text>
+            <GUID>1414050080</GUID>
+            <Text>Ein atemberaubendes neues Badehaus in [Newspaper FindArticle([RefGuid]) Context TownName] hat diese Woche seine Türen geöffnet und lockt mit wohltuenden heißen Quellen und makelloser Einrichtung. Während die meisten Gäste die Ruhe genossen, führte der Drainage-Versuch eines Besuchers zu einer strikten „Keine-Arschbomben"-Regel.</Text>
+        </Text>
+        <Text>
+            <GUID>1414050082</GUID>
+            <Text>DAS TOR ZUR HARMONIE</Text>
+        </Text>
+        <Text>
+            <GUID>1414050083</GUID>
+            <Text>In [Newspaper FindArticle([RefGuid]) Context TownName] ist ein Tor aufgetaucht, das den Weg zu einem großen Garten weist. Über die Gestaltung des Gartens haben sich die Stadtplaner noch nicht entschieden, doch was auch immer sie bauen werden, es wird eine wunderbare Flucht aus der modernen Welt in einfachere Zeiten sein.</Text>
+        </Text>
+        <Text>
+            <GUID>1414050085</GUID>
+            <Text>FREIE FAHRT FÜR FREIE BÜRGER</Text>
+        </Text>
+        <Text>
+            <GUID>1414050086</GUID>
+            <Text>Das Leben in [Newspaper FindArticle([RefGuid]) Context TownName] nimmt rasant an Fahrt auf – genau wie die neue U-Bahn, die nun unter der Metropole verkehrt. Ein junger Geschäftsmann kommentiert: „Ich mag die neue Untergrundbahn sehr, denn seit ihrer Eröffnung fahren die Fußgänger der Unterschicht mit dem Zug statt auf der Straße zu gehen – die sollte schließlich meinem neuen Auto vorbehalten sein.“</Text>
+        </Text>
+        <Text>
+            <GUID>54005100</GUID>
+            <Text>Schmeckt immer noch wie aus dem Jahr 1404!</Text>
+            <!-- Grammar -->
+        </Text>
+        <Text>
+            <GUID>54005101</GUID>
+            <Text>Köstliche Früchte.</Text>
+        </Text>
+        <Text>
+            <GUID>54005102</GUID>
+            <Text>Manche sagen, es sei die Zukunft der Menschheit.</Text>
+            <!-- Rephrasing -->
+        </Text>
+        <Text>
+            <GUID>54005103</GUID>
+            <Text>Ein wichtiges Instrument, um den Bürgern die richtigen Narrative zu vermitteln.</Text>
+            <!-- Rephrasing -->
+        </Text>
+        <Text>
+            <GUID>54005104</GUID>
+            <Text>Pasteurisiert, homogenisiert, 3,5 % Fett.</Text>
+        </Text>
+        <Text>
+            <GUID>54005105</GUID>
+            <Text>Klick-Klack Klick-Klack Klick-</Text>
+        </Text>
+        <Text>
+            <GUID>54005106</GUID>
+            <Text>Die erste Generation isolierter Elektrokabel.</Text>
+            <!-- Capitalization -->
+        </Text>
+        <Text>
+            <GUID>54005107</GUID>
+            <Text>Der Tod der Telegraphen.</Text>
+            <!-- Capitalization -->
+        </Text>
+        <Text>
+            <GUID>54005108</GUID>
+            <Text>Erkennt kleinste Funksignale.</Text>
+            <!-- Capitalization -->
+        </Text>
+        <Text>
+            <GUID>54005109</GUID>
+            <Text>Wurde mit Chlor, dem Wundergas, gebleicht.</Text>
+            <!-- Grammar -->
+        </Text>
+        <Text>
+            <GUID>54005110</GUID>
+            <Text>Speichert alle Arten von Wissen.</Text>
+            <!-- Grammar -->
+        </Text>
+        <Text>
+            <GUID>54005111</GUID>
+            <Text>Gibt es dort oben eine neue Welt?</Text>
+            <!-- Grammar -->
+        </Text>
+        <Text>
+            <GUID>54005112</GUID>
+            <Text>Speziell mit Blauschimmel veredelt für ein geschmacksintensiveres Produkt.</Text>
+            <!-- Rephrasing -->
+        </Text>
+        <Text>
+            <GUID>54005113</GUID>
+            <Text>Sauer, aber humorvoll.</Text>
+        </Text>
+        <Text>
+            <GUID>54005114</GUID>
+            <Text>Spaß ohne Alkohol.</Text>
+            <!-- Capitalization -->
+        </Text>
+        <Text>
+            <GUID>54005115</GUID>
+            <Text>Auch wenn es jene täuscht, die es für Gold halten, ist dieses Mineral eine wertvolle Ressource.</Text>
+            <!-- Rephrasing -->
+        </Text>
+        <Text>
+            <GUID>54005116</GUID>
+            <Text>Ein klebriger Kurzkornreis.</Text>
+            <!-- Rephrasing -->
+        </Text>
+        <Text>
+            <GUID>54005118</GUID>
+            <Text>Ein Set aus sorgfältig gepresster Makrele und Essigreis.</Text>
+            <!-- Rephrasing -->
+        </Text>
+        <Text>
+            <GUID>54005119</GUID>
+            <Text>Eine besondere Pflaumensorte, die einfachen Wein in Umeshu verwandeln kann.</Text>
+            <!-- Rephrasing -->
+        </Text>
+        <Text>
+            <GUID>54005120</GUID>
+            <Text>Verschiedene Teesorten.</Text>
+            <!-- Rephrasing -->
+        </Text>
+        <Text>
+            <GUID>54005121</GUID>
+            <Text>Tee ist untrennbar mit dem Fernen Osten verbunden.</Text>
+            <!-- Rephrasing -->
+        </Text>
+        <Text>
+            <GUID>54005122</GUID>
+            <Text>Trotz seines erdigen Ursprungs leuchtet es weiß wie Schnee.</Text>
+            <!-- Rephrasing -->
+        </Text>
+        <Text>
+            <GUID>54005123</GUID>
+            <Text>Ein reichlich vorhandenes Mineral – außer in den Momenten, in denen man es am dringendsten braucht.</Text>
+            <!-- Rephrasing -->
+        </Text>
+        <Text>
+            <GUID>54005124</GUID>
+            <Text>Lass es nicht fallen!</Text>
+            <!-- Rephrasing -->
+        </Text>
+        <Text>
+            <GUID>54005125</GUID>
+            <Text>Jeder Strang ist das Lebenswerk einer einzelnen Seidenraupe.</Text>
+        </Text>
+        <Text>
+            <GUID>54005126</GUID>
+            <Text>Der feinste und glatteste Stoff, den man je spüren wird.</Text>
+            <!-- Rephrasing -->
+        </Text>
+        <Text>
+            <GUID>54005127</GUID>
+            <Text>Sieht überraschend grün aus.</Text>
+        </Text>
+        <Text>
+            <GUID>54005128</GUID>
+            <Text>Es ist Ihnen nicht gestattet, das Wort „bunt“ zu verwenden, bevor Sie diese gesehen haben!</Text>
+        </Text>
+        <Text>
+            <GUID>54005129</GUID>
+            <Text>Eine schrecklich klebrige Substanz aus Zucker.</Text>
+        </Text>
+        <Text>
+            <GUID>54005130</GUID>
+            <Text>Die einzige originale Feldman-Hefe.</Text>
+        </Text>
+        <Text>
+            <GUID>54005131</GUID>
+            <Text>Am besten warm aus einer flachen Tasse trinken.</Text>
+            <!-- Rephrasing -->
+        </Text>
+        <Text>
+            <GUID>54005132</GUID>
+            <Text>Quacksalber? Quacksalber!</Text>
+        </Text>
+        <Text>
+            <GUID>54005133</GUID>
+            <Text>Horai-Bienen: ganz anders als die afrikanischen.</Text>
+        </Text>
+        <Text>
+            <GUID>54005134</GUID>
+            <Text>Saftiges Entenfleisch, gekrönt von knuspriger, soja-glasierten Haut.</Text>
+            <!-- Rephrasing -->
+        </Text>
+        <Text>
+            <GUID>54005135</GUID>
+            <Text>Ein heimliches Vergnügen für jeden Nóngmín.</Text>
+            <!-- Rephrasing -->
+        </Text>
+        <Text>
+            <GUID>54005136</GUID>
+            <Text>Ein Pilz, der zu edel ist, um schädlich zu sein.</Text>
+            <!-- Rephrasing -->
+        </Text>
+        <Text>
+            <GUID>54005137</GUID>
+            <Text>Ein besser gehütetes Geheimnis als das Rezept von Cola Mola Wola!</Text>
+            <!-- Rephrasing -->
+        </Text>
+        <Text>
+            <GUID>54005141</GUID>
+            <Text>Ein hartes, sprödes Metall, von dem viele Stifthersteller behaupten, dass es die Qualität der Striche verbessert.</Text>
+            <!-- Rephrasing -->
+        </Text>
+        <Text>
+            <GUID>54005142</GUID>
+            <Text>Gulasch, aber ausgelagert.</Text>
+            <!-- Rephrasing -->
+        </Text>
+        <Text>
+            <GUID>54005143</GUID>
+            <Text>Ein Grundpfeiler der östlichen Küche – diese nützliche Hülsenfrucht hat ihren Abstieg in die Verrufenheit noch nicht begonnen.</Text>
+            <!-- Rephrasing -->
+        </Text>
+        <Text>
+            <GUID>54005144</GUID>
+            <Text>Willkommen in der Crème de la Crème der Eleganz!</Text>
+            <!-- Rephrasing -->
+        </Text>
+        <Text>
+            <GUID>54005145</GUID>
+            <Text>Im Ernst... wer würde so etwas essen?</Text>
+            <!-- Rephrasing -->
+        </Text>
+        <Text>
+            <GUID>1414006023</GUID>
+            <Text>Vergessen Sie Scovilles, das ist der Originalpfeffer!</Text>
+            <!-- Rephrasing -->
+        </Text>
+        <Text>
+            <GUID>1414006024</GUID>
+            <Text>Peppen Sie es auf!</Text>
+        </Text>
+        <Text>
+            <GUID>1414006025</GUID>
+            <Text>Ein hässlicher und uralter Fisch, gefüllt mit Köstlichkeiten im Inneren.</Text>
+            <!-- Rephrasing -->
+        </Text>
+        <Text>
+            <GUID>1414006026</GUID>
+            <Text>Pechschwarz.</Text>
+        </Text>
+    </ModOp>
+</ModOps>

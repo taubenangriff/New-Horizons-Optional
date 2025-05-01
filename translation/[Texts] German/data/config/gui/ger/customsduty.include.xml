@@ -1,0 +1,666 @@
+<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <!-- Customs Duty Items -->
+        <Text>
+            <GUID>1414009000</GUID>
+            <Text>Zollgebühr: Fisch</Text>
+        </Text>
+        <Text>
+            <GUID>1414009001</GUID>
+            <Text>Zollgebühr: Fisch</Text>
+        </Text>
+        <Text>
+            <GUID>1414009003</GUID>
+            <Text>Zollgebühr: Schnapps</Text>
+        </Text>
+        <Text>
+            <GUID>1414009004</GUID>
+            <Text>Zollgebühr: Schnapps</Text>
+        </Text>
+        <Text>
+            <GUID>1414009006</GUID>
+            <Text>Zollgebühr: Arbeitskleidung</Text>
+        </Text>
+        <Text>
+            <GUID>1414009007</GUID>
+            <Text>Zollgebühr: Arbeitskleidung</Text>
+        </Text>
+        <Text>
+            <GUID>1414009009</GUID>
+            <Text>Zollgebühr: Wurst</Text>
+        </Text>
+        <Text>
+            <GUID>1414009010</GUID>
+            <Text>Zollgebühr: Wurst</Text>
+        </Text>
+        <Text>
+            <GUID>1414009012</GUID>
+            <Text>Zollgebühr: Brot</Text>
+        </Text>
+        <Text>
+            <GUID>1414009013</GUID>
+            <Text>Zollgebühr: Brot</Text>
+        </Text>
+        <Text>
+            <GUID>1414009015</GUID>
+            <Text>Zollgebühr: Seife</Text>
+        </Text>
+        <Text>
+            <GUID>1414009016</GUID>
+            <Text>Zollgebühr: Seife</Text>
+        </Text>
+        <Text>
+            <GUID>1414009018</GUID>
+            <Text>Zollgebühr: Bier</Text>
+        </Text>
+        <Text>
+            <GUID>1414009019</GUID>
+            <Text>Zollgebühr: Bier</Text>
+        </Text>
+        <Text>
+            <GUID>1414009021</GUID>
+            <Text>Zollgebühr: Fleischkonserven</Text>
+        </Text>
+        <Text>
+            <GUID>1414009022</GUID>
+            <Text>Zollgebühr: Fleischkonserven</Text>
+        </Text>
+        <Text>
+            <GUID>1414009024</GUID>
+            <Text>Zollgebühr: Nähmaschinen</Text>
+        </Text>
+        <Text>
+            <GUID>1414009025</GUID>
+            <Text>Zollgebühr: Nähmaschinen</Text>
+        </Text>
+        <Text>
+            <GUID>1414009027</GUID>
+            <Text>Zollgebühr: Rum</Text>
+        </Text>
+        <Text>
+            <GUID>1414009028</GUID>
+            <Text>Zollgebühr: Rum</Text>
+        </Text>
+        <Text>
+            <GUID>1414009030</GUID>
+            <Text>Zollgebühr: Pelzmäntel</Text>
+        </Text>
+        <Text>
+            <GUID>1414009031</GUID>
+            <Text>Zollgebühr: Pelzmäntel</Text>
+        </Text>
+        <Text>
+            <GUID>1414009033</GUID>
+            <Text>Zollgebühr: Brillen</Text>
+        </Text>
+        <Text>
+            <GUID>1414009034</GUID>
+            <Text>Zollgebühr: Brillen</Text>
+        </Text>
+        <Text>
+            <GUID>1414009036</GUID>
+            <Text>Zollgebühr: Hochräder</Text>
+        </Text>
+        <Text>
+            <GUID>1414009037</GUID>
+            <Text>Zollgebühr: Hochräder</Text>
+        </Text>
+        <Text>
+            <GUID>1414009039</GUID>
+            <Text>Zollgebühr: Taschenuhren</Text>
+        </Text>
+        <Text>
+            <GUID>1414009040</GUID>
+            <Text>Zollgebühr: Taschenuhren</Text>
+        </Text>
+        <Text>
+            <GUID>1414009042</GUID>
+            <Text>Zollgebühr: Kaffee</Text>
+        </Text>
+        <Text>
+            <GUID>1414009043</GUID>
+            <Text>Zollgebühr: Kaffee</Text>
+        </Text>
+        <Text>
+            <GUID>1414009045</GUID>
+            <Text>Zollgebühr: Glühbirnen</Text>
+        </Text>
+        <Text>
+            <GUID>1414009046</GUID>
+            <Text>Zollgebühr: Glühbirnen</Text>
+        </Text>
+        <Text>
+            <GUID>1414009048</GUID>
+            <Text>Zollgebühr: Champagner</Text>
+        </Text>
+        <Text>
+            <GUID>1414009049</GUID>
+            <Text>Zollgebühr: Champagner</Text>
+        </Text>
+        <Text>
+            <GUID>1414009051</GUID>
+            <Text>Zollgebühr: Zigarren</Text>
+        </Text>
+        <Text>
+            <GUID>1414009052</GUID>
+            <Text>Zollgebühr: Zigarren</Text>
+        </Text>
+        <Text>
+            <GUID>1414009054</GUID>
+            <Text>Zollgebühr: Schokolade</Text>
+        </Text>
+        <Text>
+            <GUID>1414009055</GUID>
+            <Text>Zollgebühr: Schokolade</Text>
+        </Text>
+        <Text>
+            <GUID>1414009057</GUID>
+            <Text>Zollgebühr: Schmuck</Text>
+        </Text>
+        <Text>
+            <GUID>1414009058</GUID>
+            <Text>Zollgebühr: Schmuck</Text>
+        </Text>
+        <Text>
+            <GUID>1414009060</GUID>
+            <Text>Zollgebühr: Phonographen</Text>
+        </Text>
+        <Text>
+            <GUID>1414009061</GUID>
+            <Text>Zollgebühr: Phonographen</Text>
+        </Text>
+        <Text>
+            <GUID>1414009063</GUID>
+            <Text>Zollgebühr: Dampfwagen</Text>
+        </Text>
+        <Text>
+            <GUID>1414009064</GUID>
+            <Text>Zollgebühr: Dampfwagen</Text>
+        </Text>
+        <Text>
+            <GUID>1414009066</GUID>
+            <Text>Zollgebühr: Lederstiefel</Text>
+        </Text>
+        <Text>
+            <GUID>1414009067</GUID>
+            <Text>Zollgebühr: Lederstiefel</Text>
+        </Text>
+        <Text>
+            <GUID>1414009069</GUID>
+            <Text>Zollgebühr: Melonen</Text>
+        </Text>
+        <Text>
+            <GUID>1414009070</GUID>
+            <Text>Zollgebühr: Melonen</Text>
+        </Text>
+        <Text>
+            <GUID>1414009072</GUID>
+            <Text>Zollgebühr: Hibiskustee</Text>
+        </Text>
+        <Text>
+            <GUID>1414009073</GUID>
+            <Text>Zollgebühr: Hibiskustee</Text>
+        </Text>
+        <Text>
+            <GUID>1414009075</GUID>
+            <Text>Zollgebühr: Maßanzüge</Text>
+        </Text>
+        <Text>
+            <GUID>1414009076</GUID>
+            <Text>Zollgebühr: Maßanzüge</Text>
+        </Text>
+        <Text>
+            <GUID>1414009078</GUID>
+            <Text>Zollgebühr: Meeresfrüchte-Eintopf</Text>
+        </Text>
+        <Text>
+            <GUID>1414009079</GUID>
+            <Text>Zollgebühr: Meeresfrüchte-Eintopf</Text>
+        </Text>
+        <Text>
+            <GUID>1414009081</GUID>
+            <Text>Zollgebühr: Wandteppiche</Text>
+        </Text>
+        <Text>
+            <GUID>1414009082</GUID>
+            <Text>Zollgebühr: Wandteppiche</Text>
+        </Text>
+        <Text>
+            <GUID>1414009084</GUID>
+            <Text>Zollgebühr: Tonpfeife</Text>
+        </Text>
+        <Text>
+            <GUID>1414009085</GUID>
+            <Text>Zollgebühr: Tonpfeife</Text>
+        </Text>
+        <Text>
+            <GUID>1414009087</GUID>
+            <Text>Zollgebühr: Telefone</Text>
+        </Text>
+        <Text>
+            <GUID>1414009088</GUID>
+            <Text>Zollgebühr: Telefone</Text>
+        </Text>
+        <Text>
+            <GUID>1414009090</GUID>
+            <Text>Zollgebühr: gebackene Bananen</Text>
+        </Text>
+        <Text>
+            <GUID>1414009091</GUID>
+            <Text>Zollgebühr: gebackene Bananen</Text>
+        </Text>
+        <Text>
+            <GUID>1414009093</GUID>
+            <Text>Zollgebühr: Ponchos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009094</GUID>
+            <Text>Zollgebühr: Ponchos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009096</GUID>
+            <Text>Zollgebühr: Tortillas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009097</GUID>
+            <Text>Zollgebühr: Tortillas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009099</GUID>
+            <Text>Zollgebühr: Pemmikan</Text>
+        </Text>
+        <Text>
+            <GUID>1414009100</GUID>
+            <Text>Zollgebühr: Pemmikan</Text>
+        </Text>
+        <Text>
+            <GUID>1414009102</GUID>
+            <Text>Zollgebühr: Schlafsäcke</Text>
+        </Text>
+        <Text>
+            <GUID>1414009103</GUID>
+            <Text>Zollgebühr: Schlafsäcke</Text>
+        </Text>
+        <Text>
+            <GUID>1414009105</GUID>
+            <Text>Zollgebühr: Öllampen</Text>
+        </Text>
+        <Text>
+            <GUID>1414009106</GUID>
+            <Text>Zollgebühr: Öllampen</Text>
+        </Text>
+        <Text>
+            <GUID>1414009108</GUID>
+            <Text>Zollgebühr: Parkas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009109</GUID>
+            <Text>Zollgebühr: Parkas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009111</GUID>
+            <Text>Zollgebühr: Hundeschlitten</Text>
+        </Text>
+        <Text>
+            <GUID>1414009112</GUID>
+            <Text>Zollgebühr: Hundeschlitten</Text>
+        </Text>
+        <Text>
+            <GUID>1414009114</GUID>
+            <Text>Zollgebühr: Ziegenmilch</Text>
+        </Text>
+        <Text>
+            <GUID>1414009115</GUID>
+            <Text>Zollgebühr: Ziegenmilch</Text>
+        </Text>
+        <Text>
+            <GUID>1414009117</GUID>
+            <Text>Zollgebühr: Gewänder</Text>
+        </Text>
+        <Text>
+            <GUID>1414009118</GUID>
+            <Text>Zollgebühr: Gewänder</Text>
+        </Text>
+        <Text>
+            <GUID>1414009120</GUID>
+            <Text>Zollgebühr: Trockenfleisch</Text>
+        </Text>
+        <Text>
+            <GUID>1414009121</GUID>
+            <Text>Zollgebühr: Trockenfleisch</Text>
+        </Text>
+        <Text>
+            <GUID>1414009123</GUID>
+            <Text>Zollgebühr: Keramik</Text>
+        </Text>
+        <Text>
+            <GUID>1414009124</GUID>
+            <Text>Zollgebühr: Keramik</Text>
+        </Text>
+        <Text>
+            <GUID>1414009126</GUID>
+            <Text>Zollgebühr: Chroniken</Text>
+        </Text>
+        <Text>
+            <GUID>1414009127</GUID>
+            <Text>Zollgebühr: Chroniken</Text>
+        </Text>
+        <Text>
+            <GUID>1414009129</GUID>
+            <Text>Zollgebühr: Lanternen</Text>
+        </Text>
+        <Text>
+            <GUID>1414009130</GUID>
+            <Text>Zollgebühr: Lanternen</Text>
+        </Text>
+        <Text>
+            <GUID>1414009132</GUID>
+            <Text>Zollgebühr: Radiogeräte</Text>
+        </Text>
+        <Text>
+            <GUID>1414009133</GUID>
+            <Text>Zollgebühr: Radiogeräte</Text>
+        </Text>
+        <Text>
+            <GUID>1414009135</GUID>
+            <Text>Zollgebühr: Füller</Text>
+        </Text>
+        <Text>
+            <GUID>1414009136</GUID>
+            <Text>Zollgebühr: Füller</Text>
+        </Text>
+        <Text>
+            <GUID>1414009138</GUID>
+            <Text>Zollgebühr: Limonade</Text>
+        </Text>
+        <Text>
+            <GUID>1414009139</GUID>
+            <Text>Zollgebühr: Limonade</Text>
+        </Text>
+        <Text>
+            <GUID>1414009141</GUID>
+            <Text>Zollgebühr: Schimmelkäse</Text>
+        </Text>
+        <Text>
+            <GUID>1414009142</GUID>
+            <Text>Zollgebühr: Schimmelkäse</Text>
+        </Text>
+        <Text>
+            <GUID>1414009144</GUID>
+            <Text>Zollgebühr: Porzellan</Text>
+        </Text>
+        <Text>
+            <GUID>1414009145</GUID>
+            <Text>Zollgebühr: Porzellan</Text>
+        </Text>
+        <Text>
+            <GUID>1414009147</GUID>
+            <Text>Zollgebühr: Spitzhüte</Text>
+        </Text>
+        <Text>
+            <GUID>1414009148</GUID>
+            <Text>Zollgebühr: Spitzhüte</Text>
+        </Text>
+        <Text>
+            <GUID>1414009150</GUID>
+            <Text>Zollgebühr: Sake</Text>
+        </Text>
+        <Text>
+            <GUID>1414009151</GUID>
+            <Text>Zollgebühr: Sake</Text>
+        </Text>
+        <Text>
+            <GUID>1414009153</GUID>
+            <Text>Zollgebühr: Oshizushi</Text>
+        </Text>
+        <Text>
+            <GUID>1414009154</GUID>
+            <Text>Zollgebühr: Oshizushi</Text>
+        </Text>
+        <Text>
+            <GUID>1414009156</GUID>
+            <Text>Zollgebühr: Umeshu</Text>
+        </Text>
+        <Text>
+            <GUID>1414009157</GUID>
+            <Text>Zollgebühr: Umeshu</Text>
+        </Text>
+        <Text>
+            <GUID>1414009159</GUID>
+            <Text>Zollgebühr: Tee</Text>
+        </Text>
+        <Text>
+            <GUID>1414009160</GUID>
+            <Text>Zollgebühr: Tee</Text>
+        </Text>
+        <Text>
+            <GUID>1414009162</GUID>
+            <Text>Zollgebühr: Kimono</Text>
+        </Text>
+        <Text>
+            <GUID>1414009163</GUID>
+            <Text>Zollgebühr: Kimono</Text>
+        </Text>
+        <Text>
+            <GUID>1414009165</GUID>
+            <Text>Zollgebühr: Röstenten</Text>
+        </Text>
+        <Text>
+            <GUID>1414009166</GUID>
+            <Text>Zollgebühr: Röstenten</Text>
+        </Text>
+        <Text>
+            <GUID>1414009168</GUID>
+            <Text>Zollgebühr: Kotos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009169</GUID>
+            <Text>Zollgebühr: Kotos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009171</GUID>
+            <Text>Zollgebühr: Seidenwesten</Text>
+        </Text>
+        <Text>
+            <GUID>1414009172</GUID>
+            <Text>Zollgebühr: Seidenwesten</Text>
+        </Text>
+
+        <Text>
+            <GUID>1414009174</GUID>
+            <Text>Zollgebühr: Marmelade</Text>
+        </Text>
+        <Text>
+            <GUID>1414009175</GUID>
+            <Text>Zollgebühr: Marmelade</Text>
+        </Text>
+        <Text>
+            <GUID>1414009177</GUID>
+            <Text>Zollgebühr: Shampoo</Text>
+        </Text>
+        <Text>
+            <GUID>1414009178</GUID>
+            <Text>Zollgebühr: Shampoo</Text>
+        </Text>
+        <Text>
+            <GUID>1414009183</GUID>
+            <Text>Zollgebühr: Limonade</Text>
+        </Text>
+        <Text>
+            <GUID>1414009184</GUID>
+            <Text>Zollgebühr: Limonade</Text>
+        </Text>
+        <Text>
+            <GUID>1414009189</GUID>
+            <Text>Zollgebühr: Souvenirs</Text>
+        </Text>
+        <Text>
+            <GUID>1414009190</GUID>
+            <Text>Zollgebühr: Souvenirs</Text>
+        </Text>
+        <Text>
+            <GUID>1414009191</GUID>
+            <Text>Zollgebühr: Kaugummi</Text>
+        </Text>
+        <Text>
+            <GUID>1414009192</GUID>
+            <Text>Zollgebühr: Kaugummi</Text>
+        </Text>
+        <Text>
+            <GUID>1414009194</GUID>
+            <Text>Zollgebühr: Kekse </Text>
+        </Text>
+        <Text>
+            <GUID>1414009195</GUID>
+            <Text>Zollgebühr: Kekse </Text>
+        </Text>
+        <Text>
+            <GUID>1414009197</GUID>
+            <Text>Zollgebühr: Cognac</Text>
+        </Text>
+        <Text>
+            <GUID>1414009198</GUID>
+            <Text>Zollgebühr: Cognac</Text>
+        </Text>
+        <Text>
+            <GUID>1414009200</GUID>
+            <Text>Zollgebühr: Schreibmaschinen</Text>
+        </Text>
+        <Text>
+            <GUID>1414009201</GUID>
+            <Text>Zollgebühr: Schreibmaschinen</Text>
+        </Text>
+        <Text>
+            <GUID>1414009203</GUID>
+            <Text>Zollgebühr: Billardtische</Text>
+        </Text>
+        <Text>
+            <GUID>1414009204</GUID>
+            <Text>Zollgebühr: Billardtische</Text>
+        </Text>
+        <Text>
+            <GUID>1414009206</GUID>
+            <Text>Zollgebühr: Violinen</Text>
+        </Text>
+        <Text>
+            <GUID>1414009207</GUID>
+            <Text>Zollgebühr: Violinen</Text>
+        </Text>
+        <Text>
+            <GUID>1414009209</GUID>
+            <Text>Zollgebühr: Spielzeug</Text>
+        </Text>
+        <Text>
+            <GUID>1414009210</GUID>
+            <Text>Zollgebühr: Spielzeug</Text>
+        </Text>
+        <Text>
+            <GUID>1414009213</GUID>
+            <Text>Zollgebühr: Fußbälle</Text>
+        </Text>
+        <Text>
+            <GUID>1414009214</GUID>
+            <Text>Zollgebühr: Fußbälle</Text>
+        </Text>
+        <Text>
+            <GUID>1414009216</GUID>
+            <Text>Zollgebühr: Mezcal</Text>
+        </Text>
+        <Text>
+            <GUID>1414009217</GUID>
+            <Text>Zollgebühr: Mezcal</Text>
+        </Text>
+        <Text>
+            <GUID>1414009219</GUID>
+            <Text>Zollgebühr: Jalea</Text>
+        </Text>
+        <Text>
+            <GUID>1414009220</GUID>
+            <Text>Zollgebühr: Jalea</Text>
+        </Text>
+        <Text>
+            <GUID>1414009222</GUID>
+            <Text>Zollgebühr: Eiscreme</Text>
+        </Text>
+        <Text>
+            <GUID>1414009223</GUID>
+            <Text>Zollgebühr: Eiscreme</Text>
+        </Text>
+        <Text>
+            <GUID>1414009225</GUID>
+            <Text>Zollgebühr: Parfüm</Text>
+        </Text>
+        <Text>
+            <GUID>1414009226</GUID>
+            <Text>Zollgebühr: Parfüm</Text>
+        </Text>
+        <Text>
+            <GUID>1414009228</GUID>
+            <Text>Zollgebühr: Ventilatoren</Text>
+        </Text>
+        <Text>
+            <GUID>1414009229</GUID>
+            <Text>Zollgebühr: Ventilatoren</Text>
+        </Text>
+        <Text>
+            <GUID>1414009231</GUID>
+            <Text>Zollgebühr: Motorroller</Text>
+        </Text>
+        <Text>
+            <GUID>1414009232</GUID>
+            <Text>Zollgebühr: Motorroller</Text>
+        </Text>
+        <Text>
+            <GUID>1414009234</GUID>
+            <Text>Zollgebühr: Chilisauce</Text>
+        </Text>
+        <Text>
+            <GUID>1414009235</GUID>
+            <Text>Zollgebühr: Chilisauce</Text>
+        </Text>
+        <Text>
+            <GUID>1414009237</GUID>
+            <Text>Zollgebühr: Atole</Text>
+        </Text>
+        <Text>
+            <GUID>1414009238</GUID>
+            <Text>Zollgebühr: Atole</Text>
+        </Text>
+        <Text>
+            <GUID>1414009240</GUID>
+            <Text>Zollgebühr: Jade</Text>
+        </Text>
+        <Text>
+            <GUID>1414009241</GUID>
+            <Text>Zollgebühr: Jade</Text>
+        </Text>
+        <Text>
+            <GUID>1414009243</GUID>
+            <Text>Zollgebühr: Literatur</Text>
+        </Text>
+        <Text>
+            <GUID>1414009244</GUID>
+            <Text>Zollgebühr: Literatur</Text>
+        </Text>
+        <Text>
+            <GUID>1414009246</GUID>
+            <Text>Zollgebühr: Weihrauch</Text>
+        </Text>
+        <Text>
+            <GUID>1414009247</GUID>
+            <Text>Zollgebühr: Weihrauch</Text>
+        </Text>
+        <Text>
+            <GUID>1414009249</GUID>
+            <Text>Zollgebühr: Durianfrüchte</Text>
+        </Text>
+        <Text>
+            <GUID>1414009250</GUID>
+            <Text>Zollgebühr: Durianfrüchte</Text>
+        </Text>
+        <Text>
+            <GUID>1414006029</GUID>
+            <Text>Wenn an einem Handelsposten Zollgebühr aktiv ist, wird diese auch auf allen Anlegestellen dieser Insel erhoben..</Text>
+        </Text>
+    </ModOp>
+</ModOps>

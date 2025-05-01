@@ -1,0 +1,668 @@
+<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+    
+        <!-- Customs Duty Items -->
+
+        <Text>
+            <GUID>1414009000</GUID>
+            <Text>Droits de douane : Poisson</Text>
+        </Text>
+        <Text>
+            <GUID>1414009001</GUID>
+            <Text>Droits de douane : Poisson</Text>
+        </Text>
+        <Text>
+            <GUID>1414009003</GUID>
+            <Text>Droits de douane : Eau-de-vie</Text>
+        </Text>
+        <Text>
+            <GUID>1414009004</GUID>
+            <Text>Droits de douane : Eau-de-vie</Text>
+        </Text>
+        <Text>
+            <GUID>1414009006</GUID>
+            <Text>Droits de douane : Vêtements de travail</Text>
+        </Text>
+        <Text>
+            <GUID>1414009007</GUID>
+            <Text>Droits de douane : Vêtements de travail</Text>
+        </Text>
+        <Text>
+            <GUID>1414009009</GUID>
+            <Text>Droits de douane : Saussices</Text>
+        </Text>
+        <Text>
+            <GUID>1414009010</GUID>
+            <Text>Droits de douane : Saussices</Text>
+        </Text>
+        <Text>
+            <GUID>1414009012</GUID>
+            <Text>Droits de douane : Pain</Text>
+        </Text>
+        <Text>
+            <GUID>1414009013</GUID>
+            <Text>Droits de douane : Pain</Text>
+        </Text>
+        <Text>
+            <GUID>1414009015</GUID>
+            <Text>Droits de douane : Savon</Text>
+        </Text>
+        <Text>
+            <GUID>1414009016</GUID>
+            <Text>Droits de douane : Savon</Text>
+        </Text>
+        <Text>
+            <GUID>1414009018</GUID>
+            <Text>Droits de douane : Bière</Text>
+        </Text>
+        <Text>
+            <GUID>1414009019</GUID>
+            <Text>Droits de douane : Bière</Text>
+        </Text>
+        <Text>
+            <GUID>1414009021</GUID>
+            <Text>Droits de douane : Conserves</Text>
+        </Text>
+        <Text>
+            <GUID>1414009022</GUID>
+            <Text>Droits de douane : Conserves</Text>
+        </Text>
+        <Text>
+            <GUID>1414009024</GUID>
+            <Text>Droits de douane : Machines à coudre</Text>
+        </Text>
+        <Text>
+            <GUID>1414009025</GUID>
+            <Text>Droits de douane : Machines à coudre</Text>
+        </Text>
+        <Text>
+            <GUID>1414009027</GUID>
+            <Text>Droits de douane : Rhum</Text>
+        </Text>
+        <Text>
+            <GUID>1414009028</GUID>
+            <Text>Droits de douane : Rhum</Text>
+        </Text>
+        <Text>
+            <GUID>1414009030</GUID>
+            <Text>Droits de douane : Manteaux de fourrure</Text>
+        </Text>
+        <Text>
+            <GUID>1414009031</GUID>
+            <Text>Droits de douane : Manteaux de fourrure</Text>
+        </Text>
+        <Text>
+            <GUID>1414009033</GUID>
+            <Text>Droits de douane : Lunettes</Text>
+        </Text>
+        <Text>
+            <GUID>1414009034</GUID>
+            <Text>Droits de douane : Lunettes</Text>
+        </Text>
+        <Text>
+            <GUID>1414009036</GUID>
+            <Text>Droits de douane : Grands-bis</Text>
+        </Text>
+        <Text>
+            <GUID>1414009037</GUID>
+            <Text>Droits de douane : Grands-bis</Text>
+        </Text>
+        <Text>
+            <GUID>1414009039</GUID>
+            <Text>Droits de douane : Montres à gousset</Text>
+        </Text>
+        <Text>
+            <GUID>1414009040</GUID>
+            <Text>Droits de douane : Montres à gousset</Text>
+        </Text>
+        <Text>
+            <GUID>1414009042</GUID>
+            <Text>Droits de douane : Café</Text>
+        </Text>
+        <Text>
+            <GUID>1414009043</GUID>
+            <Text>Droits de douane : Café</Text>
+        </Text>
+        <Text>
+            <GUID>1414009045</GUID>
+            <Text>Droits de douane : Ampoules</Text>
+        </Text>
+        <Text>
+            <GUID>1414009046</GUID>
+            <Text>Droits de douane : Ampoules</Text>
+        </Text>
+        <Text>
+            <GUID>1414009048</GUID>
+            <Text>Droits de douane : Champagne</Text>
+        </Text>
+        <Text>
+            <GUID>1414009049</GUID>
+            <Text>Droits de douane : Champagne</Text>
+        </Text>
+        <Text>
+            <GUID>1414009051</GUID>
+            <Text>Droits de douane : Cigares</Text>
+        </Text>
+        <Text>
+            <GUID>1414009052</GUID>
+            <Text>Droits de douane : Cigares</Text>
+        </Text>
+        <Text>
+            <GUID>1414009054</GUID>
+            <Text>Droits de douane : Chocolat</Text>
+        </Text>
+        <Text>
+            <GUID>1414009055</GUID>
+            <Text>Droits de douane : Chocolat</Text>
+        </Text>
+        <Text>
+            <GUID>1414009057</GUID>
+            <Text>Droits de douane : Bijoux</Text>
+        </Text>
+        <Text>
+            <GUID>1414009058</GUID>
+            <Text>Droits de douane : Bijoux</Text>
+        </Text>
+        <Text>
+            <GUID>1414009060</GUID>
+            <Text>Droits de douane : Gramophones</Text>
+        </Text>
+        <Text>
+            <GUID>1414009061</GUID>
+            <Text>Droits de douane : Gramophones</Text>
+        </Text>
+        <Text>
+            <GUID>1414009063</GUID>
+            <Text>Droits de douane : Automobiles à vapeur</Text>
+        </Text>
+        <Text>
+            <GUID>1414009064</GUID>
+            <Text>Droits de douane : Automobiles à vapeur</Text>
+        </Text>
+        <Text>
+            <GUID>1414009066</GUID>
+            <Text>Droits de douane : Bottes en cuir</Text>
+        </Text>
+        <Text>
+            <GUID>1414009067</GUID>
+            <Text>Droits de douane : Bottes en cuir</Text>
+        </Text>
+        <Text>
+            <GUID>1414009069</GUID>
+            <Text>Droits de douane : Bombín</Text>
+        </Text>
+        <Text>
+            <GUID>1414009070</GUID>
+            <Text>Droits de douane : Bombín</Text>
+        </Text>
+        <Text>
+            <GUID>1414009072</GUID>
+            <Text>Droits de douane : Thé d'hibiscus</Text>
+        </Text>
+        <Text>
+            <GUID>1414009073</GUID>
+            <Text>Droits de douane : Thé d'hibiscus</Text>
+        </Text>
+        <Text>
+            <GUID>1414009075</GUID>
+            <Text>Droits de douane : Vêtements de couturier</Text>
+        </Text>
+        <Text>
+            <GUID>1414009076</GUID>
+            <Text>Droits de douane : Vêtements de couturier</Text>
+        </Text>
+        <Text>
+            <GUID>1414009078</GUID>
+            <Text>Droits de douane : Ragoût du pêcheur</Text>
+        </Text>
+        <Text>
+            <GUID>1414009079</GUID>
+            <Text>Droits de douane : Ragoût du pêcheur</Text>
+        </Text>
+        <Text>
+            <GUID>1414009081</GUID>
+            <Text>Droits de douane : Tapisseries</Text>
+        </Text>
+        <Text>
+            <GUID>1414009082</GUID>
+            <Text>Droits de douane : Tapisseries</Text>
+        </Text>
+        <Text>
+            <GUID>1414009084</GUID>
+            <Text>Droits de douane : Pipe en argile</Text>
+        </Text>
+        <Text>
+            <GUID>1414009085</GUID>
+            <Text>Droits de douane : Pipe en argile</Text>
+        </Text>
+        <Text>
+            <GUID>1414009087</GUID>
+            <Text>Droits de douane : Téléphones</Text>
+        </Text>
+        <Text>
+            <GUID>1414009088</GUID>
+            <Text>Droits de douane : Téléphones</Text>
+        </Text>
+        <Text>
+            <GUID>1414009090</GUID>
+            <Text>Droits de douane : Plantains frits</Text>
+        </Text>
+        <Text>
+            <GUID>1414009091</GUID>
+            <Text>Droits de douane : Plantains frits</Text>
+        </Text>
+        <Text>
+            <GUID>1414009093</GUID>
+            <Text>Droits de douane : Ponchos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009094</GUID>
+            <Text>Droits de douane : Ponchos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009096</GUID>
+            <Text>Droits de douane : Tortillas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009097</GUID>
+            <Text>Droits de douane : Tortillas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009099</GUID>
+            <Text>Droits de douane : Pemmican</Text>
+        </Text>
+        <Text>
+            <GUID>1414009100</GUID>
+            <Text>Droits de douane : Pemmican</Text>
+        </Text>
+        <Text>
+            <GUID>1414009102</GUID>
+            <Text>Droits de douane : Sacs de couchage</Text>
+        </Text>
+        <Text>
+            <GUID>1414009103</GUID>
+            <Text>Droits de douane : Sacs de couchage</Text>
+        </Text>
+        <Text>
+            <GUID>1414009105</GUID>
+            <Text>Droits de douane : Lampes à huile</Text>
+        </Text>
+        <Text>
+            <GUID>1414009106</GUID>
+            <Text>Droits de douane : Lampes à huile</Text>
+        </Text>
+        <Text>
+            <GUID>1414009108</GUID>
+            <Text>Droits de douane : Parkas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009109</GUID>
+            <Text>Droits de douane : Parkas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009111</GUID>
+            <Text>Droits de douane : Traîneaux à huskies</Text>
+        </Text>
+        <Text>
+            <GUID>1414009112</GUID>
+            <Text>Droits de douane : Traîneaux à huskies</Text>
+        </Text>
+        <Text>
+            <GUID>1414009114</GUID>
+            <Text>Droits de douane : Lait de chèvre</Text>
+        </Text>
+        <Text>
+            <GUID>1414009115</GUID>
+            <Text>Droits de douane : Lait de chèvre</Text>
+        </Text>
+        <Text>
+            <GUID>1414009117</GUID>
+            <Text>Droits de douane : Beaux habits</Text>
+        </Text>
+        <Text>
+            <GUID>1414009118</GUID>
+            <Text>Droits de douane : Beaux habits</Text>
+        </Text>
+        <Text>
+            <GUID>1414009120</GUID>
+            <Text>Droits de douane : Viande séchée</Text>
+        </Text>
+        <Text>
+            <GUID>1414009121</GUID>
+            <Text>Droits de douane : Viande séchée</Text>
+        </Text>
+        <Text>
+            <GUID>1414009123</GUID>
+            <Text>Droits de douane : Céramiques</Text>
+        </Text>
+        <Text>
+            <GUID>1414009124</GUID>
+            <Text>Droits de douane : Céramiques</Text>
+        </Text>
+        <Text>
+            <GUID>1414009126</GUID>
+            <Text>Droits de douane : Manuscrit enluminé</Text>
+        </Text>
+        <Text>
+            <GUID>1414009127</GUID>
+            <Text>Droits de douane : Manuscrit enluminé</Text>
+        </Text>
+        <Text>
+            <GUID>1414009129</GUID>
+            <Text>Droits de douane : Lanternes</Text>
+        </Text>
+        <Text>
+            <GUID>1414009130</GUID>
+            <Text>Droits de douane : Lanternes</Text>
+        </Text>
+        <Text>
+            <GUID>1414009132</GUID>
+            <Text>Droits de douane : Radios</Text>
+        </Text>
+        <Text>
+            <GUID>1414009133</GUID>
+            <Text>Droits de douane : Radios</Text>
+        </Text>
+        <Text>
+            <GUID>1414009135</GUID>
+            <Text>Droits de douane : Stylos-plume</Text>
+        </Text>
+        <Text>
+            <GUID>1414009136</GUID>
+            <Text>Droits de douane : Stylos-plume</Text>
+        </Text>
+        <Text>
+            <GUID>1414009138</GUID>
+            <Text>Droits de douane : Limonade</Text>
+        </Text>
+        <Text>
+            <GUID>1414009139</GUID>
+            <Text>Droits de douane : Limonade</Text>
+        </Text>
+        <Text>
+            <GUID>1414009141</GUID>
+            <Text>Droits de douane : Bleu</Text>
+        </Text>
+        <Text>
+            <GUID>1414009142</GUID>
+            <Text>Droits de douane : Bleu</Text>
+        </Text>
+        <Text>
+            <GUID>1414009144</GUID>
+            <Text>Droits de douane : Porcelaine</Text>
+        </Text>
+        <Text>
+            <GUID>1414009145</GUID>
+            <Text>Droits de douane : Porcelaine</Text>
+        </Text>
+        <Text>
+            <GUID>1414009147</GUID>
+            <Text>Droits de douane : Chapeaux coniques</Text>
+        </Text>
+        <Text>
+            <GUID>1414009148</GUID>
+            <Text>Droits de douane : Chapeaux coniques</Text>
+        </Text>
+        <Text>
+            <GUID>1414009150</GUID>
+            <Text>Droits de douane : Saké</Text>
+        </Text>
+        <Text>
+            <GUID>1414009151</GUID>
+            <Text>Droits de douane : Saké</Text>
+        </Text>
+        <Text>
+            <GUID>1414009153</GUID>
+            <Text>Droits de douane : Oshi-Sushi</Text>
+        </Text>
+        <Text>
+            <GUID>1414009154</GUID>
+            <Text>Droits de douane : Oshi-Sushi</Text>
+        </Text>
+        <Text>
+            <GUID>1414009156</GUID>
+            <Text>Droits de douane : Umeshu</Text>
+        </Text>
+        <Text>
+            <GUID>1414009157</GUID>
+            <Text>Droits de douane : Umeshu</Text>
+        </Text>
+        <Text>
+            <GUID>1414009159</GUID>
+            <Text>Droits de douane : Thé vert</Text>
+        </Text>
+        <Text>
+            <GUID>1414009160</GUID>
+            <Text>Droits de douane : Thé vert</Text>
+        </Text>
+        <Text>
+            <GUID>1414009162</GUID>
+            <Text>Droits de douane : Kimono</Text>
+        </Text>
+        <Text>
+            <GUID>1414009163</GUID>
+            <Text>Droits de douane : Kimono</Text>
+        </Text>
+        <Text>
+            <GUID>1414009165</GUID>
+            <Text>Droits de douane : Canard laqué</Text>
+        </Text>
+        <Text>
+            <GUID>1414009166</GUID>
+            <Text>Droits de douane : Canard laqué</Text>
+        </Text>
+        <Text>
+            <GUID>1414009168</GUID>
+            <Text>Droits de douane : Kotos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009169</GUID>
+            <Text>Droits de douane : Kotos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009171</GUID>
+            <Text>Droits de douane : Gilets en soie</Text>
+        </Text>
+        <Text>
+            <GUID>1414009172</GUID>
+            <Text>Droits de douane : Gilets en soie</Text>
+        </Text>
+
+        <Text>
+            <GUID>1414009174</GUID>
+            <Text>Droits de douane : Confiture</Text>
+        </Text>
+        <Text>
+            <GUID>1414009175</GUID>
+            <Text>Droits de douane : Confiture</Text>
+        </Text>
+        <Text>
+            <GUID>1414009177</GUID>
+            <Text>Droits de douane : Shampoing</Text>
+        </Text>
+        <Text>
+            <GUID>1414009178</GUID>
+            <Text>Droits de douane : Shampoing</Text>
+        </Text>
+        <Text>
+            <GUID>1414009183</GUID>
+            <Text>Droits de douane : Limonade</Text>
+        </Text>
+        <Text>
+            <GUID>1414009184</GUID>
+            <Text>Droits de douane : Limonade</Text>
+        </Text>
+        <Text>
+            <GUID>1414009189</GUID>
+            <Text>Droits de douane : Souvenirs</Text>
+        </Text>
+        <Text>
+            <GUID>1414009190</GUID>
+            <Text>Droits de douane : Souvenirs</Text>
+        </Text>
+        <Text>
+            <GUID>1414009191</GUID>
+            <Text>Droits de douane : Chewing-gum</Text>
+        </Text>
+        <Text>
+            <GUID>1414009192</GUID>
+            <Text>Droits de douane : Chewing-gum</Text>
+        </Text>
+        <Text>
+            <GUID>1414009194</GUID>
+            <Text>Droits de douane : Biscuits</Text>
+        </Text>
+        <Text>
+            <GUID>1414009195</GUID>
+            <Text>Droits de douane : Biscuits</Text>
+        </Text>
+        <Text>
+            <GUID>1414009197</GUID>
+            <Text>Droits de douane : Cognac</Text>
+        </Text>
+        <Text>
+            <GUID>1414009198</GUID>
+            <Text>Droits de douane : Cognac</Text>
+        </Text>
+        <Text>
+            <GUID>1414009200</GUID>
+            <Text>Droits de douane : Machines à écrire</Text>
+        </Text>
+        <Text>
+            <GUID>1414009201</GUID>
+            <Text>Droits de douane : Machines à écrire</Text>
+        </Text>
+        <Text>
+            <GUID>1414009203</GUID>
+            <Text>Droits de douane : Billards</Text>
+        </Text>
+        <Text>
+            <GUID>1414009204</GUID>
+            <Text>Droits de douane : Billards</Text>
+        </Text>
+        <Text>
+            <GUID>1414009206</GUID>
+            <Text>Droits de douane : Violons</Text>
+        </Text>
+        <Text>
+            <GUID>1414009207</GUID>
+            <Text>Droits de douane : Violons</Text>
+        </Text>
+        <Text>
+            <GUID>1414009209</GUID>
+            <Text>Droits de douane : Jouets</Text>
+        </Text>
+        <Text>
+            <GUID>1414009210</GUID>
+            <Text>Droits de douane : Jouets</Text>
+        </Text>
+        <Text>
+            <GUID>1414009213</GUID>
+            <Text>Droits de douane : Ballons de football</Text>
+        </Text>
+        <Text>
+            <GUID>1414009214</GUID>
+            <Text>Droits de douane : Ballons de football</Text>
+        </Text>
+        <Text>
+            <GUID>1414009216</GUID>
+            <Text>Droits de douane : Mezcal</Text>
+        </Text>
+        <Text>
+            <GUID>1414009217</GUID>
+            <Text>Droits de douane : Mezcal</Text>
+        </Text>
+        <Text>
+            <GUID>1414009219</GUID>
+            <Text>Droits de douane : Jalea</Text>
+        </Text>
+        <Text>
+            <GUID>1414009220</GUID>
+            <Text>Droits de douane : Jalea</Text>
+        </Text>
+        <Text>
+            <GUID>1414009222</GUID>
+            <Text>Droits de douane : Crème glacée</Text>
+        </Text>
+        <Text>
+            <GUID>1414009223</GUID>
+            <Text>Droits de douane : Crème glacée</Text>
+        </Text>
+        <Text>
+            <GUID>1414009225</GUID>
+            <Text>Droits de douane : Parfums</Text>
+        </Text>
+        <Text>
+            <GUID>1414009226</GUID>
+            <Text>Droits de douane : Parfums</Text>
+        </Text>
+        <Text>
+            <GUID>1414009228</GUID>
+            <Text>Droits de douane : Ventilateurs</Text>
+        </Text>
+        <Text>
+            <GUID>1414009229</GUID>
+            <Text>Droits de douane : Ventilateurs</Text>
+        </Text>
+        <Text>
+            <GUID>1414009231</GUID>
+            <Text>Droits de douane : Scooter</Text>
+        </Text>
+        <Text>
+            <GUID>1414009232</GUID>
+            <Text>Droits de douane : Scooter</Text>
+        </Text>
+        <Text>
+            <GUID>1414009234</GUID>
+            <Text>Droits de douane : Sauce piquante</Text>
+        </Text>
+        <Text>
+            <GUID>1414009235</GUID>
+            <Text>Droits de douane : Sauce piquante</Text>
+        </Text>
+        <Text>
+            <GUID>1414009237</GUID>
+            <Text>Droits de douane : Atole</Text>
+        </Text>
+        <Text>
+            <GUID>1414009238</GUID>
+            <Text>Droits de douane : Atole</Text>
+        </Text>
+        <Text>
+            <GUID>1414009240</GUID>
+            <Text>Droits de douane : Sculptures en Jade</Text>
+        </Text>
+        <Text>
+            <GUID>1414009241</GUID>
+            <Text>Droits de douane : Sculptures en Jade</Text>
+        </Text>
+        <Text>
+            <GUID>1414009243</GUID>
+            <Text>Droits de douane : Littérature orientale</Text>
+        </Text>
+        <Text>
+            <GUID>1414009244</GUID>
+            <Text>Droits de douane : Littérature orientale</Text>
+        </Text>
+        <Text>
+            <GUID>1414009246</GUID>
+            <Text>Droits de douane : Encens</Text>
+        </Text>
+        <Text>
+            <GUID>1414009247</GUID>
+            <Text>Droits de douane : Encens</Text>
+        </Text>
+        <Text>
+            <GUID>1414009249</GUID>
+            <Text>Droits de douane : Fruit du durian</Text>
+        </Text>
+        <Text>
+            <GUID>1414009250</GUID>
+            <Text>Droits de douane : Fruit du durian</Text>
+        </Text>
+        <Text>
+            <GUID>1414006029</GUID>
+            <Text>Si un droit de douane est appliqué au comptoir de l'île, l'effet s'applique également à tous les Embarcadère de l'île.</Text>
+        </Text>
+    </ModOp>
+</ModOps>

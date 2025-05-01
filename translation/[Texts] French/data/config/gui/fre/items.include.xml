@@ -1,0 +1,383 @@
+<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+
+        <Text>
+            <GUID>1414011068</GUID>            <!-- Imperial Book Collection: Farming Volume I -->
+            <Text>Collection de livres impériale: Agriculture volume I</Text>
+        </Text>
+        <Text>
+            <GUID>1414006797</GUID>            <!-- Imperial Book Collection: Farming Volume I - Description -->
+            <Text>Les bases de l'agriculture expliquées pour un débutant.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011069</GUID>            <!-- Imperial Book Collection: Farming Volume II -->
+            <Text>Collection de livres impériale: Agriculture volume  II</Text>
+        </Text>
+        <Text>
+            <GUID>1414006798</GUID>            <!-- Imperial Book Collection: Farming Volume II - Description -->
+            <Text>Explications plus poussées sur l'agriculture. Allez vous mouiller les pieds dans les rizières.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011070</GUID>            <!-- Imperial Book Collection: Farming Volume III -->
+            <Text>Collection de livres impériale: Agriculture volume III</Text>
+        </Text>
+        <Text>
+            <GUID>1414006799</GUID>            <!-- Imperial Book Collection: Farming Volume III - Description -->
+            <Text>Seuls les plus compétents peuvent apprendre de ce livre. Nous ne commettons plus d'erreurs à présent. Nous connaissons parfaitement l'agriculture et la météo.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011071</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume I -->
+            <Text>Collection de livres impériale: Nourriture &amp; Boissons Volume I</Text>
+        </Text>
+        <Text>
+            <GUID>1414006800</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume I - Description -->
+            <Text>Les bases de la production d'aliments et de boissons expliquées pour un débutant.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011072</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume II -->
+            <Text>Collection de livres impériale: Nourriture &amp; Boissons Volume II</Text>
+        </Text>
+        <Text>
+            <GUID>1414006801</GUID>            <!--Imperial Book Collection: Food & Drinks Volume II - Description -->
+            <Text>Explications plus poussées sur la production de Nourriture et de boissons. Goûtez-vous ce que vous préparez vous-même ?</Text>
+        </Text>
+        <Text>
+            <GUID>1414011073</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume III -->
+            <Text>Collection de livres impériale: Nourriture &amp; Boissons Volume III</Text>
+        </Text>
+        <Text>
+            <GUID>1414006802</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume III - Description -->
+            <Text>Seuls les plus compétents peuvent apprendre de ce livre. Si vous vous coupez toujours les doigts, vous ne méritez pas de le lire.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011074</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume IV -->
+            <Text>Collection de livres impériale: Nourriture &amp; Boissons Volume IV</Text>
+        </Text>
+        <Text>
+            <GUID>1414006803</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume IV - Description -->
+            <Text>Seuls les plus expérimentés peuvent apprendre de ce livre. Vous goûterez tous vos plats les yeux bandés pour une expérience gustative supplémentaire.</Text>
+        </Text>
+        <Text>
+            <GUID>14443039</GUID>            <!-- All Asian Food production - ItemEffectTargetPool -->
+            <Text>Toute les production de nourriture d'Horai</Text>
+        </Text>
+        <Text>
+            <GUID>14443040</GUID>            <!-- All Asian Drinks production - ItemEffectTargetPool -->
+            <Text>Toute les production de boissons d'Horai</Text>
+        </Text>
+        <Text>
+            <GUID>1414011075</GUID>            <!-- Shen Xu, Purveyor of all Fabrics -->
+            <Text>Shen Xu, Fournisseur de tous les tissus</Text>
+        </Text>
+        <Text>
+            <GUID>1414006804</GUID>            <!-- Shen Xu, Purveyor of all Fabrics - Description -->
+            <Text>Lorsque les doigts de Shen touchent un tissu, sans même le regarder, il peut identifier le tissu qu'il tient dans ses mains. Si les tissus pouvaient être mangés, il le ferait probablement.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011076</GUID>            <!-- Jhin Sasaki, Master of the wheel -->
+            <Text>Jhin Sasaki, Maître de la roue</Text>
+        </Text>
+        <Text>
+            <GUID>1414006805</GUID>            <!-- Jhin Sasaki, Master of the wheel - Description -->
+            <Text>Toutes sortes de poteries et de porcelaines passent entre les mains de Jhin. Il maîtrise son tour de potier comme personne. Rien n'est trop grand ou trop petit pour laisser ses mains créer ces objets étonnants en argile et autres matériaux naturels.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011077</GUID>            <!-- Chiyoko Watanabe, Luring in more than fish -->
+            <Text>Chiyoko Watanabe, Appâter bien plus que des poissons</Text>
+        </Text>
+        <Text>
+            <GUID>1414006806</GUID>            <!-- Chiyoko Watanabe, Luring in more than fish - Description -->
+            <Text>Quel appât utilises-tu pour attirer les poissons? Chiyoko connaît d'autres astuces et parvient à attirer même les homards les plus luxueux.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011078</GUID>            <!-- Sushi knife -->
+            <Text>Couteau à sushi</Text>
+        </Text>
+        <Text>
+            <GUID>1414006807</GUID>            <!-- Sushi knife - Description -->
+            <Text>Plus tranchant qu'un couteau normal. Soyez prêt à vous couper les doigts et à saigner partout sur la nourriture.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011079</GUID>            <!-- Ichika Takahashi, Is it spicy enough? -->
+            <Text>Ichika Takahashi, Est-ce assez épicé?</Text>
+        </Text>
+        <Text>
+            <GUID>1414006808</GUID>            <!-- Ichika Takahashi, Is it spicy enough? - Description -->
+            <Text>Certaines personnes se brûlaient la langue en mangeant des plats trop épicés. Ichika, elle, ne mange jamais sans piments ni épices. Passionnée par les piments, elle a cherché des méthodes de broyage sophistiquées.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011080</GUID>            <!-- Nanami Shimizu, How much is the fish? -->
+            <Text>Nanami Shimizu, Combien coûte ce poisson?</Text>
+        </Text>
+        <Text>
+            <GUID>1414006809</GUID>            <!-- Nanami Shimizu, How much is the fish? - Description -->
+            <Text>Travailler avec du poisson et le découper n'est pas donné à tout le monde. Rentrer à la maison et avoir cette délicieuse odeur de poisson autour de vous. Nanami s'en fiche, elle aime l'odeur du poisson matin, après-midi, soir et même la nuit.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011081</GUID>            <!-- Ryuu Yamada, Nobody says no to sushi -->
+            <Text>Ryuu Yamada, Personne ne dit non aux sushis</Text>
+        </Text>
+        <Text>
+            <GUID>1414006810</GUID>            <!-- Ryuu Yamada, Nobody says no to sushi - Description -->
+            <Text>Ryuu est un maître cuisinier de mets de luxe. Il prépare chaque repas avec le plus grand soin et la plus grande passion. Son coup de cœur va aux sushis, qu'il prépare en entrée avant de se lancer dans le plat principal.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011082</GUID>            <!-- Sister Hilarius, Tea solves problems not alcohol -->
+            <Text>Sœur Hilarius, Le thé résout les problèmes, pas l'alcool</Text>
+        </Text>
+        <Text>
+            <GUID>1414006811</GUID>            <!-- Sister Hilarius, Tea solves problems not alcohol - Description -->
+            <Text>Sister Hilarius a choisi la religion comme son frère aîné. Comme lui, elle passe son temps à préparer des boissons pour toutes ses sœurs. Mais il y a une grande différence entre elle et son frère. Elle est totalement contre l'alcool et croit que le thé peut résoudre tous les problèmes.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011083</GUID>            <!-- Luong Ku Tim, The City Wok -->
+            <Text>Luong Ku Tim, Le Wok de la ville</Text>
+        </Text>
+        <Text>
+            <GUID>1414006812</GUID>            <!-- Luong Ku Tim, The City Wok - Description -->
+            <Text>Ce chef n'a pas appris la diplomatie et la gentillesse envers ses clients. Heureusement, sa cuisine est bonne. Enfin, parfois, elle l'est.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011084</GUID>            <!-- Asian bird lover -->
+            <Text>Amoureux des oiseaux de Horai</Text>
+        </Text>
+        <Text>
+            <GUID>1414006813</GUID>            <!-- Asian bird lover - Description -->
+            <Text>Il passe son temps parmi toutes sortes d'oiseaux. Il les reconnaît tous grâce à leur cri particulier.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011085</GUID>            <!-- Additional Crop Storage module -->
+            <Text>Module de stockage de récolte supplémentaire</Text>
+        </Text>
+        <Text>
+            <GUID>1414006814</GUID>            <!-- Additional Crop Storage module - Description -->
+            <Text>Ajoutez un module de silo supplémentaire à votre stockage de récoltes pour une meilleure conservation des récoltes.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011086</GUID>            <!-- Masao Miura, Lobster is all he needs -->
+            <Text>Masao Miura, Le homard est tout ce dont il a besoin</Text>
+        </Text>
+        <Text>
+            <GUID>1414006815</GUID>            <!-- Masao Miura, Lobster is all he needs - Description -->
+            <Text>Masao pimente son plat en ajoutant du homard, remplaçant à ses yeux le poisson si classique. Cette créature marine a conquis son cœur et son goût le fait fondre comme la glace un jour d'été.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011087</GUID>            <!-- Imperial Sketch Collection: Industry Volume 1  -->
+            <Text>Collection de croquis impériale: Industrie Volume 1 </Text>
+        </Text>
+        <Text>
+            <GUID>1414006816</GUID>            <!-- Imperial Sketch Collection: Industry Volume 1 - Description -->
+            <Text>Les bases pour améliorer le fonctionnement d'un atelier d'usinage, un debut pour un apprentis.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011088</GUID>            <!-- Imperial Sketch Collection: Industry Volume 2 -->
+            <Text>Collection de croquis impériale: Industrie Volume Volume 2</Text>
+        </Text>
+        <Text>
+            <GUID>1414006817</GUID>            <!-- Imperial Sketch Collection: Industry Volume 2 - Description -->
+            <Text>Explication plus approfondie sur la gestion d'un atelier d'usinage. Ne mets pas tes doigts dans une machine en marche, tu risque de te pincer très fort.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011089</GUID>            <!-- Imperial Sketch Collection: Industry Volume 3 -->
+            <Text>Collection de croquis impériale: Industrie Volume Volume 3</Text>
+        </Text>
+        <Text>
+            <GUID>1414006818</GUID>            <!-- Imperial Sketch Collection: Industry Volume 3 - Description -->
+            <Text>Seuls les plus compétents peuvent comprendre ces schémas de machines complexes. Si vous ne comprenez pas le fonctionnement de l'électricité, vous ne devriez probablement pas (encore) les consulter.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011090</GUID>            <!-- Imperial Sketch Collection: Advanced Industry Volume 1  -->
+            <Text>Collection de croquis impériale: Industrie de pointe Volume 1 </Text>
+        </Text>
+        <Text>
+            <GUID>1414006819</GUID>            <!-- Imperial Sketch Collection: Advanced Industry Volume 1 - Description -->
+            <Text>Les bases du fonctionnement des usines avancées. Parfait pour les débutants.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011091</GUID>            <!-- Imperial Sketch Collection: Advanced Industry Volume 2 -->
+            <Text>Collection de croquis impériale: Industrie de pointe Volume 2</Text>
+        </Text>
+        <Text>
+            <GUID>1414006820</GUID>            <!-- Imperial Sketch Collection: Advanced Industry Volume 2 - Description -->
+            <Text>Explication plus détaillée sur la gestion des usines lourdes avancées. N'appuyez pas sur le bouton s'il est gros et rouge et indique « Ne pas appuyer ».</Text>
+        </Text>
+        <Text>
+            <GUID>1414011092</GUID>            <!-- Imperial Sketch Collection: Advanced Industry Volume 3 -->
+            <Text>Collection de croquis impériale: Industrie de pointe Volume 3</Text>
+        </Text>
+        <Text>
+            <GUID>1414006821</GUID>            <!-- Imperial Sketch Collection: Advanced Industry Volume 3 - Description -->
+            <Text>Seuls les plus expérimentés peuvent comprendre ces croquis de toutes ces machines sophistiquées. Si vous ne comprenez pas le fonctionnement de la force, vous ne devriez probablement pas les consulter (pour l'instant).</Text>
+        </Text>
+        <Text>
+            <GUID>1414011093</GUID>            <!-- Hendrik Baker, Not just one polymer -->
+            <Text>Hendrik Baker, Pas juste un polymère</Text>
+        </Text>
+        <Text>
+            <GUID>1414006822</GUID>            <!-- Hendrik Baker, Not just one polymer - Description -->
+            <Text>Hendrik peut reconnaître l'odeur de chaque polymère jamais créé. Même les yeux fermés, il peut les distinguer d'un simple toucher.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011094</GUID>            <!-- Yui Sato, The finest tailoring -->
+            <Text>Yui Sato, La plus belle confection</Text>
+        </Text>
+        <Text>
+            <GUID>1414006823</GUID>            <!-- Yui Sato, The finest tailoring - Description -->
+            <Text>On raconte que Yui était né avec une machine à coudre. À 5 ans, il confectionnait ses premiers vêtements. Plus tard, il commença à se consacrer à la confection de vêtements de luxe pour les riches.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011095</GUID>            <!-- Misaki Makino, Vegan cheesemaker -->
+            <Text>Misaki Makino, Fromager Vegan</Text>
+        </Text>
+        <Text>
+            <GUID>1414006824</GUID>            <!-- Misaki Makino, Vegan cheesemaker - Description -->
+            <Text>Misaki a grandi dans une ferme d'élevage. Elle détestait que l'on vole tout le lait des vaches pour la consommation humaine. Elle a consacré sa vie au véganisme et a cherché des moyens de fabriquer du fromage sans besoin de lait animal.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011096</GUID>            <!-- Worker 2 (Outsourced) -->
+            <Text>Yoshi, Ouvrier triple-emplois</Text>
+        </Text>
+        <Text>
+            <GUID>1414011097</GUID>            <!-- Worker 2 (Outsourced) - Description -->
+            <Text>L'ouvrier Yoshi travaille beaucoup trop, prenant le relais de ses collègues, afin que les autres puissent passer plus de temps avec leurs familles.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011098</GUID>            <!-- Worker 3 (Outsourced) -->
+            <Text>Khulan, Ouvrier alternatif</Text>
+        </Text>
+        <Text>
+            <GUID>1414011099</GUID>            <!-- Worker 3 (Outsourced) - Description -->
+            <Text>L'ouvrier Khulan ne travaille pas de manière traditionnelle. Grâce à des méthodes de travail alternatives, il réduit les coûts de production.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011100</GUID>            <!-- Worker 4 (Outsourced) -->
+            <Text>Bao, Fils du patron </Text>
+        </Text>
+        <Text>
+            <GUID>1414011101</GUID>            <!-- Worker 4 (Outsourced) - Description -->
+            <Text>Bao s'assure que toutes les procédures établies par son père sont suivies.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011102</GUID>            <!-- Propaganda Banner -->
+            <Text>Bannière de propagande</Text>
+        </Text>
+        <Text>
+            <GUID>1414011103</GUID>            <!-- Propaganda Banner - Description -->
+            <Text>Gardez votre ville en ordre et montrez votre amour pour la cité.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011104</GUID>            <!-- Propaganda Banner -->
+            <Text>Drapeau des élections</Text>
+        </Text>
+        <Text>
+            <GUID>1414011105</GUID>            <!-- Propaganda Banner - Description -->
+            <Text>Montrez votre amour pour votre fête la préférée.</Text>
+        </Text>
+
+        <!-- ### Additional Ornaments ### -->
+        <Text>
+            <GUID>133700400</GUID>
+            <Text>Canal (pavé)</Text>
+        </Text>
+        <Text>
+            <GUID>133700401</GUID>
+            <Text>Canal (sale)</Text>
+        </Text>
+        <Text>
+            <GUID>133700402</GUID>
+            <Text>Canal bridge dirt</Text>            <!-- no translation required -->
+        </Text>
+        <Text>
+            <GUID>133700403</GUID>
+            <Text>Canal bridge stone</Text>            <!-- no translation required -->
+        </Text>
+        <Text>
+            <GUID>133700404</GUID>
+            <Text>Lanternes avec banc</Text>
+        </Text>
+        <Text>
+            <GUID>133700405</GUID>
+            <Text>Torii (2x1)</Text>
+        </Text>
+        <Text>
+            <GUID>133700406</GUID>
+            <Text>Torii (3x1)</Text>
+        </Text>
+        <Text>
+            <GUID>133700407</GUID>
+            <Text>Arcades</Text>
+        </Text>
+        <Text>
+            <GUID>133700408</GUID>
+            <Text>Bassin du Dragon</Text>
+        </Text>
+        <Text>
+            <GUID>133700409</GUID>
+            <Text>Feux d'artifice</Text>
+        </Text>
+        <Text>
+            <GUID>133700410</GUID>
+            <Text>Drapeau</Text>
+        </Text>
+        <Text>
+            <GUID>133700411</GUID>
+            <Text>Lanternes de rue</Text>
+        </Text>
+        <Text>
+            <GUID>133700412</GUID>
+            <Text>Stand de bijoux</Text>
+        </Text>
+        <Text>
+            <GUID>133700413</GUID>
+            <Text>Stand de culte</Text>
+        </Text>
+        <Text>
+            <GUID>133700414</GUID>
+            <Text>Étal de légumes</Text>
+        </Text>
+        <Text>
+            <GUID>133700415</GUID>
+            <Text>Étal de vêtements</Text>
+        </Text>
+        <Text>
+            <GUID>133700416</GUID>
+            <Text>Stand de livres</Text>
+        </Text>
+        <Text>
+            <GUID>133700417</GUID>
+            <Text>Étal de nourriture 1</Text>
+        </Text>
+        <Text>
+            <GUID>133700418</GUID>
+            <Text>Verdure clôturée</Text>
+        </Text>
+        <Text>
+            <GUID>133700419</GUID>
+            <Text>Pagoda (2x2)</Text>
+        </Text>
+        <Text>
+            <GUID>133700420</GUID>
+            <Text>Pagoda avec cloche (2x2)</Text>
+        </Text>
+        <Text>
+            <GUID>133700421</GUID>
+            <Text>Étang aux lotus</Text>
+        </Text>
+        <Text>
+            <GUID>133700423</GUID>
+            <Text>Étal de nourriture 2</Text>
+        </Text>
+        <Text>
+            <GUID>133700424</GUID>
+            <Text>Étal de fleuriste</Text>
+        </Text>
+        <Text>
+            <GUID>133700425</GUID>
+            <Text>Étal de fruits</Text>
+        </Text>
+        <Text>
+            <GUID>133700426</GUID>
+            <Text>Stand de photographie</Text>
+        </Text>
+    </ModOp>
+</ModOps>

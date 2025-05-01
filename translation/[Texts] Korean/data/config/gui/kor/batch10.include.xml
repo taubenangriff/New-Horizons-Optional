@@ -1,0 +1,528 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">    
+    <Text>
+      <GUID>133700000</GUID>
+      <Text>호라이</Text>
+    </Text>
+    <Text>
+      <GUID>1414006543</GUID>
+      <Text>호라이에서만 건설 가능</Text>
+    </Text>
+    <Text>
+      <GUID>1414006544</GUID>
+      <Text>호라이에서 수입</Text>
+    </Text>
+    <Text>
+      <GUID>1414006545</GUID>
+      <Text>"호라이" 진입</Text>
+    </Text>
+    <Text>
+      <GUID>1414018025</GUID>
+      <Text>뉴 호라이즌스</Text>
+    </Text>
+    <Text>
+      <GUID>1414018026</GUID>
+      <Text>위기에 처한 왕조</Text>
+    </Text>
+    <!-- Wonder Terminology -->
+    <Text>
+      <GUID>1447815</GUID>
+      <Text>잊힌 유적</Text>
+    </Text>
+    <Text>
+      <GUID>1414040222</GUID>
+      <Text>비경 토대</Text>
+    </Text>
+    <Text>
+      <GUID>1414018122</GUID>
+      <Text>비경 유적</Text>
+    </Text>
+    <Text>
+      <GUID>1414018123</GUID>
+      <Text>발굴 작업을 진행해서 한때 이곳에 자리했던 비경의 정체를 밝히세요.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018124</GUID>
+      <Text>비경</Text>
+    </Text>
+    <Text>
+      <GUID>1414018125</GUID>
+      <Text>잊힌 비경 주변 정리 완료</Text>
+    </Text>
+    <Text>
+      <GUID>1414018126</GUID>
+      <Text>발굴 시작</Text>
+    </Text>
+    <Text>
+      <GUID>1414018127</GUID>
+      <Text>토대 건설</Text>
+    </Text>
+    <Text>
+      <GUID>1414018128</GUID>
+      <Text>고고학자가 유적을 발굴하고 있습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018129</GUID>
+      <Text>잊힌 비경 유적의 발굴 작업이 완료되었습니다. 이곳에 자리했던 비경의 정체를 알아낸 다음 비경 토대의 건설을 시작하세요.</Text>
+    </Text>
+    <Text>
+      <GUID>1447850</GUID>
+      <Text>비경 유적</Text>
+    </Text>
+    <Text>
+      <GUID>1414187000</GUID>
+      <Text>비경 토대</Text>
+    </Text>
+    <!-- Season Texts -->
+    <Text>
+      <GUID>1414018169</GUID>
+      <Text>호라이 우기 시작</Text>
+    </Text>
+    <Text>
+      <GUID>1414018170</GUID>
+      <Text>호라이 건기 시작</Text>
+    </Text>
+    <Text>
+      <GUID>1414008651</GUID>
+      <Text>건기</Text>
+    </Text>
+    <Text>
+      <GUID>1414008650</GUID>
+      <Text>우기</Text>
+    </Text>
+    <Text>
+      <GUID>1414006753</GUID>
+      <Text>우기</Text>
+    </Text>
+    <Text>
+      <GUID>1414006754</GUID>
+      <Text>건기</Text>
+    </Text>
+    <Text>
+      <GUID>1414006755</GUID>
+      <Text>농사 중단</Text>
+    </Text>
+    <Text>
+      <GUID>1414006756</GUID>
+      <Text>수확 가능</Text>
+    </Text>
+    <Text>
+      <GUID>1414040215</GUID>
+      <Text>우기에는 생산이 중단됩니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006757</GUID>
+      <Text>생산 중단</Text>
+    </Text>
+    <Text>
+      <GUID>1414006759</GUID>
+      <Text>우기에는 농작물을 수확할 수 없습니다. 추수할 때를 기다리고 있습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414008655</GUID>
+      <Text>우기</Text>
+    </Text>
+    <Text>
+      <GUID>1414008656</GUID>
+      <Text>건기</Text>
+    </Text>
+    <Text>
+      <GUID>1414006760</GUID>
+      <Text>수확</Text>
+    </Text>
+    <Text>
+      <GUID>1414006761</GUID>
+      <Text>이제 수확할 때입니다! 다음 우기에 대비하여 재고를 비축하세요.</Text>
+    </Text>
+
+    <!-- -->
+    <Text>
+      <GUID>1337862</GUID>
+      <Text>인력 수송항</Text>
+    </Text>
+    <Text>
+      <GUID>1660300</GUID>
+      <Text>빅 베티</Text>
+    </Text>
+    <Text>
+      <GUID>54005139</GUID>
+      <Text>독점 상품</Text>
+    </Text>
+    <Text>
+      <GUID>1446352</GUID>
+      <Text>호라이에서 수입</Text>      <!--Grammar-->
+    </Text>
+    <Text>
+      <GUID>1414011014</GUID>
+      <Text>효율적인 사고 소유자, 아이비 부인</Text>
+    </Text>
+    <Text>
+      <GUID>1414006101</GUID>
+      <Text>당대의 가장 매력적인 난제인 생산 최적화를 고민하면서 평생을 바쳤습니다.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1442526</GUID>
+      <Text>목욕탕</Text>      <!--Rephrasing for new Gōngrén public service-->
+    </Text>
+    <Text>
+      <GUID>1442528</GUID> <!-- Nongmin Public service -->
+      <Text>사찰</Text>
+    </Text>
+    <Text>
+      <GUID>1442540</GUID>    <!-- Magnate Public Service-->
+      <Text>지하철역</Text>
+    </Text>
+    <Text>
+      <GUID>1443119</GUID>
+      <Text>침공: 화염과 분노</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1443120</GUID>
+      <Text>침공: 재의 지평선</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1443121</GUID>
+      <Text>침공: 제국의 종말</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54006005</GUID>
+      <Text>복수하러 왔노라. 목숨이 아깝다면 도망쳐라.</Text>
+    </Text>
+    <Text>
+      <GUID>54006006</GUID>
+      <Text>우리는 신성한 화염을 불사르는 자. 모든 건 재로 돌아가야 할지니. 네놈은 땔감이 되리라.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54006007</GUID>
+      <Text>인생의 끝이 다가온다. 빛도 어둠도 없으며, 옳고 그름은 무의미하다. 그저 화염과 재만 가득할지니. 바로… 지금이다.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54006009</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]이(가) 이곳을 정화하라는 명령을 내립니다.</Text>
+    </Text>
+    <Text>
+      <GUID>54006011</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]이(가) 병력을 잃자 분노합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>54006012</GUID>
+      <Text>열화단 제독의 모든 함선을 격침하여 침공을 저지하세요.</Text>      <!--Capitalization-->
+    </Text>
+    <Text>
+      <GUID>54006017</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]이(가) 제국의 영토를 지켜달라고 절박하게 요청합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>54006018</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]이(가) 침공을 저지한 데 감사의 뜻을 표합니다.</Text>
+    </Text>
+    <!-- Infrastructure Buildings -->
+    <Text>
+      <GUID>1446002</GUID>
+      <Text>소형 창고</Text>
+    </Text>
+    <Text>
+      <GUID>1446003</GUID>
+      <Text>중형 창고</Text>
+    </Text>
+    <Text>
+      <GUID>1446004</GUID>
+      <Text>대형 창고</Text>
+    </Text>
+    <Text>
+      <GUID>14443006</GUID>
+      <Text>유류 부두</Text>
+    </Text>
+    <Text>
+      <GUID>14443007</GUID>
+      <Text>화물 부두</Text>
+    </Text>
+    <Text>
+      <GUID>14443009</GUID>
+      <Text>만국박람회 장식물</Text>
+    </Text>
+    <Text>
+      <GUID>14443010</GUID>
+      <Text>노동자, 직공, 식민지 직공, 장로, 노동자 주거지</Text>
+    </Text>
+    <Text>
+      <GUID>14443008</GUID>
+      <Text>유류 적하항 및 유류 부두</Text>
+    </Text>
+    <Text>
+      <GUID>1337863</GUID>
+      <Text>창고</Text>
+    </Text>
+    <Text>
+      <GUID>1337864</GUID>
+      <Text>퍼클 기관포</Text>
+    </Text>
+    <Text>
+      <GUID>1337865</GUID>
+      <Text>중형 해안 포대</Text>
+    </Text>
+    <Text>
+      <GUID>1337866</GUID>
+      <Text>빅 베티</Text>
+    </Text>
+    <Text>
+      <GUID>1337867</GUID>
+      <Text>화물 부두</Text>
+    </Text>
+    <Text>
+      <GUID>1337868</GUID>
+      <Text>유류 부두</Text>
+    </Text>
+    <Text>
+      <GUID>1337871</GUID>
+      <Text>소형 유류 적하항</Text>
+    </Text>
+    <Text>
+      <GUID>1337872</GUID>
+      <Text>중형 유류 적하항</Text>
+    </Text>
+    <Text>
+      <GUID>1337873</GUID>
+      <Text>대형 유류 적하항</Text>
+    </Text>
+    <Text>
+      <GUID>1337874</GUID>
+      <Text>초대형 유류 적하항</Text>
+    </Text>
+    <Text>
+      <GUID>1337875</GUID>
+      <Text>유류 창고</Text>
+    </Text>
+    <Text>
+      <GUID>1337869</GUID>
+      <Text>유류 부두</Text>
+    </Text>
+    <Text>
+      <GUID>1337870</GUID>
+      <Text>유류 부두</Text>
+    </Text>
+    <Text>
+      <GUID>1337877</GUID>
+      <Text>빅 베티</Text>
+    </Text>
+    <Text>
+      <GUID>1337876</GUID>
+      <Text>유류 부두</Text>
+    </Text>
+    <Text>
+      <GUID>1337879</GUID>
+      <Text>여객 부두</Text>
+    </Text>
+    <Text>
+      <GUID>14443015</GUID>
+      <Text>고급 부두</Text>
+    </Text>
+    <Text>
+      <GUID>1414011017</GUID>
+      <Text>애연가</Text>
+    </Text>
+    <Text>
+      <GUID>1414006104</GUID>
+      <Text>합법화를 기다리는 건 이제 지쳤습니다!</Text>
+    </Text>
+    <Text>
+      <GUID>1442525</GUID>
+      <Text>시장</Text>
+    </Text>
+    <Text>
+      <GUID>1442521</GUID>
+      <Text>소방서</Text>
+    </Text>
+    <Text>
+      <GUID>1442522</GUID>
+      <Text>경찰서</Text>
+    </Text>
+    <Text>
+      <GUID>1442523</GUID>
+      <Text>병원</Text>
+    </Text>
+    <Text>
+      <GUID>1414006013</GUID>
+      <Text>농민 요구사항</Text>
+    </Text>
+    <Text>
+      <GUID>1414006014</GUID>
+      <Text>노동자 요구사항</Text>
+    </Text>
+    <Text>
+      <GUID>1414006015</GUID>
+      <Text>무역 상품</Text>
+    </Text>
+    <Text>
+      <GUID>14740053</GUID>
+      <Text>아치발드 블레이크 경의 보급선</Text>
+    </Text>
+    <Text>
+      <GUID>14740054</GUID>
+      <Text>마담 카히나의 보급선</Text>
+    </Text>
+    <Text>
+      <GUID>14740055</GUID>
+      <Text>제임스 굿윌의 보급선</Text>
+    </Text>
+    <Text>
+      <GUID>14740056</GUID>
+      <Text>앤 할로우의 보급선</Text>
+    </Text>
+    <Text>
+      <GUID>14740057</GUID>
+      <Text>이사벨 사르멘토의 보급선</Text>
+    </Text>
+    <Text>
+      <GUID>14740058</GUID>
+      <Text>장 라 포르튠의 보급선</Text>
+    </Text>
+    <Text>
+      <GUID>14740059</GUID>
+      <Text>올드 네이트의 보급선</Text>
+    </Text>
+    <!-- Quest Texts -->
+    <Text>
+      <GUID>1414006050</GUID>
+      <Text>최초의 대실업가가 이주해 옵니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006051</GUID>
+      <Text>대실업가가 인사합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006052</GUID>
+      <Text>대실업가가 인사합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006053</GUID>
+      <Text>대실업가는 벌써 주택 재건 비용을 떠넘길 방법을 생각하고 있습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006054</GUID>
+      <Text>대실업가는 질병 탓에 재산을 잃을까 봐 걱정하고 있습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006055</GUID>
+      <Text>대실업가는 재산이 안전한지 걱정하고 있습니다.</Text>      <!--Typo-->
+    </Text>
+    <Text>
+      <GUID>1414006056</GUID>
+      <Text>대실업가가 임무를 제안합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006057</GUID>
+      <Text>임무를 수락하자 대실업가가 기뻐합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006058</GUID>
+      <Text>대실업가가 도움에 감사의 뜻을 전합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006059</GUID>
+      <Text>대실업가가 당신의 무능함에 충격을 받았습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006060</GUID>
+      <Text>임무를 포기하자 대실업가가 분노합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006061</GUID>
+      <Text>대실업가가 임무 수행을 재촉합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006062</GUID>
+      <Text>대실업가가 임무를 성공적으로 완료했는지 물어봅니다.</Text>
+    </Text>
+    <Text>
+      <GUID>14443014</GUID>
+      <Text>모든 호라이 생산 시설</Text>
+    </Text>
+    <Text>
+      <GUID>1414006064</GUID>
+      <Text>노동자가 인사합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006065</GUID>
+      <Text>노동자가 임무를 제안합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006066</GUID>
+      <Text>임무를 수락하자 노동자가 기뻐합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006067</GUID>
+      <Text>노동자가 도움에 감사의 뜻을 전합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006068</GUID>
+      <Text>임무에 실패하자 노동자가 실망합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006069</GUID>
+      <Text>임무를 포기하자 노동자가 실망합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006070</GUID>
+      <Text>노동자가 임무를 상기시킵니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006071</GUID>
+      <Text>노동자가 임무를 성공적으로 완료했는지 물어봅니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006072</GUID>
+      <Text>최초의 노동자가 이주해 옵니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1446115</GUID>
+      <Text>배회하는 노동자</Text>
+    </Text>
+    <!-- Product Fluffs -->    
+    <Text>
+      <GUID>1414006010</GUID>
+      <Text>절대 금연!</Text>
+    </Text>
+    <Text>
+      <GUID>1414006011</GUID>
+      <Text>간편한 일상복입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006453</GUID>
+      <Text>섬세하면서도 절묘한 소리가 납니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006454</GUID>
+      <Text>신성한 아름다움이 피어납니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006455</GUID>
+      <Text>줄을 튕기면 소리가 울려 퍼집니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006794</GUID>
+      <Text>아주 각진 벽돌입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006836</GUID>
+      <Text>대두를 으깨서 만들었습니다.</Text>
+    </Text>
+    <!-- Multifactory Flufftexts -->    
+    <Text>
+      <GUID>1414006589</GUID>
+      <Text>수정 검출기는 믿을 수 없을 만큼 고도의 기술이 적용된 산물입니다. 너무 작아서 거의 눈에 보이지 않을 정도입니다. 만에 하나 세심하게 골라낸 황철석 수정에 흠집이 생기면 무선 신호가 왜곡됩니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006590</GUID>
+      <Text>고토의 현은 수명이 아주 짧아서 일주일에 두 차례 교체해야 합니다. 이 새로운 기계는 완벽한 해결책을 제시합니다. 수련생이 줄을 망가뜨리는 속도보다 훨씬 더 빠르게 현을 만들어내기 때문이죠.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006591</GUID>
+      <Text>만년필은 정신을 대변해야 하는 법입니다. 정성스레 깎아낸 펜촉으로 이를 정확히 구현할 수 있습니다. 어쨌든 필체를 알아볼 수 없게 만드는 펜을 쓰는 의사는 없을 테니까요.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006592</GUID>
+      <Text>정밀 조각 기계는 거대한 기술 혁명의 산물 가운데 하나입니다. 수년에 걸쳐 경험을 쌓은 장인만이 도달할 수 있을 것처럼 보이는 경지가 단 몇 시간 만에 정복되어 버립니다.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

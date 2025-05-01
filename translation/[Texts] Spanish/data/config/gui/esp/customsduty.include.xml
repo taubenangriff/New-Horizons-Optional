@@ -1,0 +1,668 @@
+<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+    
+        <!-- Customs Duty Items -->
+
+        <Text>
+            <GUID>1414009000</GUID>
+            <Text>Derechos de Aduana: Pescado</Text>
+        </Text>
+        <Text>
+            <GUID>1414009001</GUID>
+            <Text>Derechos de Aduana: Pescado</Text>
+        </Text>
+        <Text>
+            <GUID>1414009003</GUID>
+            <Text>Derechos de Aduana: Licor</Text>
+        </Text>
+        <Text>
+            <GUID>1414009004</GUID>
+            <Text>Derechos de Aduana: Licor</Text>
+        </Text>
+        <Text>
+            <GUID>1414009006</GUID>
+            <Text>Derechos de Aduana: Ropas de Trabajo</Text>
+        </Text>
+        <Text>
+            <GUID>1414009007</GUID>
+            <Text>Derechos de Aduana: Ropas de trabajo</Text>
+        </Text>
+        <Text>
+            <GUID>1414009009</GUID>
+            <Text>Derechos de Aduana: Salchichas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009010</GUID>
+            <Text>Derechos de Aduana: Pan</Text>
+        </Text>
+        <Text>
+            <GUID>1414009012</GUID>
+            <Text>Derechos de Aduana: Pan</Text>
+        </Text>
+        <Text>
+            <GUID>1414009013</GUID>
+            <Text>Derechos de Aduana: Pan</Text>
+        </Text>
+        <Text>
+            <GUID>1414009015</GUID>
+            <Text>Derechos de Aduana: Jabón</Text>
+        </Text>
+        <Text>
+            <GUID>1414009016</GUID>
+            <Text>Derechos de Aduana: Jabón</Text>
+        </Text>
+        <Text>
+            <GUID>1414009018</GUID>
+            <Text>Derechos de Aduana: Cerveza</Text>
+        </Text>
+        <Text>
+            <GUID>1414009019</GUID>
+            <Text>Derechos de Aduana: Cerveza</Text>
+        </Text>
+        <Text>
+            <GUID>1414009021</GUID>
+            <Text>Derechos de Aduana: Comida en conserva</Text>
+        </Text>
+        <Text>
+            <GUID>1414009022</GUID>
+            <Text>Derechos de Aduana: Comida en conserva</Text>
+        </Text>
+        <Text>
+            <GUID>1414009024</GUID>
+            <Text>Derechos de Aduana: Máquinas de Coser</Text>
+        </Text>
+        <Text>
+            <GUID>1414009025</GUID>
+            <Text>Derechos de Aduana: Máquinas de Coser</Text>
+        </Text>
+        <Text>
+            <GUID>1414009027</GUID>
+            <Text>Derechos de Aduana: Ron</Text>
+        </Text>
+        <Text>
+            <GUID>1414009028</GUID>
+            <Text>Derechos de Aduana: Ron</Text>
+        </Text>
+        <Text>
+            <GUID>1414009030</GUID>
+            <Text>Derechos de Aduana: Abrigos de piel</Text>
+        </Text>
+        <Text>
+            <GUID>1414009031</GUID>
+            <Text>Derechos de Aduana: Abrigos de piel</Text>
+        </Text>
+        <Text>
+            <GUID>1414009033</GUID>
+            <Text>Derechos de Aduana: Gafas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009034</GUID>
+            <Text>Derechos de Aduana: Gafas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009036</GUID>
+            <Text>Derechos de Aduana: Cuartos de Penique</Text>
+        </Text>
+        <Text>
+            <GUID>1414009037</GUID>
+            <Text>Derechos de Aduana: Cuartos de Penique</Text>
+        </Text>
+        <Text>
+            <GUID>1414009039</GUID>
+            <Text>Derechos de Aduana: Relojes de Bolsillo</Text>
+        </Text>
+        <Text>
+            <GUID>1414009040</GUID>
+            <Text>Derechos de Aduana: Relojes de Bolsillo</Text>
+        </Text>
+        <Text>
+            <GUID>1414009042</GUID>
+            <Text>Derechos de Aduana: Café</Text>
+        </Text>
+        <Text>
+            <GUID>1414009043</GUID>
+            <Text>Derechos de Aduana: Café</Text>
+        </Text>
+        <Text>
+            <GUID>1414009045</GUID>
+            <Text>Derechos de Aduana: Bombillas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009046</GUID>
+            <Text>Derechos de Aduana: Bombillas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009048</GUID>
+            <Text>Derechos de Aduana: Champaña</Text>
+        </Text>
+        <Text>
+            <GUID>1414009049</GUID>
+            <Text>Derechos de Aduana: Champaña</Text>
+        </Text>
+        <Text>
+            <GUID>1414009051</GUID>
+            <Text>Derechos de Aduana: Puros</Text>
+        </Text>
+        <Text>
+            <GUID>1414009052</GUID>
+            <Text>Derechos de Aduana: Puros</Text>
+        </Text>
+        <Text>
+            <GUID>1414009054</GUID>
+            <Text>Derechos de Aduana: Chocolate</Text>
+        </Text>
+        <Text>
+            <GUID>1414009055</GUID>
+            <Text>Derechos de Aduana: Chocolate</Text>
+        </Text>
+        <Text>
+            <GUID>1414009057</GUID>
+            <Text>Derechos de Aduana: Joyería</Text>
+        </Text>
+        <Text>
+            <GUID>1414009058</GUID>
+            <Text>Derechos de Aduana: Joyería</Text>
+        </Text>
+        <Text>
+            <GUID>1414009060</GUID>
+            <Text>Derechos de Aduana: Gramófonos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009061</GUID>
+            <Text>Derechos de Aduana: Gramófonos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009063</GUID>
+            <Text>Derechos de Aduana: Carruajes de Vapor</Text>
+        </Text>
+        <Text>
+            <GUID>1414009064</GUID>
+            <Text>Derechos de Aduana: Carruajes de Vapor</Text>
+        </Text>
+        <Text>
+            <GUID>1414009066</GUID>
+            <Text>Derechos de Aduana: Botas de cuero</Text>
+        </Text>
+        <Text>
+            <GUID>1414009067</GUID>
+            <Text>Derechos de Aduana: Botas de cuero</Text>
+        </Text>
+        <Text>
+            <GUID>1414009069</GUID>
+            <Text>Derechos de Aduana: Bombines</Text>
+        </Text>
+        <Text>
+            <GUID>1414009070</GUID>
+            <Text>Derechos de Aduana: Bombines</Text>
+        </Text>
+        <Text>
+            <GUID>1414009072</GUID>
+            <Text>Derechos de Aduana: Té de Hibisco</Text>
+        </Text>
+        <Text>
+            <GUID>1414009073</GUID>
+            <Text>Derechos de Aduana: Té de Hibisco</Text>
+        </Text>
+        <Text>
+            <GUID>1414009075</GUID>
+            <Text>Derechos de Aduana: Trajes a medida</Text>
+        </Text>
+        <Text>
+            <GUID>1414009076</GUID>
+            <Text>Derechos de Aduana: Trajes a medida</Text>
+        </Text>
+        <Text>
+            <GUID>1414009078</GUID>
+            <Text>Derechos de Aduana: Estofado de mariscos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009079</GUID>
+            <Text>Derechos de Aduana: Estofado de mariscos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009081</GUID>
+            <Text>Derechos de Aduana: Tapices</Text>
+        </Text>
+        <Text>
+            <GUID>1414009082</GUID>
+            <Text>Derechos de Aduana: Tapices</Text>
+        </Text>
+        <Text>
+            <GUID>1414009084</GUID>
+            <Text>Derechos de Aduana: Pipa de arcilla</Text>
+        </Text>
+        <Text>
+            <GUID>1414009085</GUID>
+            <Text>Derechos de Aduana: Pipa de arcilla</Text>
+        </Text>
+        <Text>
+            <GUID>1414009087</GUID>
+            <Text>Derechos de Aduana: Teléfonos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009088</GUID>
+            <Text>Derechos de Aduana: Teléfonos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009090</GUID>
+            <Text>Derechos de Aduana: Plátano frito</Text>
+        </Text>
+        <Text>
+            <GUID>1414009091</GUID>
+            <Text>Derechos de Aduana: Plátano frito</Text>
+        </Text>
+        <Text>
+            <GUID>1414009093</GUID>
+            <Text>Derechos de Aduana: Ponchos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009094</GUID>
+            <Text>Derechos de Aduana: Ponchos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009096</GUID>
+            <Text>Derechos de Aduana: Tortillas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009097</GUID>
+            <Text>Derechos de Aduana: Tortillas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009099</GUID>
+            <Text>Derechos de Aduana: Pemmican</Text>
+        </Text>
+        <Text>
+            <GUID>1414009100</GUID>
+            <Text>Derechos de Aduana: Pemmican</Text>
+        </Text>
+        <Text>
+            <GUID>1414009102</GUID>
+            <Text>Derechos de Aduana: Sacos de dormir</Text>
+        </Text>
+        <Text>
+            <GUID>1414009103</GUID>
+            <Text>Derechos de Aduana: Sacos de dormir</Text>
+        </Text>
+        <Text>
+            <GUID>1414009105</GUID>
+            <Text>Derechos de Aduana: Faroles de aceite</Text>
+        </Text>
+        <Text>
+            <GUID>1414009106</GUID>
+            <Text>Derechos de Aduana: Faroles de aceite</Text>
+        </Text>
+        <Text>
+            <GUID>1414009108</GUID>
+            <Text>Derechos de Aduana: Parkas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009109</GUID>
+            <Text>Derechos de Aduana: Parkas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009111</GUID>
+            <Text>Derechos de Aduana: Trineos de Huskies/Text>
+        </Text>
+        <Text>
+            <GUID>1414009112</GUID>
+            <Text>Derechos de Aduana: Trineos de Huskies</Text>
+        </Text>
+        <Text>
+            <GUID>1414009114</GUID>
+            <Text>Derechos de Aduana: Leche de cabra</Text>
+        </Text>
+        <Text>
+            <GUID>1414009115</GUID>
+            <Text>Derechos de Aduana: Leche de cabra</Text>
+        </Text>
+        <Text>
+            <GUID>1414009117</GUID>
+            <Text>Derechos de Aduana: Galas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009118</GUID>
+            <Text>Derechos de Aduana: Galas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009120</GUID>
+            <Text>Derechos de Aduana: Carne seca</Text>
+        </Text>
+        <Text>
+            <GUID>1414009121</GUID>
+            <Text>Derechos de Aduana: Carne Seca</Text>
+        </Text>
+        <Text>
+            <GUID>1414009123</GUID>
+            <Text>Derechos de Aduana: Cerámica</Text>
+        </Text>
+        <Text>
+            <GUID>1414009124</GUID>
+            <Text>Derechos de Aduana: Ceramica</Text>
+        </Text>
+        <Text>
+            <GUID>1414009126</GUID>
+            <Text>Derechos de Aduana: Escrituras Iluminadas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009127</GUID>
+            <Text>Derechos de Aduana: Escrituras Iluminadas</Text>
+        </Text>
+        <Text>
+            <GUID>1414009129</GUID>
+            <Text>Derechos de Aduana: Faroles</Text>
+        </Text>
+        <Text>
+            <GUID>1414009130</GUID>
+            <Text>Derechos de Aduana: Faroles</Text>
+        </Text>
+        <Text>
+            <GUID>1414009132</GUID>
+            <Text>Derechos de Aduana: Radio</Text>
+        </Text>
+        <Text>
+            <GUID>1414009133</GUID>
+            <Text>Derechos de Aduana: Radio</Text>
+        </Text>
+        <Text>
+            <GUID>1414009135</GUID>
+            <Text>Derechos de Aduana: Estilógrafos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009136</GUID>
+            <Text>Derechos de Aduana: Estilógrafos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009138</GUID>
+            <Text>Derechos de Aduana: Limonada</Text>
+        </Text>
+        <Text>
+            <GUID>1414009139</GUID>
+            <Text>Derechos de Aduana: Limonada</Text>
+        </Text>
+        <Text>
+            <GUID>1414009141</GUID>
+            <Text>Derechos de Aduana: Queso Azul</Text>
+        </Text>
+        <Text>
+            <GUID>1414009142</GUID>
+            <Text>Derechos de Aduana: Queso Azul</Text>
+        </Text>
+        <Text>
+            <GUID>1414009144</GUID>
+            <Text>Derechos de Aduana: Porcelana</Text>
+        </Text>
+        <Text>
+            <GUID>1414009145</GUID>
+            <Text>Derechos de Aduana: Porcelana</Text>
+        </Text>
+        <Text>
+            <GUID>1414009147</GUID>
+            <Text>Derechos de Aduana: Sombreros cónicos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009148</GUID>
+            <Text>Derechos de Aduana: Sombreros cónicos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009150</GUID>
+            <Text>Derechos de Aduana: Sake</Text>
+        </Text>
+        <Text>
+            <GUID>1414009151</GUID>
+            <Text>Derechos de Aduana: Sake</Text>
+        </Text>
+        <Text>
+            <GUID>1414009153</GUID>
+            <Text>Derechos de Aduana: Oshi-Sushi</Text>
+        </Text>
+        <Text>
+            <GUID>1414009154</GUID>
+            <Text>Derechos de Aduana: Oshi-Sushi</Text>
+        </Text>
+        <Text>
+            <GUID>1414009156</GUID>
+            <Text>Derechos de Aduana: Umeshu</Text>
+        </Text>
+        <Text>
+            <GUID>1414009157</GUID>
+            <Text>Derechos de Aduana: Umeshu</Text>
+        </Text>
+        <Text>
+            <GUID>1414009159</GUID>
+            <Text>Derechos de Aduana: Té Verde</Text>
+        </Text>
+        <Text>
+            <GUID>1414009160</GUID>
+            <Text>Derechos de Aduana: Té Verde</Text>
+        </Text>
+        <Text>
+            <GUID>1414009162</GUID>
+            <Text>Derechos de Aduana: Kimono</Text>
+        </Text>
+        <Text>
+            <GUID>1414009163</GUID>
+            <Text>Derechos de Aduana: Kimono</Text>
+        </Text>
+        <Text>
+            <GUID>1414009165</GUID>
+            <Text>Derechos de Aduana: Pato Asado</Text>
+        </Text>
+        <Text>
+            <GUID>1414009166</GUID>
+            <Text>Derechos de Aduana: Pato Asado</Text>
+        </Text>
+        <Text>
+            <GUID>1414009168</GUID>
+            <Text>Derechos de Aduana: Kotos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009169</GUID>
+            <Text>Derechos de Aduana: Kotos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009171</GUID>
+            <Text>Derechos de Aduana: Trajes de Seda</Text>
+        </Text>
+        <Text>
+            <GUID>1414009172</GUID>
+            <Text>Derechos de Aduana: Trajes de Seda</Text>
+        </Text>
+
+        <Text>
+            <GUID>1414009174</GUID>
+            <Text>Derechos de Aduana: Mermelada/Text>
+        </Text>
+        <Text>
+            <GUID>1414009175</GUID>
+            <Text>Derechos de Aduana: Mermelada</Text>
+        </Text>
+        <Text>
+            <GUID>1414009177</GUID>
+            <Text>Derechos de Aduana: Shampoo</Text>
+        </Text>
+        <Text>
+            <GUID>1414009178</GUID>
+            <Text>Derechos de Aduana: Shampoo</Text>
+        </Text>
+        <Text>
+            <GUID>1414009183</GUID>
+            <Text>Derechos de Aduana: Limonada</Text>
+        </Text>
+        <Text>
+            <GUID>1414009184</GUID>
+            <Text>Derechos de Aduana: Limonada</Text>
+        </Text>
+        <Text>
+            <GUID>1414009189</GUID>
+            <Text>Derechos de Aduana: Recuerdos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009190</GUID>
+            <Text>Derechos de Aduana: Recuerdos</Text>
+        </Text>
+        <Text>
+            <GUID>1414009191</GUID>
+            <Text>Derechos de Aduana: Goma de Mascar</Text>
+        </Text>
+        <Text>
+            <GUID>1414009192</GUID>
+            <Text>Derechos de Aduana: Goma de Mascar</Text>
+        </Text>
+        <Text>
+            <GUID>1414009194</GUID>
+            <Text>Derechos de Aduana: Galletas </Text>
+        </Text>
+        <Text>
+            <GUID>1414009195</GUID>
+            <Text>Derechos de Aduana: Galletas </Text>
+        </Text>
+        <Text>
+            <GUID>1414009197</GUID>
+            <Text>Derechos de Aduana: Coñac</Text>
+        </Text>
+        <Text>
+            <GUID>1414009198</GUID>
+            <Text>Derechos de Aduana: Coñac</Text>
+        </Text>
+        <Text>
+            <GUID>1414009200</GUID>
+            <Text>Derechos de Aduana: Máquinas de escribir</Text>
+        </Text>
+        <Text>
+            <GUID>1414009201</GUID>
+            <Text>Derechos de Aduana: Máquinas de escribir</Text>
+        </Text>
+        <Text>
+            <GUID>1414009203</GUID>
+            <Text>Derechos de Aduana: Mesas de Billar</Text>
+        </Text>
+        <Text>
+            <GUID>1414009204</GUID>
+            <Text>Derechos de Aduana: Mesas de Billar</Text>
+        </Text>
+        <Text>
+            <GUID>1414009206</GUID>
+            <Text>Derechos de Aduana: Violines</Text>
+        </Text>
+        <Text>
+            <GUID>1414009207</GUID>
+            <Text>Derechos de Aduana: Violines</Text>
+        </Text>
+        <Text>
+            <GUID>1414009209</GUID>
+            <Text>Derechos de Aduana: Juguetes</Text>
+        </Text>
+        <Text>
+            <GUID>1414009210</GUID>
+            <Text>Derechos de Aduana: Juguetes</Text>
+        </Text>
+        <Text>
+            <GUID>1414009213</GUID>
+            <Text>Derechos de Aduana: Balones de futbol</Text>
+        </Text>
+        <Text>
+            <GUID>1414009214</GUID>
+            <Text>Derechos de Aduana: Balones de futbol</Text>
+        </Text>
+        <Text>
+            <GUID>1414009216</GUID>
+            <Text>Derechos de Aduana: Mezcal</Text>
+        </Text>
+        <Text>
+            <GUID>1414009217</GUID>
+            <Text>Derechos de Aduana: Mezcal</Text>
+        </Text>
+        <Text>
+            <GUID>1414009219</GUID>
+            <Text>Derechos de Aduana: Jalea</Text>
+        </Text>
+        <Text>
+            <GUID>1414009220</GUID>
+            <Text>Derechos de Aduana: Jalea</Text>
+        </Text>
+        <Text>
+            <GUID>1414009222</GUID>
+            <Text>Derechos de Aduana: Helado</Text>
+        </Text>
+        <Text>
+            <GUID>1414009223</GUID>
+            <Text>Derechos de Aduana: Helado</Text>
+        </Text>
+        <Text>
+            <GUID>1414009225</GUID>
+            <Text>Derechos de Aduana: Perfumes</Text>
+        </Text>
+        <Text>
+            <GUID>1414009226</GUID>
+            <Text>Derechos de Aduana: Perfumes</Text>
+        </Text>
+        <Text>
+            <GUID>1414009228</GUID>
+            <Text>Derechos de Aduana: Ventiladores</Text>
+        </Text>
+        <Text>
+            <GUID>1414009229</GUID>
+            <Text>Derechos de Aduana: Ventiladores</Text>
+        </Text>
+        <Text>
+            <GUID>1414009231</GUID>
+            <Text>Derechos de Aduana: Scooter</Text>
+        </Text>
+        <Text>
+            <GUID>1414009232</GUID>
+            <Text>Derechos de Aduana: Scooter</Text>
+        </Text>
+        <Text>
+            <GUID>1414009234</GUID>
+            <Text>Derechos de Aduana: Salsa Picante</Text>
+        </Text>
+        <Text>
+            <GUID>1414009235</GUID>
+            <Text>Derechos de Aduana: Salsa Picante</Text>
+        </Text>
+        <Text>
+            <GUID>1414009237</GUID>
+            <Text>Derechos de Aduana: Atole</Text>
+        </Text>
+        <Text>
+            <GUID>1414009238</GUID>
+            <Text>Derechos de Aduana: Atole</Text>
+        </Text>
+        <Text>
+            <GUID>1414009240</GUID>
+            <Text>Derechos de Aduana: Jade</Text>
+        </Text>
+        <Text>
+            <GUID>1414009241</GUID>
+            <Text>Derechos de Aduana: Jade</Text>
+        </Text>
+        <Text>
+            <GUID>1414009243</GUID>
+            <Text>Derechos de Aduana: Literatura oriental</Text>
+        </Text>
+        <Text>
+            <GUID>1414009244</GUID>
+            <Text>Derechos de Aduana: Literatura oriental</Text>
+        </Text>
+        <Text>
+            <GUID>1414009246</GUID>
+            <Text>Derechos de Aduana: Incienso</Text>
+        </Text>
+        <Text>
+            <GUID>1414009247</GUID>
+            <Text>Derechos de Aduana: Incienso</Text>
+        </Text>
+        <Text>
+            <GUID>1414009249</GUID>
+            <Text>Derechos de Aduana: Durian</Text>
+        </Text>
+        <Text>
+            <GUID>1414009250</GUID>
+            <Text>Derechos de Aduana: Durian</Text>
+        </Text>
+        <Text>
+            <GUID>1414006029</GUID>
+            <Text>Si se activan los Derechos de Aduana en un puesto comercial, esto también aplicara a todos los muelles en la isla.</Text>
+        </Text>
+    </ModOp>
+</ModOps>

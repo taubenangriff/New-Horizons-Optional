@@ -1,0 +1,42 @@
+<ModOps>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '12920']/Text">
+    <Text>关税机会</Text>
+  </ModOp>
+
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23462']/Text">
+    <Text>不适用于北极高原岛屿。</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '20327']/Text">
+    <Text>与另一个派系的每笔交易都要缴纳 5t [ItemAssetData([RefGuid]) GoodGenerationPoolFormatted] 作为关税。如果对岛上的贸易站征收关税，则该影响也适用于岛上的所有码头。</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23254']/Text">
+    <Text>与另一个派系的每笔交易都需要额外 5t [ItemAssetData({ItemGuid}) GoodGenerationPoolFormatted]作为关税。如果对岛上的贸易站征收关税，则该影响也适用于岛上的所有码头。</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '21391']/Text">
+    <Text>需要[ItemAssetData([RefGuid]) GoodConsumptionAllProvidedNeedsFormatted]，需要[ItemAssetData([RefGuid]) GoodConsumptionAmountInPercent(0) &gt;&gt; sellShipPrice]%.</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '15319']/Text">
+    <Text>需要自由区域</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '21610']/Text">
+    <Text>[ItemAssetData([RefGuid]) AreaTolerance &gt;&gt; sellShipPrice]%</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '21521']/Text">
+    <Text>调整伐木工人内部达到全部生产力所需的自由面积。</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '22634']/Text">
+    <Text>居民可以从以下方式获得一定数量的居民奖励：[ItemAssetData([ToolOneHelper ItemActiveBuff([RefGuid])]) InputBenefitAllAdditionalSupplyFormatted].</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '192408']/Text">
+    <Text>框架针织商、毛皮经销商和[AssetData(1441259) Text].</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23728']/Text">
+    <Text>&lt;font color='0xff817f87'&gt; +[ItemAssetData([RefGuid]) AdditionalOutputAmount(index)]/[ItemAssetData([RefGuid]) AdditionalOutputCycle(index)] &lt;/font&gt;</Text>
+  </ModOp>
+  <ModOp Type = "replace" Path = "/TextExport/Texts/Text[GUID = '125003']/Text">
+    <Text>拥有这种资源的贸易路线将在这个码头获得高优先级。</Text>
+  </ModOp>
+  <ModOp Type = "replace" Path = "//Text[GUID = '137465']/Text">
+    <Text>蓝图</Text>
+  </ModOp>
+</ModOps>

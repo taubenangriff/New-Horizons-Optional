@@ -1,0 +1,360 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1414187001</GUID>
+      <Text>Große Pagode: Rekonstruktion</Text>
+    </Text>
+    <Text>
+      <GUID>1414187002</GUID>
+      <Text>Große Pagode</Text>
+    </Text>
+    <Text>
+      <GUID>1414187006</GUID>
+      <Text>Heiligtum: Rekonstruktion</Text>
+    </Text>
+    <Text>
+      <GUID>1414187007</GUID>
+      <Text>Heiligtum</Text>
+    </Text>
+    <Text>
+      <GUID>1414187008</GUID>
+      <Text>Kaiserhalle: Rekonstruktion</Text>
+    </Text>
+    <Text>
+      <GUID>1414187009</GUID>
+      <Text>Kaiserhalle</Text>
+    </Text>
+    <Text>
+      <GUID>1414187010</GUID>
+      <Text>Daibutsu: Rekonstruktion</Text>
+    </Text>
+    <Text>
+      <GUID>1414187011</GUID>
+      <Text>Daibutsu</Text>
+    </Text>
+    <Text>
+      <GUID>1414187012</GUID>
+      <Text>Pavillon der Freude: Rekonstruktion</Text>
+    </Text>
+    <Text>
+      <GUID>1414187013</GUID>
+      <Text>Pavillon der Freude</Text>
+    </Text>
+    <Text>
+      <GUID>1414018135</GUID>
+      <Text>Der erste Schritt zur Rekonstruktion eines Wunders ist der Wiederaufbau seines Fundaments. Danach werden nur unsere Archäologen und wir die Wahrheit wissen. Euer Volk hingegen wird von den leuchtend goldenen Dächern geblendet werden.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018136</GUID>
+      <Text>Wunderfundament</Text>
+    </Text>
+    <Text>
+      <GUID>1414018137</GUID>
+      <Text>Der Bau des Wunderfundaments wurde angehalten.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018138</GUID>
+      <Text>Baut Rekonstruktionen verschiedener Wunder auf diesem Fundament.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018139</GUID>
+      <Text>Wunderfundament</Text>
+    </Text>
+    <Text>
+      <GUID>1414018140</GUID>
+      <Text>Ein großer Dächerstapel</Text>
+    </Text>
+    <Text>
+      <GUID>1414018141</GUID>
+      <Text>Eine heilige Stätte der Tradition.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018142</GUID>
+      <Text>Ein Ort, an dem unbedingte Loyalität zum eigenen Staat geehrt wird.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018143</GUID>
+      <Text>Statue des Buddha.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018144</GUID>
+      <Text>Erinnert an das kulturelle Erbe von Horai.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018145</GUID>
+      <Text>Die große Pagode wird das lokale Fengshui verbessern, und euer Volk erinnern, von Zeit zu Zeit die lokalen Traditionen aufrecht zu erhalten. Dafür müssen aber noch mehr Dächer gestapelt werden.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018146</GUID>
+      <Text>Zum Bau einer Stätte, an der Mönche sich dem Gebet widmen können, müssen eine Menge Steinblöcke gemeißelt und zusammengesetzt werden. Das Gold auf den Dächern ist selbstverständlich Pflicht.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018147</GUID>
+      <Text>In Zeiten von Stahlträgern ist der Bau eines Daches mit mehreren Metern Überstand trivial geworden, aber in diesem Fall tun ihre Architekten es auf die traditionelle Art. Das schwere Golddach wird nur von Holzbalken getragen.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018148</GUID>
+      <Text>Eine majestätische Statue von Buddha, bestehend aus einzeln gegossenen Bronzeplatten auf einem Stahlgerüst. Das Ergebnis sieht antik aus, die interne Struktur hingegen ist neu und wurde erst kürzlich beim Bau von Christo Redentor eingesetzt.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018149</GUID>
+      <Text>Der Pavilion der Freude ist dem kulturellen Erbe Horais gewidmet. Nach Fertigstellung werden eine Handvoll beeindruckender Statuen das Innenleben füllen.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018150</GUID>
+      <Text>Der Bau eines Wunders wurde angehalten.</Text>
+    </Text>
+    <Text>
+      <GUID>1414187005</GUID>
+      <Text>Wunderfundament: Aufbau</Text>
+    </Text>
+    <Text>
+      <GUID>1414018155</GUID>
+      <Text>Eure Archäologen haben bei den Grabungsarbeiten die Überreste eines Pavilions der Freude entdeckt.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018156</GUID>
+      <Text>Eure Archäologen haben bei den Grabungsarbeiten die Überreste einer Daibutsustatue entdeckt.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018157</GUID>
+      <Text>Eure Archäologen haben bei den Grabungsarbeiten die Überreste einer Kaiserhalle entdeckt.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018158</GUID>
+      <Text>Eure Archäologen haben bei den Grabungsarbeiten die Überreste eines Heiligtums entdeckt.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018159</GUID>
+      <Text>Eure Archäologen haben bei den Grabungsarbeiten die Überreste einer großen Pagode entdeckt.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018215</GUID>
+      <Text>Ein heiliges Reliquarium, das verschiedene Reliquien aufnehmen kann.</Text>
+    </Text>
+    <Text>
+      <GUID>1414187040</GUID>
+      <Text>Stupa: Rekonstruktion</Text>
+    </Text>
+    <Text>
+      <GUID>1414187041</GUID>
+      <Text>Stupa</Text>
+    </Text>
+    <Text>
+      <GUID>1414018216</GUID>
+      <Text>Eure Archäologen haben bei den Grabungsarbeiten die Überreste einer Stupa entdeckt.</Text>
+    </Text>
+    <Text>
+      <GUID>1414187047</GUID>
+      <Text>Reliquienreplik</Text>
+    </Text>
+    <Text>
+      <GUID>1414187048</GUID>
+      <Text>Das ungeübte Auge kann man täuschen, aber eine billige Fälschung ist eben nur eine billige Fälschung. Eine Originalreliquie wäre eine bessere Wahl.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018217</GUID>
+      <Text>Beeinflusst in Stuparadius</Text>
+    </Text>
+    <Text>
+      <GUID>1414018218</GUID>
+      <Text>Beeinflusst [ItemAssetData(1414187045) ItemOrBuffEffectTargetsFormatted] in Stuparadius</Text>
+    </Text>
+    <Text>
+      <GUID>1414018220</GUID>
+      <Text>Der Stuparadius wird durch die ausgerüstete Reliquie bestimmt.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018221</GUID>
+      <Text>Stuparadius</Text>
+    </Text>
+    <Text>
+      <GUID>1445639</GUID>
+      <Text>Wunder</Text>
+    </Text>
+    <Text>
+      <GUID>1414018229</GUID>
+      <Text>Imbissstand</Text>
+    </Text>
+    <Text>
+      <GUID>1414018230</GUID>
+      <Text>500 + Reliquienbonus</Text>
+    </Text>
+    <Text>
+      <GUID>1414018231</GUID>
+      <Text>Verbraucht [AssetData(1440216) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414018232</GUID>
+      <Text>Benötigt Bevölkerung im Radius</Text>
+    </Text>
+    <Text>
+      <GUID>1414018233</GUID>
+      <Text>Verbraucht [AssetData(1010221) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414018234</GUID>
+      <Text>Verbraucht [AssetData(1440306) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414018235</GUID>
+      <Text>Verbraucht [AssetData(1440229) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414018236</GUID>
+      <Text>Benötigt Reliquien-Item</Text>
+    </Text>
+    <Text>
+      <GUID>1414018237</GUID>
+      <Text>Die Stupa wird beim Bau mit einer Reliquienreplik ausgestattet. Diese ist jedoch weniger stark als Originalreliquien.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018238</GUID>
+      <Text>Die Stupa besteht aus sechs Teilen: Einer quadratischen Plattform als Thron, ein runder Sockel für gekreuzte Beine, eine Kuppel für den Torso, eine quadratische Reliquienkammer als Kopf, eine Spitze für die Ushnisha und einer Krone als Bodhi.</Text>
+    </Text>
+    <!-- Diverse -->
+    <Text>
+      <GUID>1414018246</GUID>
+      <Text>Heimatland</Text>
+    </Text>
+    <Text>
+      <GUID>1414018249</GUID>
+      <Text>Liefermenge in t</Text>
+    </Text>
+    <Text>
+      <GUID>1414018250</GUID>
+      <Text>Akzeptiert folgende Waren:</Text>
+    </Text>
+    <Text>
+      <GUID>1414018251</GUID>
+      <Text>Anzahl Lieferungen</Text>
+    </Text>
+    <Text>
+      <GUID>1414018252</GUID>
+      <Text>Füllen Sie dieses Lager, um danach durch eine Schmugglermission eine beachtliche Belohnung zu erhalten.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018253</GUID>
+      <Text>Lager voll!</Text>
+    </Text>
+    <Text>
+      <GUID>1414018247</GUID>
+      <Text>Wertgegenstände können durch Versenken königlicher Konvois erhalten werden.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018258</GUID>
+      <Text>Drogen können durch Versenken königlicher Konvois erhalten werden.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018259</GUID>
+      <Text>Diese majestätische Kolonialvilla wurde für den Handelsoffizier von Hafen Omega erbaut. Als der Außenposten reaktiviert wurde, hat sich James Goodwill dieses Gebäude für sich selbst renovieren lassen, inklusive Katzentüren für seine beiden Schoßkatzen Nut und Geb, sowie eine schalldichte Übezelle für sein tägliches Üben auf dem Duduk, ein Instrument, das er sehr gern spielt, bei dem ihm andere jedoch nicht gerne zuhören.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018260</GUID>
+      <Text>Pyrphorisches Feuer</Text>
+    </Text>
+    <!-- Items -->
+    <Text>
+      <GUID>1414011120</GUID>
+      <Text>"A"</Text>
+    </Text>
+    <Text>
+      <GUID>1414011121</GUID>
+      <Text>Mit der Überzeugung einer im Nebel gemalten Karte, der Sicherheit von Schritten auf einer verschwindenden Brücke, und der Genialität eines Schlüssels, der in kein Schloss passt, entfalten sich Entscheidungen in einer Art, die den Erwartungen trotzt. Auf eine Weise ist das sehr beeindruckend, allerdings nicht aus den Gründen, aus denen man hoffen mag.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011122</GUID>
+      <Text>Mustelus de Mercatore</Text>
+    </Text>
+    <Text>
+      <GUID>1414011123</GUID>
+      <Text>Seine einfachen Wurzeln als Sohn eines Fabrikarbeiters sind die Quelle seiner Brillianz beim Finden von Schlupflöchern bei Regeln und Regulatorien.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011034</GUID>
+      <Text>Gekreuztes Reissaatgut</Text>
+    </Text>
+    <Text>
+      <GUID>1414011035</GUID>
+      <Text>Gekreuztes Teekräutersaatgut</Text>
+    </Text>
+    <Text>
+      <GUID>1414011036</GUID>
+      <Text>Gekreuztes Hanfsaatgut</Text>
+    </Text>
+    <Text>
+      <GUID>1414011037</GUID>
+      <Text>Gekreuztes Pfeffersaatgut</Text>
+    </Text>
+    <Text>
+      <GUID>1414011038</GUID>
+      <Text>Gekreuztes Maulbeerensaatgut</Text>
+    </Text>
+    <Text>
+      <GUID>1414011039</GUID>
+      <Text>Gekreuztes Umesaatgut</Text>
+    </Text>
+    <Text>
+      <GUID>1414011000</GUID>
+      <Text>verbesserte Bienenstöcke</Text>
+    </Text>
+    <Text>
+      <GUID>1414011001</GUID>
+      <Text>Gekreuztes Sojasaatgut</Text>
+    </Text>
+    <Text>
+      <GUID>1414011002</GUID>
+      <Text>Nana Mochi, Getreide aus aller Welt</Text>
+    </Text>
+    <Text>
+      <GUID>1414011003</GUID>
+      <Text>Nana mag besonders die gelben, aber auch alle sonstigen Pflanzen in glänzenden Farben. Nicht nur Gold kann ihr Herz erreichen.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011004</GUID>
+      <Text>Kiyoshi Katou, Fischzerlegerin</Text>
+    </Text>
+    <Text>
+      <GUID>1414011005</GUID>
+      <Text>Kiyoshi mag es lieber mit den Schweinen zu kuscheln, als sie in Talg zu verwandeln. Bei Fischen hat Sie damit jedoch kein Problem.</Text>
+    </Text>
+    <Text>
+      <GUID>1414040622</GUID>
+      <Text>Magnat</Text>
+    </Text>
+    <Text>
+      <GUID>1414040623</GUID>
+      <Text>Gōngrén</Text>
+    </Text>
+    <!-- Zoo Animal -->
+    <Text>
+      <GUID>1414018261</GUID>
+      <Text>&lt;b&gt;Mustela altaica.&lt;/b&gt; Die Zoobesucher scheinen die Werke des Wiesels zu bestaunen, die Zoowärter sind von der Natur seiner Kapriolen jedoch oft nicht allzu begeistert.</Text>
+    </Text>
+    <!-- Loading Scene Tips -->
+    <Text>
+      <GUID>1414006670</GUID>
+      <Text>Admiral Wu Guowei, Sohn einer hochdekorierten Diplomatenfamilie, war seinerzeit auf einem steilen Aufstieg durch die Ränge der Flotte des Kaisers. Die Tianmingflotte war jedoch kein Hindernis für die neuartigen Kanonen des Westens, und eine verheerende Niederlage besiegelte das Schicksal der Tianming - und damit auch das des Admirals. Verzweifelt versucht Wu, die Grenzbezirke des Ostens zusammenzuhalten, und sich dabei zu beweisen, muss jedoch akzeptieren, dass er selbst ein Hai sein muss, denn er ist umgeben von Haien, die über den Ozean nach Horai kamen.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018239</GUID>
+      <Text>James Goodwill war ein hochranginger Offizieller in der OHK-Verwaltung, die große Teile Indiens kontrollierte, in einer Position, die abrupt abeschafft wurde, als die Königin diese Territorien für sich selbst annektierte, und Goodwill als niederklassigen Handelsoffizier in Horai parkte. Die Königin ist sich nicht bewusst, dass Goodwill einen Marathon der persönlichen Rache und Profite läuft, indem er sich mit bösen Mächten im königlichen Rat verbündet: Hinter seinen legalen Frachtgeschäften verbirgt sich ein florierender Schwarzmarkt, der alles verkauft, was Menschen brauchen, nicht brauchen, und besser nicht kaufen sollten.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018240</GUID>
+      <Text>Majipun war eine Utopische Hafenstadt, die ihren Bürgern Reichtum, Kultur und einen der prächtigsten Gärten im ganzen Tianming-Guo bot. Das alles war Geschichte, als die Tianming ihren Krieg gegen die Krone verloren, und ihnen ungleiche Verträge aufgezwungen wurden. Während die utopische Oberfläche noch wenig verändert ist, leben die Bürger von Majipun ein miserables Leben unter Admiral Wus Militärdiktatur.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018241</GUID>
+      <Text>Hafen Omega startete als kleine Hafenkolonie in Horai, bestehend aus einer Kapelle und einigen Steinhäusern. Nachdem die Siedlung für etwa zehn Jahre aufgegeben wurde, übernahm James Goodwill sie als Teil seiner neuen Aufgabe als Handelsoffizier für die Region, hauchte ihr neues Leben ein und erweiterte die Stadt, um sie als Handels- und Lagerknotenpunkt zu nutzen.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018242</GUID>
+      <Text>Über die Pyrphorier ist nur wenig bekannt, wer sie sind, woher sie kommen und wer die Befehle gibt. Offensichtlich organisieren sie sich zu einer formidablen Militärmacht in den Karsts um Castrum Ignae, einer antiken Festung mit dem Vorteil, in einem Machtvakuum zu stehen. Hier experimentieren die Pyrphorier mit dem Auge des Drachen, um Böses jenseits der menschluchen Vorstellungskraft zu erschaffen.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018243</GUID>
+      <Text>In Tradition der spartanischen Flotte befördern die Pyrphorier immer nur einen ihrer Ordensbrüder in den Rang des Nauarchen, der persönlich die Machenschaften des Militärs überwacht. Man glaubt, dass der Nauarch in konstanter Rivalität mit dem Großmeister der Pyrphorier steht, wodurch sich eine fragiles Gleichgewicht der Macht ergibt, was sich jedoch drastisch zugusten des Nauarchen wendet, seitdem er das Auge des Drachen aus den Schatzkammern des Ruize-Kaisers entwendet hat.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

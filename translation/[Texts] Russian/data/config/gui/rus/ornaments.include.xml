@@ -1,0 +1,628 @@
+<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <Text>
+            <GUID>1414016153</GUID>
+            <Text>Рыбацкая лодка</Text>
+        </Text>
+        <Text>
+            <GUID>1414016154</GUID>
+            <Text>Пришвартованная Лорча</Text>
+        </Text>
+        <Text>
+            <GUID>1414016155</GUID>
+            <Text>Мост</Text>
+        </Text>
+        <Text>
+            <GUID>1414016156</GUID>
+            <Text>Бочки</Text>
+        </Text>
+        <Text>
+            <GUID>1414016157</GUID>
+            <Text>Скамейки</Text>
+        </Text>
+        <Text>
+            <GUID>1414016158</GUID>
+            <Text>Лодки</Text>
+        </Text>
+        <Text>
+            <GUID>1414016159</GUID>
+            <Text>Большие лодки</Text>
+        </Text>
+        <Text>
+            <GUID>1414016160</GUID>
+            <Text>Рыболовные ловушки</Text>
+        </Text>
+        <Text>
+            <GUID>1414016161</GUID>
+            <Text>Кран</Text>
+        </Text>
+        <Text>
+            <GUID>1414016162</GUID>
+            <Text>Дерево</Text>
+        </Text>
+        <Text>
+            <GUID>1414016163</GUID>
+            <Text>Вишнёвое дерево</Text>
+        </Text>
+        <Text>
+            <GUID>1414016164</GUID>
+            <Text>Грушевое дерево</Text>
+        </Text>
+        <Text>
+            <GUID>1414016165</GUID>
+            <Text>Сосна</Text>
+        </Text>
+        <Text>
+            <GUID>1414016166</GUID>
+            <Text>Ива</Text>
+        </Text>
+        <Text>
+            <GUID>1414016167</GUID>
+            <Text>Склад</Text>
+        </Text>
+        <Text>
+            <GUID>1414016168</GUID>
+            <Text>Гортензия</Text>
+        </Text>
+        <Text>
+            <GUID>1414016169</GUID>
+            <Text>Решетка из глицинии</Text>
+        </Text>
+        <Text>
+            <GUID>1414016170</GUID>
+            <Text>Койнобори</Text>
+        </Text>
+
+        <Text>
+            <GUID>1414016000</GUID>
+            <Text>Гравий</Text>
+        </Text>
+        <Text>
+            <GUID>1414016027</GUID>
+            <Text>Голая стена</Text>
+        </Text>
+        <Text>
+            <GUID>1414016028</GUID>
+            <Text>Обрамленная стена</Text>
+        </Text>
+        <Text>
+            <GUID>1414016029</GUID>
+            <Text>Облицованная стена</Text>
+        </Text>
+        <Text>
+            <GUID>1414016032</GUID>
+            <Text>Ворота в голой стене</Text>
+        </Text>
+        <Text>
+            <GUID>1414016033</GUID>
+            <Text>Ворота в обрамлённой стене</Text>
+        </Text>
+        <Text>
+            <GUID>1414016034</GUID>
+            <Text>Ворота в облицованной стене</Text>
+        </Text>
+        <Text>
+            <GUID>1414016035</GUID>
+            <Text>Мощёный бонсай</Text>
+        </Text>
+        <Text>
+            <GUID>1414016036</GUID>
+            <Text>Мощёная хурма</Text>
+        </Text>
+        <Text>
+            <GUID>1414016037</GUID>
+            <Text>Мощёная саговая пальма</Text>
+        </Text>
+        <Text>
+            <GUID>1414016038</GUID>
+            <Text>Мощёный гинкго</Text>
+        </Text>
+        <Text>
+            <GUID>1414016039</GUID>
+            <Text>Мощёная груша</Text>
+        </Text>
+        <Text>
+            <GUID>1414016040</GUID>
+            <Text>Мощёная банановая пальма</Text>
+        </Text>
+        <Text>
+            <GUID>1414016041</GUID>
+            <Text>Мощёная сакура</Text>
+        </Text>
+        <Text>
+            <GUID>1414016042</GUID>
+            <Text>Мощёная ива</Text>
+        </Text>
+        <Text>
+            <GUID>1414016043</GUID>
+            <Text>Мощёный клён момидзи</Text>
+        </Text>
+		
+        <Text>
+            <GUID>1414016044</GUID>
+            <Text>Бонсай</Text>
+        </Text>
+        <Text>
+            <GUID>1414016045</GUID>
+            <Text>Хурма</Text>
+        </Text>
+        <Text>
+            <GUID>1414016046</GUID>
+            <Text>Саговая пальма</Text>
+        </Text>
+        <Text>
+            <GUID>1414016047</GUID>
+            <Text>Гинкго</Text>
+        </Text>
+        <Text>
+            <GUID>1414016048</GUID>
+            <Text>Груша</Text>
+        </Text>
+        <Text>
+            <GUID>1414016049</GUID>
+            <Text>Банановая пальма</Text>
+        </Text>
+        <Text>
+            <GUID>1414016050</GUID>
+            <Text>Сакура</Text>
+        </Text>
+        <Text>
+            <GUID>1414016051</GUID>
+            <Text>Ива</Text>
+        </Text>
+        <Text>
+            <GUID>1414016052</GUID>
+            <Text>Клён момидзи</Text>
+        </Text>
+        <Text>
+            <GUID>1414016053</GUID>
+            <Text>Мощёная плакучая сакура</Text>
+        </Text>
+        <Text>
+            <GUID>1414016054</GUID>
+            <Text>Плакучая сакура</Text>
+        </Text>
+        <Text>
+            <GUID>1414016055</GUID>
+            <Text>Бамбуковое дерево</Text>
+        </Text>
+        <Text>
+            <GUID>1414016056</GUID>
+            <Text>Мощёное бамбуковое дерево</Text>
+        </Text>
+        <Text>
+            <GUID>1414016057</GUID>
+            <Text>Статуя Будды</Text>
+        </Text>
+        <Text>
+            <GUID>1414016058</GUID>
+            <Text>Маленькая статуя дракона</Text>
+        </Text>
+        <Text>
+            <GUID>1414016059</GUID>
+            <Text>Статуя мандарина</Text>
+        </Text>
+        <Text>
+            <GUID>1414016060</GUID>
+            <Text>Статуя кошки</Text>
+        </Text>
+        <Text>
+            <GUID>1414016061</GUID>
+            <Text>Большая статуя самурая</Text>
+        </Text>
+        <Text>
+            <GUID>1414016062</GUID>
+            <Text>Статуя дракона Стэнфорда</Text>
+        </Text>
+        <Text>
+            <GUID>1414016063</GUID>
+            <Text>Статуя цилиня</Text>
+        </Text>
+        <Text>
+            <GUID>1414016064</GUID>
+            <Text>Фонари тётин</Text>
+        </Text>
+        <Text>
+            <GUID>1414016065</GUID>
+            <Text>Мощёный каменный фонарь</Text>
+        </Text>
+        <Text>
+            <GUID>1414016066</GUID>
+            <Text>Каменный фонарь</Text>
+        </Text>
+        <Text>
+            <GUID>1414016067</GUID>
+            <Text>Деревянный фонарь</Text>
+        </Text>
+        <Text>
+            <GUID>1414016068</GUID>
+            <Text>Мощёная каменная колонна</Text>
+        </Text>
+        <Text>
+            <GUID>1414016069</GUID>
+            <Text>Каменная колонна</Text>
+        </Text>
+        <Text>
+            <GUID>1414016006</GUID>
+            <Text>Разровненный гравий</Text>
+        </Text>
+        <Text>
+            <GUID>1414016007</GUID>
+            <Text>Логотип Гравийного союза</Text>
+        </Text>
+        <Text>
+            <GUID>1414016008</GUID>
+            <Text>Гравийный символ Инь-Ян</Text>
+        </Text>
+        <Text>
+            <GUID>1414016009</GUID>
+            <Text>Гравийные кусты</Text>
+        </Text>
+        <Text>
+            <GUID>1414016010</GUID>
+            <Text>Разровненные гравийные кусты</Text>
+        </Text>
+        <Text>
+            <GUID>1414016011</GUID>
+            <Text>Гравийный самшит</Text>
+        </Text>
+        <Text>
+            <GUID>1414016012</GUID>
+            <Text>Разровненный гравийный самшит</Text>
+        </Text>
+        <Text>
+            <GUID>1414016013</GUID>
+            <Text>Разровненный гравий с камнями</Text>
+        </Text>
+        <Text>
+            <GUID>1414016014</GUID>
+            <Text>Каменная дорожка</Text>
+        </Text>
+        <Text>
+            <GUID>1414016015</GUID>
+            <Text>Разровненная каменная дорожка</Text>
+        </Text>
+        <Text>
+            <GUID>1414016016</GUID>
+            <Text>Гравийная скульптура</Text>
+        </Text>
+        <Text>
+            <GUID>1414016021</GUID>
+            <Text>Большие гравийные кусты</Text>
+        </Text>
+        <Text>
+            <GUID>1414016022</GUID>
+            <Text>Большие разровненные гравийные кусты</Text>
+        </Text>
+        <Text>
+            <GUID>1414016023</GUID>
+            <Text>Гравийные камни</Text>
+        </Text>
+        <Text>
+            <GUID>1414016024</GUID>
+            <Text>Гравийные узоры</Text>
+        </Text>
+        <Text>
+            <GUID>1414016071</GUID>
+            <Text>Дорожка</Text>
+        </Text>
+        <Text>
+            <GUID>1414016072</GUID>
+            <Text>Трава</Text>
+        </Text>
+        <Text>
+            <GUID>1414016073</GUID>
+            <Text>Рощи</Text>
+        </Text>
+        <Text>
+            <GUID>1414016070</GUID>
+            <Text>Большая статуя Будды</Text>
+        </Text>
+
+        <Text>
+            <GUID>1414016093</GUID>
+            <Text>Мискантус</Text>
+        </Text>
+        <Text>
+            <GUID>1414016094</GUID>
+            <Text>Мощёные дорожки</Text>
+        </Text>
+        <Text>
+            <GUID>1414016095</GUID>
+            <Text>Маяк</Text>
+        </Text>
+        <Text>
+            <GUID>1414016096</GUID>
+            <Text>Бамбуковый забор</Text>
+        </Text>
+        <Text>
+            <GUID>1414016097</GUID>
+            <Text>Стела</Text>
+        </Text>
+        <Text>
+            <GUID>1414016098</GUID>
+            <Text>Ветряная пальма</Text>
+        </Text>
+        <Text>
+            <GUID>1414016099</GUID>
+            <Text>Мощёная ветряная пальма</Text>
+        </Text>
+        <Text>
+            <GUID>1414016100</GUID>
+            <Text>Лунные ворота</Text>
+        </Text>
+        <Text>
+            <GUID>1414016101</GUID>
+            <Text>Городская стена</Text>
+        </Text>
+        <Text>
+            <GUID>1414016102</GUID>
+            <Text>Башни городской стены</Text>
+        </Text>
+        <Text>
+            <GUID>1414016103</GUID>
+            <Text>Ворота городской стены</Text>
+        </Text>
+        <Text>
+            <GUID>1414016104</GUID>
+            <Text>Укреплённые ворота городской стены</Text>
+        </Text>
+        <Text>
+            <GUID>1414016105</GUID>
+            <Text>Угловые ворота городской стены</Text>
+        </Text>
+        <Text>
+            <GUID>1414016106</GUID>
+            <Text>Широкие ворота городской стены</Text>
+        </Text>
+        <Text>
+            <GUID>1414016107</GUID>
+            <Text>Широкие укреплённые ворота городской стены</Text>
+        </Text>
+        <Text>
+            <GUID>1414016108</GUID>
+            <Text>Вход в аркаду</Text>
+        </Text>
+        <Text>
+            <GUID>1414016109</GUID>
+            <Text>Большой вход в аркаду</Text>
+        </Text>
+        <Text>
+            <GUID>1414016110</GUID>
+            <Text>Маленькие камни I</Text>
+        </Text>
+        <Text>
+            <GUID>1414016111</GUID>
+            <Text>Маленькие камни II</Text>
+        </Text>
+        <Text>
+            <GUID>1414016112</GUID>
+            <Text>Маленькие камни III</Text>
+        </Text>
+        <Text>
+            <GUID>1414016113</GUID>
+            <Text>Маленькие камни IV</Text>
+        </Text>
+        <Text>
+            <GUID>1414016114</GUID>
+            <Text>Маленькие камни V</Text>
+        </Text>
+        <Text>
+            <GUID>1414016115</GUID>
+            <Text>Маленькие камни VI</Text>
+        </Text>
+        <Text>
+            <GUID>1414016116</GUID>
+            <Text>Маленькие камни VII</Text>
+        </Text>
+        <Text>
+            <GUID>1414016117</GUID>
+            <Text>Маленькие камни VIII</Text>
+        </Text>
+        <Text>
+            <GUID>1414016118</GUID>
+            <Text>Средние камни I</Text>
+        </Text>
+        <Text>
+            <GUID>1414016119</GUID>
+            <Text>Средние камни II</Text>
+        </Text>
+        <Text>
+            <GUID>1414016120</GUID>
+            <Text>Средние камни III</Text>
+        </Text>
+        <Text>
+            <GUID>1414016121</GUID>
+            <Text>Средние камни IV</Text>
+        </Text>
+        <Text>
+            <GUID>1414016122</GUID>
+            <Text>Средние камни V</Text>
+        </Text>
+        <Text>
+            <GUID>1414016123</GUID>
+            <Text>Большие камни I</Text>
+        </Text>
+        <Text>
+            <GUID>1414016124</GUID>
+            <Text>Большие камни II</Text>
+        </Text>
+        <Text>
+            <GUID>1414016125</GUID>
+            <Text>Большие камни III</Text>
+        </Text>
+
+        <Text>
+            <GUID>1414016126</GUID>
+            <Text>Маленькие сухие камни I</Text>
+        </Text>
+        <Text>
+            <GUID>1414016127</GUID>
+            <Text>Маленькие сухие камни II</Text>
+        </Text>
+        <Text>
+            <GUID>1414016128</GUID>
+            <Text>Маленькие сухие камни III</Text>
+        </Text>
+        <Text>
+            <GUID>1414016129</GUID>
+            <Text>Маленькие сухие камни IV</Text>
+        </Text>
+        <Text>
+            <GUID>1414016130</GUID>
+            <Text>Маленькие сухие камни V</Text>
+        </Text>
+        <Text>
+            <GUID>1414016131</GUID>
+            <Text>Маленькие сухие камни VI</Text>
+        </Text>
+        <Text>
+            <GUID>1414016132</GUID>
+            <Text>Маленькие сухие камни VII</Text>
+        </Text>
+        <Text>
+            <GUID>1414016133</GUID>
+            <Text>Маленькие сухие камни VIII</Text>
+        </Text>
+        <Text>
+            <GUID>1414016134</GUID>
+            <Text>Средние сухие камни I</Text>
+        </Text>
+        <Text>
+            <GUID>1414016135</GUID>
+            <Text>Средние сухие камни II</Text>
+        </Text>
+        <Text>
+            <GUID>1414016136</GUID>
+            <Text>Средние сухие камни III</Text>
+        </Text>
+        <Text>
+            <GUID>1414016137</GUID>
+            <Text>Средние сухие камни IV</Text>
+        </Text>
+        <Text>
+            <GUID>1414016138</GUID>
+            <Text>Средние сухие камни V</Text>
+        </Text>
+        <Text>
+            <GUID>1414016139</GUID>
+            <Text>Большие сухие камни I</Text>
+        </Text>
+        <Text>
+            <GUID>1414016140</GUID>
+            <Text>Большие сухие камни II</Text>
+        </Text>
+        <Text>
+            <GUID>1414016141</GUID>
+            <Text>Большие сухие камни III</Text>
+        </Text>
+        <Text>
+            <GUID>1414016142</GUID>
+            <Text>Керрия</Text>
+        </Text>
+        <Text>
+            <GUID>1414016143</GUID>
+            <Text>Пальма ливистона</Text>
+        </Text>
+        <Text>
+            <GUID>1414016144</GUID>
+            <Text>Небесный бамбук</Text>
+        </Text>
+        <Text>
+            <GUID>1414016145</GUID>
+            <Text>Османтус</Text>
+        </Text>
+        <Text>
+            <GUID>1414016146</GUID>
+            <Text>Пион</Text>
+        </Text>
+        <Text>
+            <GUID>1414016147</GUID>
+            <Text>Бирючина</Text>
+        </Text>
+        <Text>
+            <GUID>1414016148</GUID>
+            <Text>Рододендрон</Text>
+        </Text>
+        <Text>
+            <GUID>1414016149</GUID>
+            <Text>Розы</Text>
+        </Text>
+        <Text>
+            <GUID>1414016150</GUID>
+            <Text>Спирея</Text>
+        </Text>
+        <Text>
+            <GUID>1414016151</GUID>
+            <Text>Мощёное дерево</Text>
+        </Text>
+        <Text>
+            <GUID>1414016152</GUID>
+            <Text>Дерево</Text>
+        </Text>
+        <Text>
+            <GUID>1414016091</GUID>
+            <Text>Большие ворота пайфун</Text>
+        </Text>
+        <Text>
+            <GUID>1414016092</GUID>
+            <Text>Маленькие ворота пайфун</Text>
+        </Text>
+        <Text>
+            <GUID>1414016090</GUID>
+            <Text>Буква Хэй</Text>
+        </Text>
+        <Text>
+            <GUID>1414018048</GUID>
+            <Text>Символизирует мастерство, аутентичность, эмоции и интеллект. Тщательно проработанный и созданный с заботой, этот символ становится инструментом сообщества для формирования их мира ANNO. Необходим для воплощения премиального градостроительного симулятора.</Text>
+        </Text>
+        <Text>
+            <GUID>1414006704</GUID>
+            <Text>Хорошее место для семейного отдыха. Теперь бы найти фотографа...</Text>
+        </Text>
+        <Text>
+            <GUID>1414006705</GUID>
+            <Text>Он грубый... и жёсткий... и раздражает, и попадает... стоп, не тот грунт.</Text>
+        </Text>
+        <Text>
+            <GUID>1414016026</GUID>
+            <Text>Пагода</Text>
+        </Text>
+        <Text>
+            <GUID>1414016025</GUID>
+            <Text>Дзен-мощение</Text>
+        </Text>
+        <Text>
+            <GUID>1414016001</GUID>
+            <Text>Беседка</Text>
+        </Text>
+        <Text>
+            <GUID>1414006703</GUID>
+            <Text>Садовое украшение</Text>
+        </Text>
+        <Text>
+            <GUID>1414006672</GUID>
+            <Text>Стройте садовые украшения на острове, чтобы увеличить радиус действия главного сада.</Text>
+        </Text>
+        <Text>
+            <GUID>1442564</GUID>
+            <Text>Радиус сада</Text>
+        </Text>
+        <Text>
+            <GUID>1442560</GUID>
+            <Text>Садовые ворота</Text>
+        </Text>
+        <Text>
+            <GUID>1414006793</GUID>
+            <Text>Обеспечивает услугу для ваших жителей. Радиус действия можно увеличить с помощью садовых украшений.</Text>
+        </Text>
+        <Text>
+            <GUID>1414006746</GUID>
+            <Text>Садовые украшения</Text>
+        </Text>
+        <Text>
+            <GUID>1414006718</GUID>
+            <Text>Садовые украшения повышают привлекательность и увеличивают радиус действия садовых ворот</Text>
+        </Text>
+    </ModOp>
+</ModOps>

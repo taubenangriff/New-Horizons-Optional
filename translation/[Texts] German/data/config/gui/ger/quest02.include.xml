@@ -1,0 +1,564 @@
+<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <Text>
+            <GUID>1414041400</GUID>
+            <Text>Die flammende Bedrohung</Text>
+        </Text>
+        <Text>
+            <GUID>1414041401</GUID>
+            <Text>Mehrere Handelsschiffe von mir, die für die Alte Welt bestimmt sind, sind verschwunden. Meine Handelspartner sind sehr verärgert und verlangen, dass die Waren ohne weitere Verzögerung geliefert werden. Ich möchte, dass Sie die Situation sofort untersuchen.</Text>
+        </Text>
+        <Text>
+            <GUID>1414041402</GUID>
+            <Text>O.H.K. Versand illegaler Waren</Text>
+        </Text>
+        <Text>
+            <GUID>1414041403</GUID>
+            <Text>O.H.K. Transporterwrack</Text>
+        </Text>
+        <Text>
+            <GUID>1414041404</GUID>
+            <Text>„Was? Die Pyrphorianer? Das kann nicht stimmen... sie entfernen sich nie so weit von ihrer Basis. Es scheint, wir müssen eine neue Route berechnen. Danke, dass Sie meine Fracht gerettet haben. Wären Sie bereit, unsere nächste Handelsfahrt zu eskortieren? Uns mangelt es derzeit an Schutz - die Eskorten kommen einfach nicht nach.“</Text>
+        </Text>
+        <Text>
+            <GUID>1414041405</GUID>
+            <Text>Ich danke Ihnen vielmals. Wir waren auf dem Weg in die Alte Welt, um einen Handelspartner zu treffen, als wir von einer pyrophorischen Patrouille überfallen wurden. Normalerweise wagen sie sich nicht so weit raus...“</Text>
+        </Text>
+        <Text>
+            <GUID>1414041406</GUID>
+            <Text>Eine Handelsschiffsflotte, die James Goodwill gehört, scheint verschwunden zu sein. Er möchte, dass Sie weitere Nachforschungen anstellen.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042201</GUID>
+            <Text>[AssetData([NotificationContext CharacterGUID]) Text] akzeptiert Ihren Spezialisten als Tribut.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042206</GUID>
+            <Text>[AssetData([NotificationContext CharacterGUID]) Text] bietet Ihnen Schutz für Ihren Tribut.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042207</GUID>
+            <Text>Schutz vor den Pyrphoriern I</Text>
+        </Text>
+        <Text>
+            <GUID>1414042208</GUID>
+            <Text>Sie haben den Pyrphorianern einen Tribut für ihre Rituale gebracht. Im Gegenzug haben sie Ihnen eine zeitlich begrenzte Sicherheitsgarantie gewährt.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042209</GUID>
+            <Text>Schutz vor den Pyrphoriern II</Text>
+        </Text>
+        <Text>
+            <GUID>1414042210</GUID>
+            <Text>Schutz vor den Pyrphoriern III</Text>
+        </Text>
+        <Text>
+            <GUID>1414042211</GUID>
+            <Text>Schutz vor den Pyrphoriern IV</Text>
+        </Text>
+        <Text>
+            <GUID>1414042212</GUID>
+            <Text>Schutz vor den Pyrphoriern V</Text>
+        </Text>
+        <Text>
+            <GUID>1414041501</GUID>
+            <Text>Die Gōngrén, die in einer der zahlreichen Fabriken des Magnaten arbeiten, fordern bessere Arbeitsbedingungen. Der Magnat lehnt diese Forderungen entschieden ab und hat Sie um Unterstützung bei der Lösung der Angelegenheit gebeten.</Text>
+        </Text>
+        <Text>
+            <GUID>1414041502</GUID>
+            <Text>Geben Sie dem Magnaten freie Hand</Text>
+        </Text>
+        <Text>
+            <GUID>1414041503</GUID>
+            <Text>Hören Sie sich die Angelegenheit an</Text>
+        </Text>
+        <Text>
+            <GUID>1414041504</GUID>
+            <Text>Diese Arbeitnehmer haben Glück, dass sie überhaupt einen Arbeitsplatz haben, und jetzt fordern sie bessere Bedingungen? Das ist absurd! Ihre Aktionen gefährden die Effizienz meiner Fabriken, und das muss schnellstens geregelt werden. Sprechen Sie mit ihnen, wenn Sie müssen, aber verschwenden Sie nicht meine Zeit.</Text>
+        </Text>
+        <Text>
+            <GUID>1414041505</GUID>
+            <Text>Sie lassen uns schon jetzt zu Tode arbeiten! Wir haben nur 30 Minuten Pause pro Tag, und wenn wir auch nur ein paar Minuten zu spät kommen, werden wir für den Rest des Tages ausgesperrt. Ein Freund von mir hat bei einem Maschinenunfall seine Hand verloren, aber als ein Inspektor kam, behauptete er, alles sei „sicher“. Mein Freund bekam nicht einmal einen einzigen Tag frei, um sich zu erholen, und als er am nächsten Tag nicht arbeiten konnte, wurde er entlassen. Er hat immer noch keinen neuen Job gefunden. Bitte, wir sind verzweifelt - wir flehen Sie an, uns zu helfen!</Text>
+        </Text>
+        <Text>
+            <GUID>1414041506</GUID>
+            <Text>Den Magnaten unterstützen</Text>
+        </Text>
+        <Text>
+            <GUID>1414041507</GUID>
+            <Text>Den Gōngrén unterstützen</Text>
+        </Text>
+        <Text>
+            <GUID>1414041508</GUID>
+            <Text>„Der Magnat hat Recht. Sie sollten dankbar sein, Arbeit zu haben. Sie haben nichts falsch gemacht. Die Fabrik kann gut laufen, so wie sie ist.“</Text>
+        </Text>
+        <Text>
+            <GUID>1414041509</GUID>
+            <Text>„Ein einziges Menschenleben ist mehr wert als all die Profite, die dieser Magnat anhäuft. Ich werde dafür sorgen, dass diese Angelegenheit aufgeklärt wird - und die Fabriken voll zur Rechenschaft gezogen werden.“</Text>
+        </Text>
+        <Text>
+            <GUID>1414041510</GUID>
+            <Text>Vermitteln Sie zwischen dem Magnaten und seinen Arbeitern</Text>
+        </Text>
+        <Text>
+            <GUID>1414041500</GUID>
+            <Text>Frechheit! Von?</Text>
+        </Text>
+        <Text>
+            <GUID>1414041512</GUID>
+            <Text>[AssetData([NotificationContext CharacterGUID]) Text] bietet Ihnen eine Entscheidungsquest an</Text>
+        </Text>
+        <Text>
+            <GUID>1414041514</GUID>
+            <Text>"Wir müssen alle den Gürtel enger schnallen"</Text>
+        </Text>
+        <Text>
+            <GUID>1414041516</GUID>
+            <Text>"Wir müssen alle den Gürtel enger schnallen"</Text>
+        </Text>
+        <Text>
+            <GUID>1414041515</GUID>
+            <Text>Solidarität mit dem Proletariat</Text>
+        </Text>
+        <Text>
+            <GUID>1414041517</GUID>
+            <Text>Solidarität mit dem Proletariat</Text>
+        </Text>
+        <Text>
+            <GUID>1414041518</GUID>
+            <Text>Versprechen Sie, diese Angelegenheit in der nächsten Parlamentssitzung vorzutragen</Text>
+        </Text>
+        <Text>
+            <GUID>1414043000</GUID>
+            <Text>Exotik-Essen</Text>
+        </Text>
+        <Text>
+            <GUID>1414043001</GUID>
+            <Text>„Der Besitzer eines Imbissstandes stellt einen stetigen Rückgang des Geschäfts fest. In der Hoffnung, das Geschäft anzukurbeln, möchte er einige ausländische Küchen ausprobieren, um neue Rezepte zu entwickeln. Werden Sie ihm bei seiner kulinarischen Suche behilflich sein?</Text>
+        </Text>
+        <Text>
+            <GUID>1414043002</GUID>
+            <Text>Das Geschäft läuft schlecht... Ich habe Angst, dass ich meinen Imbissstand verliere. Vielleicht könnte etwas Exotisches die Dinge zum Besseren wenden. Könnten Sie mir ein paar ungewöhnliche Gerichte bringen? Etwas, das vielleicht ein wenig Inspiration bringt.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042500</GUID>
+            <Text>experimentelles Management</Text>
+        </Text>
+        <Text>
+            <GUID>1414042501</GUID>
+            <Text>Ein wohlhabender Magnat ist mit einem kühnen Vorschlag an Sie herangetreten: Sie sollen ein generationenübergreifendes Managementexperiment in der Radioproduktion leiten, um die Gültigkeit seiner neuesten Managementtheorie zu testen.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042502</GUID>
+            <Text>Seid gegrüßt! Ich bin Docteur Tzeentch, Leiter der imperialen Verwaltung an der Königlichen Börse. Mit Ihrer Erlaubnis möchte ich meine jüngste Theorie in der praktischen Regierungsführung erproben - natürlich auf einer Ihrer Inseln.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042503</GUID>
+            <Text>Ja, ja - das ist ein positives Ergebnis. Es ist offensichtlich, dass die aufgestellte Vermutung tatsächlich gültig ist. Der nächste Schritt besteht darin, die Erweiterungsgleichung zu überprüfen.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042504</GUID>
+            <Text>Halten Sie:&lt;br/&gt;Erhöhte Produktivität von Arbeitsbedingungen für [AssetData(1441015) Text]: [Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount]% für [Conditions QuestCondition TimeLimit &gt;&gt; time]</Text>
+        </Text>
+        <Text>
+            <GUID>1414042505</GUID>
+            <Text>Genug ist genug! Diese Experimente sind unerträglich! Wir hören auf!</Text>
+        </Text>
+        <Text>
+            <GUID>1414043400</GUID>
+            <Text>Was wie eine Ente aussieht..</Text>
+        </Text>
+        <Text>
+            <GUID>1414043401</GUID>
+            <Text>Ein Magnat hat sich mit einer ungewöhnlichen Bitte an Sie gewandt. Seine kleine Tochter hat in letzter Zeit eine große Faszination für Enten entwickelt und nervt ihn seitdem ständig mit diesen Tieren. Ein Foto von ein paar Enten, nur für sie, könnte helfen, die wütende Dreijährige zu beruhigen.</Text>
+        </Text>
+        <Text>
+            <GUID>1414043402</GUID>
+            <Text>Sie müssen mir helfen. Meine Tochter ist drei Jahre alt und hat plötzlich beschlossen, dass Enten die tollste Sache der Welt sind. Von morgens bis abends redet sie immer wieder von diesen dummen Vögeln. Ich kann nicht schlafen. Ich kann nicht denken. Bitte - bringen Sie mir einfach ein Foto von ein paar Enten. Vielleicht verschafft mir das einen Moment der Ruhe.</Text>
+        </Text>
+        <Text>
+            <GUID>1414043600</GUID>
+            <Text>Das Unschuldslamm</Text>
+        </Text>
+        <Text>
+            <GUID>1414043601</GUID>
+            <Text>Goodwill hat Ihre Hilfe für einen ziemlich vagen Vertrag angefordert und behauptet, es gehe darum, das kollektive Fachwissen der Ölindustrie zu fördern. Wahrscheinlich ist das alles ganz legal... wahrscheinlich.</Text>
+        </Text>
+        <Text>
+            <GUID>1414043602</GUID>
+            <Text>Mein guter Freund! Immer zuverlässig, immer diskret. Mir ist zu Ohren gekommen, dass bestimmte... technische Schnörkel in der Konstruktion Eurer Ölbohrtürme die Aufmerksamkeit einiger Brancheninsider im Königlichen Rat erregt haben. Sie sind begierig darauf, mehr zu erfahren - und sie sind bereit, großzügig dafür zu bezahlen!</Text>
+        </Text>
+        <Text>
+            <GUID>1414043500</GUID>
+            <Text>Undankbare Gäste</Text>
+        </Text>
+        <Text>
+            <GUID>1414043501</GUID>
+            <Text>Ein Militärkurier im Dienste von Admiral Wu machte auf seiner Reise einen kurzen Zwischenstopp im Haus eines Gōngrén, doch seine Eskorte hat die Vorräte des Gastgebers geplündert. Helfen Sie, das Verlorene wieder aufzufüllen.</Text>
+        </Text>
+        <Text>
+            <GUID>1414043502</GUID>
+            <Text>Typisch! Irgendein herrischer kleiner Offizier unter der Flagge von Wu musste auf dem Weg zur Übergabe von Berichten oder sonstigem Unsinn über Nacht anhalten. Aber am Morgen entdeckte ich, dass er und seine Bande von Nichtsnutzen alle Schränke und Regale in meiner Küche geleert hatten! Sie haben mein ganzes Essen einfach verputzt, so eine Frechheit! Können Sie mir helfen, das zu ersetzen, was sie genommen haben?</Text>
+        </Text>
+        <Text>
+            <GUID>1414042600</GUID>
+            <Text>Der Gesandte</Text>
+        </Text>
+        <Text>
+            <GUID>1414042601</GUID>
+            <Text>Admiral Wu hat sich an Sie gewandt und bittet Sie um Ihre Hilfe bei der Bekämpfung der örtlichen Piraten. Er behauptet, er wolle damit den kommenden kaiserlichen Gesandten beeindrucken und seine Erfolge demonstrieren. Doch irgendetwas an der Situation fühlt sich komisch an - es scheint, dass die Dinge nicht so einfach sind...</Text>
+        </Text>
+        <Text>
+            <GUID>1414042602</GUID>
+            <Text>Der Abgesandte des Kaisers, General Li - mein alter Freund und Feind - will die Fortschritte in Horai inspizieren. Beeilt euch! Es gibt noch viel zu tun!</Text>
+        </Text>
+        <Text>
+            <GUID>1414042603</GUID>
+            <Text>Ausgezeichnet! Diese Schiffswracks sind ein Beweis für den Erfolg meiner Arbeit hier! Als Nächstes werden wir General Li kurz vor seiner Abreise treffen. Wartet! Wo geht er hin? Folgt ihm!</Text>
+        </Text>
+        <Text>
+            <GUID>1414042607</GUID>
+            <Text>Pyrphorischer Kreuzer</Text>
+        </Text>
+        <Text>
+            <GUID>1414042606</GUID>
+            <Text>General Li's vertrauenswürdige Dschunke</Text>
+        </Text>
+        <Text>
+            <GUID>1414042604</GUID>
+            <Text>Piratendschunke</Text>
+        </Text>
+        <Text>
+            <GUID>1414042608</GUID>
+            <Text>Warum? ... Er auch?! ... Ein Verräter! ... Ja! Wir müssen solche Beweise finden! </Text>
+        </Text>
+        <Text>
+            <GUID>1414042609</GUID>
+            <Text>Nehmen Sie ein Foto von General Lis Treffen mit den Pyrphorianern als Beweis.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042610</GUID>
+            <Text>Das sind Ihre Belohnungen. Ich bin sicher, Sie sind klug genug zu schweigen, bis ich meinen Bericht geschrieben habe. Unsere Behörden haben keine Verbindungen zu diesen Brandstiftern! Das ist alles das Werk dieses verfluchten Verräters!</Text>
+        </Text>
+        <Text>
+            <GUID>1414042700</GUID>
+            <Text>Der Geburtstag des Kaisers</Text>
+        </Text>
+        <Text>
+            <GUID>1414042701</GUID>
+            <Text>Der Geburtstag des Kaisers des Tianming-Reiches steht kurz bevor. Admiral Wu, der dem Kaiser etwas Einzigartiges schenken möchte, hat sich an Sie gewandt mit der Bitte, eines Ihrer exotischen Kunstwerke zu erwerben.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042702</GUID>
+            <Text>Seine himmlische Majestät, der Ruize Kaiser, nähert sich mit großer Vorfreude seinem Geburtstag. Es ist die Pflicht und Ehre eines treuen Dieners wie mir, Seine Majestät mit Geschenken zu beschenken, die seiner Größe angemessen sind. Ich weiß, dass Seine Majestät eine große Vorliebe für seltene und exotische Kunstwerke aus fernen Ländern hat. Ihr müsst mich mit den schönsten Stücken versorgen. Aber denkt daran, nur das Beste ist gut genug!</Text>
+        </Text>
+        <Text>
+            <GUID>1414042703</GUID>
+            <Text>Bringen Sie Admiral Wu ein legendäres Artefakt.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042704</GUID>
+            <Text>Dieses Kunstwerk ist wirklich großartig. Ich werde es sofort an den kaiserlichen Palast schicken ... Moment ... es scheint, als hätten es Piraten auf mein Geburtstagsgeschenk für den Kaiser abgesehen! Wir haben keine Zeit zu verlieren - vernichtet sie und rettet das Meisterwerk!</Text>
+        </Text>
+        <Text>
+            <GUID>1414042705</GUID>
+            <Text>Ausgezeichnet! Aus Sicherheitsgründen wird Ihre Bezahlung erst dann erfolgen, wenn Sie den Konvoi mit den Geburtstagsgeschenken des Kaisers in Sicherheit gebracht haben. Ich versichere Ihnen, dass die Belohnung für diese Aufgabe verdoppelt wird.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042706</GUID>
+            <Text>Die Geburtstagsgeschenke des Kaisers</Text>
+        </Text>
+        <Text>
+            <GUID>1414042707</GUID>
+            <Text>Transporter mit Geschenken</Text>
+        </Text>
+        <Text>
+            <GUID>1414042708</GUID>
+            <Text>Begleiten Sie die Geburtstagsgeschenke des Kaisers aus der Region.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042709</GUID>
+            <Text>Piratendschunke</Text>
+        </Text>
+        <Text>
+            <GUID>1414042710</GUID>
+            <Text>Eine vom Admiral zusammengestellte Sammlung von Geschenken.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042712</GUID>
+            <Text>Wählen Sie den Transporter, der mit den Geschenken wartet.</Text>
+        </Text>
+        <Text>
+            <GUID>1414043700</GUID>
+            <Text>Wiederaufbau</Text>
+        </Text>
+        <Text>
+            <GUID>1414043701</GUID>
+            <Text>Die Einwohner von Majipun suchen nach Zementmustern aus der Alten Welt, um sie mit ihren eigenen lokalen Materialien zu vergleichen.</Text>
+        </Text>
+        <Text>
+            <GUID>1414043702</GUID>
+            <Text>Obwohl unser Sanhetu-Beton von höchster Qualität ist, möchten einige Gelehrte des Tiangming Guo die Eigenschaften des Kalksteins, der in Ihrem eigenen Zement verwendet wird, untersuchen. Zufälligerweise wurde ich damit beauftragt, dies zu ermöglichen, so dass Sie die Materialien direkt zu mir bringen können.</Text>
+        </Text>
+        <Text>
+            <GUID>1414043800</GUID>
+            <Text>Erleuchtete Portraitmaler</Text>
+        </Text>
+        <Text>
+            <GUID>1414043801</GUID>
+            <Text>Lithophane sind eine schnell wachsende Fantasie unter euren Magnaten. Hier lässt sich Geld verdienen.</Text>
+        </Text>
+        <Text>
+            <GUID>1414043802</GUID>
+            <Text>Haben Sie in letzter Zeit diese exquisiten Porzellanteller gesehen, die jeder in seinen zweiten Wohnzimmern ausstellt? Ich unterstütze ein Unternehmen, das sie hier herstellt. Bringen Sie mir das Material, und Sie bekommen Ihren Anteil am Gewinn.</Text>
+        </Text>
+        <Text>
+            <GUID>1414043300</GUID>
+            <Text>Selektive Züchtung</Text>
+        </Text>
+        <Text>
+            <GUID>1414043301</GUID>
+            <Text>Eine Gruppe von Landwirten experimentiert mit selektiver Reiszüchtung, um die Erträge zu steigern und die Widerstandsfähigkeit gegen Trockenheit, Monsun, Schädlinge und Ungeziefer zu erhöhen.</Text>
+        </Text>
+        <Text>
+            <GUID>1414043302</GUID>
+            <Text>Der Reis auf unseren Feldern wächst größer als die Menschen. Wenn ich mich träumend zwischen die Halme lege, schützen mich ihre schweren goldenen Ähren vor der Sonne.</Text>
+        </Text>
+        <Text>
+            <GUID>1414043303</GUID>
+            <Text>Dies ist ein vielversprechender Anfang für Experimente. Jetzt brauchen wir widerstandsfähige Pflanzen vom anderen Ende der Welt - solche, die Krankheiten widerstehen können. Wir werden sie mit unseren Reispflanzen kreuzen und unsere Erträge steigern. Unsere Ernten und die unserer Kinder müssen um jeden Preis gesichert werden!</Text>
+        </Text>
+        <Text>
+            <GUID>1414043200</GUID>
+            <Text>Lobbyistenwelle</Text>
+        </Text>
+        <Text>
+            <GUID>1414043201</GUID>
+            <Text>Ein reicher Magnat schlägt vor, auf der Insel, auf der er lebt, einen Funkturm zu errichten und bietet an, den Bau zu finanzieren und Gelehrte für den Betrieb einzustellen. Im Gegenzug ist er der Meinung, dass er uneingeschränkten Zugang zur Nutzung des Turms haben sollte. Die Gelehrten hingegen argumentieren, dass im Geiste des Fortschritts einige der Kanäle der wissenschaftlichen Forschung und Entdeckung vorbehalten sein sollten. Wessen Vision werden Sie unterstützen?</Text>
+        </Text>
+        <Text>
+            <GUID>1414043202</GUID>
+            <Text>Ich habe einen umfassenden Geschäftsplan für Investitionen in die öffentliche Rundfunkinfrastruktur erstellt. Was ist das für ein Lärm da draußen - Regulierung??? Pff... Wenn Sie den Turm bauen, habe ich den Scheck schon unterschrieben, bevor sie die erste Beschwerde einreichen.</Text>
+        </Text>
+        <Text>
+            <GUID>1414043204</GUID>
+            <Text>„Alle Radiofrequenzen sollten den Regeln des freien Marktes unterworfen werden! Diese Demonstranten sind so berechtigt, dass sie tatsächlich glauben, dass einige Kanäle für die wissenschaftliche Forschung und nicht für die Werbung reserviert werden sollten, was dem Abkommen direkt widerspricht!"</Text>
+        </Text>
+        <Text>
+            <GUID>1414043205</GUID>
+            <Text>Vermitteln sie einen Deal</Text>
+        </Text>
+        <Text>
+            <GUID>1414043206</GUID>
+            <Text>Alle Frequenzen dem freien Markt überlassen</Text>
+        </Text>
+        <Text>
+            <GUID>1414043207</GUID>
+            <Text>Reservieren sie Frequenzen für die Wissenschaft</Text>
+        </Text>
+        <Text>
+            <GUID>1414043208</GUID>
+            <Text>Zelebrieren sie den Deal mit einer Feier</Text>
+        </Text>
+        <Text>
+            <GUID>1414043209</GUID>
+            <Text>Unterschreiben sie sang- und klanglos</Text>
+        </Text>
+        <Text>
+            <GUID>1414043210</GUID>
+            <Text>Gut gemacht! Ich wusste, dass du dir so ein Angebot nicht entgehen lassen würdest. Herzlichen Glückwunsch - Sie sind jetzt offiziell einer von uns! Lassen Sie uns auf unser neues Gut anstoßen, das durch privates Kapital ermöglicht wurde, zum Wohle aller!</Text>
+        </Text>
+        <Text>
+            <GUID>1414043211</GUID>
+            <Text>Privatsponsoring</Text>
+        </Text>
+        <Text>
+            <GUID>1414043212</GUID>
+            <Text>Wir werden nicht einmal merken, dass die Magnaten sich zwischen uns und unsere öffentlichen Dienste gesetzt haben, bis es zu spät ist.</Text>
+        </Text>
+        <Text>
+            <GUID>1414043213</GUID>
+            <Text>IETE-Stipendium</Text>
+        </Text>
+        <Text>
+            <GUID>1414043214</GUID>
+            <Text>Für die Wissenschaft! Da wir gerade bei klugen Investitionen sind: Könnten Sie uns bitte die notwendigen Versuchsinstrumente zur Verfügung stellen? Wir müssen sofort mit unseren Forschungen beginnen!</Text>
+        </Text>
+        <Text>
+            <GUID>1414043215</GUID>
+            <Text>In Anerkennung Ihrer herausragenden Beiträge freuen wir uns, Sie für den kommenden Gipfel als Ehrenteilnehmer des Institute of Electrical and Telegraphic Engineers einzuladen!</Text>
+        </Text>
+        <Text>
+            <GUID>1414043216</GUID>
+            <Text>Fortfahren</Text>
+        </Text>
+        <Text>
+            <GUID>1414043217</GUID>
+            <Text>Halten Sie eine langweilige Rede darüber, wie wichtig es für alle anderen ist, in die Forschung zu investieren.</Text>
+        </Text>
+        <Text>
+            <GUID>1414043218</GUID>
+            <Text>Geld und Standardisierung erleichtern die Forschung.</Text>
+        </Text>
+        <Text>
+            <GUID>1414043219</GUID>
+            <Text>Investment vornehmen</Text>
+        </Text>
+        <Text>
+            <GUID>1414043904</GUID>
+            <Text>Annonym</Text>
+        </Text>
+        <Text>
+            <GUID>1414043902</GUID>
+            <Text>Goodwills Kunde</Text>
+        </Text>
+        <Text>
+            <GUID>1414043903</GUID>
+            <Text>O.H.K. Frachter</Text>
+        </Text>
+        <Text>
+            <GUID>1414043900</GUID>
+            <Text>O.H.K. Lieferung: Prime Shipping</Text>
+        </Text>
+        <Text>
+            <GUID>1440508</GUID>
+            <Text>Verpackte Güter</Text>
+        </Text>
+        <Text>
+            <GUID>1414043905</GUID>
+            <Text>Meine Männer haben die Schmuggelware auf die Transporter verladen. Unser Auftraggeber möchte das Risiko zu seiner eigenen Sicherheit verteilen und hat uns vier Treffpunkte zur Verfügung gestellt. Unser Zeitplan ist jedoch eng - diese Lieferung muss unverzüglich abgeschlossen werden!</Text>
+        </Text>
+        <Text>
+            <GUID>1414044006</GUID>
+            <Text>Unsere Kunden haben um Lieferung per Luftabwurf gebeten, und die O.H.K. liefert immer, was der Kunde bestellt. Leider verfügt Hafen Omega nicht über eine Luftschiff-Anlegestelle für Ihre Flotte, so dass die einzige Möglichkeit darin besteht, es auf unser eigenes Luftschiff im Hangar zu laden. Ich will es in einem Stück zurückhaben - und vermasseln Sie nicht den Luftabwurf!</Text>
+        </Text>
+        <Text>
+            <GUID>1414044007</GUID>
+            <Text>Liefern Sie Ihre Waren per Luftabwurf. Aber Vorsicht: Sie haben nur einen Versuch!</Text>
+        </Text>
+        <Text>
+            <GUID>1414044000</GUID>
+            <Text>O.H.K. Lieferung: Luftbrücke</Text>
+        </Text>
+        <Text>
+            <GUID>1414044009</GUID>
+            <Text>Abwurfpunkt</Text>
+        </Text>
+        <Text>
+            <GUID>1414044011</GUID>
+            <Text>Tantive</Text>
+        </Text>
+        <Text>
+            <GUID>1414044001</GUID>
+            <Text>James Goodwill's Luftschiff</Text>
+        </Text>
+        <Text>
+            <GUID>1440509</GUID>
+            <Text>Schmuggelware mit Fallschirm</Text>
+        </Text>
+        <Text>
+            <GUID>1414044100</GUID>
+            <Text>O.H.K. Lieferung: Primeversand</Text>
+        </Text>
+        <Text>
+            <GUID>1414044200</GUID>
+            <Text>O.H.K. Lieferung: Primeversand</Text>
+        </Text>
+        <Text>
+            <GUID>1414044300</GUID>
+            <Text>O.H.K. Lieferung: Primeversand</Text>
+        </Text>
+        <Text>
+            <GUID>1414044400</GUID>
+            <Text>O.H.K. Lieferung: Primeversand</Text>
+        </Text>
+        <Text>
+            <GUID>1414043100</GUID>
+            <Text>Feuerwerkmeister</Text>
+        </Text>
+        <Text>
+            <GUID>1414043104</GUID>
+            <Text>Ein junger einheimischer Gōngrén kommt in Ihr Büro und ist sichtlich verzweifelt. Seine Eltern haben auf einer Reise zu ihm Schiffbruch erlitten, und er bittet Sie um Hilfe bei ihrer Rettung. Im Gegenzug bietet er Ihnen an, das berühmte Können seiner Familie zu nutzen, um eine der schönsten Requisiten für ein Feuerwerk anzufertigen, die Sie je gesehen haben.</Text>
+        </Text>
+        <Text>
+            <GUID>1414043105</GUID>
+            <Text>„Administrator, verzeihen Sie die Störung - aber es gab einen Unfall auf einem Schiff, auf dem meine Familie sein sollte. Ich flehe Sie an, bitte ... bringen Sie sie sicher nach Hause!“</Text>
+        </Text>
+        <Text>
+            <GUID>1414043106</GUID>
+            <Text>Ihnen gebührt unsere tiefste Dankbarkeit. Meine Familie stellt seit Generationen Feuerwerkskörper her. Wenn Sie uns etwas Material zur Verfügung stellen können, wäre es uns eine Ehre, Ihnen zu Ehren ein spektakuläres Feuerwerk zu veranstalten, das wir Ihnen schenken.</Text>
+        </Text>
+        <Text>
+            <GUID>1414043107</GUID>
+            <Text>Sehr gut! Ich werde mich an die Arbeit machen. Wenn ich damit fertig bin, sorgen Sie bitte dafür, dass sie nicht wieder um ihr Leben schwimmen müssen - diese Region hat sich bereits als tückisch erwiesen.</Text>
+        </Text>
+        <Text>
+            <GUID>1414044600</GUID>
+            <Text>Tutorial - Wunder</Text>
+        </Text>
+        <Text>
+            <GUID>1414044602</GUID>
+            <Text>Diese Ruinen waren einst großartige Wunder, die die alten Städte von Horai überragten. Jetzt liegt es an Ihnen: Befreien Sie Sich von der Last der Zeit und lüften Sie die Geheimnisse des verlorenen Wunders - oder errichten Sie vielleicht ein neues Wunder an seiner Stelle. Aber das Wichtigste zuerst - es ist Zeit, mit einem gründlichen Aufräumen zu beginnen!</Text>
+        </Text>
+        <Text>
+            <GUID>1414044604</GUID>
+            <Text>Welche Pracht haben Sie hier entdeckt? Wie bei vielen Kulturgütern ist die Bedeutung offen für Interpretationen - das heißt, Sie können selbst entscheiden, welches Wunder Sie auf diesen alten Ruinen wieder aufbauen wollen. Graben Sie weiter, um weitere Wunder freizuschalten, die Sie alle in Ihrem Baumenü finden. Aber denken Sie daran: Bevor Sie Ihr gewähltes Wunder errichten können, müssen Sie zuerst das Fundament fertigstellen!</Text>
+        </Text>
+        <Text>
+            <GUID>1414044605</GUID>
+            <Text>Herzlichen Glückwunsch, Ihr Wunderfundament ist fertig! Jetzt müssen Sie entscheiden, was Sie hier wieder aufbauen wollen. Blättern Sie durch das Baumenü, wählen Sie ein Wunder, das Ihr Interesse weckt, und platzieren Sie es hier.</Text>
+        </Text>
+        <Text>
+            <GUID>1414044900</GUID>
+            <Text>O.H.K. Lieferung: Nadel im Heuhaufen</Text>
+        </Text>
+        <Text>
+            <GUID>1414044901</GUID>
+            <Text>Das Tianming-Reich ist zu einem Hort der Korruption geworden. Um die Gunst der Bürokraten zu erlangen, reicht es oft aus, ihnen ein Bestechungsgeld anzubieten, das den Betrag übersteigt, den ihnen ihr derzeitiger Vorgesetzter zahlt.</Text>
+        </Text>
+        <Text>
+            <GUID>1414044902</GUID>
+            <Text>Die Beamten in Tianming haben die gesamte Ladung beschlagnahmt, genau wie erwartet. Noch vor ein paar Jahren hätten sie alles ohne zu zögern auf der Stelle verbrannt. Zum Glück sind solche Aktionen nicht mehr möglich, ohne gegen den Vertrag der Gleichheit zu verstoßen. Jetzt wird es in ihrem Lager verrotten, es sei denn...</Text>
+        </Text>
+        <Text>
+            <GUID>1414044903</GUID>
+            <Text>Sorgen wir dafür, dass unser Maulwurf ein gut gefülltes Lagerhaus hat, in dem er sich ständig verstecken kann. Es wäre eine Schande, wenn all diese Fracht verloren ginge. Wenn man eine Nadel verstecken wollte, wäre ein Heuhaufen dann nicht der perfekte Ort?</Text>
+        </Text>
+        <Text>
+            <GUID>1414044904</GUID>
+            <Text>Sehr gut, danke für Ihre Großzügigkeit. Ich werde sofort mit den Lieferungen beginnen.</Text>
+        </Text>
+        <Text>
+            <GUID>1414044906</GUID>
+            <Text>Lassen Sie Ihre Transporter von den patrouillierenden Schiffen von Admiral Wu einfangen</Text>
+        </Text>
+        <Text>
+            <GUID>1414044907</GUID>
+            <Text>Was sagen Sie nun dazu? Die Tianming-Beamten nehmen die Patrouillen rund um Majipun wieder auf - entgegen aller Verträge. Ich möchte keinen weiteren Arrow-Zwischenfall provozieren, wie wäre es also stattdessen mit einer kleinen Scharade? Warum sollten wir eine Blockade brechen, wenn wir die Blockierer austricksen können, damit sie die Ware für uns liefern?</Text>
+        </Text>
+        <Text>
+            <GUID>1414044908</GUID>
+            <Text>Besteche den Beamten im Lagerhaus auf Majipun</Text>
+        </Text>
+        <Text>
+            <GUID>1414044909</GUID>
+            <Text>Der Beamte dankt Ihnen für die Bestechung.</Text>
+        </Text>
+        <Text>
+            <GUID>1414015081</GUID>
+            <Text>Majipuns Lagerhaus</Text>
+        </Text>
+        <Text>
+            <GUID>1414044910</GUID>
+            <Text>[AssetData([NotificationContext CharacterGUID]) Text] ist von ihrem schamlosen Durchbruchversuch verärgert</Text>
+        </Text>
+        <Text>
+            <GUID>1414044912</GUID>
+            <Text>Der Beamte ist bereit, Ihre Bestechung anzunehmen.</Text>
+        </Text>
+        <Text>
+            <GUID>1414044913</GUID>
+            <Text>Verkaufen sie Admiral Wu insgesamt &lt;br/&gt;[Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount] Waren.</Text>
+        </Text>
+    </ModOp>
+</ModOps>
