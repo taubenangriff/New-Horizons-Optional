@@ -17,5 +17,6 @@
     <Include File = "./ger/batch18.include.xml" />
     <Include File = "./ger/batch19.include.xml" />
     <Include File = "./ger/quest.include.xml" />
+    <Include File = "./ger/quest02.include.xml" />
     <Include File = "./ger/edit.include.xml" />
 </ModOps>

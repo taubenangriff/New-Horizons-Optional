@@ -1,0 +1,761 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1447700</GUID>
+      <Text>Harbor</Text>
+    </Text>
+    <Text>
+      <GUID>1447701</GUID>
+      <Text>Military Fleet</Text>
+    </Text>
+    <Text>
+      <GUID>1447702</GUID>
+      <Text>Trade</Text>
+    </Text>
+    <Text>
+      <GUID>1447703</GUID>
+      <Text>Science</Text>
+    </Text>
+    <Text>
+      <GUID>54005138</GUID>
+      <Text>Research Good</Text>
+    </Text>
+    <Text>
+      <GUID>14683400</GUID>
+      <Text>Department of Trade</Text>
+    </Text>
+    <Text>
+      <GUID>14683401</GUID>
+      <Text>Department of Trade</Text>
+    </Text>
+    <Text>
+      <GUID>14683402</GUID>
+      <Text>Department of Trade</Text>
+    </Text>
+    <Text>
+      <GUID>14683403</GUID>
+      <Text>Department of Trade</Text>
+    </Text>
+    <Text>
+      <GUID>14683404</GUID>
+      <Text>Department of Trade</Text>
+    </Text>
+    <Text>
+      <GUID>14683405</GUID>
+      <Text>Department of Trade</Text>
+    </Text>
+    <Text>
+      <GUID>14683406</GUID>
+      <Text>Department of Trade</Text>
+    </Text>
+    <Text>
+      <GUID>14683407</GUID>
+      <Text>Department of Trade</Text>
+    </Text>
+    <Text>
+      <GUID>14683408</GUID>
+      <Text>Department of Trade</Text>
+    </Text>
+    <Text>
+      <GUID>14683409</GUID>
+      <Text>Department of Trade</Text>
+    </Text>
+    <Text>
+      <GUID>14683410</GUID>
+      <Text>Department of Trade</Text>
+    </Text>
+    <Text>
+      <GUID>14683900</GUID>
+      <Text>Department of Trade</Text>
+    </Text>
+    <Text>
+      <GUID>14683901</GUID>
+      <Text>Department of Trade</Text>
+    </Text>
+    <Text>
+      <GUID>14683902</GUID>
+      <Text>Department of Trade</Text>
+    </Text>
+    <Text>
+      <GUID>14683903</GUID>
+      <Text>Department of Trade</Text>
+    </Text>
+    <Text>
+      <GUID>14683904</GUID>
+      <Text>Department of Trade</Text>
+    </Text>
+    <Text>
+      <GUID>14683905</GUID>
+      <Text>Department of Trade</Text>
+    </Text>
+    <Text>
+      <GUID>14683906</GUID>
+      <Text>Department of Trade</Text>
+    </Text>
+    <Text>
+      <GUID>14683907</GUID>
+      <Text>Department of Trade</Text>
+    </Text>
+    <Text>
+      <GUID>14683908</GUID>
+      <Text>Department of Trade</Text>
+    </Text>
+    <Text>
+      <GUID>14683909</GUID>
+      <Text>Department of Trade</Text>
+    </Text>
+    <Text>
+      <GUID>14683410</GUID>
+      <Text>Department of Trade</Text>
+    </Text>
+    <Text>
+      <GUID>1414006422</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] asks you to establish a trade route to the Far East. &lt;br /&gt;&lt;br /&gt; (Accepting will start the "New Horizons"- Storyline)</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1414006022</GUID>
+      <Text>As luxurious as it can get.</Text>
+    </Text>
+    <Text>
+      <GUID>1414007000</GUID>
+      <Text>Lemon Fertility</Text>
+    </Text>
+    <Text>
+      <GUID>15100004</GUID>
+      <Text>Tier 1 - Workforce</Text>
+    </Text>
+    <Text>
+      <GUID>15100005</GUID>
+      <Text>Tier 2 - Workforce</Text>
+    </Text>
+    <Text>
+      <GUID>1414008000</GUID>
+      <Text>Conqueror</Text>
+    </Text>
+    <Text>
+      <GUID>1414008003</GUID>
+      <Text>Conqueror</Text>
+    </Text>
+    <Text>
+      <GUID>1414008006</GUID>
+      <Text>Conqueror</Text>
+    </Text>
+    <Text>
+      <GUID>1414008009</GUID>
+      <Text>Conqueror</Text>
+    </Text>
+    <Text>
+      <GUID>1414008012</GUID>
+      <Text>Conqueror</Text>
+    </Text>
+    <Text>
+      <GUID>1414008015</GUID>
+      <Text>Conqueror</Text>
+    </Text>
+    <Text>
+      <GUID>1414008001</GUID>
+      <Text>Unifier</Text>
+    </Text>
+    <Text>
+      <GUID>1414008004</GUID>
+      <Text>Unifier</Text>
+    </Text>
+    <Text>
+      <GUID>1414008007</GUID>
+      <Text>Unifier</Text>
+    </Text>
+    <Text>
+      <GUID>1414008010</GUID>
+      <Text>Unifier</Text>
+    </Text>
+    <Text>
+      <GUID>1414008013</GUID>
+      <Text>Unifier</Text>
+    </Text>
+    <Text>
+      <GUID>1414008016</GUID>
+      <Text>Unifier</Text>
+    </Text>
+    <Text>
+      <GUID>1414008002</GUID>
+      <Text>Imperialist</Text>
+    </Text>
+    <Text>
+      <GUID>1414008005</GUID>
+      <Text>Imperialist</Text>
+    </Text>
+    <Text>
+      <GUID>1414008008</GUID>
+      <Text>Imperialist</Text>
+    </Text>
+    <Text>
+      <GUID>1414008011</GUID>
+      <Text>Imperialist</Text>
+    </Text>
+    <Text>
+      <GUID>1414008014</GUID>
+      <Text>Imperialist</Text>
+    </Text>
+    <Text>
+      <GUID>1414008017</GUID>
+      <Text>Imperialist</Text>
+    </Text>
+    <Text>
+      <GUID>1414012015</GUID>
+      <Text>Main Battery: Improved High-Explosive Shells</Text>
+    </Text>
+    <Text>
+      <GUID>1414012016</GUID>
+      <Text>Main Battery: Improved Armor-Piercing Shells</Text>
+    </Text>
+    <Text>
+      <GUID>1414012017</GUID>
+      <Text>Armor: Reinforced Deck</Text>
+    </Text>
+    <Text>
+      <GUID>1414012018</GUID>
+      <Text>Armor: Reinforced Side</Text>
+    </Text>
+    <Text>
+      <GUID>1414012019</GUID>
+      <Text>Fire Control: Artillery Range</Text>
+    </Text>
+    <Text>
+      <GUID>1414012020</GUID>
+      <Text>Fire Control: Target Acquisition</Text>
+    </Text>
+    <Text>
+      <GUID>1414012021</GUID>
+      <Text>Pythagorean Aiming System</Text>
+    </Text>
+    <Text>
+      <GUID>1414012022</GUID>
+      <Text>Water-Filled Torpedo Bulges</Text>
+    </Text>
+    <Text>
+      <GUID>1414012023</GUID>
+      <Text>Oil Turbine Engine</Text>
+    </Text>
+    <Text>
+      <GUID>1414006456</GUID>
+      <Text>Farmers are happy and kind people who will never look much further than their fields and their pubs.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006457</GUID>
+      <Text>Workers are common people who endure a lot of hard factory labor to feed their families.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006458</GUID>
+      <Text>Artisans live a life adorned by art and music, living off craftsmanship and their fees.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006459</GUID>
+      <Text>Engineers spend most of their time trying to get industry attention for their new inventions and ideas.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006460</GUID>
+      <Text>Investors are seasoned businessmen who cannot stop thinking about whether their investment will finally pay off.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006461</GUID>
+      <Text>Magnates are the next generation of industry tycoons, having yet to pay a single coin of tax money as true masters of capitalism.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006462</GUID>
+      <Text>Jornaleros often look back on the old times - all they want is a self-determined life.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006463</GUID>
+      <Text>Obreros have adapted to the new era, selling their crafts to live a life free from oppression.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006469</GUID>
+      <Text>Industrialists have given up plush lives in the Old World to explore new markets and monitor their own factories more closely.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006464</GUID>
+      <Text>Explorers volunteered for the Arctic expeditions to see every facet of the world.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006465</GUID>
+      <Text>Technician are stopped by nothing - if you don't ask stupid questions, they can repair anything.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006466</GUID>
+      <Text>Shepherds have only recently expanded their horizon beyond their goat herds.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006467</GUID>
+      <Text>Elders were born into a generation that last saw Enbesa's fall, and they will help rebuild it until their last breaths.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006468</GUID>
+      <Text>Scholars are fascinated by the vast fields of unexplored science and knowledge, less so in the dreary salaried work week.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006470</GUID>
+      <Text>Nóngmín live a hard but spiritual life, devoted to faith, tradition, and the age-old wisdom of the land.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006471</GUID>
+      <Text>The Gōngrén are a deeply hopeful people, drawn to the promise of new-age prosperity. This hope alone was enough to draw them from afar to these untamed shores.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006576</GUID>
+      <Text>We don't know who we sell these goods, but do we have to?</Text>
+    </Text>
+    <Text>
+      <GUID>1414006577</GUID>
+      <Text>Deliver the contraband goods on your ship to the requested location while avoiding any scanner units near the target.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006578</GUID>
+      <Text>Isabel Sarmento is in desperate needs of a supply of Drugs in her fight against La Corona.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006579</GUID>
+      <Text>Madame Kahina deals her drugs to the highest bidder, no matter where they are in the world — but honestly, would you even care?</Text>
+    </Text>
+    <Text>
+      <GUID>1414006580</GUID>
+      <Text>The head priestess wants to lift her spirits, these Drugs seem like a fine choice.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006581</GUID>
+      <Text>These Drugs can spice up the lonely existence of Old Nate from time to time.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006582</GUID>
+      <Text>A madman like Alonso Graves might be more human than you'd think. Even he has to forget that sometimes.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006583</GUID>
+      <Text>Beryl O'Mara's little birds seem ready for more than just pickpocketing. She's ready to join the big game.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006584</GUID>
+      <Text>It’s doubtful Willie even knows what this is. Either way, better him than you getting caught with it.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006586</GUID>
+      <Text>No Hostile Invasions</Text>
+    </Text>
+    <Text>
+      <GUID>1414006587</GUID>
+      <Text>Easy Invasions</Text>
+    </Text>
+    <Text>
+      <GUID>1414006588</GUID>
+      <Text>Hard Invasions</Text>
+    </Text>
+    <Text>
+      <GUID>1414011020</GUID>
+      <Text>Unique Visitor Item I</Text>
+    </Text>
+    <Text>
+      <GUID>1414011021</GUID>
+      <Text>Unique Visitor Item II</Text>
+    </Text>
+    <Text>
+      <GUID>1414011022</GUID>
+      <Text>Unique Visitor Item III</Text>
+    </Text>
+    <Text>
+      <GUID>1414011023</GUID>
+      <Text>Unique Visitor Item IV</Text>
+    </Text>
+    <Text>
+      <GUID>1414011024</GUID>
+      <Text>Unique Visitor Item V</Text>
+    </Text>
+    <Text>
+      <GUID>1414011025</GUID>
+      <Text>Unique Visitor Item VI</Text>
+    </Text>
+    <Text>
+      <GUID>1414006594</GUID>
+      <Text>Select the Magnate on Angereb to claim the Nomad Island by force.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006595</GUID>
+      <Text>Speak to Emperor Ketema on Taborime to claim the Nomad Island peacefully.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006596</GUID>
+      <Text>Nomads don't stay somewhere for long, although this particular group has been residing on their island for longer than we expected. This island looks like it could be used far more efficiently, so I propose that we rid the island of them. If you don't wish to consult Emperor Ketema, I would prefer more direct measures.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006597</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] proposes a solution of mutual benefit.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006598</GUID>
+      <Text>The Magnate is excited to see his investments in action.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006599</GUID>
+      <Text>Just a few salvos should do it. Please, if you can do me a favor, ask the captain to ensure that the crew takes a few more minutes to adjust their aiming, document the gunners' efficiency, and mail the results to me. I need them for my company's exhibits at the next industrial exposition, and a hundred percent accuracy rating might assure a few more orders for my weapon factories.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006600</GUID>
+      <Text>The Magnate hopes you will use this island efficiently.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006601</GUID>
+      <Text>The Nomads surrender the island and move on.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006602</GUID>
+      <Text>Emperor Ketema is unwilling to order the Nomads to leave the land without compensation. As a compromise, he wants you to offer them a place in Enbesa.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006603</GUID>
+      <Text>The Nomads happily leave the island for their new homes.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006604</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] has granted you trade rights with Angereb.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006605</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] is forced to grant you trade rights.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006606</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] grants you trade rights to celebrate unification.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006607</GUID>
+      <Text>The Magnate is concerned about the Nomad pasture lands in Enbesa.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006608</GUID>
+      <Text>The Magnate likes the new Embassy's diplomatic communication options.</Text>
+    </Text>
+    <Text>
+      <GUID>1414040502</GUID>
+      <Text>Magnate Spokesman</Text>
+    </Text>
+    <Text>
+      <GUID>1414040504</GUID>
+      <Text>Emperor Ketema's Spokesman</Text>
+    </Text>
+    <Text>
+      <GUID>1414040500</GUID>
+      <Text>Territorial Claims</Text>
+    </Text>
+    <Text>
+      <GUID>1414040501</GUID>
+      <Text>Aggressive Negotiations</Text>
+    </Text>
+    <Text>
+      <GUID>1414040503</GUID>
+      <Text>Diplomatic Solution</Text>
+    </Text>
+    <Text>
+      <GUID>1414090000</GUID>
+      <Text>River Slot</Text>
+    </Text>
+    <Text>
+      <GUID>1414017020</GUID>
+      <Text>Bamboo Forest SETBUFF</Text>
+    </Text>
+    <Text>
+      <GUID>1414017021</GUID>
+      <Text>Planet of the Apes SETBUFF</Text>
+    </Text>
+    <Text>
+      <GUID>1414017022</GUID>
+      <Text>Little Giants SETBUFF</Text>
+    </Text>
+    <Text>
+      <GUID>1414017023</GUID>
+      <Text>Oceania SETBUFF</Text>
+    </Text>
+    <Text>
+      <GUID>1414006796</GUID>
+      <Text>Coastal Torpedo Launcher</Text>
+    </Text>
+    <Text>
+      <GUID>1414017027</GUID>      <!-- Shogunate's Armory - Itemset -->
+      <Text>SHOGUNATE'S ARMORY</Text>
+    </Text>
+    <Text>
+      <GUID>1414017028</GUID>      <!-- Shogunate's Armory - Itemset - Description -->
+      <Text>A series of nice armor.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017029</GUID>      <!-- Masterpieces of Huaxia - Itemset -->
+      <Text>MASTERPIECES OF HUAXIA</Text>
+    </Text>
+    <Text>
+      <GUID>1414017030</GUID>      <!-- Masterpieces of Huaxia - Itemset - Description -->
+      <Text>Fine masterpieces</Text>
+    </Text>
+    <Text>
+      <GUID>1414017031</GUID>      <!-- The Forgotten Isles - Itemset -->
+      <Text>THE FORGOTTEN ISLES</Text>
+    </Text>
+    <Text>
+      <GUID>1414017032</GUID>      <!-- The Forgotten Isles - Itemset - Description -->
+      <Text>Does anyone knew those isls existed?</Text>
+    </Text>
+    <Text>
+      <GUID>1414017033</GUID>      <!-- Raja's Throne Room - Itemset -->
+      <Text>RAJAS THRONE ROOM</Text>
+    </Text>
+    <Text>
+      <GUID>1414017034</GUID>      <!-- Raja's Throne Room - Itemset - Description -->
+      <Text>Did you sit on the throne?</Text>
+    </Text>
+    <Text>
+      <GUID>1414017035</GUID>      <!-- The City of Temples - Itemset -->
+      <Text>THE CITY OF TEMPLES</Text>
+    </Text>
+    <Text>
+      <GUID>1414017036</GUID>      <!-- The City of Temples - Itemset - Description -->
+      <Text>Have you ever visited a city of temples?</Text>
+    </Text>
+    <Text>
+      <GUID>1414017037</GUID>      <!-- Legends of the Isles - Itemset -->
+      <Text>LEGENDS OF THE ISLES</Text>
+    </Text>
+    <Text>
+      <GUID>1414017038</GUID>      <!-- Legends of the Isles - Itemset - Description -->
+      <Text>Legends of islands you never knew existed.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017039</GUID>      <!-- Monke's Big Mid-West Roadtrip  - Itemset -->
+      <Text>MONKEYS BIG MID-WEST ROADTRIP</Text>
+    </Text>
+    <Text>
+      <GUID>1414017040</GUID>      <!-- Monke's Big Mid-West Roadtrip  - Itemset - Description -->
+      <Text>Did you follow the monkey on the road?</Text>
+    </Text>
+    <Text>
+      <GUID>1414017041</GUID>      <!-- Shogunate's Armory SETBUFF - SetBuff -->
+      <Text>Shogunate's Armory SETBUFF</Text>
+    </Text>
+    <Text>
+      <GUID>1414017042</GUID>      <!-- Shogunate's Armory SETBUFF - SetBuff - Description -->
+      <Text>Buffing the ships</Text>
+    </Text>
+    <Text>
+      <GUID>1414017043</GUID>      <!-- Masterpieces of Huaxia SETBUFF - SetBuff -->
+      <Text>Masterpieces of Huaxia SETBUFF</Text>
+    </Text>
+    <Text>
+      <GUID>1414017044</GUID>      <!-- Masterpieces of Huaxia SETBUFF - SetBuff - Description -->
+      <Text>Buffing ...</Text>
+    </Text>
+    <Text>
+      <GUID>1414017045</GUID>      <!-- The Forgotten Isles SETBUFF - SetBuff -->
+      <Text>The Forgotten Isles SETBUFF</Text>
+    </Text>
+    <Text>
+      <GUID>1414017046</GUID>      <!-- The Forgotten Isles SETBUFF - SetBuff - Description -->
+      <Text>Buffing ...</Text>
+    </Text>
+    <Text>
+      <GUID>1414017047</GUID>      <!-- Raja's Throne Room SETBUFF - SetBuff -->
+      <Text>Raja's Throne Room SETBUFF</Text>
+    </Text>
+    <Text>
+      <GUID>1414017048</GUID>      <!-- Raja's Throne Room SETBUFF - SetBuff - Description -->
+      <Text>Buffing ...</Text>
+    </Text>
+    <Text>
+      <GUID>1414017049</GUID>      <!-- The City of Temples SETBUFF - SetBuff -->
+      <Text>The City of Temples SETBUFF</Text>
+    </Text>
+    <Text>
+      <GUID>1414017050</GUID>      <!-- The City of Temples SETBUFF - SetBuff - Description -->
+      <Text>Buffing ...</Text>
+    </Text>
+    <Text>
+      <GUID>1414017051</GUID>      <!-- Legends of the Isles SETBUFF - SetBuff -->
+      <Text>Legends of the Isles SETBUFF</Text>
+    </Text>
+    <Text>
+      <GUID>1414017052</GUID>      <!-- Legends of the Isles SETBUFF - SetBuff - Description -->
+      <Text>Buffing ...</Text>
+    </Text>
+    <Text>
+      <GUID>1414017053</GUID>      <!-- Monke's Big Mid-West Roadtrip SETBUFF - SetBuff -->
+      <Text>Monke's Big Mid-West Roadtrip SETBUFF</Text>
+    </Text>
+    <Text>
+      <GUID>1414017054</GUID>      <!-- Monke's Big Mid-West Roadtrip SETBUFF - SetBuff - Description -->
+      <Text>Buffing ...</Text>
+    </Text>
+    <Text>
+      <GUID>1414017055</GUID>      <!-- Yamauchi Samurai Armor - CultureItem -->
+      <Text>Yamauchi Samurai Armor</Text>
+    </Text>
+    <Text>
+      <GUID>1414017056</GUID>      <!-- Yamauchi Samurai Armor - CultureItem - Description -->
+      <Text>Yamauchi shiny armor. Perfect for a samurai.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017057</GUID>      <!-- Hakirawashi's Sword - CultureItem -->
+      <Text>Hakirawashi's Sword</Text>
+    </Text>
+    <Text>
+      <GUID>1414017058</GUID>      <!-- Hakirawashi's Sword - CultureItem - Description -->
+      <Text>Hakirawashi's shiny sword</Text>
+    </Text>
+    <Text>
+      <GUID>1414017059</GUID>      <!-- Imperial Tea Room - CultureItem -->
+      <Text>Imperial Tea Room</Text>
+    </Text>
+    <Text>
+      <GUID>1414017060</GUID>      <!-- Imperial Tea Room - CultureItem - Description -->
+      <Text>Nice tea room for a samurai.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017061</GUID>      <!-- Imperial Terracotta Army - CultureItem -->
+      <Text>Imperial Terracotta Army</Text>
+    </Text>
+    <Text>
+      <GUID>1414017062</GUID>      <!-- Imperial Terracotta Army - CultureItem - Description -->
+      <Text>Have you ever seen such a big terracotta army?</Text>
+    </Text>
+    <Text>
+      <GUID>1414017063</GUID>      <!-- Jade Bok Choy - CultureItem -->
+      <Text>Jade Bok Choy</Text>
+    </Text>
+    <Text>
+      <GUID>1414017064</GUID>      <!-- Jade Bok Choy - CultureItem - Description -->
+      <Text>This not not chop choy?</Text>
+    </Text>
+    <Text>
+      <GUID>1414017065</GUID>      <!-- Cursive Poems in Script - CultureItem -->
+      <Text>Cursive Poems in Script</Text>
+    </Text>
+    <Text>
+      <GUID>1414017066</GUID>      <!-- Cursive Poems in Script - CultureItem - Description -->
+      <Text>I have read so many things, but these scripts are one of the best.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017067</GUID>      <!-- Dynastic Blue & White Vase Set - CultureItem -->
+      <Text>Dynastic Blue and White Vase Set</Text>
+    </Text>
+    <Text>
+      <GUID>1414017068</GUID>      <!-- Dynastic Blue & White Vase Set - CultureItem - Description -->
+      <Text>Do not push it over, these vases are not easy to get.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017069</GUID>      <!-- Treasure Ship Wreckage - CultureItem -->
+      <Text>Treasure Ship Wreckage</Text>
+    </Text>
+    <Text>
+      <GUID>1414017070</GUID>      <!-- Treasure Ship Wreckage - CultureItem - Description -->
+      <Text>Found at the botttom of the seas</Text>
+    </Text>
+    <Text>
+      <GUID>1414017071</GUID>      <!-- Chūzan Crown - CultureItem -->
+      <Text>Chūzan Crown</Text>
+    </Text>
+    <Text>
+      <GUID>1414017072</GUID>      <!-- Chūzan Crown - CultureItem - Description -->
+      <Text>Found at the botttom of the sea.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017073</GUID>      <!-- The Great Star of Light - CultureItem -->
+      <Text>The Great Star of Light</Text>
+    </Text>
+    <Text>
+      <GUID>1414017074</GUID>      <!-- The Great Star of Light - CultureItem - Description -->
+      <Text>The light always touches this spot.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017075</GUID>      <!-- Peacock Throne - CultureItem -->
+      <Text>Peacock Throne</Text>
+    </Text>
+    <Text>
+      <GUID>1414017076</GUID>      <!-- Peacock Throne - CultureItem - Description -->
+      <Text>A throne only for the most proud people. </Text>
+    </Text>
+    <Text>
+      <GUID>1414017077</GUID>      <!-- Guptan Iron Pillar - CultureItem -->
+      <Text>Guptan Iron Pillar</Text>
+    </Text>
+    <Text>
+      <GUID>1414017078</GUID>      <!-- Guptan Iron Pillar - CultureItem - Description -->
+      <Text>It provided the best support for an impressive building.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017079</GUID>      <!-- Smiling Temple - CultureItem -->
+      <Text>Smiling Temple</Text>
+    </Text>
+    <Text>
+      <GUID>1414017080</GUID>      <!-- Smiling Temple - CultureItem - Description -->
+      <Text>Even buildings can be happy.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017081</GUID>      <!-- Crown of Great Victory - CultureItem -->
+      <Text>Crown of Great Victory</Text>
+    </Text>
+    <Text>
+      <GUID>1414017082</GUID>      <!-- Crown of Great Victory - CultureItem - Description -->
+      <Text>Wearing this crown almost lways makes you victorious.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017083</GUID>      <!-- Candi Bentar Gate - CultureItem -->
+      <Text>Candi Bentar Gate</Text>
+    </Text>
+    <Text>
+      <GUID>1414017084</GUID>      <!-- Candi Bentar Gate - CultureItem - Description -->
+      <Text>Nothing gets past this gate.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017085</GUID>      <!-- Magic Sword - CultureItem -->
+      <Text>Magic Sword</Text>
+    </Text>
+    <Text>
+      <GUID>1414017086</GUID>      <!-- Magic Sword - CultureItem - Description -->
+      <Text>A sword like no other.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017087</GUID>      <!-- Wish-Granting Mallet - CultureItem -->
+      <Text>Wish-Granting Mallet</Text>
+    </Text>
+    <Text>
+      <GUID>1414017088</GUID>      <!-- Wish-Granting Mallet - CultureItem - Description -->
+      <Text>Have you ever seen such a mallet?</Text>
+    </Text>
+    <Text>
+      <GUID>1414017089</GUID>      <!-- Rock-Holding-Down-the-Eastern-Atolls - CultureItem -->
+      <Text>Rock-Holding-Down-Horai</Text>
+    </Text>
+    <Text>
+      <GUID>1414017090</GUID>      <!-- Rock-Holding-Down-the-Eastern-Atolls - CultureItem - Description -->
+      <Text>Where have you been looking for this?</Text>
+    </Text>
+    <Text>
+      <GUID>1414017091</GUID>      <!-- Monkey Staff - CultureItem -->
+      <Text>Monkey Staff</Text>
+    </Text>
+    <Text>
+      <GUID>1414017092</GUID>      <!-- Monkey Staff - CultureItem - Description -->
+      <Text>Carved from the hardest woods engraved with ancient signs.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017093</GUID>      <!-- Nine-toothed Rake - CultureItem -->
+      <Text>Nine-toothed Rake</Text>
+    </Text>
+    <Text>
+      <GUID>1414017094</GUID>      <!-- Nine-toothed Rake - CultureItem - Description -->
+      <Text>With those nine tooths the earth does not know what hit it.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017095</GUID>      <!-- Longevity Crown - CultureItem -->
+      <Text>Longevity Crown</Text>
+    </Text>
+    <Text>
+      <GUID>1414017096</GUID>      <!-- Longevity Crown - CultureItem - Description -->
+      <Text>The wearer of this crown will have a long but really bad life.</Text>
+    </Text>
+    <!-- 1414018314 taken -->
+  </ModOp>
+</ModOps>

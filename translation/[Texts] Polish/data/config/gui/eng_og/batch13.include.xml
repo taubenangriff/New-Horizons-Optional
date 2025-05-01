@@ -1,0 +1,373 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- Items -->
+    <Text>
+      <GUID>1414011018</GUID><!-- German: B. Soffski, Experte der Antiabstinenz -->
+      <Text>Dr. Inker, Expert Anti-Abstinencer</Text>
+    </Text>
+    <Text>
+      <GUID>1414006105</GUID>
+      <Text>Just a bit of champagne, rum, vodka, wine, and beer... and something unbelievable happens.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011013</GUID>
+      <Text>Jude Kellers-Wellington, Advocate of Green Futures</Text>
+    </Text>
+    <Text>
+      <GUID>1414006100</GUID>
+      <Text>Jude must create a greener future, by force if necessary.</Text>      <!--Typo-->
+    </Text>
+    <Text>
+      <GUID>1414011019</GUID>
+      <Text>Papermaker</Text>
+    </Text>
+    <Text>
+      <GUID>1414006106</GUID>
+      <Text>Survived the great droughts in Southern Enbesa by selling his water-free paper.</Text>
+    </Text>        
+    <Text>
+      <GUID>1440408</GUID>
+      <Text>Food &amp; Drink Venues</Text>
+    </Text>
+    <Text>
+      <GUID>1414011040</GUID>
+      <Text>Experienced Itamae</Text>
+    </Text>
+    <Text>
+      <GUID>1414011041</GUID>
+      <Text>Quanjude Chef</Text>
+    </Text>
+    <Text>
+      <GUID>1414006678</GUID>
+      <Text>This itamae actually went through the training required to make proper oshi-sushi instead of faking it.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006679</GUID>
+      <Text>He knows the original recipes by heart.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011042</GUID>
+      <Text>Master Craftswoman Zhu</Text>
+    </Text>
+    <Text>
+      <GUID>1414006680</GUID>
+      <Text>Talented in making porcelain of the finest quality</Text>
+    </Text>
+    <Text>
+      <GUID>1414011043</GUID>
+      <Text>Farmer Zheng</Text>
+    </Text>
+    <Text>
+      <GUID>1414006681</GUID>
+      <Text>If one just sows the seeds a few "cun" closer together...</Text>
+    </Text>
+    <Text>
+      <GUID>1414006682</GUID>
+      <Text>Has a near-photographic memory of the coastline.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011044</GUID>
+      <Text>Bamboo Forester</Text>
+    </Text>
+    <Text>
+      <GUID>1414006683</GUID>
+      <Text>With some clever cultivation, bamboo can be made to grow faster.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011045</GUID>
+      <Text>Hunter Wang</Text>
+    </Text>
+    <Text>
+      <GUID>1414006684</GUID>
+      <Text>Effortlessly weaves through the thick bamboo forest to hunt the local wildlife.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011046</GUID>
+      <Text>3-Job Worker Hana</Text>
+    </Text>
+    <Text>
+      <GUID>1414006685</GUID>
+      <Text>Hana is the boss's favorite, she even works overtime while sleeping.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011047</GUID>
+      <Text>Rho Tian, Hatmaker in Quantity</Text>
+    </Text>
+    <Text>
+      <GUID>1414006686</GUID>
+      <Text>With the sheer number of hats Rho makes, she confuse materials from time to time and has thus unwittingly started a few fashion trends.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011048</GUID>
+      <Text>Retired Firefighter</Text>
+    </Text>
+    <Text>
+      <GUID>1414006687</GUID>
+      <Text>An expert in moving water from one place to another in quantity, he will ease any thirst with... ease.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011049</GUID>
+      <Text>Overly-Ambitious Policeman</Text>
+    </Text>
+    <Text>
+      <GUID>1414006688</GUID>
+      <Text>With a keen eye on public order, he can be irritating with his adhesion to the book.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011050</GUID>
+      <Text>Major Mayor Jian</Text>
+    </Text>
+    <Text>
+      <GUID>1414006689</GUID>
+      <Text>Won the last election with 99.7% of the votes.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011051</GUID>
+      <Text>Populist Opposition Candidate</Text>
+    </Text>
+    <Text>
+      <GUID>1414006690</GUID>
+      <Text>Her election campaign was mostly "back to the roots."</Text>
+    </Text>
+    <Text>
+      <GUID>1414006772</GUID>
+      <Text>Cheap instruments for the masses, they won't notice. Wait, this doesn't even look like a koto!</Text>
+    </Text>
+    <Text>
+      <GUID>1414011053</GUID>
+      <Text>Ling Ling, Inventor of the Ling Ling Workout</Text>
+    </Text>
+    <Text>
+      <GUID>1414011054</GUID>
+      <Text>The Fisherman's Friend</Text>
+    </Text>
+    <Text>
+      <GUID>1414006773</GUID>
+      <Text>The occasional pearl here and there, and all the sand dug up in the process, maybe he's just lucky?</Text>
+    </Text>
+    <Text>
+      <GUID>1414011055</GUID>
+      <Text>Qi Connoisseur</Text>
+    </Text>
+    <Text>
+      <GUID>1414006774</GUID>
+      <Text>While the up-in-coming medicinal industry sees illness as income, she embraces traditional medicine as true healing.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006775</GUID>
+      <Text>Increases storage capacity of Horaiese crops.</Text>
+    </Text>
+    <Text>
+      <GUID>1440310</GUID>
+      <Text>Good Weather</Text>
+    </Text>
+    <Text>
+      <GUID>1414006776</GUID>
+      <Text>A large teapot makes brewing tea significantly easier.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006778</GUID>
+      <Text>Simply brew your tea at home, and it will never become cold on its overseas journey again!</Text>
+    </Text>
+    <Text>
+      <GUID>1414006779</GUID>
+      <Text>A productive industrial loom that can manufacture cloth so quickly that there's free time to spin cotton as well.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011056</GUID>
+      <Text>Heat-Conserving Teapots</Text>
+    </Text>
+    <Text>
+      <GUID>1414011057</GUID>
+      <Text>Sundrying Rack</Text>
+    </Text>
+    <Text>
+      <GUID>1414011058</GUID>
+      <Text>Set of Teabags</Text>
+    </Text>
+    <Text>
+      <GUID>1414011059</GUID>
+      <Text>Dual Wheel Loom</Text>
+    </Text>    
+    <Text>
+      <GUID>1414011026</GUID>
+      <Text>Rice Seeds</Text>
+    </Text>
+    <Text>
+      <GUID>1414011027</GUID>
+      <Text>Tea Herb Seeds</Text>
+    </Text>
+    <Text>
+      <GUID>1414011028</GUID>
+      <Text>Hemp Seeds</Text>
+    </Text>
+    <Text>
+      <GUID>1414011029</GUID>
+      <Text>Peppercorn Seeds</Text>
+    </Text>
+    <Text>
+      <GUID>1414011030</GUID>
+      <Text>Mulberry Seeds</Text>
+    </Text>
+    <Text>
+      <GUID>1414011031</GUID>
+      <Text>Ume Seeds</Text>
+    </Text>
+    <Text>
+      <GUID>1414011032</GUID>
+      <Text>Beehives</Text>
+    </Text>
+    <Text>
+      <GUID>1414011033</GUID>
+      <Text>Soy Seeds</Text>
+    </Text>
+    <Text>
+      <GUID>1414006615</GUID>
+      <Text>A bountiful rice cultivar that is hardier than most.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006616</GUID>
+      <Text>Robust Tea Herbs that grow on any ground.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006617</GUID>
+      <Text>My son, do not ever grow these at home, they are not the right type anyways!</Text>
+    </Text>
+    <Text>
+      <GUID>1414006618</GUID>
+      <Text>A song of spice and fire, with a more delicious ending.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006619</GUID>
+      <Text>These trees are grown for their leaves, not their fruit.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006620</GUID>
+      <Text>Even dry ume is better than none.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006621</GUID>
+      <Text>Bees that aren't as picky with their nectar.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006622</GUID>
+      <Text>Soybean varieties that can resist harsh conditions.</Text>
+    </Text>
+    <Text>
+      <GUID>13371311</GUID>
+      <Text>Evergreen Forest</Text>      <!--Player Trees Jungle -->
+    </Text>
+    <Text>
+      <GUID>13371312</GUID>
+      <Text>Bamboo Forest</Text>      <!--Player Trees Bamboo-->
+    </Text>
+    <Text>
+      <GUID>33002005</GUID>
+      <Text>Alpine Weasel</Text>
+    </Text>
+    <Text>
+      <GUID>1414006838</GUID>
+      <Text>Extra Residents from Street Grill</Text>
+    </Text>
+    <Text>
+      <GUID>1414006839</GUID>
+      <Text>Extra Residents from Noodle Stand</Text>
+    </Text>
+    <Text>
+      <GUID>1414006840</GUID>
+      <Text>Extra Residents from Steamer Stand</Text>
+    </Text>
+    <Text>
+      <GUID>1414006841</GUID>
+      <Text>Extra Residents from Dessert Stand</Text>
+    </Text>
+    <Text>
+      <GUID>1414006842</GUID>
+      <Text>Access to a Street Grill increases the number of residents in surrounding houses.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006843</GUID>
+      <Text>Access to a Noodle Stand increases the number of residents in surrounding houses.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006844</GUID>
+      <Text>Access to a Steamer Stand increases the number of residents in surrounding houses.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006845</GUID>
+      <Text>Acess to a Dessert Stand increases the number of residents in surrounding houses.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011060</GUID>
+      <Text>Treatise on the Importance of Hard Labor</Text>
+    </Text>
+    <Text>
+      <GUID>1414006787</GUID>
+      <Text>Working a third job in the evening can work wonders for the family's honor. You might be longing for dishonorable virtues like sleep and eating, but a truly honorable worker will set these aside to support the economy.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011061</GUID>
+      <Text>Collection of Shí'èr lü Techniques</Text>
+    </Text>
+    <Text>
+      <GUID>1414006781</GUID>
+      <Text>It's as easy as: Huáng Zhōng - Dà Lǚ - Tài Cù - Jiá Zhōng - Gū Xiǎn - Zhòng Lǚ - Ruí Bīn - Lín Zhōng - Yí Zé - Nán Lǚ - Wú Yì - Yìng Zhōng.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011062</GUID>
+      <Text>The Classic Doctrines of Zheng-Shui for Beginners</Text>
+    </Text>
+    <Text>
+      <GUID>1414006782</GUID>
+      <Text>Chapters are in the order of the Circle of the Five Elements: Wood, Fire, Earth, Metal and Water.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011063</GUID>
+      <Text>The Art of Balancing Mind and Body</Text>
+    </Text>
+    <Text>
+      <GUID>1414006783</GUID>
+      <Text>A fight a day keeps the doctor away? Certainly not. Master Qu wrote this book for the dissolute youth, whose character has fallen out of balance with mind and body.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011064</GUID>
+      <Text>Thirty-Six Strategems for an Economical Diet of Today</Text>
+    </Text>
+    <Text>
+      <GUID>1414006784</GUID>
+      <Text>Did you know you could get decent nutrition from fruits? Fish is something for Pescetarians.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011065</GUID>
+      <Text>On the Monstrous Nature of the So-Called 'Washing Machines'</Text>
+    </Text>
+    <Text>
+      <GUID>1414006785</GUID>
+      <Text>Rumbling like the arrival of the qilin, the hellhound machines superficially designed to wash clothes are a secret Pyrphorian plot to replace the wives with dishonorable harlots.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011066</GUID>
+      <Text>Three Stratagems on the Necessity of Martial Law</Text>
+    </Text>
+    <Text>
+      <GUID>1414006786</GUID>
+      <Text>A step-by-step guide on how to bring eternal peace, justice, and harmony to your new dynasty. Step 1: Unalive a lot of people.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006789</GUID>
+      <Text>Affects [ItemAssetData([ToolOneHelper ForwardedEffectGuidOrSelf([RefGuid])]) ItemOrBuffEffectTargetsFormatted] around [ItemAssetData([RefGuid]) ItemOrBuffEffectTargetsFormatted]</Text>
+    </Text>
+    <Text>
+      <GUID>1414006790</GUID>
+      <Text>Residents provide bonus income from [ItemAssetData([ToolOneHelper ForwardedEffectGuidOrSelf([RefGuid])]) InputBenefitAllAdditionalMoneyFormatted].</Text>
+    </Text>
+    <Text>
+      <GUID>1414006791</GUID>
+      <Text>Residences gain bonus residents from [ItemAssetData([ToolOneHelper ForwardedEffectGuidOrSelf([RefGuid])]) InputBenefitAllAdditionalSupplyFormatted].</Text>
+    </Text>
+    <Text>
+      <GUID>1414006792</GUID>
+      <Text>If it's her word against that of the scientific process, people will take hers ten our of ten times. After all, you cannot trust the Western snake-oil sellers, and those ancient esoteric brews surely must heal you.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

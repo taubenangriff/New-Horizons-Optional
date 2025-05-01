@@ -1,0 +1,362 @@
+<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <Text>
+            <GUID>1414187001</GUID>
+            <Text>Great Pagoda: Reconstruction</Text>
+        </Text>
+        <Text>
+            <GUID>1414187002</GUID>
+            <Text>Great Pagoda</Text>
+        </Text>
+        <Text>
+            <GUID>1414187006</GUID>
+            <Text>Sanctuary: Reconstruction</Text>
+        </Text>
+        <Text>
+            <GUID>1414187007</GUID>
+            <Text>Sanctuary</Text>
+        </Text>
+        <Text>
+            <GUID>1414187008</GUID>
+            <Text>Royal Hall: Reconstruction</Text>
+        </Text>
+        <Text>
+            <GUID>1414187009</GUID>
+            <Text>Royal Hall</Text>
+        </Text>
+        <Text>
+            <GUID>1414187010</GUID>
+            <Text>Daibutsu: Reconstruction</Text>
+        </Text>
+        <Text>
+            <GUID>1414187011</GUID>
+            <Text>Daibutsu</Text>
+        </Text>
+        <Text>
+            <GUID>1414187012</GUID>
+            <Text>Pleasure Pavilion: Reconstruction</Text>
+        </Text>
+        <Text>
+            <GUID>1414187013</GUID>
+            <Text>Pleasure Pavilion</Text>
+        </Text>
+        <Text>
+            <GUID>1414018135</GUID>
+            <Text>The first step towards reconstruction of the wonder is to rebuild its foundation. After that, only our archeologists and us will know the truth. Your people will be blinded by the shining glory of the reconstructed wonders anyway.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018136</GUID>
+            <Text>Wonder Foundation</Text>
+        </Text>
+        <Text>
+            <GUID>1414018137</GUID>
+            <Text>Construction at the Wonder Foundation has come to a standstill.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018138</GUID>
+            <Text>Build reconstructions of different wonders on these foundations.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018139</GUID>
+            <Text>Wonder Foundation</Text>
+        </Text>
+        <Text>
+            <GUID>1414018140</GUID>
+            <Text>A towering stack of roofs, if one can put it that way.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018141</GUID>
+            <Text>A holy site of tradition.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018142</GUID>
+            <Text>A site where unquestioning loyalty to the state is honored.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018143</GUID>
+            <Text>An enormous statue of the Awakened One.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018144</GUID>
+            <Text>A reminder of the ancient refined culture of Horai.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018145</GUID>
+            <Text>The towering Great Pagoda will improve the local Fengshui and remind your people to hold up the local traditions once in a while. To improve the Fengshui more, even more floors need to be stacked on top of each other.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018146</GUID>
+            <Text>To build a place where monks come to deep meditation and prayer, a multitude of stone blocks must be precisely carved and assembled accordingly. The dharma wheels and gold on the roof are mandatory... for enlightenment.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018147</GUID>
+            <Text>In the age of steel beams, building an enormous overhanging roof seems trivial, but your architects have chosen to uphold tradition and pursue traditional methods, ingeniously supporting a gilt tile-laden roof with a mere wooden framework. Heavy indeed, is the crown.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018148</GUID>
+            <Text>A majestic statue of the Awakened One assembled from individually casted bronze plates on a steel structure. While the final result looks ancient, the internal structure is quite modern, and reports from a faraway land called the "New World" states that a similar statue of a rival deity was put together in such a manner.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018149</GUID>
+            <Text>The Pavilion of Pleasure is a gathering spot for the literati and pleasure-seekers of Horai. Within its multitude of colorful lantern-lit floors, music wafts from the rafters, and cultural refinement reigns supreme.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018150</GUID>
+            <Text>Construction at the Wonder has come to a standstill.</Text>
+        </Text>
+        <Text>
+            <GUID>1414187005</GUID>
+            <Text>Wonder Foundation: Buildup</Text>
+        </Text>
+        <Text>
+            <GUID>1414018155</GUID>
+            <Text>Your archeologists have finished cleanup and discovered remains of a Pleasure Pavilion</Text>
+        </Text>
+        <Text>
+            <GUID>1414018156</GUID>
+            <Text>Your archeologists have finished cleanup and discovered remains of a Daibutsu Statue</Text>
+        </Text>
+        <Text>
+            <GUID>1414018157</GUID>
+            <Text>Your archeologists have finished cleanup and discovered remains of a Royal Hall</Text>
+        </Text>
+        <Text>
+            <GUID>1414018158</GUID>
+            <Text>Your archeologists have finished cleanup and discovered remains of a Sanctuary</Text>
+        </Text>
+        <Text>
+            <GUID>1414018159</GUID>
+            <Text>Your archeologists have finished cleanup and discovered remains of a Great Pagoda</Text>
+        </Text>
+        <Text>
+            <GUID>1414018215</GUID>
+            <Text>A holy reliquary that can hold different relics within its pristine white chamber.</Text>
+        </Text>
+        <Text>
+            <GUID>1414187040</GUID>
+            <Text>Stupa: Reconstruction</Text>
+        </Text>
+        <Text>
+            <GUID>1414187041</GUID>
+            <Text>Stupa</Text>
+        </Text>
+        <Text>
+            <GUID>1414018216</GUID>
+            <Text>Your archeologists have finished cleanup and discovered remains of a Stupa</Text>
+        </Text>
+        <Text>
+            <GUID>1414187047</GUID>
+            <Text>Relic Replica</Text>
+        </Text>
+        <Text>
+            <GUID>1414187048</GUID>
+            <Text>It fools the fool's eyes, but replica remains remain replica remains. An original relic might be a better choice.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018217</GUID>
+            <Text>Affects in Stupa Radius</Text>
+        </Text>
+        <Text>
+            <GUID>1414018218</GUID>
+            <Text>Affects [ItemAssetData(1414187045) ItemOrBuffEffectTargetsFormatted] in Stupa Radius</Text>
+        </Text>
+        <Text>
+            <GUID>1414018220</GUID>
+            <Text>Stupa Radius is determined through the equipped relic.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018221</GUID>
+            <Text>Stupa Radius</Text>
+        </Text>
+        <Text>
+            <GUID>1445639</GUID>
+            <Text>Wonders</Text>
+        </Text>
+        <Text>
+            <GUID>1414018229</GUID>
+            <Text>Foodstand</Text>
+        </Text>
+        <Text>
+            <GUID>1414018230</GUID>
+            <Text>500 + Relic Bonus</Text>
+        </Text>
+        <Text>
+            <GUID>1414018231</GUID>
+            <Text>Consumes [AssetData(1440216) Text]</Text>
+        </Text>
+        <Text>
+            <GUID>1414018232</GUID>
+            <Text>Needs Population in Radius</Text>
+        </Text>
+        <Text>
+            <GUID>1414018233</GUID>
+            <Text>Consumes [AssetData(1010221) Text]</Text>
+        </Text>
+        <Text>
+            <GUID>1414018234</GUID>
+            <Text>Consumes [AssetData(1440306) Text]</Text>
+        </Text>
+        <Text>
+            <GUID>1414018235</GUID>
+            <Text>Consumes [AssetData(1440229) Text]</Text>
+        </Text>
+        <Text>
+            <GUID>1414018236</GUID>
+            <Text>Needs Relic Item</Text>
+        </Text>
+        <Text>
+            <GUID>1414018237</GUID>
+            <Text>The Stupa spawns with a replica relic that is less powerful than original relics. How did it get there though?</Text>
+        </Text>
+        <Text>
+            <GUID>1414018238</GUID>
+            <Text>The Stupa is comprised of six parts: a quadratic platform for the throne, a circular socket for crossed legs, a dome for the torso, a quadratic relic chamber for the head, an apex for the ushnisha and a crown for the bodhi...</Text>
+        </Text>
+        <!-- Diverse -->
+
+        <Text>
+            <GUID>1414018246</GUID>
+            <Text>Homeland</Text>
+        </Text>
+        <Text>
+            <GUID>1414018249</GUID>
+            <Text>Shipment Size in Tons</Text>
+        </Text>
+        <Text>
+            <GUID>1414018250</GUID>
+            <Text>Accepts the following Goods:</Text>
+        </Text>
+        <Text>
+            <GUID>1414018251</GUID>
+            <Text>Shipments per Delivery</Text>
+        </Text>
+        <Text>
+            <GUID>1414018252</GUID>
+            <Text>Fill up this storage, then complete a delivery mission to receive a sizable paycheck.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018253</GUID>
+            <Text>Storage full!</Text>
+        </Text>
+        <Text>
+            <GUID>1414018247</GUID>
+            <Text>Valuables can be sourced by sinking Royal Convoys.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018258</GUID>
+            <Text>Drugs can be sourced by sinking Royal Convoys.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018259</GUID>
+            <Text>This grand colonial villa was originally built for an Omega Haven trade officer. As part of the resettlement of Omega Haven, James Goodwill renovated the building for himself, including miniature doors for his two lapcats, Nut and Geb, and a soundproof room for his daily Duduk practice — an instrument he very much loves — but for which other E.T.A. staff would prefer not to listen to.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018260</GUID>
+            <Text>Pyrphorian Fire</Text>
+        </Text>
+        <!-- Items -->
+        <Text>
+            <GUID>1414011120</GUID>
+            <Text>"A"</Text>
+        </Text>
+        <Text>
+            <GUID>1414011121</GUID>
+            <Text>With the confidence of a map drawn in mist, the certainty of footsteps on a vanishing bridge, and the ingenuity of a key that fits no lock, your choices unfold in ways that defy expectation — remarkable, in a sense, though not for the reasons one might hope.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011122</GUID>
+            <Text>Mustelus de Mercatore</Text>
+        </Text>
+        <Text>
+            <GUID>1414011123</GUID>
+            <Text>His humble origins as the son of a factory worker are the source of his brilliance in finding loopholes regarding rules and regulations.</Text>
+        </Text>
+
+        <Text>
+            <GUID>1414011034</GUID>
+            <Text>Hybrid Rice Seeds</Text>
+        </Text>
+        <Text>
+            <GUID>1414011035</GUID>
+            <Text>Hybrid Tea Herb Seeds</Text>
+        </Text>
+        <Text>
+            <GUID>1414011036</GUID>
+            <Text>Hybrid Hemp Seeds</Text>
+        </Text>
+        <Text>
+            <GUID>1414011037</GUID>
+            <Text>Hybrid Peppercorn Seeds</Text>
+        </Text>
+        <Text>
+            <GUID>1414011038</GUID>
+            <Text>Hybrid Mulberry Seeds</Text>
+        </Text>
+        <Text>
+            <GUID>1414011039</GUID>
+            <Text>Hybrid Ume Seeds</Text>
+        </Text>
+        <Text>
+            <GUID>1414011000</GUID>
+            <Text>Hybrid Beehives</Text>
+        </Text>
+        <Text>
+            <GUID>1414011001</GUID>
+            <Text>Hybrid Soy Seeds</Text>
+        </Text>
+        <Text>
+            <GUID>1414011002</GUID>
+            <Text>Nana Mochi, Master of Foreign Grains</Text>
+        </Text>
+        <Text>
+            <GUID>1414011003</GUID>
+            <Text>Nana likes yellow and all crops grown in that shiny color — not only gold can steal her heart.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011004</GUID>
+            <Text>Kiyoshi Katou, Piscine Renderer</Text>
+        </Text>
+        <Text>
+            <GUID>1414011005</GUID>
+            <Text>Kiyoshi would much rather cuddle pigs then render them into tallow. On the other hand, fish she has no issue smushing into useful fats.</Text>
+        </Text>
+        <Text>
+            <GUID>1414040622</GUID>
+            <Text>Magnate</Text>
+        </Text>
+        <Text>
+            <GUID>1414040623</GUID>
+            <Text>Gōngrén</Text>
+        </Text>
+        <!-- Zoo Animal -->
+        <Text>
+            <GUID>1414018261</GUID>
+			<Text>&lt;b&gt;Mustela altaica.&lt;/b&gt; Does not actually live in the great mountains of Hindun but in the lush bamboo forests in the surrounding foothills. It's a myth that it plans its own cities when nobody is looking.</Text>
+        </Text>
+        <!-- Loading Scene Tips -->
+        <Text>
+            <GUID>1414006670</GUID>
+            <Text>Admiral Wu Guowei, heir to a distinguished lineage of imperial diplomats, had once charted a brilliant course through the ranks of the Emperor’s navy. But the aging fleet of the Tianming Empire were crushed by the powers of the Old World, marking the end of both Wu’s ascent and the empire’s illusions of maritime supremacy. Struggling to hold the East together — and to reclaim his honor — Wu now finds himself in the restless borderlands of Horai, forced to accept a bitter truth: he is no longer a dominant predator, but just another shark in waters now teeming with fiercer rivals from across the sea.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018239</GUID>
+            <Text>James Goodwill was once a high-ranking official in the E.T.A., wielding considerable influence over vast stretches of Hindun during company rule. But his power was swiftly stripped away when the Queen, determined to bring the region under the crown’s control, demoted him to a lowly trade officer — a position of little prestige and even less authority. Little does the Queen realize though that Goodwill is playing a long game of personal vengeance and profits, allying himself with dark forces within the Royal Council. Hidden underneath his questionably-legal trading network lies a flourishing contraband market that sells whatever people need, don't need, and shouldn't ever need.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018240</GUID>
+            <Text>Majipun was once the pearl of Horai, rich from maritime trade and home to one of the Tianming Guo’s most celebrated gardens. But everything changed when the Tianming Empire lost its war against the powers of the Old West and was forced into a series of unequal treaties. While it retains its distinguished airs, beneath it lies a populace crushed under the weight of Admiral Wu’s military commandery — prosperous in appearance, yet hollowed by despair.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018241</GUID>
+            <Text>Omega Haven began as a modest E.T.A. port colony in Horai, little more than a chapel and a cluster of merchants' houses. After a decade of abandonment, the settlement was given new life under James Goodwill, who assumed control as part of his appointment as regional trade officer. With vision and determination, he has retrofitted this former colony into his personal base of trade and operations.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018242</GUID>
+            <Text>Little is known about the Pyrphorians — their origins, their purpose, or the power that commands them. What is clear, however, is that they are regathering strength and organizing themselves into a formidable military force at Raksagarbha, a ancient Hindun temple-fortress key to controlling the restive lands of Horai. There, within its formidable walls and shadowy halls, the Pyrphorians conduct dark experiments with the recovered Eye of the Dragon, striving to create force of evils beyond human comprehension.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018243</GUID>
+            <Text>In tradition of the navies of the Ancient Atlantean civilization, the Pyrphorians have only ever have one member in the rank of Navarch, who personally oversees all military interventions. It is said that the Navarch exists in a perpetual rivalry with the Pyrphorian Grandmaster, but this impasse has been broken by Navarch's theft of the Eye of the Dragon from the Holy City, tilting the scales in a way that may yet change the course of empires.</Text>
+        </Text>
+    </ModOp>
+</ModOps>

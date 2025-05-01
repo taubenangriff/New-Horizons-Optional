@@ -11,12 +11,12 @@
     <Include File = "./fre/batch10.include.xml" />
     <Include File = "./fre/batch11.include.xml" />
     <Include File = "./fre/batch12.include.xml" />
-    <Include File = "./eng/batch13.include.xml" />
-    <Include File = "./eng/batch14.include.xml" />
-    <Include File = "./eng/batch15.include.xml" />
-    <Include File = "./eng/batch18.include.xml" />
-    <Include File = "./eng/batch19.include.xml" />
-    <Include File = "./eng/quest.include.xml" />
-    <Include File = "./eng/quest02.include.xml" />
-    <Include File = "./eng/edit.include.xml" />
+    <Include File = "./eng_og/batch13.include.xml" />
+    <Include File = "./eng_og/batch14.include.xml" />
+    <Include File = "./eng_og/batch15.include.xml" />
+    <Include File = "./eng_og/batch18.include.xml" />
+    <Include File = "./eng_og/batch19.include.xml" />
+    <Include File = "./eng_og/quest.include.xml" />
+    <Include File = "./eng_og/quest02.include.xml" />
+    <Include File = "./eng_og/edit.include.xml" />
 </ModOps>

@@ -1,0 +1,69 @@
+<ModOps>
+    <ModOp Path = "//Text[GUID = '1414006698']/Text" Type = "replace">
+        <Text>Raksagarbha</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1440226']/Text" Type = "replace">
+        <Text>Herring</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1441260']/Text" Type = "replace">
+        <Text>Herring Fishery</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1440405']/Text" Type = "replace">
+        <Text>Temple</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414007004']/Text" Type = "replace">
+        <Text>Herring Abundance</Text>
+    </ModOp>
+    <!-- Streetfood - Dango - Description -->
+    <ModOp Path = "//Text[GUID = '1442763']/Text" Type = "replace">
+        <Text>Popularly found at temple festivals, this snack features three sweet rice cakes on a stick, each individually sweetened and flavored. Easy to carry around and an unmessy treat, these are a perfect accoutrement to a stroll in the park taking in the sights of the cherry blossoms.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414006025']/Text" Type = "replace">
+        <Text>A silvery schooling fish, filled with delicacies inside.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414015084']/Text" Type = "replace">
+        <Text>Great Pigeon Pagoda</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414006829']/Text" Type = "replace">
+        <Text>Beyond the Wallace Line, the animals of Oceania beckon with their unusual primeval forms.</Text>
+    </ModOp>
+    <!-- Bamboo Forest SETBUFF - TownhallBuff - Description -->
+    <ModOp Path = "//Text[GUID = '1414006830']/Text" Type = "replace">
+        <Text>Learning that patience is the wisdom of the wild, and to see the tranquil energy of these animals have allowed your citizenry to take life more slowly and savor each sip, as even tea tastes deeper in stillness.</Text>
+    </ModOp>
+    <!-- Planet of the Apes SETBUFF - TownhallBuff - Description -->
+    <ModOp Path = "//Text[GUID = '1414006831']/Text" Type = "replace">
+        <Text>The antics of these simian cousins have allowed your citizenry to reflect upon themselves and become more careful. </Text>
+    </ModOp>
+    <!-- Oceania SETBUFF - TownhallBuff - Description -->
+    <ModOp Path = "//Text[GUID = '1414006833']/Text" Type = "replace">
+        <Text>These strange and exotic beasts have tempered the appetite of your citizenry, granting them the art of mindful eating and the stomach of an island sage.</Text>
+    </ModOp>
+    <!-- Planet of the Apes - Itemset - Description -->
+    <ModOp Path = "//Text[GUID = '1414006833']/Text" Type = "replace">
+        <Text>Apes together strong. Retvrn to monkee, am I right?</Text>
+    </ModOp>
+
+
+    <ModOp Path = "//Text[GUID = '1414018145']/Text" Type = "replace">
+        <Text>The towering Great Pagoda will improve the local Fengshui and remind your people to hold up the local traditions once in a while. To improve the Fengshui more, even more floors need to be stacked on top of each other.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018146']/Text" Type = "replace">
+        <Text>To build a place where monks come to deep meditation and prayer, a multitude of stone blocks must be precisely carved and assembled accordingly. The dharma wheels and gold on the roof are mandatory...for enlightenment.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018147']/Text" Type = "replace">
+        <Text>In the age of steel beams, building an enormous overhanging roof seems trivial, but your architects have chosen to uphold tradition and pursue traditional methods, ingeniously supporting a gilt tile-laden roof with a mere wooden framework. Heavy indeed, is the crown.</Text>
+    </ModOp>    
+    <ModOp Path = "//Text[GUID = '1414018148']/Text" Type = "replace">
+        <Text>A majestic statue of the Awakened One assembled from individually casted bronze plates on a steel structure. While the final result looks ancient, the internal structure is quite modern, and reports from a faraway land called the "New World" states that a similar statue of a rival deity was put together in such a manner.</Text>
+    </ModOp> 
+    <ModOp Path = "//Text[GUID = '1414018149']/Text" Type = "replace">
+        <Text>The Pavilion of Pleasure is a gathering spot for the literati and pleasure-seekers of Horai. Within its multitude of colorful lantern-lit floors, music wafts from the rafters, and cultural refinement reigns supreme.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018242']/Text" Type = "replace">
+        <Text>Little is known about the Pyrphorians: their origins, their purpose, or the power that commands them. What is clear, however, is that they are regathering strength and organizing themselves into a formidable military force at Raksagarbha, a ancient Hindun temple-fortress key to controlling the restive lands of Horai. There, within its formidable walls and shadowy halls, the Pyrphorians conduct dark experiments with the recovered Eye of the Dragon, striving to create force of evils beyond human comprehension.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018243']/Text" Type = "replace">
+        <Text>In tradition of the navies of the Ancient Atlantean civilization, the Pyrphorians have only ever have one member in the rank of Navarch, who personally oversees all military interventions. It is said that the Navarch exists in a perpetual rivalry with the Pyrphorian Grandmaster, but this impasse has been broken by Navarch's theft of the Eye of the Dragon from the Holy City, tilting the scales in a way that may yet change the course of empires.</Text>
+    </ModOp>
+</ModOps>

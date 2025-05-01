@@ -1,0 +1,325 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>54005000</GUID>
+      <Text>EASTERN EXPANSION</Text>
+    </Text>
+    <Text>
+      <GUID>54005001</GUID>
+      <Text>FOREIGN DEVELOPMENT</Text>
+    </Text>
+    <Text>
+      <GUID>54005002</GUID>
+      <Text>IMPERIALISM</Text>
+    </Text>
+    <Text>
+      <GUID>14443001</GUID>
+      <Text>Piers</Text>
+    </Text>
+    <Text>
+      <GUID>14443002</GUID>
+      <Text>Trading Posts</Text>
+    </Text>
+    <Text>
+      <GUID>14443003</GUID>
+      <Text>Piers</Text>
+    </Text>
+    <Text>
+      <GUID>14443004</GUID>
+      <Text>Big Berthas</Text>
+    </Text>
+    <Text>
+      <GUID>14443005</GUID>
+      <Text>Freight Piers and Trading Posts</Text>
+    </Text>
+    <Text>
+      <GUID>14443000</GUID>
+      <Text>All Cultural Buildings</Text>
+    </Text>
+    <Text>
+      <GUID>14443000</GUID>
+      <Text>Oil Harbors and Piers</Text>
+    </Text>    
+    <Text>
+      <GUID>14443033</GUID>
+      <Text>All Horaiese Multifactories</Text>
+    </Text>
+    <Text>
+      <GUID>14443042</GUID>
+      <Text>All Horaiese Cookhouses</Text>
+    </Text>
+    <Text>
+      <GUID>14443043</GUID>
+      <Text>All Horaiese Kitchens</Text>
+    </Text>
+    <Text>
+      <GUID>14443037</GUID>
+      <Text>Magnate Residences</Text>
+    </Text>
+    <Text>
+      <GUID>14443036</GUID>
+      <Text>Magnate Skyscrapers</Text>
+    </Text>
+    <Text>
+      <GUID>14443016</GUID>
+      <Text>All Horaiese Farms</Text>
+    </Text>
+    <Text>
+      <GUID>14443032</GUID>
+      <Text>Magnate Businesses</Text>
+    </Text>
+    <Text>
+      <GUID>14443030</GUID>
+      <Text>Horaiese Residences</Text>
+    </Text>
+    <Text>
+      <GUID>1414006788</GUID>
+      <Text>All Public Services, except Garden</Text>
+    </Text>
+    <!-- Quest Texts -->
+    <Text>
+      <GUID>1414006407</GUID>
+      <Text>Click and receive the Gift: Cargo Boat</Text>
+    </Text>
+    <Text>
+      <GUID>1414006609</GUID>
+      <Text>The Magnate is happy about the subway ticket sales.</Text>
+    </Text>
+    <Text><!-- Goodwill Payout Quest Title -->
+      <GUID>1414040450</GUID>
+      <Text>Cashing In</Text>
+    </Text>
+    <!-- Buildings -->    
+    <Text>
+      <GUID>1446010</GUID>
+      <Text>Crop Warehouse</Text>
+    </Text>
+    <Text>
+      <GUID>1442504</GUID>
+      <Text>Magnate Skyscraper: Level 1</Text>
+    </Text>
+    <Text>
+      <GUID>1442505</GUID>
+      <Text>Magnate Skyscraper: Level 2</Text>
+    </Text>
+    <Text>
+      <GUID>1442506</GUID>
+      <Text>Magnate Skyscraper: Level 3</Text>
+    </Text>
+    <Text>
+      <GUID>1442507</GUID>
+      <Text>Magnate Skyscraper: Level 4</Text>
+    </Text>
+    <Text>
+      <GUID>1447915</GUID>
+      <Text>Trade Union</Text>
+    </Text>
+    <Text>
+      <GUID>1447916</GUID>
+      <Text>Townhall</Text>
+    </Text>
+    <Text>
+      <GUID>1447914</GUID>
+      <Text>Harbormaster's Office</Text>
+    </Text>
+    <Text>
+      <GUID>1414015026</GUID>
+      <Text>Admiral Wu Guowei's Harbour</Text>
+    </Text>
+    <Text>
+      <GUID>1414015035</GUID>
+      <Text>Office</Text>
+    </Text>
+    <Text>
+      <GUID>1414015036</GUID>
+      <Text>Prison</Text>
+    </Text>
+    <Text>
+      <GUID>1414015037</GUID>
+      <Text>Fireball Mortar</Text>
+    </Text>
+    <Text>
+      <GUID>1414015032</GUID>
+      <Text>Flak Emplacement</Text>
+    </Text>
+    <Text>
+      <GUID>1414015027</GUID>
+      <Text>Cannon Tower</Text>
+    </Text>
+    <Text>
+      <GUID>1414015042</GUID>
+      <Text>Hwacha</Text>
+    </Text>
+    <Text>
+      <GUID>14740081</GUID>
+      <Text>Battle Cruiser</Text>
+    </Text>
+    <Text>
+      <GUID>14740083</GUID>
+      <Text>Monitor</Text>
+    </Text>
+    <Text>
+      <GUID>14740082</GUID>
+      <Text>Siege Cruiser</Text>
+    </Text>
+    <Text>
+      <GUID>1414006699</GUID>
+      <Text>Very effective against ships.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006700</GUID>
+      <Text>Suppresses island defenses.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006701</GUID>
+      <Text>Specialized in burning down harbor buildings quickly.</Text>
+    </Text>
+    <Text>
+      <GUID>1414015045</GUID>
+      <Text>Lion Head</Text>
+    </Text>
+    <Text>
+      <GUID>1414015047</GUID>
+      <Text>Covered in Oil!</Text>
+    </Text>
+    <Text>
+      <GUID>1414015048</GUID>
+      <Text>Oil Puddles!</Text>
+    </Text>
+    <Text>
+      <GUID>1414015049</GUID>
+      <Text>Oil Residue!</Text>
+    </Text>
+    <Text>
+      <GUID>1414006706</GUID>
+      <Text>&lt;img src=&apos;data/ui/2kimages/main/icons/ship_info/icon_hitpoints.png&apos; height=&apos;24&apos; width=&apos;24&apos; /&gt; &lt;font size='17' &gt;[Selection Object Attackable CurHitPoints &gt;&gt; healthpoint]&lt;/font&gt;</Text>
+    </Text>
+    <Text>
+      <GUID>1414015039</GUID>
+      <Text>Pyrphorian Navarch's Fortress</Text>
+    </Text>
+    <Text>
+      <GUID>1414015053</GUID>
+      <Text>Flamethrower</Text>
+    </Text>
+    <Text>
+      <GUID>1414015058</GUID>
+      <Text>Eye of the Dragon</Text>
+    </Text>    
+    <!-- Random Ship Duplicates -->
+    <Text>
+      <GUID>14740075</GUID>
+      <Text>Bulk Freighter</Text>
+    </Text>
+    <Text>
+      <GUID>14740076</GUID>
+      <Text>Bulk Freighter</Text>
+    </Text>
+    <Text>
+      <GUID>14740077</GUID>
+      <Text>Bulk Freighter</Text>
+    </Text>    
+    <Text>
+      <GUID>1414006623</GUID>
+      <Text>Sir Blake's Supply Ship</Text>
+    </Text>
+    <Text>
+      <GUID>1414006624</GUID>
+      <Text>Madame Kahina's Supply Ship</Text>
+    </Text>
+    <Text>
+      <GUID>1414006625</GUID>
+      <Text>Eli Bleakworth's Supply Ship</Text>
+    </Text>
+    <Text>
+      <GUID>1414006626</GUID>
+      <Text>Anne Harlow's Supply Ship</Text>
+    </Text>
+    <Text>
+      <GUID>1414006627</GUID>
+      <Text>Isabel's Supply Ship</Text>
+    </Text>
+    <Text>
+      <GUID>1414006628</GUID>
+      <Text>Jean La Fortune's Supply Ship</Text>
+    </Text>
+    <Text>
+      <GUID>1414006629</GUID>
+      <Text>Old Nate's Supply Ship</Text>
+    </Text>
+    <!-- Random stuff -->
+    <Text>
+      <GUID>1414006472</GUID>
+      <Text>BOB &amp; Sons</Text>
+    </Text>
+    <Text>
+      <GUID>1414006473</GUID>
+      <Text>There is nothing that you can't build with Bob &amp; Sons' Construction materials.</Text>
+    </Text>
+    <Text>
+      <GUID>14740078</GUID>
+      <Text>Wandering Workers</Text>
+    </Text>
+    <Text>
+      <GUID>1414006475</GUID>
+      <Text>Cultural Motivation</Text>
+    </Text>
+    <Text>
+      <GUID>1414006542</GUID>
+      <Text>The Gōngrén tells you about these ruins.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006630</GUID>
+      <Text>Magnate Business</Text>
+    </Text>
+    <Text>
+      <GUID>1414006631</GUID>
+      <Text>I believe private sub-companies are the future. It's a shame the Crown is still years behind in this line of thinking. Luckily for us, the Empire doesn't have a say in the atoll.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006632</GUID>
+      <Text>So, here is the deal: You invest in factories in Horai, and we buy them from you. We'll pay part of their running cost and deal with any problems.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006633</GUID>
+      <Text>My return? Well, I'm not asking for much, I just want to keep my fair share of the profit, if you understand.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006634</GUID>
+      <Text>Often reserved for festivals, yet one can hardly resist their style and comfort everyday.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006635</GUID>
+      <Text>Fast food for panda bears. They must chow or die!</Text>
+    </Text>
+    <Text>
+      <GUID>1414006636</GUID>
+      <Text>The perfect wall material in these humid climatic conditions.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006638</GUID>
+      <Text>[Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount]t [AssetData([Conditions QuestCondition Context]) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414006639</GUID>
+      <Text>Little sculptures and ornaments carved out of Jade, which is yet to be discovered in Horai.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006640</GUID>
+      <Text>A part of the Far East that reminds your people of their origins.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006641</GUID>
+      <Text>Intensely aromatic and mass-produced, only a select few know how to make it properly — a recipe more secret than of that new Cola Mola Wola drink.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006642</GUID>
+      <Text>It looks like a weapon and smells like garbage, but its sweet creamy flesh is valued nonetheless.</Text>
+    </Text>
+    <!-- Goodwills Export Tutorial -->
+    <Text>
+      <GUID>1414006565</GUID>
+      <Text>&lt;font size = &quot;14&quot;&gt;&lt;font size = &quot;32&quot;&gt;TRADING CONTRACT&lt;/font&gt;&lt;br /&gt;&lt;br/&gt;&lt;font size = &quot;18&quot;&gt;§1 Way of Delivery&lt;/font&gt;&lt;br /&gt;&lt;br/&gt;§1.1 You can bring goods to the E.T.A. storage ship on Omega Haven. The delivery can happen at any time. The E.T.A. will then store those goods in their mass storage until the storage is full. &lt;br/&gt;§1.2 The E.T.A. only accepts prepacked shipments. The detailed amounts are listed in §3. &lt;br/&gt;§1.3 Upon reaching full storage capacity, You are obligated to export the stored goods to a buyer of the E.T.A.&apos;s choice before bringing in more goods.&lt;br/&gt;&lt;br/&gt;&lt;font size=&quot;18&quot;&gt;§2 Goods to deliver&lt;/font&gt;&lt;br /&gt;&lt;br/&gt;§2.1 Goods of five categories can be delivered to the E.T.A: Drugs, Valuables, Alcohol, Luxuries, Weapons. Further explanation in §4.&lt;br /&gt;§2.2 The E.T.A. has independent storage for those five categories. &lt;br/&gt;&lt;br/&gt;&lt;font size=&quot;18&quot;&gt;§3 Good amounts per Delivery&lt;/font&gt;&lt;br /&gt;&lt;br/&gt;§3.1 Drugs: 10t &lt;br/&gt;§3.2 Valuables: 10t &lt;br/&gt;§3.3 Alcohol: 200t &lt;br/&gt;§3.4 Luxuries: 100t &lt;br/&gt;§3.4 Weapons: 50t &lt;br/&gt;&lt;br/&gt;&lt;font size=&quot;18&quot;&gt;§4 Good Types&lt;/font&gt;&lt;br /&gt;&lt;br/&gt;§4.1 Drugs: Drugs &lt;br/&gt;§4.2 Valuables: Valuables &lt;br/&gt;§4.3 Alcohol: Schnapps, Beer, Rum, Champagne, Cognac, Umeshu, Sake &lt;br/&gt;§4.4 Luxuries: Shampoo, Lemonade, Cigars, Tobacco Pipes, Hemp, Phonographs, Jewellery, Steam Carriages, Telephones, Radios, Pens, Violins, Billiard Tables &lt;br/&gt;§4.5 Weapons: Weapons, Advanced Weapons, Dynamite, Steam Motors, Bombs, Sea Mines.&lt;/font&gt;</Text>
+    </Text>
+  </ModOp>
+</ModOps>
