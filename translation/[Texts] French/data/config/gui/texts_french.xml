@@ -3,12 +3,20 @@
     <Include File = "./fre/audio.include.xml" />
     <Include File = "./fre/names.include.xml" />
     <Include File = "./fre/batch03.include.xml" />
-    <Include File = "./fre/customsduty.include.xml" />
-    <Include File = "./fre/items.include.xml" />
+    <Include File = "./fre/batch05.include.xml" />
     <Include File = "./fre/batch08.include.xml" />
     <Include File = "./fre/ornaments.include.xml" />
-    <Include File = "./fre/batch05.include.xml" />
+    <Include File = "./fre/customsduty.include.xml" />
+    <Include File = "./fre/items.include.xml" />
     <Include File = "./fre/batch10.include.xml" />
     <Include File = "./fre/batch11.include.xml" />
     <Include File = "./fre/batch12.include.xml" />
+    <Include File = "./eng/batch13.include.xml" />
+    <Include File = "./eng/batch14.include.xml" />
+    <Include File = "./eng/batch15.include.xml" />
+    <Include File = "./eng/batch18.include.xml" />
+    <Include File = "./eng/batch19.include.xml" />
+    <Include File = "./eng/quest.include.xml" />
+    <Include File = "./eng/quest02.include.xml" />
+    <Include File = "./eng/edit.include.xml" />
 </ModOps>

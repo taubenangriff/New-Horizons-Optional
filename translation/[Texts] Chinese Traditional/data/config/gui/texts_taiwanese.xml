@@ -1,9 +1,9 @@
 <ModOps>
-    <Include File = "./pol/base.include.xml" />
+    <Include File = "./eng/base.include.xml" />
     <Include File = "./eng/adjust.include.xml" />
     <Include File = "./eng/audio.include.xml" />
-    <Include File = "./pol/names.include.xml" />
-    <Include File = "./pol/batch03.include.xml" />
+    <Include File = "./eng/names.include.xml" />
+    <Include File = "./eng/batch03.include.xml" />
     <Include File = "./eng/batch05.include.xml" />
     <Include File = "./eng/batch08.include.xml" />
     <Include File = "./eng/ornaments.include.xml" />

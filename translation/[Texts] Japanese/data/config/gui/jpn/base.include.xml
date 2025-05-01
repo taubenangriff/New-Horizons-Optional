@@ -1,0 +1,621 @@
+<ModOps>    
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1446131</GUID>
+      <Text>パイロフォリアン艦隊司令官</Text>
+    </Text>
+    <Text>
+      <GUID>1446109</GUID>
+      <Text>ジェームズ大使</Text>
+    </Text>
+    <Text>
+      <GUID>1446116</GUID>
+      <Text>呉国偉海軍提督</Text>
+    </Text>
+    <!-- Admiral Island -->
+    <Text>
+      <GUID>1414006702</GUID>
+      <Text>マージプーン</Text>
+    </Text>
+    <!-- Goodwill Island-->
+    <Text>
+      <GUID>1414006420</GUID>
+      <Text>オメガヘブン</Text>
+    </Text>
+    <!-- Pyrphorian Island-->
+    <Text>
+      <GUID>1414006698</GUID>
+      <Text>イグネイ要塞</Text>
+    </Text>
+    <Text>
+      <GUID>1445600</GUID>
+      <Text>マグネイト</Text>
+    </Text>
+    <Text>
+      <GUID>1445602</GUID>
+      <Text>ノンミン</Text>
+    </Text>
+    <Text>
+      <GUID>1446100</GUID>
+      <Text>ノンミン</Text>
+    </Text>
+    <Text>
+      <GUID>1446101</GUID>
+      <Text>ゴングレン</Text>
+    </Text>
+    <Text>
+      <GUID>1445603</GUID>
+      <Text>ゴングレン</Text>
+    </Text>
+    <Text>
+      <GUID>1446103</GUID>
+      <Text>ゴングレン</Text>
+    </Text>
+    <Text>
+      <GUID>1446106</GUID>
+      <Text>マグネイト</Text>
+    </Text>
+    <!-- Products -->
+    <Text>
+      <GUID>1440235</GUID>
+      <Text>円錐形の傘</Text>
+    </Text>    
+    <Text>
+      <GUID>1440004</GUID>
+      <Text>ラジオ</Text>
+    </Text>    
+    <Text>
+      <GUID>1440007</GUID>
+      <Text>フィラー</Text>
+    </Text>
+    <Text>
+      <GUID>1440010</GUID>
+      <Text>検出器レシーバー</Text>
+    </Text>
+    <Text>
+      <GUID>1440014</GUID>
+      <Text>ブルーチーズ</Text>
+    </Text>
+    <Text>
+      <GUID>1440016</GUID>
+      <Text>キャビアのクラッカー</Text>
+    </Text>
+    <Text>
+      <GUID>1440017</GUID>
+      <Text>粒胡椒</Text>
+    </Text>
+    <Text>
+      <GUID>1440018</GUID>
+      <Text>黒胡椒</Text>
+    </Text>
+    <Text>
+      <GUID>1440019</GUID>
+      <Text>キャビア</Text>
+    </Text>
+    <Text>
+      <GUID>1440226</GUID>
+      <Text>チョウザメ</Text>
+    </Text>
+    <Text>
+      <GUID>1440020</GUID>
+      <Text>万年筆のペン先</Text>
+    </Text>
+    <Text>
+      <GUID>1440021</GUID>
+      <Text>作表機</Text>
+    </Text>
+    <Text>
+      <GUID>1440022</GUID>
+      <Text>バーボンウィスキー</Text>
+    </Text>
+    <Text>
+      <GUID>1440023</GUID>
+      <Text>自動車</Text>
+    </Text>
+    <Text>
+      <GUID>1440024</GUID>
+      <Text>タングステン</Text>
+    </Text>
+    <Text>
+      <GUID>1440025</GUID>
+      <Text>銀の延べ棒</Text>
+    </Text>
+    <Text>
+      <GUID>1440026</GUID>
+      <Text>ダイヤモンド</Text>
+    </Text>    
+    <Text>
+      <GUID>1440200</GUID>
+      <Text>米</Text>
+    </Text>
+    <Text>
+      <GUID>1440212</GUID>
+      <Text>海藻</Text>
+    </Text>
+    <Text>
+      <GUID>1440213</GUID>
+      <Text>押し寿司</Text>
+    </Text>
+    <Text>
+      <GUID>1440201</GUID>
+      <Text>梅酒</Text>
+    </Text>
+    <Text>
+      <GUID>1440202</GUID>
+      <Text>茶葉</Text>
+    </Text>
+    <Text>
+      <GUID>1440204</GUID>
+      <Text>カオリン</Text>
+    </Text>
+    <Text>
+      <GUID>1440205</GUID>
+      <Text>長石</Text>
+    </Text>
+    <Text>
+      <GUID>1440206</GUID>
+      <Text>陶磁器</Text>
+    </Text>
+    <Text>
+      <GUID>1440207</GUID>
+      <Text>蚕の繭</Text>
+    </Text>
+    <Text>
+      <GUID>1440209</GUID>
+      <Text>絹織物</Text>
+    </Text>
+    <Text>
+      <GUID>1440216</GUID>
+      <Text>酒</Text>
+    </Text>
+    <Text>
+      <GUID>1440217</GUID>
+      <Text>アヒル</Text>
+    </Text>
+    <Text>
+      <GUID>1440219</GUID>
+      <Text>ローストダック</Text>
+    </Text>
+    <Text>
+      <GUID>1440220</GUID>
+      <Text>梅酒</Text>
+    </Text>
+    <Text>
+      <GUID>1440225</GUID>
+      <Text>着物</Text>
+    </Text>
+    <Text>
+      <GUID>1440300</GUID>
+      <Text>高貴なキノコ</Text>
+    </Text>
+    <Text>
+      <GUID>1440221</GUID>
+      <Text>イリジウム</Text>
+    </Text>
+    <Text>
+      <GUID>1440223</GUID>
+      <Text>大豆</Text>
+    </Text>
+    <Text>
+      <GUID>1440402</GUID>
+      <Text>浴場</Text>
+    </Text>
+    <Text>
+      <GUID>1440405</GUID>
+      <Text>寺院</Text>
+    </Text>
+    <Text>
+      <GUID>1440404</GUID>
+      <Text>地下鉄</Text>
+    </Text>
+    <Text>
+      <GUID>1440229</GUID>
+      <Text>琴</Text>
+    </Text>
+    <Text>
+      <GUID>1440303</GUID>
+      <Text>麹</Text></Text>
+    <Text>
+      <GUID>1440500</GUID>
+      <Text>薬品</Text>
+    </Text>
+    <Text>
+      <GUID>1440501</GUID>
+      <Text>貴重品</Text>
+    </Text>
+    <Text>
+      <GUID>1440502</GUID>
+      <Text>アルコール</Text>
+    </Text>
+    <Text>
+      <GUID>1440503</GUID>
+      <Text>高級品</Text>
+    </Text>
+    <Text>
+      <GUID>1440504</GUID>
+      <Text>武器</Text>
+    </Text>
+    <Text>
+      <GUID>1440232</GUID>
+      <Text>シルクのウエストコート</Text>
+    </Text>
+    <Text>
+      <GUID>1440233</GUID>
+      <Text>竹</Text>
+    </Text>
+    <Text>
+      <GUID>1440234</GUID>
+      <Text>粘土石膏</Text>
+    </Text>
+    <Text>
+      <GUID>1440304</GUID>
+      <Text>翡翠の彫刻</Text>
+    </Text>
+    <Text>
+      <GUID>1440305</GUID>
+      <Text>東洋の文学</Text>
+    </Text>
+    <Text>
+      <GUID>1440306</GUID>
+      <Text>香</Text>
+    </Text>
+    <Text>
+      <GUID>1440307</GUID>
+      <Text>ドリアンの果実</Text>
+    </Text>
+    <Text>
+      <GUID>1440236</GUID>
+      <Text>醤油</Text>
+    </Text>
+    <Text>
+      <GUID>1440407</GUID>
+      <Text>庭園</Text>
+    </Text>
+    <Text>
+      <GUID>1440237</GUID>
+      <Text>石のブロック</Text>
+    </Text>
+    <Text>
+      <GUID>1440239</GUID>
+      <Text>豆腐</Text>
+    </Text>
+    <Text>
+      <GUID>1440409</GUID>
+      <Text>ストリートフード</Text>
+    </Text>
+    <Text>
+      <GUID>1337881</GUID>
+      <Text>ジャンク造船所</Text>
+    </Text>
+    <Text>
+      <GUID>14740102</GUID>
+      <Text>ジャンク</Text>
+    </Text>
+    <Text>
+      <GUID>14740115</GUID>
+      <Text>ローチャ</Text>
+    </Text>
+    <Text>
+      <GUID>1441333</GUID>
+      <Text>業務用厨房: パスタ</Text>
+    </Text>
+    <Text>
+      <GUID>1441336</GUID>
+      <Text>業務用厨房: パスタ</Text>
+    </Text>
+    <Text>
+      <GUID>1441233</GUID>
+      <Text>業務用厨房: パスタ</Text>
+    </Text>
+    <Text>
+      <GUID>1441026</GUID>
+      <Text>調理場: キャビア</Text>
+    </Text>
+    <Text>
+      <GUID>1441204</GUID>
+      <Text>調理場: 押し寿司</Text>
+    </Text>
+    <Text>
+      <GUID>1441312</GUID>
+      <Text>調理場: 醤油</Text>
+    </Text>
+    
+    <Text>
+      <GUID>1442701</GUID>      <!-- Streetfood - Noodle Stand (Blank) -->
+      <Text>麺屋台</Text>
+    </Text>    
+    <Text>
+      <GUID>1442702</GUID>      <!-- Streetfood - Noodle Stand - Nigiri-Sushi -->
+      <Text>麺屋台: 握り寿司</Text>
+    </Text>
+    <Text>
+      <GUID>1442703</GUID>      <!-- Streetfood - Noodle Stand - Vegetable Tempura -->
+      <Text>麺屋台: 野菜の天ぷら</Text>
+    </Text>
+    <Text>
+      <GUID>1442704</GUID>      <!-- Streetfood - Noodle Stand - Hand-Pulled Beef Noodles -->
+      <Text>麺屋台: 手打ちビーフン</Text>
+    </Text>
+    <Text>
+      <GUID>1442705</GUID>      <!-- Streetfood - Noodle Stand - Takoyaki -->
+      <Text>麺屋台: たこ焼き</Text>
+    </Text>
+    <Text>
+      <GUID>1442706</GUID>      <!-- Streetfood - Street Grill (Blank) -->
+      <Text>ストリートグルメ</Text>
+    </Text>
+    <Text>
+      <GUID>1442707</GUID>      <!-- Streetfood - Street Grill - Okonomiyaki -->
+      <Text>ストリートグルメ: お好み焼き</Text>
+    </Text>
+    <Text>
+      <GUID>1442708</GUID>      <!-- Streetfood - Street Grill - Bak Kwa -->
+      <Text>ストリードグルメ: バクワ</Text>
+    </Text>
+    <Text>
+      <GUID>1442709</GUID>      <!-- Streetfood - Street Grill - Stir-Fried Rice -->
+      <Text>ストリートグルメ: 炒飯</Text>
+    </Text>
+    <Text>
+      <GUID>1442710</GUID>      <!-- Streetfood - Street Grill - Kushiyaki -->
+      <Text>ストリートグルメ: 串焼き</Text>
+    </Text>
+    <Text>
+      <GUID>1442711</GUID>      <!-- Streetfood - Steamer Stand (Blank) -->
+      <Text>せいろ屋台</Text>
+    </Text>
+    <Text>
+      <GUID>1442712</GUID>      <!-- Streetfood - Steamer Stand - Congee with Youtiao -->
+      <Text>せいろ屋台: 油条とお粥</Text>
+    </Text>
+    <Text>
+      <GUID>1442713</GUID>      <!-- Streetfood - Steamer Stand - Steamed Bao Buns -->
+      <Text>せいろ屋台: 蒸し餃子</Text>
+    </Text>
+    <Text>
+      <GUID>1442714</GUID>      <!-- Streetfood - Steamer Stand - Zong Zi -->
+      <Text>せいろ屋台: ちまき</Text>
+    </Text>
+    <Text>
+      <GUID>1442715</GUID>      <!-- Streetfood - Steamer Stand - Special Dumpling Soup -->
+      <Text>せいろ屋台: 団子汁</Text>
+    </Text>
+    <Text>
+      <GUID>1442716</GUID>      <!-- Streetfood - Dessert Stand (Blank) -->
+      <Text>デザート屋台</Text>
+    </Text>
+    <Text>
+      <GUID>1442717</GUID>      <!-- Streetfood - Dessert Stand - Dango -->
+      <Text>デザート屋台: 団子</Text>
+    </Text>
+    <Text>
+      <GUID>1442718</GUID>      <!-- Streetfood - Dessert Stand - Sweet Doufuhua -->
+      <Text>デザート屋台: 甘美な豆花</Text>
+    </Text>
+    <Text>
+      <GUID>1442719</GUID>      <!-- Streetfood - Dessert Stand - Imagawayaki -->
+      <Text>デザート屋台: 今川焼</Text>
+    </Text>
+    <Text>
+      <GUID>1442720</GUID>      <!-- Streetfood - Dessert Stand - Tanghulu -->
+      <Text>デザート屋台: フルーツ飴</Text>
+    </Text>
+    <Text>
+      <GUID>1442721</GUID>      <!-- Streetfood - Noodle Recipes -->
+      <Text>パスタのレシピ</Text>
+    </Text>
+    <Text>
+      <GUID>1442722</GUID>      <!-- Streetfood - Street Grill Recipes -->
+      <Text>ストリートグルメ-レシピ</Text>
+    </Text>
+    <Text>
+      <GUID>1442723</GUID>      <!-- Streetfood - Steamer Recipes -->
+      <Text>せいろ-レシピ</Text>
+    </Text>
+    <Text>
+      <GUID>1442724</GUID>      <!-- Streetfood - Dessert Recipes -->
+      <Text>デザート-レシピ</Text>
+    </Text>
+    <!-- Factories -->    
+    <Text>
+      <GUID>1441010</GUID>
+      <Text>ポリマー工場</Text>
+    </Text>
+    <Text>
+      <GUID>1441015</GUID>
+      <Text>ラジオ工場</Text>
+    </Text>
+    <Text>
+      <GUID>1441016</GUID>
+      <Text>フィラー工場</Text>
+    </Text>
+    <Text>
+      <GUID>1441020</GUID>
+      <Text>産業用酪農場</Text>
+    </Text>
+    <Text>
+      <GUID>1441290</GUID>
+      <Text>シルクのウエストコート仕立て工場
+    </Text></Text>
+    <Text>
+      <GUID>1441022</GUID>
+      <Text>ペッパーミル</Text>
+    </Text>
+    <Text>
+      <GUID>1441025</GUID>
+      <Text>キャビアクラッカー製造所</Text>
+    </Text>
+    <Text>
+      <GUID>1441203</GUID>
+      <Text>海藻養殖場</Text>
+    </Text>
+    <Text>
+      <GUID>1441208</GUID>
+      <Text>梅酒蒸留所</Text>
+    </Text>
+    <Text>
+      <GUID>1441212</GUID>
+      <Text>製茶工場</Text>
+    </Text>
+    <Text>
+      <GUID>1441259</GUID>
+      <Text>円錐形の傘工房</Text>
+    </Text>
+    <Text>
+      <GUID>1441215</GUID>
+      <Text>磁器窯</Text>
+    </Text>
+    <Text>
+      <GUID>1441291</GUID>
+      <Text>竹林業</Text>
+    </Text>
+    <Text>
+      <GUID>1441223</GUID>
+      <Text>絹織物工場</Text>
+    </Text>
+    <Text>
+      <GUID>1441226</GUID>
+      <Text>酒蔵</Text>
+    </Text>
+    <Text>
+      <GUID>1441260</GUID>
+      <Text>チョウザメ漁場</Text>
+    </Text>
+    <Text>
+      <GUID>1441283</GUID>
+      <Text>琴工房</Text>
+    </Text>
+    <Text>
+      <GUID>1441308</GUID>
+      <Text>着物の仕立て所</Text>
+    </Text>
+    <Text>
+      <GUID>1441021</GUID>
+      <Text>胡椒農場</Text>
+    </Text>
+    <Text>
+      <GUID>1441202</GUID>
+      <Text>米農場</Text>
+    </Text>
+    <Text>
+      <GUID>1441207</GUID>
+      <Text>梅農場</Text>
+    </Text>
+    <Text>
+      <GUID>1441211</GUID>
+      <Text>茶畑</Text>
+    </Text>
+    <Text>
+      <GUID>1441257</GUID>
+      <Text>麻農園</Text>
+    </Text>
+    <Text>
+      <GUID>1441218</GUID>
+      <Text>桑農園</Text>
+    </Text>
+    <Text>
+      <GUID>1441229</GUID>
+      <Text>アヒル農場</Text>
+    </Text>
+    <Text>
+      <GUID>1441232</GUID>
+      <Text>養蜂場</Text>
+    </Text>
+    <Text>
+      <GUID>1441251</GUID>
+      <Text>大豆農場</Text>
+    </Text>
+    <Text>
+      <GUID>1441281</GUID>
+      <Text>あざみ農園</Text>
+    </Text>
+    <Text>
+      <GUID>1441024</GUID>
+      <Text>胡椒畑</Text>
+    </Text>
+    <Text>
+      <GUID>1441201</GUID>
+      <Text>田</Text>
+    </Text>
+    <Text>
+      <GUID>1441206</GUID>
+      <Text>梅の樹</Text>
+    </Text>
+    <Text>
+      <GUID>1441210</GUID>
+      <Text>茶園</Text>
+    </Text>
+    <Text>
+      <GUID>1441258</GUID>
+      <Text>麻農園</Text>
+    </Text>
+    <Text>
+      <GUID>1441217</GUID>
+      <Text>桑畑</Text>
+    </Text>
+    <Text>
+      <GUID>1441228</GUID>
+      <Text>アヒルの囲い</Text>
+    </Text>
+    <Text>
+      <GUID>1441231</GUID>
+      <Text>蜂の巣</Text>
+    </Text>
+    <Text>
+      <GUID>1441252</GUID>
+      <Text>大豆畑</Text>
+    </Text>
+    <Text>
+      <GUID>1441282</GUID>
+      <Text>あざみ畑</Text>
+    </Text>
+    <Text>
+      <GUID>1441213</GUID>
+      <Text>カオリン抗</Text>
+    </Text>
+    <Text>
+      <GUID>1441327</GUID>
+      <Text>採石場</Text>
+    </Text>
+    <Text>
+      <GUID>1441240</GUID>
+      <Text>鉄鉱山</Text>
+    </Text>
+    <Text>
+      <GUID>1441239</GUID>
+      <Text>イリジウム鉱山</Text>
+    </Text>
+    <Text>
+      <GUID>1441214</GUID>
+      <Text>長石鉱山</Text>
+    </Text>
+    <Text>
+      <GUID>1441014</GUID>
+      <Text>フライス加工工場: 検出器レシーバー</Text>
+    </Text>
+    <Text>
+      <GUID>1441023</GUID>
+      <Text>フライス加工工場: 万年筆のペン先</Text>
+    </Text>
+    <Text>
+      <GUID>1441284</GUID>
+      <Text>フライス加工工場: 弦</Text>
+    </Text>
+    <Text>
+      <GUID>1441300</GUID>
+      <Text>化学工場</Text>
+    </Text>
+    <Text>
+      <GUID>1441301</GUID>
+      <Text>化学工場: ラッカー</Text>
+    </Text>
+    <Text>
+      <GUID>1441302</GUID>
+      <Text>化学工場: セルロイド</Text>
+    </Text>
+    <Text>
+      <GUID>1441303</GUID>
+      <Text>化学工場: エタノール</Text>
+    </Text>
+  </ModOp>
+</ModOps>
