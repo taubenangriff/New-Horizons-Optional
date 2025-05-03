@@ -1,0 +1,12 @@
+<ModOps>
+    <!-- Clay Plaster Fix-->
+    <ModOp GUID = '1441242' Path = "/Values/FactoryBase/FactoryInputs/Item[Product='1440233']" Type = "add">
+        <Amount>1</Amount>
+    </ModOp>
+
+    <!-- # Garden Fix: Ignore Visibility of grass, zen paving and gravel -->
+     <ModOp GUID ='1445643' Type = "add" Path = "/Values/ConstructionCategory/BuildingList/Item">        
+        <IgnoreUnlockStateForCategoryVisibility>1</IgnoreUnlockStateForCategoryVisibility>
+     </ModOp>
+     <ModOp GUID ='1445643' Type = "remove" Path = "/Values/ConstructionCategory/BuildingList/Item[Building='1442560']/IgnoreUnlockStateForCategoryVisibility" /> 
+</ModOps>
