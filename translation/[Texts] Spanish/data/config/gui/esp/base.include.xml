@@ -83,7 +83,7 @@
     </Text>
     <Text>
       <GUID>1440017</GUID>
-      <Text>granos de Pimienta/Text>
+      <Text>granos de Pimienta</Text>
     </Text>
     <Text>
       <GUID>1440018</GUID>
@@ -268,7 +268,7 @@
     </Text>
     <Text>
       <GUID>1440304</GUID>
-      <Text>Esculturas de Jade/Text>
+      <Text>Esculturas de Jade</Text>
     </Text>
     <Text>
       <GUID>1440305</GUID>
@@ -369,7 +369,7 @@
     </Text>
     <Text>
       <GUID>1442708</GUID>      <!-- Streetfood - Street Grill - Bak Kwa -->
-      <TextParillada callejera: Bak Kwa</Text>
+      <Text>Parillada callejera: Bak Kwa</Text>
     </Text>
     <Text>
       <GUID>1442709</GUID>      <!-- Streetfood - Street Grill - Stir-Fried Rice -->
@@ -385,11 +385,11 @@
     </Text>
     <Text>
       <GUID>1442712</GUID>      <!-- Streetfood - Steamer Stand - Congee with Youtiao -->
-      <Text>Puesto de Vaporera<: Congee con Youtiao</Text>
+      <Text>Puesto de Vaporera: Congee con Youtiao</Text>
     </Text>
     <Text>
       <GUID>1442713</GUID>      <!-- Streetfood - Steamer Stand - Steamed Bao Buns -->
-      <Text>Puesto de Vaporera<: Bollos Bao al vapor</Text>
+      <Text>Puesto de Vaporera: Bollos Bao al vapor</Text>
     </Text>
     <Text>
       <GUID>1442714</GUID>      <!-- Streetfood - Steamer Stand - Zong Zi -->
@@ -413,11 +413,11 @@
     </Text>
     <Text>
       <GUID>1442719</GUID>      <!-- Streetfood - Dessert Stand - Imagawayaki -->
-      <TextPuesto de dulcería: Imagawayaki</Text>
+      <Text>Puesto de dulcería: Imagawayaki</Text>
     </Text>
     <Text>
       <GUID>1442720</GUID>      <!-- Streetfood - Dessert Stand - Tanghulu -->
-      <Text>Puesto de dulcería: Tangulu</text>
+      <Text>Puesto de dulcería: Tangulu</Text>
     </Text>
     <Text>
       <GUID>1442721</GUID>      <!-- Streetfood - Noodle Recipes -->
@@ -482,7 +482,7 @@
     </Text>
     <Text>
       <GUID>1441215</GUID>
-      <Text>Horno de Porcelana</text>
+      <Text>Horno de Porcelana</Text>
     </Text>
     <Text>
       <GUID>1441291</GUID>
@@ -538,7 +538,7 @@
     </Text>
     <Text>
       <GUID>1441232</GUID>
-      <Text>Apiario</Text>
+      <Text>Colmenar</Text>
     </Text>
     <Text>
       <GUID>1441251</GUID>
@@ -586,7 +586,7 @@
     </Text>
     <Text>
       <GUID>1441282</GUID>
-      <TextCampo de Cárdamo</Text>
+      <Text>Campo de Cárdamo</Text>
     </Text>
     <Text>
       <GUID>1441213</GUID>
@@ -618,7 +618,7 @@
     </Text>
     <Text>
       <GUID>1441284</GUID>
-      <TextTaller de fresado: Cuerdas</Text>
+      <Text>Taller de fresado: Cableado</Text>
     </Text>
     <Text>
       <GUID>1441300</GUID>

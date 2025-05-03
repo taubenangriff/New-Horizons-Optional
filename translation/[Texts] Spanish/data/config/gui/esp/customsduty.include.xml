@@ -1,8 +1,6 @@
 <ModOps>
-    <ModOp Type="add" Path="/TextExport/Texts">
-    
+    <ModOp Type="add" Path="/TextExport/Texts">    
         <!-- Customs Duty Items -->
-
         <Text>
             <GUID>1414009000</GUID>
             <Text>Derechos de Aduana: Pescado</Text>
@@ -301,7 +299,7 @@
         </Text>
         <Text>
             <GUID>1414009111</GUID>
-            <Text>Derechos de Aduana: Trineos de Huskies/Text>
+            <Text>Derechos de Aduana: Trineos de Huskies</Text>
         </Text>
         <Text>
             <GUID>1414009112</GUID>
@@ -467,10 +465,9 @@
             <GUID>1414009172</GUID>
             <Text>Derechos de Aduana: Trajes de Seda</Text>
         </Text>
-
         <Text>
             <GUID>1414009174</GUID>
-            <Text>Derechos de Aduana: Mermelada/Text>
+            <Text>Derechos de Aduana: Mermelada</Text>
         </Text>
         <Text>
             <GUID>1414009175</GUID>
