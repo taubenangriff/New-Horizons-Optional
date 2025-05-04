@@ -1,0 +1,41 @@
+<ModOps>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '12920']/Text">
+    <Text>Posibilidad de Derechos de Aduana</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23462']/Text">
+    <Text>No aplica a las plataformas árticas.</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '20327']/Text">
+    <Text>Cada comercio con otra facción se modifica con un impuesto de 5 toneladas de [ItemAssetData([RefGuid]) GoodGenerationPoolFormatted]. Si se aplica un derecho de aduanas a un pueswto comercial de alguna isla, el efecto aplicará a los demas puestos comerciales de las demás islas.</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23254']/Text">
+    <Text>Cada comercio con otra facción se modifica con un impuesto de 5 toneladas de [ItemAssetData({ItemGuid}) GoodGenerationPoolFormatted]. Si se aplica un derecho de aduanas a un pueswto comercial de alguna isla, el efecto aplicará a los demas puestos comerciales de las demás islas.</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '21391']/Text">
+    <Text>La necesidad de[ItemAssetData([RefGuid]) GoodConsumptionAllProvidedNeedsFormatted] es proveida por[ItemAssetData([RefGuid]) GoodConsumptionAmountInPercent(0) &gt;&gt; sellShipPrice]%.</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '15319']/Text">
+    <Text>se necesita área libre</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '21610']/Text">
+    <Text>[ItemAssetData([RefGuid]) AreaTolerance &gt;&gt; sellShipPrice]%</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '21521']/Text">
+    <Text>Ajustar la cantidad de área libre dentro de la cabaña de leñador.</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '22634']/Text">
+    <Text>Las residencias obtienen la cantidad requerida de bonificacion de residencia de: [ItemAssetData([ToolOneHelper ItemActiveBuff([RefGuid])]) InputBenefitAllAdditionalSupplyFormatted].</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '192408']/Text">
+    <Text>Tejedores de entramado, tratantes de pieles y [AssetData(1441259) Text].</Text>
+  </ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23728']/Text">
+    <Text>&lt;font color='0xff817f87'&gt; +[ItemAssetData([RefGuid]) AdditionalOutputAmount(index)]/[ItemAssetData([RefGuid]) AdditionalOutputCycle(index)] &lt;/font&gt;</Text>
+  </ModOp>
+  <ModOp Type = "replace" Path = "/TextExport/Texts/Text[GUID = '125003']/Text">
+    <Text>Las rutas de comercio con este recorso tendrán máxima prioridad en este muelle.</Text>
+  </ModOp>
+  <ModOp Type = "replace" Path = "//Text[GUID = '137465']/Text">
+    <Text>Plantillas</Text>
+  </ModOp>
+</ModOps>
