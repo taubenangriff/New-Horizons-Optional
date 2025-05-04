@@ -1,12 +1,12 @@
 {
-    "Version": "1.0",
-    "ModID": "chocolate_docklands",
-    "Category": {
-      "English": "Rework"
-    },
-    "ModName": {
-      "English": "Docklands"
-    },
-    "CreatorName": "New Horizons Team",
-    "ModioResourceId": 4772787
+  "Version": "1.1",
+  "ModID": "chocolate_docklands",
+  "Category": {
+    "English": "Rework"
+  },
+  "ModName": {
+    "English": "Docklands"
+  },
+  "CreatorName": "New Horizons Team",
+  "ModioResourceId": 4772787
 }
