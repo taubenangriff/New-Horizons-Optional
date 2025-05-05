@@ -1,0 +1,373 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- Items -->
+    <Text>
+      <GUID>1414011018</GUID><!-- German: B. Soffski, Experte der Antiabstinenz -->
+      <Text>Dr. Inker, Experte Anti-abstinence</Text>
+    </Text>
+    <Text>
+      <GUID>1414006105</GUID>
+      <Text>Juste un peu de champagne, de rhum, de vodka, de vin et de bière... et la suite va vous surprendre</Text>
+    </Text>
+    <Text>
+      <GUID>1414011013</GUID>
+      <Text>Jude Kellers-Wellington, défenseur d'un avenir vert</Text>
+    </Text>
+    <Text>
+      <GUID>1414006100</GUID>
+      <Text>Jude doit créer un avenir plus vert, par la force si nécessaire.</Text>      <!--Typo-->
+    </Text>
+    <Text>
+      <GUID>1414011019</GUID>
+      <Text>Papetier</Text>
+    </Text>
+    <Text>
+      <GUID>1414006106</GUID>
+      <Text>A survécu aux grandes sécheresses du sud d'Enbesa en vendant son papier sans eau.</Text>
+    </Text>        
+    <Text>
+      <GUID>1440408</GUID>
+      <Text>Bars &amp; Restaurants</Text>
+    </Text>
+    <Text>
+      <GUID>1414011040</GUID>
+      <Text>Itamae expérimenté</Text>
+    </Text>
+    <Text>
+      <GUID>1414011041</GUID>
+      <Text>Chef Quanjude</Text>
+    </Text>
+    <Text>
+      <GUID>1414006678</GUID>
+      <Text>Cet itamae a suivi la formation nécessaire pour préparer de véritables oshi-sushis, au lieu de faire semblant.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006679</GUID>
+      <Text>Il connaît les recettes originales par cœur.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011042</GUID>
+      <Text>Maître artisane Zhu</Text>
+    </Text>
+    <Text>
+      <GUID>1414006680</GUID>
+      <Text>Doué pour la fabrication de porcelaine de la plus haute qualité</Text>
+    </Text>
+    <Text>
+      <GUID>1414011043</GUID>
+      <Text>Fermier Zheng</Text>
+    </Text>
+    <Text>
+      <GUID>1414006681</GUID>
+      <Text>Si l'on sème les graines juste un centimètre plus près les unes des autres…</Text>
+    </Text>
+    <Text>
+      <GUID>1414006682</GUID>
+      <Text>A une mémoire quasi photographique du littoral.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011044</GUID>
+      <Text>Garde-Bambou</Text>
+    </Text>
+    <Text>
+      <GUID>1414006683</GUID>
+      <Text>Grâce à une culture astucieuse, le bambou peut pousser plus vite.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011045</GUID>
+      <Text>Wang le chasseur</Text>
+    </Text>
+    <Text>
+      <GUID>1414006684</GUID>
+      <Text>Il se faufile sans effort dans l'épaisse forêt de bambous pour chasser la faune locale.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011046</GUID>
+      <Text>Il se faufile sans effort dans l'épaisse forêt de bambous pour chasser la faune locale.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006685</GUID>
+      <Text>Hana est la préférée du patron ; elle fait même des heures supplémentaires pendant son sommeil.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011047</GUID>
+      <Text>Rho Tian, ​​chapelière à Quantité</Text>
+    </Text>
+    <Text>
+      <GUID>1414006686</GUID>
+      <Text>Avec le nombre impressionnant de chapeaux que Rho fabrique, elle confond parfois les matières et a ainsi, sans le vouloir, lancé quelques nouvelles tendances.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011048</GUID>
+      <Text>Pompier à la retraite</Text>
+    </Text>
+    <Text>
+      <GUID>1414006687</GUID>
+      <Text>Expert dans l'art de transporter de l'eau en grande quantité, il étanchera n'importe quelle soif avec une certaine facilité.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011049</GUID>
+      <Text>Policier trop ambitieux</Text>
+    </Text>
+    <Text>
+      <GUID>1414006688</GUID>
+      <Text>Avec son sens très personnel de l'ordre public, il peut devenir irritant.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011050</GUID>
+      <Text>Le grand-maire Jian</Text>
+    </Text>
+    <Text>
+      <GUID>1414006689</GUID>
+      <Text>A remporté les dernières élections avec 99,7 % des voix.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011051</GUID>
+      <Text>Candidate de l'opposition populiste</Text>
+    </Text>
+    <Text>
+      <GUID>1414006690</GUID>
+      <Text>Sa campagne électorale était principalement axée sur un « retour aux sources ».</Text>
+    </Text>
+    <Text>
+      <GUID>1414006772</GUID>
+      <Text>Des instruments bon marché pour les masses, ils ne le remarqueront pas. Attendez, ça ne ressemble même pas à un koto !</Text>
+    </Text>
+    <Text>
+      <GUID>1414011053</GUID>
+      <Text>Ling Ling, inventeur de l'entraînement Ling Ling</Text>
+    </Text>
+    <Text>
+      <GUID>1414011054</GUID>
+      <Text>L'ami du pêcheur</Text>
+    </Text>
+    <Text>
+      <GUID>1414006773</GUID>
+      <Text>Une perle ici et là, et tout le sable déterré au passage, peut-être a-t-il simplement de la chance ?</Text>
+    </Text>
+    <Text>
+      <GUID>1414011055</GUID>
+      <Text>Connaisseur du Qi</Text>
+    </Text>
+    <Text>
+      <GUID>1414006774</GUID>
+      <Text>Alors que L'industrie médicinale émergente considère la maladie comme une source de revenus, elle considère la médecine traditionnelle comme le véritable remède.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006775</GUID>
+      <Text>Augmente la capacité de stockage des récoltes de Horai.</Text>
+    </Text>
+    <Text>
+      <GUID>1440310</GUID>
+      <Text>Beau temps</Text>
+    </Text>
+    <Text>
+      <GUID>1414006776</GUID>
+      <Text>Une grande théière facilite grandement l'infusion du thé.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006778</GUID>
+      <Text>Infusez simplement votre thé à la maison et il ne refroidira plus jamais pendant son voyage outre-mer !</Text>
+    </Text>
+    <Text>
+      <GUID>1414006779</GUID>
+      <Text>Un métier à tisser industriel productif capable de fabriquer du tissu si rapidement qu'il vous laisse également le temps de filer du coton.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011056</GUID>
+      <Text>Théières thermo-isolantes</Text>
+    </Text>
+    <Text>
+      <GUID>1414011057</GUID>
+      <Text>Étagère de séchage</Text>
+    </Text>
+    <Text>
+      <GUID>1414011058</GUID>
+      <Text>Lot de sachets de thé</Text>
+    </Text>
+    <Text>
+      <GUID>1414011059</GUID>
+      <Text>Métier à tisser à deux roues</Text>
+    </Text>    
+    <Text>
+      <GUID>1414011026</GUID>
+      <Text>Graines de riz</Text>
+    </Text>
+    <Text>
+      <GUID>1414011027</GUID>
+      <Text>Graines de tisane</Text>
+    </Text>
+    <Text>
+      <GUID>1414011028</GUID>
+      <Text>Graines de chanvre</Text>
+    </Text>
+    <Text>
+      <GUID>1414011029</GUID>
+      <Text>Graines de poivre</Text>
+    </Text>
+    <Text>
+      <GUID>1414011030</GUID>
+      <Text>Graines de mûrier</Text>
+    </Text>
+    <Text>
+      <GUID>1414011031</GUID>
+      <Text>Graines d'ume</Text>
+    </Text>
+    <Text>
+      <GUID>1414011032</GUID>
+      <Text>Ruches</Text>
+    </Text>
+    <Text>
+      <GUID>1414011033</GUID>
+      <Text>Graines de soja</Text>
+    </Text>
+    <Text>
+      <GUID>1414006615</GUID>
+      <Text>Un cultivar de riz abondant, plus rustique que la plupart.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006616</GUID>
+      <Text>Des herbes à thé robustes qui poussent sur n'importe quel sol.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006617</GUID>
+      <Text>Mon fils, ne les cultive jamais à la maison, ce n'est pas la bonne variété de toute façon !</Text>
+    </Text>
+    <Text>
+      <GUID>1414006618</GUID>
+      <Text>A song of spice and fire, mais avec plus de finesse.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006619</GUID>
+      <Text>Ces arbres sont cultivés pour leurs feuilles, pas pour leurs fruits.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006620</GUID>
+      <Text>Même sec, l'ume est meilleur que les autres.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006621</GUID>
+      <Text>Des abeilles moins exigeantes sur le nectar.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006622</GUID>
+      <Text>Variétés de soja résistantes aux conditions difficiles.</Text>
+    </Text>
+    <Text>
+      <GUID>13371311</GUID>
+      <Text>Forêt de conifères</Text>      <!--Player Trees Jungle -->
+    </Text>
+    <Text>
+      <GUID>13371312</GUID>
+      <Text>Forêt de bambous</Text>      <!--Player Trees Bamboo-->
+    </Text>
+    <Text>
+      <GUID>33002005</GUID>
+      <Text>Belette des Alpes</Text>
+    </Text>
+    <Text>
+      <GUID>1414006838</GUID>
+      <Text>Résidents supplémentaires avec le Grill de rue</Text>
+    </Text>
+    <Text>
+      <GUID>1414006839</GUID>
+      <Text>Résidents supplémentaires avec le stand de nouilles</Text>
+    </Text>
+    <Text>
+      <GUID>1414006840</GUID>
+      <Text>Résidents supplémentaires avec le stand de cuisson vapeur</Text>
+    </Text>
+    <Text>
+      <GUID>1414006841</GUID>
+      <Text>Résidents supplémentaires avec le stand de desserts</Text>
+    </Text>
+    <Text>
+      <GUID>1414006842</GUID>
+      <Text>L'accès à un grill de rue augmente le nombre de résidents des maisons environnantes.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006843</GUID>
+      <Text>L'accès à un stand de nouilles augmente le nombre de résidents des maisons environnantes.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006844</GUID>
+      <Text>L'accès à un stand de cuisson vapeur augmente le nombre de résidents des maisons environnantes.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006845</GUID>
+      <Text>L'accès à un stand de desserts augmente le nombre de résidents des maisons environnantes.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011060</GUID>
+      <Text>Traité sur l'importance du travail pénible</Text>
+    </Text>
+    <Text>
+      <GUID>1414006787</GUID>
+      <Text>Avoir un troisième emploi le soir peut faire des merveilles pour l'honneur de la famille. Vous aspirez peut-être à des vertus déshonorantes comme dormir et manger, mais un travailleur vraiment honorable les mettra de côté pour soutenir l'économie.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011061</GUID>
+      <Text>Collection de techniques Shí'èr lü</Text>
+    </Text>
+    <Text>
+      <GUID>1414006781</GUID>
+      <Text>C'est aussi simple que : Huáng Zhōng - Dà Lǚ - Tài Cù - Jiá Zhōng - Gū Xiǎn - Zhòng Lǚ - Ruí Bīn - Lín Zhōng - Yí Zé - Nán Lǚ - Wú Yì - Yìng Zhōng.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011062</GUID>
+      <Text>Les doctrines classiques du Zheng-Shui pour les débutants</Text>
+    </Text>
+    <Text>
+      <GUID>1414006782</GUID>
+      <Text>Les chapitres sont classés selon le cercle des cinq éléments : Bois, Feu, Terre, Métal et Eau.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011063</GUID>
+      <Text>L'art de l'équilibre entre le corps et l'esprit</Text>
+    </Text>
+    <Text>
+      <GUID>1414006783</GUID>
+      <Text>Est ce qu'une bonne bagarre quotidienne remplace un tour chez le médecin ? Bien sûr que non. J'ai écrit ce livre pour les jeunes débauchés, qui ont perdu le sens de l'équilibre entre le corps et l'esprit.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011064</GUID>
+      <Text>Trente-six stratagèmes pour une alimentation économique dans un monde moderne</Text>
+    </Text>
+    <Text>
+      <GUID>1414006784</GUID>
+      <Text>Saviez-vous que les fruits pouvaient apporter une nutrition adéquate ? Le poisson est juste bon pour les pescétariens.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011065</GUID>
+      <Text>Sur la nature monstrueuse des soi-disant « machines à laver »</Text>
+    </Text>
+    <Text>
+      <GUID>1414006785</GUID>
+      <Text>Grondant comme l'arrivée des qilin, les machines infernales, conçues superficiellement pour laver le linge, sont un complot pyrophorien secret visant à remplacer les épouses par des prostituées déshonorantes.</Text>
+    </Text>
+    <Text>
+      <GUID>1414011066</GUID>
+      <Text>Trois stratagèmes sur la nécessité de la loi martiale</Text>
+    </Text>
+    <Text>
+      <GUID>1414006786</GUID>
+      <Text>Un guide étape par étape pour obtenir l'éternité Paix, justice et harmonie pour notre nouvel Empire. Étape 1 : dévivifiez beaucoup de gens.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006789</GUID>
+      <Text>Affecte [ItemAssetData([ToolOneHelper ForwardedEffectGuidOrSelf([RefGuid])]) ItemOrBuffEffectTargetsFormatted] autour de [ItemAssetData([RefGuid]) ItemOrBuffEffectTargetsFormatted]</Text>
+    </Text>
+    <Text>
+      <GUID>1414006790</GUID>
+      <Text>Les résidents fournissent des revenus bonus grâce à  [ItemAssetData([ToolOneHelper ForwardedEffectGuidOrSelf([RefGuid])]) InputBenefitAllAdditionalMoneyFormatted].</Text>
+    </Text>
+    <Text>
+      <GUID>1414006791</GUID>
+      <Text>Les résidences gagnent des résidents bonus grâce à [ItemAssetData([ToolOneHelper ForwardedEffectGuidOrSelf([RefGuid])]) InputBenefitAllAdditionalSupplyFormatted].</Text>
+    </Text>
+    <Text>
+      <GUID>1414006792</GUID>
+      <Text>Si c'est sa parole contre celle de la science, on la croira dix fois. Après tout, on ne peut pas faire confiance aux charlatans occidentaux, et ces anciens breuvages ésotériques doivent sûrement vous guérir.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

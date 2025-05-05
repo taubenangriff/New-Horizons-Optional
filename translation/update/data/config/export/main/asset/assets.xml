@@ -11,5 +11,5 @@
      <ModOp GUID ='1445643' Type = "remove" Path = "/Values/ConstructionCategory/BuildingList/Item[Building='1442560']/IgnoreUnlockStateForCategoryVisibility" /> 
 
      <!-- # Tea Trade Fix -->
-    <ModOp GUID = '131764' Path = "/Values/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1440203']"></ModOp>
+    <ModOp GUID = '131764' Path = "/Values/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1440203']" Type = "remove" />
 </ModOps>
