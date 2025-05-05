@@ -10,9 +10,19 @@
      </ModOp>
      <ModOp GUID ='1445643' Type = "remove" Path = "/Values/ConstructionCategory/BuildingList/Item[Building='1442560']/IgnoreUnlockStateForCategoryVisibility" /> 
 
-     <!-- # Tea Trade Fix -->
-    <ModOp GUID = '131764' Path = "/Values/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1440203']" Type = "remove" />
+     <!-- # Tea and Milk Trade Fix -->
+    <ModOp GUID = '131764' Path = "/Values/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1440203' or Good='1440005']" Type = "remove" />
 
+    <!-- Docklands 0 Unlock fixes -->
+    <ModOp GUID = '131764' Path = "/Values/TradeContractFeature/Traders/Item/TradeLevels/Item[Unlock='0' and Trades/Item/Good='1440007']/Unlock" Type = "replace">
+        <Unlock>131840</Unlock>
+    </ModOp>
+    <ModOp GUID = '131764' Path = "/Values/TradeContractFeature/Traders/Item/TradeLevels/Item[Unlock='0' and Trades/Item/Good='1440231']/Unlock" Type = "replace">
+        <Unlock>131836</Unlock>
+    </ModOp>
+    <ModOp GUID = '131764' Path = "/Values/TradeContractFeature/Traders/Item/TradeLevels/Item[Unlock='0' and Trades/Item/Good='1440202']/Unlock" Type = "replace">
+        <Unlock>131852</Unlock>
+    </ModOp>
 
     <!-- ItemEffectTargetPool Fix -->
     <ModOp GUID='190890' Type="add" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
