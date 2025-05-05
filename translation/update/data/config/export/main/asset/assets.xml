@@ -12,4 +12,12 @@
 
      <!-- # Tea Trade Fix -->
     <ModOp GUID = '131764' Path = "/Values/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1440203']" Type = "remove" />
+
+
+    <!-- ItemEffectTargetPool Fix -->
+    <ModOp GUID='190890' Type="add" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>        
+            <GUID>1441363</GUID>
+        </Item>
+    </ModOp>
 </ModOps>
