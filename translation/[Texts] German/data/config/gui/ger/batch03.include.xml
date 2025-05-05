@@ -3,7 +3,7 @@
     <!-- Construction Menu Names -->
     <Text>
       <GUID>1445610</GUID>
-      <Text>Industriell</Text>
+      <Text>Industrie</Text>
     </Text>    
     <Text>
       <GUID>1445607</GUID>
@@ -196,7 +196,7 @@
     </Text>
     <Text>
       <GUID>1445054</GUID>
-      <Text>Detector Receivers</Text>
+      <Text>Detektorempfänger</Text>
     </Text>
     <Text>
       <GUID>1445055</GUID>

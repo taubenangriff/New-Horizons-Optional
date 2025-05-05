@@ -71,7 +71,7 @@
         </Text>
         <Text>
             <GUID>1414040615</GUID>
-            <Text>Der Leuchtturm von Admiral Wu Guowei</Text>
+            <Text>Admiral Wus Leuchtturm</Text>
         </Text>
         <Text>
             <GUID>1414018130</GUID>
@@ -127,7 +127,7 @@
         </Text>
         <Text>
             <GUID>1414015085</GUID>
-            <Text>Uhrturm</Text>
+            <Text>Uhrenturm</Text>
         </Text>
         <!-- Item -->
         <Text>
@@ -145,15 +145,15 @@
         <!-- Foreign Trading Company Texts (NH specific)-->
         <Text>
             <GUID>1414018030</GUID>
-            <Text>Versorgt umliegende Magnaten-Geschäfte mit [AssetData(1999005351) Text] und steigert deren Produktion.</Text>
+            <Text>Versorgt umliegende Compagnieproduktion mit [AssetData(1999005351) Text] und steigert deren Produktion.</Text>
         </Text>
         <Text>
             <GUID>1414018031</GUID>
-            <Text>Verteilt [AssetData(1999005351) Text] an umliegende Magnate-Unternehmen.</Text>
+            <Text>Verteilt [AssetData(1999005351) Text] an umliegende Compagnieproduktion.</Text>
         </Text>
         <Text>
             <GUID>1414018032</GUID>
-            <Text>Ein Hafen, um Magnatengeschäfte aufzubauen und Waren aus der ganzen Welt zu importieren.</Text>
+            <Text>Ein Hafen, um Compagnieproduktion aufzubauen und Waren aus der ganzen Welt zu importieren.</Text>
         </Text>
         <Text>
             <GUID>1414018046</GUID>
