@@ -1,16 +1,17 @@
 {
-    "Version": "1.0.2",
+    "Version": "1.0.3",
     "ModID": "new_horizons_patch",
     "Category": {
       "English": "Component"
     },
     "ModName": {
-      "English": "Patch 1.0.2"
+      "English": "Patch 1.0.3"
     },
     "CreatorName": "New Horizons Team",
     "LoadAfterIds": [
       "new_horizons_data",
-      "new_horizons_factories"
+      "new_horizons_factories",
+      "new_horizons_docklands"
     ]
   }
   
