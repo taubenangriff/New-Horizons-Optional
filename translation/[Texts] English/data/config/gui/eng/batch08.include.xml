@@ -1,0 +1,342 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+
+    <Text>
+      <GUID>1414050006</GUID>
+      <Text>SUSHI CRISIS IN FULL ROLL</Text>
+    </Text>
+    <Text>
+      <GUID>1414050007</GUID>
+      <Text>Sushi consumers in [Newspaper FindArticle([RefGuid]) Context TownName] are on a roll of disappointment as a sudden supply shortage has left restaurants struggling to roll out their signature rolls. The scarcity, rolling in from disruptions in seafood imports, has diners and chefs alike trying to keep the good times rolling.</Text>
+    </Text>
+    <Text>
+      <GUID>1414050022</GUID>
+      <Text>TEA CRISIS BREWING!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050023</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName] in bitter predicament as tea supplies run dry! Residents left steeped in despair, wondering when they'll get a proper cuppa again.</Text>
+    </Text>
+    <Text>
+      <GUID>1414050025</GUID>
+      <Text>PLUM OUT OF LUCK!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050026</GUID>
+      <Text>Umeshu shortage in [Newspaper FindArticle([RefGuid]) Context TownName] has residents crying into empty cups! Will this thirst soon be quenched, or will the situation ferment into full-blown calamity?</Text>
+    </Text>
+    <Text>
+      <GUID>1414050028</GUID>
+      <Text>HATS OFF!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050029</GUID>
+      <Text>Conical Hats are all but sold-out on [Newspaper FindArticle([RefGuid]) Context TownName]! In sight of the upcoming harvest season, local farmers want to invest their savings into new hats, but there simply aren't any to be found! Alternatives are scarce and not in high demand, with a local vendor referring to Westernized hats being too round on the top, and not pointy enough.</Text>
+    </Text>
+    <Text>
+      <GUID>1414050031</GUID>
+      <Text>NO MORE SASHES!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050032</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName] in a bind as kimono shortage sweeps through town! Residents worry that all sartorial integrity may soon unravel!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050034</GUID>
+      <Text>A FOWL SITUATION!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050035</GUID>
+      <Text>In [Newspaper FindArticle([RefGuid]) Context TownName], locals in a flap from unexpected roast duck shortage, left hungry for a solution to the increasingly unsavory crisis!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050037</GUID>
+      <Text>SHATTERED DREAMS!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050038</GUID>
+      <Text>Porcelain scarcity in [Newspaper FindArticle([RefGuid]) Context TownName] leaves tables bare and shelves empty! The situation is growing increasingly delicate without corrective action from authorities!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050040</GUID>
+      <Text>FOR HEAVEN'S SAKE!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050041</GUID>
+      <Text>The absence of sake in [Newspaper FindArticle([RefGuid]) Context TownName] has left many with bitter aftertaste! Desperate residents hope the local council can uncork a solution before morale spoils further.</Text>
+    </Text>
+    <Text>
+      <GUID>1414050043</GUID>
+      <Text>RADIO SILENCE!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050044</GUID>
+      <Text>Radio sets vanish from [Newspaper FindArticle([RefGuid]) Context TownName]! With no updates or broadcasts, rumors are now spreading faster than signals! Will authorities ever tune in to address this communication crisis?</Text>
+    </Text>
+    <Text>
+      <GUID>1414050046</GUID>
+      <Text>BLUE CHEESE BLUES!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050047</GUID>
+      <Text>Scarcity of blue cheese in [Newspaper FindArticle([RefGuid]) Context TownName] leaves locals' hearts crumbling! Rumors swirl that a cheesy reprieve may be out of reach for weeks to come, causing a sharp decline in morale!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050049</GUID>
+      <Text>VESTED IN SILK NO LONGER!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050050</GUID>
+      <Text>A lack of silk vests in [Newspaper FindArticle([RefGuid]) Context TownName] has the upper crust feeling frayed at the edges! With society itself threatened by a fashion disaster, can the dreadful gap in production still be stitched closed?</Text>
+    </Text>
+    <Text>
+      <GUID>1414050052</GUID>
+      <Text>A STROKE OF BAD LUCK!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050053</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName] is suffering a critical shortage of pens, leaving vital agreements unsigned and citizens' complaints unheard. With the ink hardly flowing, we barely managed to print this issue!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050055</GUID>
+      <Text>4'33!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050056</GUID>
+      <Text>Silence around the streets of [Newspaper FindArticle([RefGuid]) Context TownName], as local musicians can't find any Koto instruments to play on, while the rest of the population is suddenly left without any stereotypical background music. How should they know they are in Asia now?</Text>
+    </Text>
+    <Text>
+      <GUID>1414050058</GUID>
+      <Text>NO NONGMIN FOR THE HARVEST!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050059</GUID>
+      <Text>Lack of Nongmin in [Newspaper FindArticle([RefGuid]) Context TownName] is concerning for local food supplies. "Our harvest must be collected in the next month if there shall not be a famine," says a concerned rice farmer.</Text>
+    </Text>
+    <Text>
+      <GUID>1414050061</GUID>
+      <Text>LACK OF GONGREN WORK!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050062</GUID>
+      <Text>A labor shortage in the factories of [Newspaper FindArticle([RefGuid]) Context TownName] is putting the profits of countless Magnates at risk. The labor shortage must be resolved immediately in order to not ruin our economy!</Text>
+    </Text>
+    <Text>
+      <GUID>1414050076</GUID>
+      <Text>KAMI CELEBRATE TEMPLE OPENING</Text>
+    </Text>
+    <Text>
+      <GUID>1414050077</GUID>
+      <Text>A new temple has been unveiled in [Newspaper FindArticle([RefGuid]) Context TownName], drawing crowds of worshippers and curious spirits. While most kami praised the design, one was heard muttering, “No hot springs? What's the point of manifesting here?”</Text>
+    </Text>
+    <Text>
+      <GUID>1414050079</GUID>
+      <Text>SPLASHES OF EXCITEMENT</Text>
+    </Text>
+    <Text>
+      <GUID>1414050080</GUID>
+      <Text>A stunning new bathhouse in [Newspaper FindArticle([RefGuid]) Context TownName] opened its doors this week, offering soothing hot springs and impeccable decor. While most visitors enjoyed the tranquility, one guest's drainage attempt has led to a strict no-cannonball policy.</Text>
+    </Text>
+    <Text>
+      <GUID>1414050082</GUID>
+      <Text>THE GATE TO HARMONY</Text>
+    </Text>
+    <Text>
+      <GUID>1414050083</GUID>
+      <Text>A gate has appeared in [Newspaper FindArticle([RefGuid]) Context TownName], leading the way towards a large garden. The Garden's layout has not yet been decided by the city planners, although whatever they will build, it will be a wonderful escape from the din of the modern world into more tranquil surrounds.</Text>
+    </Text>
+    <Text>
+      <GUID>1414050085</GUID>
+      <Text>FREE CITIZENS, FREE PASSAGE</Text>
+    </Text>
+    <Text>
+      <GUID>1414050086</GUID>
+      <Text>Life in [Newspaper FindArticle([RefGuid]) Context TownName] is rapidly accelerating, much like the new subway that has just opened beneath the metropolis. A young businessman comments: 'I like the new underground railway very much, as since it opened, the riff-raff are traveling by train instead of on the street — which should really be reserved instead for my new automobile.'</Text>
+    </Text>
+    
+    <Text>
+      <GUID>54005100</GUID>
+      <Text>Still tastes like it's from 1404!</Text>      <!--Grammar-->
+    </Text>
+    <Text>
+      <GUID>54005101</GUID>
+      <Text>Delicious fruits.</Text>
+    </Text>
+    <Text>
+      <GUID>54005102</GUID>
+      <Text>Some say it's the future of humanity.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005103</GUID>
+      <Text>A vital tool to get the right narratives into the minds of citizens.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005104</GUID>
+      <Text>Pasteurized, Homogenized, 3.5% Fat.</Text>
+    </Text>
+    <Text>
+      <GUID>54005105</GUID>
+      <Text>Click-Clack Click-Clack Click-</Text>
+    </Text>
+    <Text>
+      <GUID>54005106</GUID>
+      <Text>The first generation of isolated electric wires.</Text>      <!--Capitalization-->
+    </Text>
+    <Text>
+      <GUID>54005107</GUID>
+      <Text>The death of telegraphs.</Text>      <!--Capitalization-->
+    </Text>
+    <Text>
+      <GUID>54005108</GUID>
+      <Text>Detects the slightest radio signals.</Text>      <!--Capitalization-->
+    </Text>
+    <Text>
+      <GUID>54005109</GUID>
+      <Text>Has been bleached with chlorine, the wonder gas.</Text>      <!--Grammar-->
+    </Text>
+    <Text>
+      <GUID>54005110</GUID>
+      <Text>Stores all sorts of knowledge.</Text>      <!--Grammar-->
+    </Text>
+    <Text>
+      <GUID>54005111</GUID>
+      <Text>Is there a new world up there?</Text>      <!--Grammar-->
+    </Text>
+    <Text>
+      <GUID>54005112</GUID>
+      <Text>Specially-enriched with blue mold for a better-tasting product.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005113</GUID>
+      <Text>Sour, but humorous.</Text>
+    </Text>
+    <Text>
+      <GUID>54005114</GUID>
+      <Text>Fun without alcohol.</Text>      <!--Capitalization-->
+    </Text>
+    <Text>
+      <GUID>54005115</GUID>
+      <Text>Despite fooling those thinking it's gold, this mineral is an important resource.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005116</GUID>
+      <Text>A sticky, short-grained rice.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005118</GUID>
+      <Text>A set of carefully-pressed fish and vinegared rice.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005119</GUID>
+      <Text>A special variety of plum that can transform plain sake into umeshu.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005120</GUID>
+      <Text>A variety of teas.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005121</GUID>
+      <Text>Tea is inseparable from the Far East.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005122</GUID>
+      <Text>Despite its earthy origins, it glows white like snow.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005123</GUID>
+      <Text>An abundant mineral, except at the times when you need it most.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005124</GUID>
+      <Text>Don't drop it!</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005125</GUID>
+      <Text>Each strand is the life's work of a single silkworm.</Text>
+    </Text>
+    <Text>
+      <GUID>54005126</GUID>
+      <Text>The finest, smoothest fabric one will ever feel.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005127</GUID>
+      <Text>Looks surprisingly green.</Text>
+    </Text>
+    <Text>
+      <GUID>54005128</GUID>
+      <Text>You are not permitted to use the word "colorful" before you've seen these!</Text>
+    </Text>
+    <Text>
+      <GUID>54005129</GUID>
+      <Text>An awfully sticky substance made out of sugar.</Text>
+    </Text>
+    <Text>
+      <GUID>54005130</GUID>
+      <Text>The only original Feldman's Yeast.</Text>
+    </Text>
+    <Text>
+      <GUID>54005131</GUID>
+      <Text>Best sipped warm from a shallow cup.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005132</GUID>
+      <Text>Quack? Quack!</Text>
+    </Text>
+    <Text>
+      <GUID>54005133</GUID>
+      <Text>Horaiese bees, totally not like the Enbesan ones.</Text>
+    </Text>
+    <Text>
+      <GUID>54005134</GUID>
+      <Text>Juicy duck meat topped with a crispy, soy-glazed skin.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005135</GUID>
+      <Text>A guilty pleasure for any Nóngmín.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005136</GUID>
+      <Text>A shroom too noble to be harmful.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005137</GUID>
+      <Text>A more closely-held secret than the recipe of Cola Mola Wola!</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005141</GUID>
+      <Text>A hard brittle metal, claimed by many a pen-maker to improve line quality.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005142</GUID>
+      <Text>Goulash, but outsourced.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005143</GUID>
+      <Text>A mainstay of Eastern diets, this useful legume has not yet begun its descent into infamy.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005144</GUID>
+      <Text>Welcome to the creme-de-la-crop of classiness!</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005145</GUID>
+      <Text>Seriously... who would eat such a thing?</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1414006023</GUID>
+      <Text>Forget Scovilles, this is the original pepper!</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1414006024</GUID>
+      <Text>Spice it up!</Text>
+    </Text>
+    <Text>
+      <GUID>1414006025</GUID>
+      <Text>A silvery schooling fish, filled with delicacies inside.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1414006026</GUID>
+      <Text>Pitch black.</Text>
+    </Text>
+  </ModOp>
+</ModOps>
