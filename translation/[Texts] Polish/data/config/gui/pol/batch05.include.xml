@@ -11,280 +11,280 @@
         </Text>
         <Text>
             <GUID>15100002</GUID>
-            <Text>Nóngmín-Workforce</Text>
+            <Text>Siła robocza-Nóngmín</Text>
         </Text>
         <Text>
             <GUID>15100003</GUID>
-            <Text>Gōngrén-Workforce</Text>
+            <Text>Siła robocza-Gōngrén</Text>
         </Text>
         <Text>
             <GUID>15100100</GUID>
-            <Text>Magnates</Text>
+            <Text>Magnaci</Text>
         </Text>
         <Text>
             <GUID>15100101</GUID>
-            <Text>Magnate-Workforce</Text>
+            <Text>Siła robocza-Magnat</Text>
         </Text>
         <Text>
             <GUID>1442500</GUID>
-            <Text>Magnate Residence</Text>
+            <Text>Dom Magnatów</Text>
         </Text>
         <Text>
             <GUID>1442501</GUID>
-            <Text>Jornalero Residence</Text>
+            <Text>Dom Jornaleros</Text>
         </Text>
         <Text>
             <GUID>1442502</GUID>
-            <Text>Nóngmín Residence</Text>
+            <Text>Dom Nóngmín</Text>
         </Text>
         <Text>
             <GUID>1442503</GUID>
-            <Text>Gōngrén Residence</Text>
+            <Text>Dom Gōngrén</Text>
         </Text>
         <Text>
             <GUID>1447920</GUID>
-            <Text>Angry Magnates</Text>
+            <Text>Wściekli Magnaci</Text>
         </Text>
         <Text>
             <GUID>1447921</GUID>
-            <Text>Unhappy Magnates</Text>
+            <Text>Nieszczęśliwi Magnaci</Text>
         </Text>
         <Text>
             <GUID>1447922</GUID>
-            <Text>Content Magnates</Text>
+            <Text>Zadowoleni Magnaci</Text>
         </Text>
         <Text>
             <GUID>1447923</GUID>
-            <Text>Happy Magnates</Text>
+            <Text>Szczęśliwi Magnaci</Text>
         </Text>
         <Text>
             <GUID>1447924</GUID>
-            <Text>Euphoric Magnates</Text>
+            <Text>Euforyczni Magnaci</Text>
         </Text>
         <Text>
             <GUID>1447930</GUID>
-            <Text>Angry Nóngmín</Text>
+            <Text>Wściekli Nóngmín</Text>
         </Text>
         <Text>
             <GUID>1447931</GUID>
-            <Text>Unhappy Nóngmín</Text>
+            <Text>Nieszczęśliwi Nóngmín</Text>
         </Text>
         <Text>
             <GUID>1447932</GUID>
-            <Text>Content Nóngmín</Text>
+            <Text>Zadowoleni Nóngmín</Text>
         </Text>
         <Text>
             <GUID>1447933</GUID>
-            <Text>Happy Nóngmín</Text>
+            <Text>Szczęśliwi Nóngmín</Text>
         </Text>
         <Text>
             <GUID>1447934</GUID>
-            <Text>Euphoric Nóngmín</Text>
+            <Text>Euforyczni Nóngmín</Text>
         </Text>
         <Text>
             <GUID>1447935</GUID>
-            <Text>Angry Gōngrén</Text>
+            <Text>Wściekli Gōngrén</Text>
         </Text>
         <Text>
             <GUID>1447936</GUID>
-            <Text>Unhappy Gōngrén</Text>
+            <Text>Nieszczęśliwi Gōngrén</Text>
         </Text>
         <Text>
             <GUID>1447937</GUID>
-            <Text>Content Gōngrén</Text>
+            <Text>Zadowoleni Gōngrén</Text>
         </Text>
         <Text>
             <GUID>1447938</GUID>
-            <Text>Happy Gōngrén</Text>
+            <Text>Szczęśliwi Gōngrén</Text>
         </Text>
         <Text>
             <GUID>1447939</GUID>
-            <Text>Euphoric Gōngrén</Text>
+            <Text>Euforyczni Gōngrén</Text>
         </Text>
         <!-- Deposits -->
         <Text>
             <GUID>1447800</GUID>
-            <Text>Kaolin Deposit</Text>
+            <Text>Złoża kaolinu</Text>
         </Text>
         <Text>
             <GUID>1447801</GUID>
-            <Text>Feldspar Deposit</Text>            <!--Typo-->
+            <Text>Złoża skalenia</Text>            <!--Typo-->
         </Text>
         <Text>
             <GUID>1447805</GUID>
-            <Text>Iron Deposit</Text>
+            <Text>Złoża żelaza</Text>
         </Text>
         <Text>
             <GUID>1447806</GUID>
-            <Text>Copper Deposit</Text>
+            <Text>Złoża miedzi</Text>
         </Text>
         <Text>
             <GUID>1447807</GUID>
-            <Text>Iridium Deposit</Text>
+            <Text>Złoża irydu</Text>
         </Text>
         <Text>
             <GUID>1447814</GUID>
-            <Text>Iridium Deposit</Text>
+            <Text>Złoża irydu</Text>
         </Text>
         <Text>
             <GUID>1447808</GUID>
-            <Text>Coal Deposit</Text>
+            <Text>Złoża węgla</Text>
         </Text>
         <Text>
             <GUID>1447811</GUID>
-            <Text>Kaolin Deposit</Text>
+            <Text>Złoża kaolinu</Text>
         </Text>
         <Text>
             <GUID>1447812</GUID>
-            <Text>Feldspar Deposit</Text>            <!--Typo-->
+            <Text>Złoża skalenia</Text>            <!--Typo-->
         </Text>
         <Text>
             <GUID>1447813</GUID>
-            <Text>Pyrite Crystals Deposit</Text>            <!--Typo-->
+            <Text>Złoża kryształów pirytu</Text>            <!--Typo-->
         </Text>
         <Text>
             <GUID>1447803</GUID>
-            <Text>Clay Deposit</Text>
+            <Text>Złoża gliny</Text>
         </Text>
         <Text>
             <GUID>1447809</GUID>
-            <Text>Clay Deposit</Text>
+            <Text>Złoża gliny</Text>
         </Text>
         <Text>
             <GUID>1447861</GUID>
-            <Text>Stone Deposit</Text>
+            <Text>Złoża kamienia</Text>
         </Text>
         <Text>
             <GUID>1414040216</GUID>
-            <Text>Stone Deposit</Text>
+            <Text>Złoża kamienia</Text>
         </Text>
         <!-- Fertilities -->
         <Text>
             <GUID>1414007001</GUID>
-            <Text>Rice Fertility</Text>
+            <Text>Żyzność: Ryż</Text>
         </Text>
         <Text>
             <GUID>1414007002</GUID>
-            <Text>Tea Fertility</Text>
+            <Text>Żyzność: Herbata</Text>
         </Text>
         <Text>
             <GUID>1414007003</GUID>
-            <Text>Hemp Fertility</Text>
+            <Text>Żyzność: Konopia</Text>
         </Text>
         <Text>
             <GUID>1414007004</GUID>
-            <Text>Herring Abundance</Text>
+            <Text>Obfitość: Śledź</Text>
         </Text>
         <Text>
             <GUID>1414007006</GUID>
-            <Text>Pepper Fertility</Text>
+            <Text>Żyzność: Pieprz</Text>
         </Text>
         <Text>
             <GUID>1414007007</GUID>
-            <Text>Mulberry Fertility</Text>
+            <Text>Żyzność: Morwa</Text>
         </Text>
         <Text>
             <GUID>1414007008</GUID>
-            <Text>Ume Fertility</Text>
+            <Text>Żyzność: Ume</Text>
         </Text>
         <Text>
             <GUID>1414007009</GUID>
-            <Text>Bee Abundance</Text>
+            <Text>Obfitość: Pszczoła</Text>
         </Text>
         <Text>
             <GUID>1414007010</GUID>
-            <Text>Soy Fertility</Text>
+            <Text>Żyzność: Soja</Text>
         </Text>
         <!-- Festivals -->
 
         <Text>
             <GUID>1414006720</GUID>
-            <Text>Double Ninth Festival</Text>
+            <Text>Święto Podwójnych Dziewiątek</Text>
         </Text>
         <Text>
             <GUID>1414006721</GUID>
-            <Text>Lantern Festival</Text>
+            <Text>Festiwal Lampionów</Text>
         </Text>
         <Text>
             <GUID>1414006722</GUID>
-            <Text>Lunar Celebrations</Text>
+            <Text>Święto Księżyca</Text>
         </Text>
         <Text>
             <GUID>1414006723</GUID>
-            <Text>Imperial Durbar</Text>
+            <Text>Święto Imperialne</Text>
         </Text>
         <Text>
             <GUID>1414006734</GUID>
-            <Text>A nine? Another nine?! This must be the most Anno of all festivals. Needless to say, your people are perfectly balanced, as all things should be.</Text>
+            <Text>Dziewiątka? Kolejna dziewiątka?! To musi być najbardziej Anno ze wszystkich festiwali. Nie trzeba dodawać, że twoi ludzie są idealnie zrównoważeni, wszystko jest jak być powinno.</Text>
         </Text>
         <Text>
             <GUID>1414006735</GUID>
-            <Text>To commemorate memories and celebrate together, your people are launching lanterns into the skies and starting a lot of new friendships and fires.</Text>
+            <Text>Aby uczcić wspomnienia i świętować razem, twoi ludzie wypuszczają lampiony w niebo, nawiązując nowe przyjaźnie i... podpalając co nieco.</Text>
         </Text>
         <Text>
             <GUID>1414006748</GUID>
-            <Text>The new moon is rising! The people are welcoming it with extravagant fireworks, hoping for a good harvest in the season to come.</Text>
+            <Text>Nowy księżyc wschodzi! Ludzie witają go z rozmachem fajerwerkami, mając nadzieję na dobry plon w nadchodzącym sezonie.</Text>
         </Text>
         <Text>
             <GUID>1414006747</GUID>
-            <Text>Our people are strong, and they must never forget that under the Crown, they are better off then ever before, secure, protected and blessed. Long live the Empire!</Text>
+            <Text>Nasi ludzie są silni i nigdy nie mogą zapomnieć, że pod Koroną mają się lepiej niż kiedykolwiek wcześniej — bezpieczni, chronieni i błogosławieni. Niech żyje Imperium!</Text>
         </Text>
         <Text>
             <GUID>1414008600</GUID>
-            <Text>Double Ninth Festival</Text>
+            <Text>Święto Podwójnych Dziewiątek</Text>
         </Text>
         <Text>
             <GUID>1414008601</GUID>
-            <Text>Lantern Festival</Text>
+            <Text>Festiwal Lampionów</Text>
         </Text>
         <Text>
             <GUID>1414008602</GUID>
-            <Text>Lunar Celebrations</Text>
+            <Text>Święto Księżyca</Text>
         </Text>
         <Text>
             <GUID>1414008603</GUID>
-            <Text>Imperial Durbar</Text>
+            <Text>Święto Imperialne</Text>
         </Text>
         <!-- More Streetfood -->
         <Text>
             <GUID>1442742</GUID>            <!-- Streetfood - Noodle Stand - Buff -->
-            <Text>Noodle Stand</Text>
+            <Text>Stoisko z Kluskami</Text>
         </Text>
         <Text>
             <GUID>1442743</GUID>            <!-- Streetfood - Street Grill - Buff -->
-            <Text>Street Grill</Text>
+            <Text>Uliczny Grill</Text>
         </Text>
         <Text>
             <GUID>1442744</GUID>            <!-- Streetfood - Steamer Stand - Buff -->
-            <Text>Steamer Stand</Text>
+            <Text>Stoisko z Parowarami</Text>
         </Text>
         <Text>
             <GUID>1442745</GUID>            <!-- Streetfood - Dessert Stand - Buff -->
-            <Text>Dessert Stand</Text>
+            <Text>Stoisko z Deserami</Text>
         </Text>
         <Text>
             <GUID>1442746</GUID>            <!-- Streetfood - Noodle Stand - Buff -->
-            <Text>Noodle Stand</Text>
+            <Text>Stoisko z Kluskami</Text>
         </Text>
         <Text>
             <GUID>1442747</GUID>            <!-- Streetfood - Street Grill - Buff -->
-            <Text>Street Grill</Text>
+            <Text>Uliczny Grill</Text>
         </Text>
         <Text>
             <GUID>1442748</GUID>            <!-- Streetfood - Steamer Stand - Buff -->
-            <Text>Steamer Stand</Text>
+            <Text>Stoisko z Parowarami</Text>
         </Text>
         <Text>
             <GUID>1442749</GUID>            <!-- Streetfood - Dessert Stand - Buff -->
-            <Text>Dessert Stand</Text>
+            <Text>Stoisko z Deserami</Text>
         </Text>
         <Text>
             <GUID>1442700</GUID>            <!-- Streetfood Stand - Description -->
-            <Text>Uses Recipes to satisfy the streetfood needs.</Text>
+            <Text>Używa przepisów, żeby zaspokoić potrzeby streetfoodowe.</Text>
         </Text>
         <Text>
             <GUID>1442750</GUID>            <!-- Streetfood - Recipelist - Description -->
-            <Text>Heaped full of ingredients and prepared meals, street food stalls are the go-to lifeline of the Horaiese citizenry looking for a change of pace and a quick bite. Make no mistake though, the dishes served here are hardly mundane fare, and enterprising chefs are often willing to change menus at a minute's notice to catch current trends.</Text>
+            <Text>Stoiska z jedzeniem na ulicy, pełne składników i przygotowanych dań, to ulubione miejsce mieszkańców Horai, którzy szukają odmiany i szybkiego posiłku. Ale nie daj się zwieść - serwowane tu dania to zdecydowanie nie jest zwykłe jedzenie, a pomysłowi kucharze często zmieniają menu w mgnieniu oka, by podążać za najnowszymi trendami.</Text>
         </Text>
         <Text>
             <GUID>1442725</GUID>            <!-- Streetfood - Nigiri-Sushi Recipe -->
@@ -292,23 +292,23 @@
         </Text>
         <Text>
             <GUID>1442751</GUID>            <!-- Streetfood - Nigiri-Sushi Recipe - Description -->
-            <Text>Unlike its oshi-sushi cousin, nigiri-sushi is made fresh for the customer in each order. With an endless oceanic bounty to choose from, the varieties of nigiri-sushi are as varied as the daily catch, and each island often has its own specialty.</Text>
+            <Text>W przeciwieństwie do swojego kuzyna oshi-sushi, nigiri-sushi przygotowuje się na świeżo dla klienta przy każdym zamówieniu. Z niezliczoną ilością skarbów oceanu do wyboru, rodzaje nigiri-sushi są tak różne jak codzienny połów, a każda wyspa ma często swoją własną specjalność.</Text>
         </Text>
         <Text>
             <GUID>1442726</GUID>            <!-- Streetfood - Vegetable Tempura Recipe -->
-            <Text>Vegetable Tempura</Text>
+            <Text>Warzywna Tempura</Text>
         </Text>
         <Text>
             <GUID>1442752</GUID>            <!-- Streetfood - Vegetable Tempura - Description -->
-            <Text>The humble spud and its red pepper companion are battered in a thin wheat batter, and then deep fried until golden. One bite into these and you'll find out why they're so popular — crunchy on the outside, and tender on the inside.</Text>
+            <Text>Skromny ziemniak i jego czerwony paprykowy towarzysz są obtoczone w cienkim cieście pszennym, a następnie smażone na głębokim oleju aż do złotego koloru. Jeden kęs i od razu zrozumiesz, dlaczego są tak popularne - chrupiące na zewnątrz, a miękkie w środku.</Text>
         </Text>
         <Text>
             <GUID>1442727</GUID>            <!-- Streetfood - Hand-Pulled Beef Noodles Recipe -->
-            <Text>Hand-Pulled Beef Noodles</Text>
+            <Text>Noodle z Ręcznie Szarpaną Wołowiną</Text>
         </Text>
         <Text>
             <GUID>1442753</GUID>            <!-- Streetfood - Hand-Pulled Beef Noodles - Description -->
-            <Text>Springy fresh noodles and delicate tofu are simmered in a savory beef stock to create a hearty meal. These big simple bowls are often filling enough to sate one's hunger for the day, lest one has the appetite of an ox.</Text>
+            <Text>Sprężyste, świeże noodle i delikatne tofu gotowane w aromatycznym bulionie wołowym tworzą sycącą potrawę. Te duże, proste miski często są wystarczająco pożywne, by zaspokoić głód na cały dzień, chyba że masz apetyt jak wół.</Text>
         </Text>
         <Text>
             <GUID>1442728</GUID>            <!-- Streetfood - Takoyaki Recipe -->
@@ -316,7 +316,7 @@
         </Text>
         <Text>
             <GUID>1442754</GUID>            <!-- Streetfood - Takoyaki - Description -->
-            <Text>Take fried dough, and introduce an uniquely tasty New World octopi — the product is an iconic crispy fried snack with a chewy chunk of octopus nestled in its doughy round heart, all topped with a sweet soy glaze.</Text>
+            <Text>Weź smażone ciasto i dodaj wyjątkowo smaczną ośmiornicę z Nowego Świata - otrzymujesz ikoniczną, chrupiącą przekąskę, z gumowym kawałkiem ośmiornicy schowaną w jej ciastkowym sercu, a wszystko to polane słodką polewą sojową.</Text>
         </Text>
         <Text>
             <GUID>1442729</GUID>            <!-- Streetfood - Okonomiyaki Recipe -->
@@ -324,7 +324,7 @@
         </Text>
         <Text>
             <GUID>1442755</GUID>            <!-- Streetfood - Okonomiyaki - Description -->
-            <Text>A layered wheat flour pancake, stacked with fried ingredients and shredded seaweed. The customer can choose what they want to add as the pancake is fried, hence the name.</Text>
+            <Text>Pancake z mąki pszennej w warstwach, przełożony smażonymi składnikami i posypany poszarpaną wodorostami. Klient może wybrać, co dodać, gdy pancake jest smażony, stąd nazwa.</Text>
         </Text>
         <Text>
             <GUID>1442730</GUID>            <!-- Streetfood - Bak Kwa Recipe -->
@@ -332,15 +332,15 @@
         </Text>
         <Text>
             <GUID>1442756</GUID>            <!-- Streetfood - Bak Kwa - Description -->
-            <Text>Chewy sweet-and-savory squares of slow-grilled marinated meat, originating from the Tianming Empire as a methods of food preservation. Princess Qing is a big fan, and whenever she writes home, she often requests gifts of these from her favorite snack store in the Imperial capital.</Text>
+            <Text>Ciężkie, słodko-słone kawałki wolno grillowanego, marynowanego mięsa, pochodzące z Imperium Tianming jako sposób na przechowywanie jedzenia. Księżniczka Qing jest wielką fanką tych smakołyków i kiedy pisze do domu, często prosi o prezenty w postaci tych przekąsek z jej ulubionego sklepu w stolicy Imperium.</Text>
         </Text>
         <Text>
             <GUID>1442731</GUID>            <!-- Streetfood - Stir-Fried Rice Recipe -->
-            <Text>Stir-Fried Rice</Text>
+            <Text>Ryż Smażony na Patelni</Text>
         </Text>
         <Text>
             <GUID>1442757</GUID>            <!-- Streetfood - Stir-Fried Rice - Description -->
-            <Text>A wonderfully greasy and fluffy rice dish with flavorful morsels of lap chong and sweet corn, fried on the spot with dramatic flashes from the cooking baijiu. Were you expecting shrimp-fried rice?</Text>
+            <Text>Wspaniale tłuste i puszyste danie ryżowe z aromatycznymi kawałkami lap chong i słodką kukurydzą, smażone na miejscu z efektownymi błyskami podczas dodawania baijiu. Myślałeś, że to będzie ryż smażony z krewetkami?</Text>
         </Text>
         <Text>
             <GUID>1442732</GUID>            <!-- Streetfood - Kushiyaki Recipe -->
@@ -348,23 +348,23 @@
         </Text>
         <Text>
             <GUID>1442758</GUID>            <!-- Streetfood - Kushiyaki - Description -->
-            <Text>With the connection of Horai to the frigid Arctic and the sweltering lands of Enbesa, ancient recipes are now being refined with new ingredients. Savory kebabs gain a new dimension with the introduction of gamy venison, while mouth-tingling spices promise to send Sir Archibald Blake running to the toilets.</Text>
+            <Text>Dzięki połączeniu Horai z lodowatą Arktyką i upalnymi ziemiami Enbesy, starożytne przepisy są teraz udoskonalane o nowe składniki. Słone kebaby zyskują nowy wymiar dzięki dziczyźnie, a przyprawy, które wywołują mrowienie w ustach, z pewnością sprawią, że Sir Archibald Blake pobiegnie prosto do toalety.</Text>
         </Text>
         <Text>
             <GUID>1442733</GUID>            <!-- Streetfood - Congee with Youtiao Recipe -->
-            <Text>Congee with Youtiao</Text>
+            <Text>Congee z Youtiao</Text>
         </Text>
         <Text>
             <GUID>1442759</GUID>            <!-- Streetfood - Congee with Youtiao - Description -->
-            <Text>A simple porridge made by stewing rice and water together with various ingredients, and usually served with a strip of crisp, deep-fried dough. Though commonly consumed for breakfast, this meal is often popular throughout the day and among all social classes.</Text>
+            <Text>Prosta owsianka przygotowana przez gotowanie ryżu i wody z różnymi składnikami, zwykle podawana z paskiem chrupiącego, smażonego ciasta. Choć najczęściej jedzona na śniadanie, ta potrawa cieszy się popularnością przez cały dzień i wśród wszystkich klas społecznych.</Text>
         </Text>
         <Text>
             <GUID>1442734</GUID>            <!-- Streetfood - Steamed Bao Buns Recipe -->
-            <Text>Steamed Bao Buns</Text>
+            <Text>Bułeczki Bao na Parze</Text>
         </Text>
         <Text>
             <GUID>1442760</GUID>            <!-- Streetfood - Steamed Bao Buns - Description -->
-            <Text>With a flash of vapor escaping as the bamboo steamers are opened, a steamy assortment of pillowy white baos greets the customers, each filled with a variety of savory fillings. But which to choose from? How many you eat determines whether or not it's a snack or a meal.</Text>
+            <Text>Z błyskiem pary uciekającej przy otwieraniu bambusowych parowników, para puszystych białych bao wita klientów, każde wypełnione różnorodnymi, pikantnymi nadzieniami. Ale które wybrać? To, ile ich zjesz, decyduje, czy to przekąska, czy pełny posiłek.</Text>
         </Text>
         <Text>
             <GUID>1442735</GUID>            <!-- Streetfood - Zong Zi Recipe -->
@@ -372,15 +372,15 @@
         </Text>
         <Text>
             <GUID>1442761</GUID>            <!-- Streetfood - Zong Zi - Description -->
-            <Text>Glutinous rice and pork are carefully wrapped in bamboo leaves and steamed to perfection, creating a delectable and aromatic treat, with the flavors of the leaves infusing into the rice. Visitors from the New World have favorably compared this to their corn tamales.</Text>
+            <Text>Kleisty ryż i wieprzowina są starannie zawijane w liście bambusa i gotowane na parze do perfekcji, tworząc pyszny i aromatyczny przysmak, którego smak liści wchodzi w ryż. Odwiedzający z Nowego Świata porównali to z ich kukurydzianymi tamales, i to w bardzo pozytywnych słowach.</Text>
         </Text>
         <Text>
             <GUID>1442736</GUID>            <!-- Streetfood - Special Dumpling Soup Recipe -->
-            <Text>Special Dumpling Soup</Text>
+            <Text>Specjalna Zupa z Pierogami</Text>
         </Text>
         <Text>
             <GUID>1442762</GUID>            <!-- Streetfood - Special Dumpling Soup - Description -->
-            <Text>With the introduction of tender Enbesan lobster, this classic comfort dish is elevated to the next level. The results are delicate bite-size dumplings of lobster meat, floating in a warm savory noodle soup — and lines around the block.</Text>
+            <Text>Wprowadzenie delikatnego homara z Enbesy sprawia, że to klasyczne danie zyskuje nowy wymiar. Efekt? Delikatne pierogi z mięsem homara, unoszące się w ciepłej, aromatycznej zupie z noodlami - i kolejki do lokalu.</Text>
         </Text>
         <Text>
             <GUID>1442737</GUID>            <!-- Streetfood - Dango Recipe -->
@@ -388,15 +388,15 @@
         </Text>
         <Text>
             <GUID>1442763</GUID>            <!-- Streetfood - Dango - Description -->
-            <Text>Popularly found at temple festivals, this snack features three sweet rice cakes on a stick, each individually sweetened and flavored. Easy to carry around and an unmessy treat, these are a perfect accoutrement to a stroll in the park taking in the sights of the cherry blossoms.</Text>
+            <Text>Popularna na festiwalach świątynnych, ta przekąska składa się z trzech słodkich ciastek ryżowych na patyku, z których każde jest osobno dosładzane i aromatyzowane. Łatwe do przenoszenia i niezbyt brudzące, idealnie pasują do spaceru po parku, podziwiając widoki kwitnących wiśni.</Text>
         </Text>
         <Text>
             <GUID>1442738</GUID>            <!-- Streetfood - Sweet Doufuhua Recipe -->
-            <Text>Sweet Doufuhua</Text>
+            <Text>Słodka Doufuhua</Text>
         </Text>
         <Text>
             <GUID>1442764</GUID>            <!-- Streetfood - Sweet Doufuhua - Description -->
-            <Text>Cooked in a large bamboo pail, this soft and smooth tofu is served by taking a large flat ladle and scooping thin sheets into a bowl. The dish, served chilled or at room temperature, is often drizzled with a sweet ginger syrup, resulting in a refreshing and light dessert.</Text>
+            <Text>Gotowane w dużej bambusowej misce, to miękkie i gładkie tofu podaje się, nabierając dużą płaską łyżką cienkie plastry do miski. Danie, podawane schłodzone lub w temperaturze pokojowej, często polewane jest słodkim syropem imbirowym, co sprawia, że staje się orzeźwiającym i lekkim deserem.</Text>
         </Text>
         <Text>
             <GUID>1442739</GUID>            <!-- Streetfood - Imagawayaki Recipe -->
@@ -404,7 +404,7 @@
         </Text>
         <Text>
             <GUID>1442765</GUID>            <!-- Streetfood - Imagawayaki - Description -->
-            <Text>With a golden-brown, cake-like exterior encasing a sweet potato filling, these delectable sweet pancakes offer a delightful blend of crispy edges and warm, gooey centres, perfect for a satisfying treat any time of day.</Text>
+            <Text>Z złocisto-brązową skórką z ciasta, która otacza nadzienie ze słodkiego ziemniaka, te pyszne, słodkie naleśniki oferują wspaniałą mieszankę chrupiących brzegów i ciepłych, lepkich wnętrz - idealne na smakowitą przekąskę o każdej porze dnia.</Text>
         </Text>
         <Text>
             <GUID>1442740</GUID>            <!-- Streetfood - Tanghulu Recipe -->
@@ -416,11 +416,11 @@
         </Text>
         <Text>
             <GUID>1442766</GUID>            <!-- Streetfood - Tanghulu - Description -->
-            <Text>While hawthornes are scarcely found in Horai, the resourcefulness of your people have produced a substitute just as delicious — tangy mandarin segments, juicy grapes, and tart umes are placed onto a stick and then glazed in clear sugar. The result is a sweet and crunchy snack, with a tantalizing assortment and contrast of textures and flavors.</Text>
+            <Text>Choć głogi są rzadko spotykane w Horai, pomysłowość twojego ludu stworzyła równie smaczny zamiennik — kwaśne kawałki mandarynek, soczyste winogrona i kwaśne ume nakłada się na patyk, a następnie polewa przejrzystym cukrowym lukrem. Efekt to słodka i chrupiąca przekąska, pełna kuszącej różnorodności tekstur i smaków.</Text>
         </Text>
         <Text>
             <GUID>1442700</GUID>            <!-- Streetfood Stand - Description -->
-            <Text>Uses Recipes to satisfy the streetfood needs.</Text>
+            <Text>Wykorzystuje przepisy do zaspokojenia potrzeb na Streetfood.</Text>
         </Text>
     </ModOp>
 </ModOps>

@@ -1,0 +1,325 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>54005000</GUID>
+      <Text>WSCHODNIA EKSPANSJA</Text>
+    </Text>
+    <Text>
+      <GUID>54005001</GUID>
+      <Text>ZAGRANICZNY ROZWÓJ</Text>
+    </Text>
+    <Text>
+      <GUID>54005002</GUID>
+      <Text>IMPERIALIZM</Text>
+    </Text>
+    <Text>
+      <GUID>14443001</GUID>
+      <Text>Pirs</Text>
+    </Text>
+    <Text>
+      <GUID>14443002</GUID>
+      <Text>Posterunki handlowe</Text>
+    </Text>
+    <Text>
+      <GUID>14443003</GUID>
+      <Text>Pirs</Text>
+    </Text>
+    <Text>
+      <GUID>14443004</GUID>
+      <Text>Duża Berta</Text>
+    </Text>
+    <Text>
+      <GUID>14443005</GUID>
+      <Text>Pirsy Towarowe i Posterunki Handlowe</Text>
+    </Text>
+    <Text>
+      <GUID>14443000</GUID>
+      <Text>Wszystkie Budynki Kulturalne</Text>
+    </Text>
+    <Text>
+      <GUID>14443000</GUID>
+      <Text>Porty Naftowe i Pirsy</Text>
+    </Text>    
+    <Text>
+      <GUID>14443033</GUID>
+      <Text>Wszystkie Multifabryki w Horai</Text>
+    </Text>
+    <Text>
+      <GUID>14443042</GUID>
+      <Text>Wszystkie Kuchnie w Horai</Text>
+    </Text>
+    <Text>
+      <GUID>14443043</GUID>
+      <Text>Wszystkie Kuchnie w Horai</Text>
+    </Text>
+    <Text>
+      <GUID>14443037</GUID>
+      <Text>Domy Magnatów</Text>
+    </Text>
+    <Text>
+      <GUID>14443036</GUID>
+      <Text>Wieżowce Magnatów</Text>
+    </Text>
+    <Text>
+      <GUID>14443016</GUID>
+      <Text>Wszystkie Farmy w Horai</Text>
+    </Text>
+    <Text>
+      <GUID>14443032</GUID>
+      <Text>Biznesy Magnatów</Text>
+    </Text>
+    <Text>
+      <GUID>14443030</GUID>
+      <Text>Domy w Horai</Text>
+    </Text>
+    <Text>
+      <GUID>1414006788</GUID>
+      <Text>Wszystkie Usługi Publiczne, oprócz Ogrodów</Text>
+    </Text>
+    <!-- Quest Texts -->
+    <Text>
+      <GUID>1414006407</GUID>
+      <Text>Kliknij i odbierz prezent: Łódź Towarowa</Text>
+    </Text>
+    <Text>
+      <GUID>1414006609</GUID>
+      <Text>Magnat cieszy się z sprzedaży biletów na metro.</Text>
+    </Text>
+    <Text><!-- Goodwill Payout Quest Title -->
+      <GUID>1414040450</GUID>
+      <Text>Spieniężanie</Text>
+    </Text>
+    <!-- Buildings -->    
+    <Text>
+      <GUID>1446010</GUID>
+      <Text>Magazyn upraw</Text>
+    </Text>
+    <Text>
+      <GUID>1442504</GUID>
+      <Text>Wieżowiec Magnatów: Poziom 1</Text>
+    </Text>
+    <Text>
+      <GUID>1442505</GUID>
+      <Text>Wieżowiec Magnatów: Poziom 2</Text>
+    </Text>
+    <Text>
+      <GUID>1442506</GUID>
+      <Text>Wieżowiec Magnatów: Poziom 3</Text>
+    </Text>
+    <Text>
+      <GUID>1442507</GUID>
+      <Text>Wieżowiec Magnatów: Poziom 4</Text>
+    </Text>
+    <Text>
+      <GUID>1447915</GUID>
+      <Text>Związek zawodowy</Text>
+    </Text>
+    <Text>
+      <GUID>1447916</GUID>
+      <Text>Ratusz</Text>
+    </Text>
+    <Text>
+      <GUID>1447914</GUID>
+      <Text>Biuro kapitanatu portu</Text>
+    </Text>
+    <Text>
+      <GUID>1414015026</GUID>
+      <Text>Port Admirała Wu Guowei'a</Text>
+    </Text>
+    <Text>
+      <GUID>1414015035</GUID>
+      <Text>Biuro</Text>
+    </Text>
+    <Text>
+      <GUID>1414015036</GUID>
+      <Text>Więzienie</Text>
+    </Text>
+    <Text>
+      <GUID>1414015037</GUID>
+      <Text>Ognista Wieża</Text>
+    </Text>
+    <Text>
+      <GUID>1414015032</GUID>
+      <Text>Bateria Przeciwlotnicza</Text>
+    </Text>
+    <Text>
+      <GUID>1414015027</GUID>
+      <Text>Stanowisko Artylerii</Text>
+    </Text>
+    <Text>
+      <GUID>1414015042</GUID>
+      <Text>Hwacha</Text>
+    </Text>
+    <Text>
+      <GUID>14740081</GUID>
+      <Text>Krążownik</Text>
+    </Text>
+    <Text>
+      <GUID>14740083</GUID>
+      <Text>Monitor</Text>
+    </Text>
+    <Text>
+      <GUID>14740082</GUID>
+      <Text>Krążownik Oblężniczy</Text>
+    </Text>
+    <Text>
+      <GUID>1414006699</GUID>
+      <Text>Bardzo skuteczny przeciwko statkom.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006700</GUID>
+      <Text>Wyłącza obronę wyspy.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006701</GUID>
+      <Text>Specjalizuje się w szybkim niszczeniu budynków portowych.</Text>
+    </Text>
+    <Text>
+      <GUID>1414015045</GUID>
+      <Text>Głowa Lwa</Text>
+    </Text>
+    <Text>
+      <GUID>1414015047</GUID>
+      <Text>Pokryty olejem!</Text>
+    </Text>
+    <Text>
+      <GUID>1414015048</GUID>
+      <Text>Kałuże Oleju!</Text>
+    </Text>
+    <Text>
+      <GUID>1414015049</GUID>
+      <Text>Resztki Ropy!</Text>
+    </Text>
+    <Text>
+      <GUID>1414006706</GUID>
+      <Text>&lt;img src=&apos;data/ui/2kimages/main/icons/ship_info/icon_hitpoints.png&apos; height=&apos;24&apos; width=&apos;24&apos; /&gt; &lt;font size='17' &gt;[Selection Object Attackable CurHitPoints &gt;&gt; healthpoint]&lt;/font&gt;</Text>
+    </Text>
+    <Text>
+      <GUID>1414015039</GUID>
+      <Text>Forteca Nawarchy Pyrforian</Text>
+    </Text>
+    <Text>
+      <GUID>1414015053</GUID>
+      <Text>Miotacz Ognia</Text>
+    </Text>
+    <Text>
+      <GUID>1414015058</GUID>
+      <Text>Oko Smoka</Text>
+    </Text>    
+    <!-- Random Ship Duplicates -->
+    <Text>
+      <GUID>14740075</GUID>
+      <Text>Frachtowiec masowy</Text>
+    </Text>
+    <Text>
+      <GUID>14740076</GUID>
+      <Text>Frachtowiec masowy</Text>
+    </Text>
+    <Text>
+      <GUID>14740077</GUID>
+      <Text>Frachtowiec masowy</Text>
+    </Text>    
+    <Text>
+      <GUID>1414006623</GUID>
+      <Text>Statek Zaopatrzeniowy Sir Blake'a</Text>
+    </Text>
+    <Text>
+      <GUID>1414006624</GUID>
+      <Text>Statek Zaopatrzeniowy Madame Kahiny</Text>
+    </Text>
+    <Text>
+      <GUID>1414006625</GUID>
+      <Text>Statek Zaopatrzeniowy Eli Bleakwortha</Text>
+    </Text>
+    <Text>
+      <GUID>1414006626</GUID>
+      <Text>Statek Zaopatrzeniowy Anne Harlow</Text>
+    </Text>
+    <Text>
+      <GUID>1414006627</GUID>
+      <Text>Statek Zaopatrzeniowy Isabel</Text>
+    </Text>
+    <Text>
+      <GUID>1414006628</GUID>
+      <Text>Statek Zaopatrzeniowy Jeana La Fortune'a</Text>
+    </Text>
+    <Text>
+      <GUID>1414006629</GUID>
+      <Text>Statek Zaopatrzeniowy Starego Nate'a</Text>
+    </Text>
+    <!-- Random stuff -->
+    <Text>
+      <GUID>1414006472</GUID>
+      <Text>Bob &amp; Sons</Text>
+    </Text>
+    <Text>
+      <GUID>1414006473</GUID>
+      <Text>Nie ma rzeczy, której nie można zbudować z materiałów budowlanych Bob &amp; Sons.</Text>
+    </Text>
+    <Text>
+      <GUID>14740078</GUID>
+      <Text>Wędrujący robotnicy</Text>
+    </Text>
+    <Text>
+      <GUID>1414006475</GUID>
+      <Text>Motywacja kulturowa</Text>
+    </Text>
+    <Text>
+      <GUID>1414006542</GUID>
+      <Text>Gōngrén opowiada ci o tych ruinach.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006630</GUID>
+      <Text>Biznes magnata</Text>
+    </Text>
+    <Text>
+      <GUID>1414006631</GUID>
+      <Text>Wierzę, że prywatne spółki zależne są przyszłością. Szkoda, że Korona jest wciąż lata za tym sposobem myślenia. Na szczęście dla nas, Imperium nie ma nic do powiedzenia na atolu.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006632</GUID>
+      <Text>Więc oto umowa: Inwestujesz w fabryki w Horai, a my je od ciebie kupimy. Zapłacimy część kosztów ich utrzymania i zajmiemy się wszelkimi problemami.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006633</GUID>
+      <Text>Mój zwrot? Cóż, nie proszę o wiele, po prostu chcę zachować mój uczciwy udział w zysku, jeśli rozumiesz.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006634</GUID>
+      <Text>Często zarezerwowane na festiwale, jednak trudno oprzeć się ich stylowi i wygodzie na co dzień.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006635</GUID>
+      <Text>Fastfood dla pand. Muszą jeść, albo umrą!</Text>
+    </Text>
+    <Text>
+      <GUID>1414006636</GUID>
+      <Text>Idealny materiał na ściany w tych wilgotnych warunkach klimatycznych.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006638</GUID>
+      <Text>[Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount]t [AssetData([Conditions QuestCondition Context]) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414006639</GUID>
+      <Text>Małe rzeźby i ozdoby wyrzeźbione z Jadeitu, który jeszcze nie został odkryty w Horai.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006640</GUID>
+      <Text>Część Dalekiego Wschodu, która przypomina twoim ludziom o ich pochodzeniu.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006641</GUID>
+      <Text>Intensywnie aromatyczny i masowo produkowany, tylko nieliczni wiedzą, jak go właściwie przygotować — przepis bardziej tajemniczy niż ten na nowy napój Cola Mola Wola.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006642</GUID>
+      <Text>Wygląda jak broń i pachnie jak śmieci, ale jego słodkie, kremowe wnętrze jest mimo to cenione.</Text>
+    </Text>
+    <!-- Goodwills Export Tutorial -->
+    <Text>
+      <GUID>1414006565</GUID>
+      <Text>&lt;font size = &quot;14&quot;&gt;&lt;font size = &quot;32&quot;&gt;KONTRAKT HANDLOWY&lt;/font&gt;&lt;br /&gt;&lt;br/&gt;&lt;font size = &quot;18&quot;&gt;§1 Sposób dostawy&lt;/font&gt;&lt;br /&gt;&lt;br/&gt;§1.1 Możesz dostarczać towary do statku magazynowego E.T.A. na Omega Haven. Dostawa może odbywać się w dowolnym momencie. E.T.A. następnie przechowa te towary w swoim magazynie, dopóki nie zostanie zapełniony. &lt;br/&gt;§1.2 E.T.A. akceptuje tylko wcześniej zapakowane przesyłki. Szczegółowe ilości są wymienione w §3. &lt;br/&gt;§1.3 Po osiągnięciu pełnej pojemności magazynu, jesteś zobowiązany do eksportu przechowywanych towarów do nabywcy wybranego przez E.T.A. przed dostarczeniem kolejnych towarów.&lt;br/&gt;&lt;br/&gt;&lt;font size=&quot;18&quot;&gt;§2 Towary do dostarczenia&lt;/font&gt;&lt;br /&gt;&lt;br/&gt;§2.1 Towary z pięciu kategorii mogą być dostarczane do E.T.A: Leki, Kosztowności, Alkohol, Towary Luksusowe, Broń. Dalsze wyjaśnienia w §4.&lt;br /&gt;§2.2 E.T.A. posiada niezależne magazyny dla tych pięciu kategorii. &lt;br/&gt;&lt;br/&gt;&lt;font size=&quot;18&quot;&gt;§3 Ilości towarów na dostawę&lt;/font&gt;&lt;br /&gt;&lt;br/&gt;§3.1 Leki: 10t &lt;br/&gt;§3.2 Kosztowności: 10t &lt;br/&gt;§3.3 Alkohol: 200t &lt;br/&gt;§3.4 Towary Luksusowe: 100t &lt;br/&gt;§3.4 Broń: 50t &lt;br/&gt;&lt;br/&gt;&lt;font size=&quot;18&quot;&gt;§4 Rodzaje towarów&lt;/font&gt;&lt;br /&gt;&lt;br/&gt;§4.1 Leki: Leki &lt;br/&gt;§4.2 Kosztowności: Kosztowności &lt;br/&gt;§4.3 Alkohol: Alkohol, Piwo, Rum, Szampan, Koniak, Umeshu, Sake &lt;br/&gt;§4.4 Towary Luksusowe: Szampon, Lemoniada, Cygara, Fajki Tytoniowe, Konopie, Fonografy, Biżuteria, Pojazdy parowe, Telefony, Radia, Pióra, Skrzypce, Stoły bilardowe &lt;br/&gt;§4.5 Broń: Broń, Zaawansowana broń, Dynamit, Silniki parowe, Bomby, Miny morskie.&lt;/font&gt;</Text>
+    </Text>
+  </ModOp>
+</ModOps>

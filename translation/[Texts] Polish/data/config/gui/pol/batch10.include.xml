@@ -1,0 +1,528 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">    
+    <Text>
+      <GUID>133700000</GUID>
+      <Text>Horai</Text>
+    </Text>
+    <Text>
+      <GUID>1414006543</GUID>
+      <Text>Można wybudować tylko w Horai</Text>
+    </Text>
+    <Text>
+      <GUID>1414006544</GUID>
+      <Text>Importowane z Horai</Text>
+    </Text>
+    <Text>
+      <GUID>1414006545</GUID>
+      <Text>Wejdź do Horai</Text>
+    </Text>
+    <Text>
+      <GUID>1414018025</GUID>
+      <Text>Nowe Horyzonty</Text>
+    </Text>
+    <Text>
+      <GUID>1414018026</GUID>
+      <Text>Dynastia w opałach</Text>
+    </Text>
+    <!-- Wonder Terminology -->
+    <Text>
+      <GUID>1447815</GUID>
+      <Text>Opuszczone Ruiny</Text>
+    </Text>
+    <Text>
+      <GUID>1414040222</GUID>
+      <Text>Fundament Cudu</Text>
+    </Text>
+    <Text>
+      <GUID>1414018122</GUID>
+      <Text>Ruiny Cudu</Text>
+    </Text>
+    <Text>
+      <GUID>1414018123</GUID>
+      <Text>Przeprowadź wykopaliska tych ruin, aby odkryć, jaki cud kiedyś się w tym miejscu znajdował.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018124</GUID>
+      <Text>Cud</Text>
+    </Text>
+    <Text>
+      <GUID>1414018125</GUID>
+      <Text>Oczyszczone ruiny cudu.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018126</GUID>
+      <Text>Rozpocznij Wykopaliska</Text>
+    </Text>
+    <Text>
+      <GUID>1414018127</GUID>
+      <Text>Construct Foundation</Text>
+    </Text>
+    <Text>
+      <GUID>1414018128</GUID>
+      <Text>Te ruiny są badane przez twoich archeologów.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018129</GUID>
+      <Text>Zbadano ruiny tego opuszczonego cudu. Odkryj, jaki cud kiedyś się w tym miejscu znajdował i rozpocznij budowę fundamentów cudu.</Text>
+    </Text>
+    <Text>
+      <GUID>1447850</GUID>
+      <Text>Cudowne Ruiny</Text>
+    </Text>
+    <Text>
+      <GUID>1414187000</GUID>
+      <Text>Fundament Cudu</Text>
+    </Text>
+    <!-- Season Texts -->
+    <Text>
+      <GUID>1414018169</GUID>
+      <Text>Sezon Monsunowy rozpoczął się w Horai</Text>
+    </Text>
+    <Text>
+      <GUID>1414018170</GUID>
+      <Text>Sezon suchy rozpoczął się w Horai</Text>
+    </Text>
+    <Text>
+      <GUID>1414008651</GUID>
+      <Text>Sezon suchy</Text>
+    </Text>
+    <Text>
+      <GUID>1414008650</GUID>
+      <Text>Sezon monsunowy</Text>
+    </Text>
+    <Text>
+      <GUID>1414006753</GUID>
+      <Text>Sezon monsunowy</Text>
+    </Text>
+    <Text>
+      <GUID>1414006754</GUID>
+      <Text>Sezon suchy</Text>
+    </Text>
+    <Text>
+      <GUID>1414006755</GUID>
+      <Text>Zbiory wstrzymane</Text>
+    </Text>
+    <Text>
+      <GUID>1414006756</GUID>
+      <Text>Zbiory są możliwe</Text>
+    </Text>
+    <Text>
+      <GUID>1414040215</GUID>
+      <Text>Produkcja jest wstrzymana podczas sezonu monsunowego.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006757</GUID>
+      <Text>Wstrzymane</Text>
+    </Text>
+    <Text>
+      <GUID>1414006759</GUID>
+      <Text>Farma nie może zbierać plonów podczas sezonu monsunowego. Następny cykl upraw rośnie.</Text>
+    </Text>
+    <Text>
+      <GUID>1414008655</GUID>
+      <Text>Sezon Monsunowy</Text>
+    </Text>
+    <Text>
+      <GUID>1414008656</GUID>
+      <Text>Sezon suchy</Text>
+    </Text>
+    <Text>
+      <GUID>1414006760</GUID>
+      <Text>Zbiory</Text>
+    </Text>
+    <Text>
+      <GUID>1414006761</GUID>
+      <Text>Nadszedł czas na żniwa! Uzupełnij zapasy, aby przetrwać nadchodzący sezon monsunowy.</Text>
+    </Text>
+
+    <!-- -->
+    <Text>
+      <GUID>1337862</GUID>
+      <Text>Molo dla pasażerów</Text>
+    </Text>
+    <Text>
+      <GUID>1660300</GUID>
+      <Text>Duża Betty</Text>
+    </Text>
+    <Text>
+      <GUID>54005139</GUID>
+      <Text>Towary ekskluzywne</Text>
+    </Text>
+    <Text>
+      <GUID>1446352</GUID>
+      <Text>Importowane z Horai</Text>      <!--Grammar-->
+    </Text>
+    <Text>
+      <GUID>1414011014</GUID>
+      <Text>Mrs. Ivy, Efektywna Myślicielka</Text>
+    </Text>
+    <Text>
+      <GUID>1414006101</GUID>
+      <Text>Poświęcił wieczność na rozważanie najbardziej fascynującego pytania swoich czasów: jak zoptymalizować produkcję.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1442526</GUID>
+      <Text>Łaźnia</Text>      <!--Rephrasing for new Gōngrén public service-->
+    </Text>
+    <Text>
+      <GUID>1442528</GUID> <!-- Nongmin Public service -->
+      <Text>Świątynia</Text>
+    </Text>
+    <Text>
+      <GUID>1442540</GUID>    <!-- Magnate Public Service-->
+      <Text>Stacja metra</Text>
+    </Text>
+    <Text>
+      <GUID>1443119</GUID>
+      <Text>Inwazja: Ogień i Furia</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1443120</GUID>
+      <Text>Inwazja: Horyzonty Popiołów</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1443121</GUID>
+      <Text>Inwazja: Koniec Imperium</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54006005</GUID>
+      <Text>Przybyliśmy po zemstę. Uciekaj, jeśli cenisz swoje życie.</Text>
+    </Text>
+    <Text>
+      <GUID>54006006</GUID>
+      <Text>Jesteśmy świętymi Niosącymi Ogień. Wszystko zostanie zredukowane do popiołów. A ty — ty będziesz naszym paliwem.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54006007</GUID>
+      <Text>Szósta Era Człowieka nadchodzi. Nie ma światła, nie ma ciemności. Nie ma prawdy, nie ma fałszu, tylko płomienie i popioły. To zaczyna się — teraz.</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54006009</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] rozkazuje swoim oddziałom oczyścić to miejsce.</Text>
+    </Text>
+    <Text>
+      <GUID>54006011</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] jest wściekły z powodu swojej straty.</Text>
+    </Text>
+    <Text>
+      <GUID>54006012</GUID>
+      <Text>Zniszcz wszystkie statki Nawarchy Pyrforian, aby powstrzymać jego inwazję.</Text>      <!--Capitalization-->
+    </Text>
+    <Text>
+      <GUID>54006017</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] desperacko prosi cię o pomoc w obronie terytorium Imperium.</Text>
+    </Text>
+    <Text>
+      <GUID>54006018</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] jest wdzięczny, że powstrzymałeś inwazję.</Text>
+    </Text>
+    <!-- Infrastructure Buildings -->
+    <Text>
+      <GUID>1446002</GUID>
+      <Text>Mały magazyn</Text>
+    </Text>
+    <Text>
+      <GUID>1446003</GUID>
+      <Text>Średni magazyn</Text>
+    </Text>
+    <Text>
+      <GUID>1446004</GUID>
+      <Text>Duży magazyn</Text>
+    </Text>
+    <Text>
+      <GUID>14443006</GUID>
+      <Text>Pirsy naftowe</Text>
+    </Text>
+    <Text>
+      <GUID>14443007</GUID>
+      <Text>Pirsy towarowe</Text>
+    </Text>
+    <Text>
+      <GUID>14443009</GUID>
+      <Text>Ozdoby Światowej Wystawy</Text>
+    </Text>
+    <Text>
+      <GUID>14443010</GUID>
+      <Text>Rezydencje Robotników, Rzemieślników, Obrero, Starszych i Gōngrén</Text>
+    </Text>
+    <Text>
+      <GUID>14443008</GUID>
+      <Text>Porty naftowe i pirsy naftowe</Text>
+    </Text>
+    <Text>
+      <GUID>1337863</GUID>
+      <Text>Skład</Text>
+    </Text>
+    <Text>
+      <GUID>1337864</GUID>
+      <Text>Karabin Puckle'a</Text>
+    </Text>
+    <Text>
+      <GUID>1337865</GUID>
+      <Text>Stanowisko artylerii</Text>
+    </Text>
+    <Text>
+      <GUID>1337866</GUID>
+      <Text>Duża Betty</Text>
+    </Text>
+    <Text>
+      <GUID>1337867</GUID>
+      <Text>Pirs towarowy</Text>
+    </Text>
+    <Text>
+      <GUID>1337868</GUID>
+      <Text>Pirs naftowy</Text>
+    </Text>
+    <Text>
+      <GUID>1337871</GUID>
+      <Text>Mały port naftowy</Text>
+    </Text>
+    <Text>
+      <GUID>1337872</GUID>
+      <Text>Średni port naftowy</Text>
+    </Text>
+    <Text>
+      <GUID>1337873</GUID>
+      <Text>Duży port naftowy</Text>
+    </Text>
+    <Text>
+      <GUID>1337874</GUID>
+      <Text>Olbrzymi port naftowy</Text>
+    </Text>
+    <Text>
+      <GUID>1337875</GUID>
+      <Text>Magazyn ropy</Text>
+    </Text>
+    <Text>
+      <GUID>1337869</GUID>
+      <Text>Pirs naftowy</Text>
+    </Text>
+    <Text>
+      <GUID>1337870</GUID>
+      <Text>Pirs naftowy</Text>
+    </Text>
+    <Text>
+      <GUID>1337877</GUID>
+      <Text>Duża Betty</Text>
+    </Text>
+    <Text>
+      <GUID>1337876</GUID>
+      <Text>Pirs naftowy</Text>
+    </Text>
+    <Text>
+      <GUID>1337879</GUID>
+      <Text>Publiczne kotwicowisko</Text>
+    </Text>
+    <Text>
+      <GUID>14443015</GUID>
+      <Text>Zaawansowany pirs</Text>
+    </Text>
+    <Text>
+      <GUID>1414011017</GUID>
+      <Text>Pan Dymek</Text>
+    </Text>
+    <Text>
+      <GUID>1414006104</GUID>
+      <Text>Nie może się doczekać legalizacji!</Text>
+    </Text>
+    <Text>
+      <GUID>1442525</GUID>
+      <Text>Rynek</Text>
+    </Text>
+    <Text>
+      <GUID>1442521</GUID>
+      <Text>Remiza strażacka</Text>
+    </Text>
+    <Text>
+      <GUID>1442522</GUID>
+      <Text>Komisariat policji</Text>
+    </Text>
+    <Text>
+      <GUID>1442523</GUID>
+      <Text>Szpital</Text>
+    </Text>
+    <Text>
+      <GUID>1414006013</GUID>
+      <Text>Potrzeby Nóngmín</Text>
+    </Text>
+    <Text>
+      <GUID>1414006014</GUID>
+      <Text>Potrzeby Gōngrén</Text>
+    </Text>
+    <Text>
+      <GUID>1414006015</GUID>
+      <Text>Towary handlowe</Text>
+    </Text>
+    <Text>
+      <GUID>14740053</GUID>
+      <Text>Statek zaopatrzeniowy Archibalda Blake'a</Text>
+    </Text>
+    <Text>
+      <GUID>14740054</GUID>
+      <Text>Statek zaopatrzeniowy Madame Kahiny</Text>
+    </Text>
+    <Text>
+      <GUID>14740055</GUID>
+      <Text>Statek zaopatrzeniowy Jamesa Goodwilla</Text>
+    </Text>
+    <Text>
+      <GUID>14740056</GUID>
+      <Text>Statek zaopatrzeniowy Anne Harlow</Text>
+    </Text>
+    <Text>
+      <GUID>14740057</GUID>
+      <Text>Statek zaopatrzeniowy Isabel Sarmento</Text>
+    </Text>
+    <Text>
+      <GUID>14740058</GUID>
+      <Text>Statek zaopatrzeniowy Jeana La Fortune'a</Text>
+    </Text>
+    <Text>
+      <GUID>14740059</GUID>
+      <Text>Statek zaopatrzeniowy Starego Nate'a</Text>
+    </Text>
+    <!-- Quest Texts -->
+    <Text>
+      <GUID>1414006050</GUID>
+      <Text>Pierwsi Magnaci wprowadzają się.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006051</GUID>
+      <Text>Magnat wita cię.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006052</GUID>
+      <Text>Magnat wita cię.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006053</GUID>
+      <Text>Magnat już myśli o sposobach, aby zmusić cię do zapłacenia za odbudowę jego domu.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006054</GUID>
+      <Text>Magnat martwi się, czy jego choroba nie pochłonie całego majątku.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006055</GUID>
+      <Text>Magnat martwi się, czy jego pieniądze są nadal bezpieczne.</Text>      <!--Literówka-->
+    </Text>
+    <Text>
+      <GUID>1414006056</GUID>
+      <Text>Magnat oferuje ci zadanie.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006057</GUID>
+      <Text>Magnat cieszy się, że się zgodziłeś.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006058</GUID>
+      <Text>Magnat dziękuje ci za pomoc.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006059</GUID>
+      <Text>Magnat jest przerażony twoją niekompetencją.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006060</GUID>
+      <Text>Magnat jest wściekły, że porzuciłeś swoje zadanie.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006061</GUID>
+      <Text>Magnat nalega, abyś ukończył jego zadanie.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006062</GUID>
+      <Text>Magnat pyta, czy odniosłeś sukces.</Text>
+    </Text>
+    <Text>
+      <GUID>14443014</GUID>
+      <Text>Wszystkie budynki produkcyjne w Horai</Text>
+    </Text>
+    <Text>
+      <GUID>1414006064</GUID>
+      <Text>Gōngrén wita cię.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006065</GUID>
+      <Text>Gōngrén oferuje ci zadanie.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006066</GUID>
+      <Text>Gōngrén cieszy się, że się zgodziłeś.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006067</GUID>
+      <Text>Gōngrén dziękuje ci za pomoc.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006068</GUID>
+      <Text>Gōngrén jest rozczarowany twoją porażką.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006069</GUID>
+      <Text>Gōngrén jest rozczarowany, że porzuciłeś swoje zadanie.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006070</GUID>
+      <Text>Gōngrén przypomina ci o twoim zadaniu.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006071</GUID>
+      <Text>Gōngrén pyta, czy odniosłeś sukces.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006072</GUID>
+      <Text>Pierwsi Gōngrén wprowadzają się.</Text>
+    </Text>
+    <Text>
+      <GUID>1446115</GUID>
+      <Text>Wędrujący Robotnicy</Text>
+    </Text>
+    <!-- Product Fluffs -->    
+    <Text>
+      <GUID>1414006010</GUID>
+      <Text>Zakaz palenia!</Text>
+    </Text>
+    <Text>
+      <GUID>1414006011</GUID>
+      <Text>Proste ubrania na co dzień.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006453</GUID>
+      <Text>Wydaje delikatny, eteryczny dźwięk.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006454</GUID>
+      <Text>Kwitnące święte piękności.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006455</GUID>
+      <Text>Wydaje brzęczący dźwięk, gdy się go szarpie.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006794</GUID>
+      <Text>Bardzo kanciaste bloki.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006836</GUID>
+      <Text>Wykonane z rozgniecionych ziaren soi.</Text>
+    </Text>
+    <!-- Multifactory Flufftexts -->    
+    <Text>
+      <GUID>1414006589</GUID>
+      <Text>Detektory kryształowe to niewiarygodnie zaawansowana technologia, tak mała, że ledwo widoczna gołym okiem. Każde zadrapanie lub uszkodzona krawędź na starannie wybranym krysztale pirytu zniekształci sygnał radiowy.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006590</GUID>
+      <Text>Struny Koto są dość krótkotrwałe i muszą być wymieniane dwa razy w tygodniu. Ta nowa maszyna jest idealnym rozwiązaniem, ponieważ produkuje struny Koto szybciej, niż jakikolwiek uczeń jest w stanie je zerwać.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006591</GUID>
+      <Text>Pióro powinno być przedłużeniem umysłu. Staranne rzeźbienie stalówek do piór wiecznych zapewni właśnie to - w końcu, który lekarz użyje pióra, które sprawia, że jego pismo jest nieczytelne?</Text>
+    </Text>
+    <Text>
+      <GUID>1414006592</GUID>
+      <Text>Precyzyjna maszyna do grawerowania to wielka rewolucja techniczna - to, co kiedyś wydawało się osiągalne jedynie dzięki latom rzemiosła, teraz można wykonać w ciągu kilku godzin.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

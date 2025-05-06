@@ -2,149 +2,149 @@
     <ModOp Type="add" Path="/TextExport/Texts">
         <Text>
             <GUID>1414016153</GUID>
-            <Text>Fishing Boat</Text>
+            <Text>Łódź rybacka</Text>
         </Text>
         <Text>
             <GUID>1414016154</GUID>
-            <Text>Docked Lorcha</Text>
+            <Text>Zakotwiczona Lorcha</Text>
         </Text>
         <Text>
             <GUID>1414016155</GUID>
-            <Text>Bridge</Text>
+            <Text>Most</Text>
         </Text>
         <Text>
             <GUID>1414016156</GUID>
-            <Text>Barrels</Text>
+            <Text>Beczki</Text>
         </Text>
         <Text>
             <GUID>1414016157</GUID>
-            <Text>Benches</Text>
+            <Text>Ławki</Text>
         </Text>
         <Text>
             <GUID>1414016158</GUID>
-            <Text>Boats</Text>
+            <Text>Łodzie</Text>
         </Text>
         <Text>
             <GUID>1414016159</GUID>
-            <Text>Big Boats</Text>
+            <Text>Duże łodzie</Text>
         </Text>
         <Text>
             <GUID>1414016160</GUID>
-            <Text>Fishtraps</Text>
+            <Text>Pułapki na ryby</Text>
         </Text>
         <Text>
             <GUID>1414016161</GUID>
-            <Text>Crane</Text>
+            <Text>Żuraw</Text>
         </Text>
         <Text>
             <GUID>1414016162</GUID>
-            <Text>Tree</Text>
+            <Text>Drzewo</Text>
         </Text>
         <Text>
             <GUID>1414016163</GUID>
-            <Text>Cherry Tree</Text>
+            <Text>Drzewo wiśni</Text>
         </Text>
         <Text>
             <GUID>1414016164</GUID>
-            <Text>Pear Tree</Text>
+            <Text>Grusza</Text>
         </Text>
         <Text>
             <GUID>1414016165</GUID>
-            <Text>Pine Tree</Text>
+            <Text>Sosna</Text>
         </Text>
         <Text>
             <GUID>1414016166</GUID>
-            <Text>Willow Tree</Text>
+            <Text>Wierzba</Text>
         </Text>
         <Text>
             <GUID>1414016167</GUID>
-            <Text>Warehouse</Text>
+            <Text>Magazyn</Text>
         </Text>
         <Text>
             <GUID>1414016168</GUID>
-            <Text>Hydrangea</Text>
+            <Text>Hortensja</Text>
         </Text>
         <Text>
             <GUID>1414016169</GUID>
-            <Text>Wisteria Trellis</Text>
+            <Text>Altana z glicynią</Text>
         </Text>
         <Text>
             <GUID>1414016170</GUID>
-            <Text>Koinobori</Text>
+            <Text>Chorągiew Koinobori</Text>
         </Text>
 
         <Text>
             <GUID>1414016000</GUID>
-            <Text>Gravel</Text>
+            <Text>Żwir</Text>
         </Text>
         <Text>
             <GUID>1414016027</GUID>
-            <Text>Bare Wall</Text>
+            <Text>Mur</Text>
         </Text>
         <Text>
             <GUID>1414016028</GUID>
-            <Text>Framed Wall</Text>
+            <Text>Mur szkieletowy</Text>
         </Text>
         <Text>
             <GUID>1414016029</GUID>
-            <Text>Paneled Wall</Text>
+            <Text>Mur panelowy</Text>
         </Text>
         <Text>
             <GUID>1414016032</GUID>
-            <Text>Bare Wall Gate</Text>
+            <Text>Brama</Text>
         </Text>
         <Text>
             <GUID>1414016033</GUID>
-            <Text>Framed Wall Gate</Text>
+            <Text>Brama szkieletowa</Text>
         </Text>
         <Text>
             <GUID>1414016034</GUID>
-            <Text>Paneled Wall Gate</Text>
+            <Text>Brama panelowa</Text>
         </Text>
         <Text>
             <GUID>1414016035</GUID>
-            <Text>Pine (Paved)</Text>
+            <Text>Sosna (Wybrukowana)</Text>
         </Text>
         <Text>
             <GUID>1414016036</GUID>
-            <Text>Persimmon (Paved)</Text>
+            <Text>Persymona (Wybrukowana)</Text>
         </Text>
         <Text>
             <GUID>1414016037</GUID>
-            <Text>Sago (Paved)</Text>
+            <Text>Sago (Wybrukowana)</Text>
         </Text>
         <Text>
             <GUID>1414016038</GUID>
-            <Text>Gingko (Paved)</Text>
+            <Text>Miłorząb (Wybrukowany)</Text>
         </Text>
         <Text>
             <GUID>1414016039</GUID>
-            <Text>Pear (Paved)</Text>
+            <Text>Grusza (Wybrukowana)</Text>
         </Text>
         <Text>
             <GUID>1414016040</GUID>
-            <Text>Musa Basjoo (Paved)</Text>
+            <Text>Musa Basjoo (Wybrukowana)</Text>
         </Text>
         <Text>
             <GUID>1414016041</GUID>
-            <Text>Sakura (Paved)</Text>
+            <Text>Sakura (Wybrukowana)</Text>
         </Text>
         <Text>
             <GUID>1414016042</GUID>
-            <Text>Willow (Paved)</Text>
+            <Text>Wierzba (Wybrukowana)</Text>
         </Text>
         <Text>
             <GUID>1414016043</GUID>
-            <Text>Momji Maple (Paved)</Text>
+            <Text>Klon Momji (Wybrukowany)</Text>
         </Text>
 
         <Text>
             <GUID>1414016044</GUID>
-            <Text>Pine</Text>
+            <Text>Sosna</Text>
         </Text>
         <Text>
             <GUID>1414016045</GUID>
-            <Text>Persimmon</Text>
+            <Text>Persymona</Text>
         </Text>
         <Text>
             <GUID>1414016046</GUID>
@@ -152,11 +152,11 @@
         </Text>
         <Text>
             <GUID>1414016047</GUID>
-            <Text>Gingko</Text>
+            <Text>Miłorząb</Text>
         </Text>
         <Text>
             <GUID>1414016048</GUID>
-            <Text>Pear</Text>
+            <Text>Grusza</Text>
         </Text>
         <Text>
             <GUID>1414016049</GUID>
@@ -168,353 +168,353 @@
         </Text>
         <Text>
             <GUID>1414016051</GUID>
-            <Text>Willow</Text>
+            <Text>Wierzba</Text>
         </Text>
         <Text>
             <GUID>1414016052</GUID>
-            <Text>Momji Maple</Text>
+            <Text>Klon Momji</Text>
         </Text>
         <Text>
             <GUID>1414016053</GUID>
-            <Text>Paved Weeping Sakura</Text>
+            <Text>Wybrukowana Płacząca Sakura</Text>
         </Text>
         <Text>
             <GUID>1414016054</GUID>
-            <Text>Weeping Sakura</Text>
+            <Text>Płacząca Sakura</Text>
         </Text>
         <Text>
             <GUID>1414016055</GUID>
-            <Text>Bamboo Tree</Text>
+            <Text>Bambus</Text>
         </Text>
         <Text>
             <GUID>1414016056</GUID>
-            <Text>Bamboo Tree (Paved)</Text>
+            <Text>Bambus (Wybrukowany)</Text>
         </Text>
         <Text>
             <GUID>1414016057</GUID>
-            <Text>Buddha Statue</Text>
+            <Text>Posąg Buddy</Text>
         </Text>
         <Text>
             <GUID>1414016058</GUID>
-            <Text>Small Dragon Statue</Text>
+            <Text>Mały posąg smoka</Text>
         </Text>
         <Text>
             <GUID>1414016059</GUID>
-            <Text>Mandarin Statue</Text>
+            <Text>Posąg mandaryna</Text>
         </Text>
         <Text>
             <GUID>1414016060</GUID>
-            <Text>Neko Statue</Text>
+            <Text>Posąg kota</Text>
         </Text>
         <Text>
             <GUID>1414016061</GUID>
-            <Text>Large Samurai Statue</Text>
+            <Text>Duży posąg samuraja</Text>
         </Text>
         <Text>
             <GUID>1414016062</GUID>
-            <Text>Dragon Statue</Text>
+            <Text>Posąg smoka</Text>
         </Text>
         <Text>
             <GUID>1414016063</GUID>
-            <Text>Qilin Statue</Text>
+            <Text>Posąg Qilin</Text>
         </Text>
         <Text>
             <GUID>1414016064</GUID>
-            <Text>Chochin Lamps</Text>
+            <Text>Lampiony Chochin</Text>
         </Text>
         <Text>
             <GUID>1414016065</GUID>
-            <Text>Paved Stone Lamp</Text>
+            <Text>Brukowa lampa</Text>
         </Text>
         <Text>
             <GUID>1414016066</GUID>
-            <Text>Stone Lamp</Text>
+            <Text>Kamienna lampa</Text>
         </Text>
         <Text>
             <GUID>1414016067</GUID>
-            <Text>Wooden Lamp</Text>
+            <Text>Drewniana lampa</Text>
         </Text>
         <Text>
             <GUID>1414016068</GUID>
-            <Text>Paved Stone Pillar</Text>
+            <Text>Brukowy filar</Text>
         </Text>
         <Text>
             <GUID>1414016069</GUID>
-            <Text>Stone Pillar</Text>
+            <Text>Kamienny filar</Text>
         </Text>
         <Text>
             <GUID>1414016006</GUID>
-            <Text>Raked Gravel</Text>
+            <Text>Grabiony żwir</Text>
         </Text>
         <Text>
             <GUID>1414016007</GUID>
-            <Text>Gravel Union Logo</Text>
+            <Text>Żwirowe logo unii</Text>
         </Text>
         <Text>
             <GUID>1414016008</GUID>
-            <Text>Gravel Yīn Yáng</Text>
+            <Text>Żwirowy Yīn Yáng</Text>
         </Text>
         <Text>
             <GUID>1414016009</GUID>
-            <Text>Gravel Bushes</Text>
+            <Text>Krzewy żwirowe</Text>
         </Text>
         <Text>
             <GUID>1414016010</GUID>
-            <Text>Raked Gravel Bushes</Text>
+            <Text>Grabione krzewy żwirowe</Text>
         </Text>
         <Text>
             <GUID>1414016011</GUID>
-            <Text>Gravel Boxwood</Text>
+            <Text>Bukszpan żwirowy</Text>
         </Text>
         <Text>
             <GUID>1414016012</GUID>
-            <Text>Raked Gravel Boxwood</Text>
+            <Text>Grabiony bukszpan żwirowy</Text>
         </Text>
         <Text>
             <GUID>1414016013</GUID>
-            <Text>Raked Gravel Rocks</Text>
+            <Text>Grabione żwirowe skały</Text>
         </Text>
         <Text>
             <GUID>1414016014</GUID>
-            <Text>Stone Path</Text>
+            <Text>Kamienna Ścieżka</Text>
         </Text>
         <Text>
             <GUID>1414016015</GUID>
-            <Text>Raked Stone Path</Text>
+            <Text>Grabiona Kamienna Ścieżka</Text>
         </Text>
         <Text>
             <GUID>1414016016</GUID>
-            <Text>Gravel Sculpture</Text>
+            <Text>Rzeźba żwirowa</Text>
         </Text>
         <Text>
             <GUID>1414016021</GUID>
-            <Text>Large Gravel Bushes</Text>
+            <Text>Duże krzewy żwirowe</Text>
         </Text>
         <Text>
             <GUID>1414016022</GUID>
-            <Text>Large Raked Gravel Bushes</Text>
+            <Text>Duże grabione krzewy żwirowe</Text>
         </Text>
         <Text>
             <GUID>1414016023</GUID>
-            <Text>Gravel Rocks</Text>
+            <Text>Skały żwirowe</Text>
         </Text>
         <Text>
             <GUID>1414016024</GUID>
-            <Text>Gravel Patterns</Text>
+            <Text>Wzory żwirowe</Text>
         </Text>
         <Text>
             <GUID>1414016071</GUID>
-            <Text>Pathway</Text>
+            <Text>Ścieżka</Text>
         </Text>
         <Text>
             <GUID>1414016072</GUID>
-            <Text>Grass</Text>
+            <Text>Trawa</Text>
         </Text>
         <Text>
             <GUID>1414016073</GUID>
-            <Text>Groves</Text>
+            <Text>Gaje</Text>
         </Text>
         <Text>
             <GUID>1414016070</GUID>
-            <Text>Large Buddha Statue</Text>
+            <Text>Duży posąg Buddy</Text>
         </Text>
 
         <Text>
             <GUID>1414016093</GUID>
-            <Text>Silvergrass</Text>
+            <Text>Srebrzysta trawa</Text>
         </Text>
         <Text>
             <GUID>1414016094</GUID>
-            <Text>Paved Pathways</Text>
+            <Text>Wybrukowana ścieżka</Text>
         </Text>
         <Text>
             <GUID>1414016095</GUID>
-            <Text>Lighthouse</Text>
+            <Text>Latarnia morska</Text>
         </Text>
         <Text>
             <GUID>1414016096</GUID>
-            <Text>Bamboo Fence</Text>
+            <Text>Płot bambusowy</Text>
         </Text>
         <Text>
             <GUID>1414016097</GUID>
-            <Text>Stele</Text>
+            <Text>Stela</Text>
         </Text>
         <Text>
             <GUID>1414016098</GUID>
-            <Text>Windmill Palm</Text>
+            <Text>Palma wiatrakowa</Text>
         </Text>
         <Text>
             <GUID>1414016099</GUID>
-            <Text>Windmill Palm (Paved)</Text>
+            <Text>Palma wiatrakowa (Wybrukowana)</Text>
         </Text>
         <Text>
             <GUID>1414016100</GUID>
-            <Text>Moon Gate</Text>
+            <Text>Brama księżycowa</Text>
         </Text>
         <Text>
             <GUID>1414016101</GUID>
-            <Text>City Wall</Text>
+            <Text>Mur miejski</Text>
         </Text>
         <Text>
             <GUID>1414016102</GUID>
-            <Text>City Wall Towers</Text>
+            <Text>Wieże miejskie</Text>
         </Text>
         <Text>
             <GUID>1414016103</GUID>
-            <Text>City Wall Inner Gate</Text>
+            <Text>Wewnętrzna Brama Miejska</Text>
         </Text>
         <Text>
             <GUID>1414016104</GUID>
-            <Text>Fortified City Wall Gate</Text>
+            <Text>Wzmocniona Brama Miejska</Text>
         </Text>
         <Text>
             <GUID>1414016105</GUID>
-            <Text>Angled City Wall Gate</Text>
+            <Text>Brama Miejska Pod Kątem</Text>
         </Text>
         <Text>
             <GUID>1414016106</GUID>
-            <Text>Wide City Wall Inner Gate</Text>
+            <Text>Szeroka Wewnętrzna Brama Miejska</Text>
         </Text>
         <Text>
             <GUID>1414016107</GUID>
-            <Text>Wide Fortified City Wall Gate</Text>
+            <Text>Szeroka Wzmocniona Brama Miejska</Text>
         </Text>
         <Text>
             <GUID>1414016108</GUID>
-            <Text>Arcade Entrance</Text>
+            <Text>Wejście do Arkady</Text>
         </Text>
         <Text>
             <GUID>1414016109</GUID>
-            <Text>Large Arcade Entrance</Text>
+            <Text>Duże Wejście do Arkady</Text>
         </Text>
         <Text>
             <GUID>1414016110</GUID>
-            <Text>Small Rocks I</Text>
+            <Text>Małe kamienie I</Text>
         </Text>
         <Text>
             <GUID>1414016111</GUID>
-            <Text>Small Rocks II</Text>
+            <Text>Małe kamienie II</Text>
         </Text>
         <Text>
             <GUID>1414016112</GUID>
-            <Text>Small Rocks III</Text>
+            <Text>Małe kamienie III</Text>
         </Text>
         <Text>
             <GUID>1414016113</GUID>
-            <Text>Small Rocks IV</Text>
+            <Text>Małe kamienie IV</Text>
         </Text>
         <Text>
             <GUID>1414016114</GUID>
-            <Text>Small Rocks V</Text>
+            <Text>Małe kamienie V</Text>
         </Text>
         <Text>
             <GUID>1414016115</GUID>
-            <Text>Small Rocks VI</Text>
+            <Text>Małe kamienie VI</Text>
         </Text>
         <Text>
             <GUID>1414016116</GUID>
-            <Text>Small Rocks VII</Text>
+            <Text>Małe kamienie VII</Text>
         </Text>
         <Text>
             <GUID>1414016117</GUID>
-            <Text>Small Rocks VIII</Text>
+            <Text>Małe kamienie VIII</Text>
         </Text>
         <Text>
             <GUID>1414016118</GUID>
-            <Text>Medium Rocks I</Text>
+            <Text>Średnie kamienie I</Text>
         </Text>
         <Text>
             <GUID>1414016119</GUID>
-            <Text>Medium Rocks II</Text>
+            <Text>Średnie kamienie II</Text>
         </Text>
         <Text>
             <GUID>1414016120</GUID>
-            <Text>Medium Rocks III</Text>
+            <Text>Średnie kamienie III</Text>
         </Text>
         <Text>
             <GUID>1414016121</GUID>
-            <Text>Medium Rocks IV</Text>
+            <Text>Średnie kamienie IV</Text>
         </Text>
         <Text>
             <GUID>1414016122</GUID>
-            <Text>Medium Rocks V</Text>
+            <Text>Średnie kamienie V</Text>
         </Text>
         <Text>
             <GUID>1414016123</GUID>
-            <Text>Large Rocks I</Text>
+            <Text>Duże kamienie I</Text>
         </Text>
         <Text>
             <GUID>1414016124</GUID>
-            <Text>Large Rocks II</Text>
+            <Text>Duże kamienie II</Text>
         </Text>
         <Text>
             <GUID>1414016125</GUID>
-            <Text>Large Rocks III</Text>
+            <Text>Duże kamienie III</Text>
         </Text>
 
         <Text>
             <GUID>1414016126</GUID>
-            <Text>Small Dry Rocks I</Text>
+            <Text>Małe suche kamienie I</Text>
         </Text>
         <Text>
             <GUID>1414016127</GUID>
-            <Text>Small Dry Rocks II</Text>
+            <Text>Małe suche kamienie II</Text>
         </Text>
         <Text>
             <GUID>1414016128</GUID>
-            <Text>Small Dry Rocks III</Text>
+            <Text>Małe suche kamienie III</Text>
         </Text>
         <Text>
             <GUID>1414016129</GUID>
-            <Text>Small Dry Rocks IV</Text>
+            <Text>Małe suche kamienie IV</Text>
         </Text>
         <Text>
             <GUID>1414016130</GUID>
-            <Text>Small Dry Rocks V</Text>
+            <Text>Małe suche kamienie V</Text>
         </Text>
         <Text>
             <GUID>1414016131</GUID>
-            <Text>Small Dry Rocks VI</Text>
+            <Text>Małe suche kamienie VI</Text>
         </Text>
         <Text>
             <GUID>1414016132</GUID>
-            <Text>Small Dry Rocks VII</Text>
+            <Text>Małe suche kamienie VII</Text>
         </Text>
         <Text>
             <GUID>1414016133</GUID>
-            <Text>Small Dry Rocks VIII</Text>
+            <Text>Małe suche kamienie VIII</Text>
         </Text>
         <Text>
             <GUID>1414016134</GUID>
-            <Text>Medium Dry Rocks I</Text>
+            <Text>Średnie suche kamienie I</Text>
         </Text>
         <Text>
             <GUID>1414016135</GUID>
-            <Text>Medium Dry Rocks II</Text>
+            <Text>Średnie suche kamienie II</Text>
         </Text>
         <Text>
             <GUID>1414016136</GUID>
-            <Text>Medium Dry Rocks III</Text>
+            <Text>Średnie suche kamienie III</Text>
         </Text>
         <Text>
             <GUID>1414016137</GUID>
-            <Text>Medium Dry Rocks IV</Text>
+            <Text>Średnie suche kamienie IV</Text>
         </Text>
         <Text>
             <GUID>1414016138</GUID>
-            <Text>Medium Dry Rocks V</Text>
+            <Text>Średnie suche kamienie V</Text>
         </Text>
         <Text>
             <GUID>1414016139</GUID>
-            <Text>Large Dry Rocks I</Text>
+            <Text>Duże suche kamienie I</Text>
         </Text>
         <Text>
             <GUID>1414016140</GUID>
-            <Text>Large Dry Rocks II</Text>
+            <Text>Duże suche kamienie II</Text>
         </Text>
         <Text>
             <GUID>1414016141</GUID>
-            <Text>Large Dry Rocks III</Text>
+            <Text>Duże suche kamienie III</Text>
         </Text>
         <Text>
             <GUID>1414016142</GUID>
@@ -522,11 +522,11 @@
         </Text>
         <Text>
             <GUID>1414016143</GUID>
-            <Text>Liviastona Palm</Text>
+            <Text>Palma Liviastona</Text>
         </Text>
         <Text>
             <GUID>1414016144</GUID>
-            <Text>Heavenly Bamboo</Text>
+            <Text>Niebiański bambus</Text>
         </Text>
         <Text>
             <GUID>1414016145</GUID>
@@ -534,55 +534,55 @@
         </Text>
         <Text>
             <GUID>1414016146</GUID>
-            <Text>Peony</Text>
+            <Text>Piwonia</Text>
         </Text>
         <Text>
             <GUID>1414016147</GUID>
-            <Text>Privet</Text>
+            <Text>Ligustr</Text>
         </Text>
         <Text>
             <GUID>1414016148</GUID>
-            <Text>Rhododendron</Text>
+            <Text>Rododendron</Text>
         </Text>
         <Text>
             <GUID>1414016149</GUID>
-            <Text>Roses</Text>
+            <Text>Róże</Text>
         </Text>
         <Text>
             <GUID>1414016150</GUID>
-            <Text>Spirea</Text>
+            <Text>Tawuła</Text>
         </Text>
         <Text>
             <GUID>1414016151</GUID>
-            <Text>Tree (Paved)</Text>
+            <Text>Drzewo (Wybrukowane)</Text>
         </Text>
         <Text>
             <GUID>1414016152</GUID>
-            <Text>Tree</Text>
+            <Text>Drzewo</Text>
         </Text>
         <Text>
             <GUID>1414016091</GUID>
-            <Text>Large Paifung Gate</Text>
+            <Text>Wielka brama Paifung</Text>
         </Text>
         <Text>
             <GUID>1414016092</GUID>
-            <Text>Small Paifung Gate</Text>
+            <Text>Mała brama Paifung</Text>
         </Text>
         <Text>
             <GUID>1414016090</GUID>
-            <Text>Haye's A</Text>
+            <Text>A Haye'a</Text>
         </Text>
         <Text>
             <GUID>1414018048</GUID>
-            <Text>Signifying craft, authenticity, emotion and intelligence. Meticulous in detail and crafted with care, the symbol becomes a tool wielded by the Community to shape their ANNO world, essential in bringing a premier City builder to life.</Text>
+            <Text>Symbolizując rzemiosło, autentyczność, emocje i inteligencję. Skrupulatny w szczegółach i wykonany z troską, symbol staje się narzędziem używanym przez Społeczność do kształtowania ich świata ANNO, niezbędnym w tworzeniu najwyższej klasy gry budowlanej.</Text>
         </Text>
         <Text>
             <GUID>1414006704</GUID>
-            <Text>A nice place to take one's family to. Now, where is the photographer...</Text>
+            <Text>Miłe miejsce na rodzinny wypad. Teraz, gdzie jest fotograf...</Text>
         </Text>
         <Text>
             <GUID>1414006705</GUID>
-            <Text>It's coarse... and rough... and irritating, and it gets... wait, this isn't sand?</Text>
+            <Text>Jest szorstki... i chropowaty... i irytujący, i dostaje się... chwila, to nie jest piasek?</Text>
         </Text>
         <Text>
             <GUID>1414016026</GUID>
@@ -590,39 +590,39 @@
         </Text>
         <Text>
             <GUID>1414016025</GUID>
-            <Text>Zen Pavement</Text>
+            <Text>Chodnik Zen</Text>
         </Text>
         <Text>
             <GUID>1414016001</GUID>
-            <Text>Gazebo</Text>
+            <Text>Altana</Text>
         </Text>
         <Text>
             <GUID>1414006703</GUID>
-            <Text>Garden Ornament</Text>
+            <Text>Ozdoba ogrodu</Text>
         </Text>
         <Text>
             <GUID>1414006672</GUID>
-            <Text>Build garden ornaments on the island to increase the range of the main garden.</Text>
+            <Text>Buduj ozdoby ogrodu na wyspie, aby zwiększyć zasięg głównego ogrodu.</Text>
         </Text>
         <Text>
             <GUID>1442564</GUID>
-            <Text>Garden Range</Text>
+            <Text>Zasięg ogrodu</Text>
         </Text>
         <Text>
             <GUID>1442560</GUID>
-            <Text>Garden Gateway</Text>
+            <Text>Brama ogrodu</Text>
         </Text>
         <Text>
             <GUID>1414006793</GUID>
-            <Text>Provides a service to your residents. Its range can be increased with Garden Ornaments.</Text>
+            <Text>Zapewnia usługę mieszkańcom. Jego zasięg można zwiększyć za pomocą ozdób ogrodu.</Text>
         </Text>
         <Text>
             <GUID>1414006746</GUID>
-            <Text>Garden Ornaments</Text>
+            <Text>Ozdoby ogrodu</Text>
         </Text>
         <Text>
             <GUID>1414006718</GUID>
-            <Text>Garden Ornaments increase attractiveness and increase the range of Garden Gateways</Text>
+            <Text>Ozdoby ogrodu zwiększają atrakcyjność i zasięg bram ogrodu</Text>
         </Text>
     </ModOp>
 </ModOps>

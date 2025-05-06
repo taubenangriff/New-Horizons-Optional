@@ -1,0 +1,362 @@
+<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <Text>
+            <GUID>1414187001</GUID>
+            <Text>Wielka Pagoda: Rekonstrukcja</Text>
+        </Text>
+        <Text>
+            <GUID>1414187002</GUID>
+            <Text>Wielka Pagoda</Text>
+        </Text>
+        <Text>
+            <GUID>1414187006</GUID>
+            <Text>Sanktuarium: Rekonstrukcja</Text>
+        </Text>
+        <Text>
+            <GUID>1414187007</GUID>
+            <Text>Sanktuarium</Text>
+        </Text>
+        <Text>
+            <GUID>1414187008</GUID>
+            <Text>Sala Królewska: Rekonstrukcja</Text>
+        </Text>
+        <Text>
+            <GUID>1414187009</GUID>
+            <Text>Sala Królewska</Text>
+        </Text>
+        <Text>
+            <GUID>1414187010</GUID>
+            <Text>Daibutsu: Rekonstrukcja</Text>
+        </Text>
+        <Text>
+            <GUID>1414187011</GUID>
+            <Text>Daibutsu</Text>
+        </Text>
+        <Text>
+            <GUID>1414187012</GUID>
+            <Text>Pawilon Przyjemności: Rekonstrukcja</Text>
+        </Text>
+        <Text>
+            <GUID>1414187013</GUID>
+            <Text>Pawilon Przyjemności</Text>
+        </Text>
+        <Text>
+            <GUID>1414018135</GUID>
+            <Text>Pierwszym krokiem do rekonstrukcji cudu jest odbudowa jego fundamentów. Po tym tylko nasi archeolodzy i my poznamy prawdę. Twoi ludzie i tak będą oślepieni blaskiem zrekonstruowanych cudów.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018136</GUID>
+            <Text>Fundament Cudu</Text>
+        </Text>
+        <Text>
+            <GUID>1414018137</GUID>
+            <Text>Budowa Fundamentu Cudu została wstrzymana.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018138</GUID>
+            <Text>Buduj rekonstrukcje różnych cudów na tych fundamentach.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018139</GUID>
+            <Text>Fundament Cudu</Text>
+        </Text>
+        <Text>
+            <GUID>1414018140</GUID>
+            <Text>Wieża dachów, jeśli można to tak ująć.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018141</GUID>
+            <Text>Święte miejsce tradycji.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018142</GUID>
+            <Text>Miejsce, gdzie honorowana jest bezwarunkowa lojalność wobec państwa.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018143</GUID>
+            <Text>Ogromny posąg Przebudzonego.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018144</GUID>
+            <Text>Przypomnienie o starożytnej, wyrafinowanej kulturze Horai.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018145</GUID>
+            <Text>Wysoka Wielka Pagoda poprawi lokalne Fengshui i przypomni twoim ludziom, aby od czasu do czasu pielęgnowali lokalne tradycje. Aby jeszcze bardziej poprawić Fengshui, należy dobudować jeszcze więcej pięter.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018146</GUID>
+            <Text>Aby zbudować miejsce, gdzie mnisi oddają się głębokiej medytacji i modlitwie, należy precyzyjnie wyrzeźbić i odpowiednio złożyć mnóstwo kamiennych bloków. Koła dharmy i złoto na dachu są obowiązkowe... dla oświecenia.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018147</GUID>
+            <Text>W erze stalowych belek budowa ogromnego zwisającego dachu wydaje się trywialna, ale twoi architekci postanowili podtrzymać tradycję i zastosować tradycyjne metody, pomysłowo wspierając złocony dach z dachówek jedynie drewnianą konstrukcją. Ciężka to korona.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018148</GUID>
+            <Text>Majestatyczny posąg Przebudzonego złożony z indywidualnie odlewanych płyt z brązu na stalowej konstrukcji. Choć końcowy rezultat wygląda na starożytny, wewnętrzna struktura jest dość nowoczesna, a raporty z odległej krainy zwanej "Nowym Światem" wskazują, że podobny posąg rywalizującego bóstwa został złożony w taki sposób.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018149</GUID>
+            <Text>Pawilon Przyjemności to miejsce spotkań literatów i poszukiwaczy przyjemności z Horai. W jego licznych, kolorowych, oświetlonych lampionami piętrach unosi się muzyka, a kulturalna wyrafinowanie króluje niepodzielnie.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018150</GUID>
+            <Text>Budowa Cudu została wstrzymana.</Text>
+        </Text>
+        <Text>
+            <GUID>1414187005</GUID>
+            <Text>Fundament Cudu: Budowa</Text>
+        </Text>
+        <Text>
+            <GUID>1414018155</GUID>
+            <Text>Twoi archeolodzy zakończyli sprzątanie i odkryli pozostałości Pawilonu Przyjemności</Text>
+        </Text>
+        <Text>
+            <GUID>1414018156</GUID>
+            <Text>Twoi archeolodzy zakończyli sprzątanie i odkryli pozostałości posągu Daibutsu</Text>
+        </Text>
+        <Text>
+            <GUID>1414018157</GUID>
+            <Text>Twoi archeolodzy zakończyli sprzątanie i odkryli pozostałości Królewskiej Sali</Text>
+        </Text>
+        <Text>
+            <GUID>1414018158</GUID>
+            <Text>Twoi archeolodzy zakończyli sprzątanie i odkryli pozostałości Sanktuarium</Text>
+        </Text>
+        <Text>
+            <GUID>1414018159</GUID>
+            <Text>Twoi archeolodzy zakończyli sprzątanie i odkryli pozostałości Wielkiej Pagody</Text>
+        </Text>
+        <Text>
+            <GUID>1414018215</GUID>
+            <Text>Święta relikwiarka, która może pomieścić różne relikwie w swojej nieskazitelnie białej komorze.</Text>
+        </Text>
+        <Text>
+            <GUID>1414187040</GUID>
+            <Text>Stupa: Rekonstrukcja</Text>
+        </Text>
+        <Text>
+            <GUID>1414187041</GUID>
+            <Text>Stupa</Text>
+        </Text>
+        <Text>
+            <GUID>1414018216</GUID>
+            <Text>Twoi archeolodzy zakończyli sprzątanie i odkryli pozostałości Stupy</Text>
+        </Text>
+        <Text>
+            <GUID>1414187047</GUID>
+            <Text>Replika Relikwii</Text>
+        </Text>
+        <Text>
+            <GUID>1414187048</GUID>
+            <Text>Zwodzi oczy głupca, ale replika pozostaje repliką. Oryginalna relikwia może być lepszym wyborem.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018217</GUID>
+            <Text>Wpływa w promieniu Stupy</Text>
+        </Text>
+        <Text>
+            <GUID>1414018218</GUID>
+            <Text>Wpływa na [ItemAssetData(1414187045) ItemOrBuffEffectTargetsFormatted] w promieniu Stupy</Text>
+        </Text>
+        <Text>
+            <GUID>1414018220</GUID>
+            <Text>Promień Stupy jest określany przez wyposażoną relikwię.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018221</GUID>
+            <Text>Promień Stupy</Text>
+        </Text>
+        <Text>
+            <GUID>1445639</GUID>
+            <Text>Cuda</Text>
+        </Text>
+        <Text>
+            <GUID>1414018229</GUID>
+            <Text>Stoisko z jedzeniem</Text>
+        </Text>
+        <Text>
+            <GUID>1414018230</GUID>
+            <Text>500 + Premia za relikwię</Text>
+        </Text>
+        <Text>
+            <GUID>1414018231</GUID>
+            <Text>Zużywa [AssetData(1440216) Tekst]</Text>
+        </Text>
+        <Text>
+            <GUID>1414018232</GUID>
+            <Text>Wymaga populacji w promieniu</Text>
+        </Text>
+        <Text>
+            <GUID>1414018233</GUID>
+            <Text>Zużywa [AssetData(1010221) Tekst]</Text>
+        </Text>
+        <Text>
+            <GUID>1414018234</GUID>
+            <Text>Zużywa [AssetData(1440306) Tekst]</Text>
+        </Text>
+        <Text>
+            <GUID>1414018235</GUID>
+            <Text>Zużywa [AssetData(1440229) Tekst]</Text>
+        </Text>
+        <Text>
+            <GUID>1414018236</GUID>
+            <Text>Wymaga relikwii</Text>
+        </Text>
+        <Text>
+            <GUID>1414018237</GUID>
+            <Text>Stupa pojawia się z repliką relikwii, która jest mniej potężna niż oryginalne relikwie. Jak się tam znalazła?</Text>
+        </Text>
+        <Text>
+            <GUID>1414018238</GUID>
+            <Text>Stupa składa się z sześciu części: kwadratowej platformy dla tronu, okrągłego gniazda dla skrzyżowanych nóg, kopuły dla tułowia, kwadratowej komory relikwii dla głowy, wierzchołka dla ushnishy i korony dla bodhi...</Text>
+        </Text>
+        <!-- Diverse -->
+
+        <Text>
+            <GUID>1414018246</GUID>
+            <Text>Ojczyzna</Text>
+        </Text>
+        <Text>
+            <GUID>1414018249</GUID>
+            <Text>Rozmiar ładunku w tonach</Text>
+        </Text>
+        <Text>
+            <GUID>1414018250</GUID>
+            <Text>Akceptuje następujące towary:</Text>
+        </Text>
+        <Text>
+            <GUID>1414018251</GUID>
+            <Text>Ilość ładunków w transporcie</Text>
+        </Text>
+        <Text>
+            <GUID>1414018252</GUID>
+            <Text>Wypełnij ten magazyn, a następnie ukończ misję dostawy, aby otrzymać pokaźną wypłatę.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018253</GUID>
+            <Text>Magazyn pełny!</Text>
+        </Text>
+        <Text>
+            <GUID>1414018247</GUID>
+            <Text>Wartościowe przedmioty można zdobyć, zatapiając Królewskie Konwoje.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018258</GUID>
+            <Text>Leki można zdobyć, zatapiając Królewskie Konwoje.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018259</GUID>
+            <Text>Ta wspaniała kolonialna willa została pierwotnie zbudowana dla oficera handlowego Omega Haven. W ramach przesiedlenia Omega Haven, James Goodwill odnowił budynek dla siebie, w tym miniaturowe drzwi dla swoich dwóch kotów, Nut i Geb, oraz dźwiękoszczelny pokój do codziennej praktyki gry na duduku — instrumencie, który bardzo kocha — ale którego inni pracownicy E.T.A. woleliby nie słuchać.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018260</GUID>
+            <Text>Ogień Pyrforian</Text>
+        </Text>
+        <!-- Items -->
+        <Text>
+            <GUID>1414011120</GUID>
+            <Text>"A"</Text>
+        </Text>
+        <Text>
+            <GUID>1414011121</GUID>
+            <Text>Z pewnością mapy narysowanej we mgle, pewnością kroków na znikającym moście i pomysłowością klucza, który nie pasuje do żadnego zamka, twoje wybory rozwijają się w sposób, który przeczy oczekiwaniom — niezwykłe, w pewnym sensie, choć nie z powodów, na które można by liczyć.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011122</GUID>
+            <Text>Rekin Kupiecki</Text>
+        </Text>
+        <Text>
+            <GUID>1414011123</GUID>
+            <Text>Jego skromne pochodzenie jako syna robotnika fabryki jest źródłem jego genialności w znajdowaniu luk w zasadach i przepisach.</Text>
+        </Text>
+
+        <Text>
+            <GUID>1414011034</GUID>
+            <Text>Hybrydowe nasiona ryżu</Text>
+        </Text>
+        <Text>
+            <GUID>1414011035</GUID>
+            <Text>Hybrydowe nasiona herbaty</Text>
+        </Text>
+        <Text>
+            <GUID>1414011036</GUID>
+            <Text>Hybrydowe nasiona konopi</Text>
+        </Text>
+        <Text>
+            <GUID>1414011037</GUID>
+            <Text>Hybrydowe nasiona pieprzu</Text>
+        </Text>
+        <Text>
+            <GUID>1414011038</GUID>
+            <Text>Hybrydowe nasiona morwy</Text>
+        </Text>
+        <Text>
+            <GUID>1414011039</GUID>
+            <Text>Hybrydowe nasiona ume</Text>
+        </Text>
+        <Text>
+            <GUID>1414011000</GUID>
+            <Text>Hybrydowe ule</Text>
+        </Text>
+        <Text>
+            <GUID>1414011001</GUID>
+            <Text>Hybrydowe nasiona soi</Text>
+        </Text>
+        <Text>
+            <GUID>1414011002</GUID>
+            <Text>Nana Mochi, Mistrzyni Obcych Zbóż</Text>
+        </Text>
+        <Text>
+            <GUID>1414011003</GUID>
+            <Text>Nana lubi żółty kolor i wszystkie uprawy rosnące w tym błyszczącym odcieniu — nie tylko złoto może skraść jej serce.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011004</GUID>
+            <Text>Kiyoshi Katou, Przetwórczyni Ryb</Text>
+        </Text>
+        <Text>
+            <GUID>1414011005</GUID>
+            <Text>Kiyoshi wolałaby przytulać świnie, niż przerabiać je na łój. Z drugiej strony, ryby nie ma problemu rozgniatać na użyteczne tłuszcze.</Text>
+        </Text>
+        <Text>
+            <GUID>1414040622</GUID>
+            <Text>Magnat</Text>
+        </Text>
+        <Text>
+            <GUID>1414040623</GUID>
+            <Text>Gōngrén</Text>
+        </Text>
+        <!-- Zoo Animal -->
+        <Text>
+            <GUID>1414018261</GUID>
+            <Text>&lt;b&gt;Mustela altaica.&lt;/b&gt; W rzeczywistości nie zamieszkuje wielkich gór Hindun, lecz bujne bambusowe lasy w otaczających podnóżach. To mit, że planuje własne miasta, gdy nikt nie patrzy.</Text>
+        </Text>
+        <!-- Loading Scene Tips -->
+        <Text>
+            <GUID>1414006670</GUID>
+            <Text>Admirał Wu Guowei, spadkobierca wybitnej linii cesarskich dyplomatów, niegdyś wytyczał błyskotliwą ścieżkę przez szeregi marynarki cesarza. Jednak starzejąca się flota Imperium Tianming została zmiażdżona przez potęgi Starego Świata, co oznaczało koniec zarówno awansu Wu, jak i iluzji morskiej supremacji imperium. Walcząc o utrzymanie Wschodu w jedności — i odzyskanie swojego honoru — Wu znajduje się teraz na niespokojnych pograniczach Horai, zmuszony zaakceptować gorzką prawdę: nie jest już dominującym drapieżnikiem, lecz tylko kolejnym rekinem w wodach, które teraz roi się od groźniejszych rywali zza morza.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018239</GUID>
+            <Text>James Goodwill był niegdyś wysokim rangą urzędnikiem w E.T.A., posiadającym znaczący wpływ na rozległe obszary Hindun podczas rządów kompanii. Jednak jego władza została szybko odebrana, gdy Królowa, zdeterminowana, by podporządkować region koronie, zdegradowała go do niskiego stanowiska oficera handlowego — pozycji o niewielkim prestiżu i jeszcze mniejszym autorytecie. Królowa nie zdaje sobie jednak sprawy, że Goodwill prowadzi długą grę osobistej zemsty i zysków, sprzymierzając się z mrocznymi siłami w Królewskiej Radzie. Ukryty pod jego wątpliwie legalną siecią handlową kwitnie rynek kontrabandy, który sprzedaje wszystko, czego ludzie potrzebują, nie potrzebują i czego nigdy nie powinni potrzebować.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018240</GUID>
+            <Text>Majipun był niegdyś perłą Horai, bogaty dzięki handlowi morskiemu i dom jednego z najbardziej cenionych ogrodów Tianming Guo. Ale wszystko zmieniło się, gdy Imperium Tianming przegrało wojnę z potęgami Starego Zachodu i zostało zmuszone do serii nierównych traktatów. Choć zachowuje swoje dystyngowane powietrze, pod powierzchnią kryje się ludność przygnieciona ciężarem wojskowego dowództwa admirała Wu — pozornie prosperująca, lecz wydrążona przez rozpacz.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018241</GUID>
+            <Text>Omega Haven zaczęło jako skromna kolonia portowa E.T.A. w Horai, niewiele więcej niż kaplica i skupisko domów kupieckich. Po dekadzie opuszczenia, osada została ożywiona pod rządami Jamesa Goodwilla, który objął kontrolę w ramach swojej nominacji na regionalnego oficera handlowego. Z wizją i determinacją przekształcił tę dawną kolonię w swoją osobistą bazę handlową i operacyjną.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018242</GUID>
+            <Text>Niewiele wiadomo o Pyrforianach — ich pochodzeniu, celu czy sile, która nimi kieruje. Jasne jest jednak, że gromadzą siły i organizują się w potężną formację wojskową w Raksagarbha, starożytnej hinduskiej świątyni-twierdzy kluczowej dla kontrolowania niespokojnych ziem Horai. Tam, w jej potężnych murach i cienistych salach, Pyrforianie prowadzą mroczne eksperymenty z odzyskanym Okiem Smoka, dążąc do stworzenia sił zła poza ludzkim zrozumieniem.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018243</GUID>
+            <Text>W tradycji marynarek starożytnej cywilizacji Atlantydy, Pyrforianie zawsze mieli tylko jednego członka w randze Nawarchy, który osobiście nadzoruje wszystkie interwencje militarne. Mówi się, że Nawarcha pozostaje w wiecznym rywalizowaniu z Wielkim Mistrzem Pyrforian, ale ten impas został przełamany przez kradzież Oka Smoka z Świętego Miasta przez Nawarchę, przechylając szalę w sposób, który może jeszcze zmienić bieg imperiów.</Text>
+        </Text>
+    </ModOp>
+</ModOps>

@@ -7,7 +7,7 @@
     </Text>    
     <Text>
       <GUID>1445607</GUID>
-      <Text>Mat. eksploatacyjne</Text>
+      <Text>Materiały eksploatacyjne</Text>
     </Text>
     <Text>
       <GUID>1445608</GUID>
@@ -19,7 +19,7 @@
     </Text>    
     <Text>
       <GUID>1445001</GUID>
-      <Text>Pióra wieczne</Text>
+      <Text>Wieczne pióra</Text>
     </Text>
     <Text>
       <GUID>1445002</GUID>
@@ -43,7 +43,7 @@
     </Text>
     <Text>
       <GUID>1445009</GUID>
-      <Text>Kamizelki jedwabne</Text>
+      <Text>Jedwabne kamizelki</Text>
     </Text>
     <Text>
       <GUID>1445020</GUID>
@@ -87,7 +87,7 @@
     </Text>
     <Text>
       <GUID>1414006079</GUID>
-      <Text>Nie można wyprodukować. Sprowadź je od hanldarzy:</Text>
+      <Text>Nie można wyprodukować. Sprowadź je od handlarzy:</Text>
     </Text>
     <Text>
       <GUID>1445080</GUID>
@@ -95,15 +95,15 @@
     </Text>
     <Text>
       <GUID>1445083</GUID>
-      <Text>Smyczki</Text>
+      <Text>Struny</Text>
     </Text>
     <Text>
       <GUID>1445612</GUID>
-      <Text>Wilgotne drzewa dżungli</Text>
+      <Text>Wiecznie zielone drzewa subtropikalne</Text>
     </Text>
     <Text>
       <GUID>1445630</GUID>
-      <Text>Uliczne stoiska z jedzeniem</Text>      <!-- Construction Category -->
+      <Text>Stoisko ze streetfoodem</Text>      <!-- Construction Category -->
     </Text>
     <Text>
       <GUID>1445631</GUID>
@@ -123,7 +123,7 @@
     </Text>
     <Text>
       <GUID>1445056</GUID>
-      <Text>Kotosy</Text>
+      <Text>Kotos</Text>
     </Text>
     <Text>
       <GUID>1445041</GUID>
@@ -131,7 +131,7 @@
     </Text>
     <Text>
       <GUID>1445031</GUID>
-      <Text>Drewno</Text>
+      <Text>Deski</Text>
     </Text>
     <Text>
       <GUID>1445032</GUID>
@@ -196,7 +196,7 @@
     </Text>
     <Text>
       <GUID>1445053</GUID>
-      <Text>Podwozie</Text>
+      <Text>Podwozia</Text>
     </Text>
     <Text>
       <GUID>1445054</GUID>
@@ -257,7 +257,7 @@
     </Text>
     <Text>
       <GUID>1445627</GUID>
-      <Text>Wnętrzne miasta</Text>
+      <Text>Sródmieście</Text>
     </Text>
     <Text>
       <GUID>1445628</GUID>
@@ -321,7 +321,7 @@
     </Text>
     <Text>
       <GUID>1445616</GUID>
-      <Text>Żwir motywacyjny</Text>
+      <Text>Dekoracje żwirowe</Text>
     </Text>
     <Text>
       <GUID>1445617</GUID>
@@ -331,30 +331,30 @@
       <GUID>1445620</GUID>
       <Text>Posągi i latarnie</Text>
     </Text>
-    <!-- Keep "Import Pier" in line with Noblesse Oblige-->
+    <!-- Keep "Pirs Importowy" in line with Noblesse Oblige-->
     <Text>
       <GUID>1441350</GUID>
-      <Text>Pirs importu: Liczydła</Text>
+      <Text>Pirs importowy: Liczydła</Text>
     </Text>
     <Text>
       <GUID>1441351</GUID>
-      <Text>Pirs importu: Whisky Bourbon</Text>
+      <Text>Pirs importowy: Whisky Bourbon</Text>
     </Text>
     <Text>
       <GUID>1441352</GUID>
-      <Text>Pirs importu: Samochody</Text>
+      <Text>Pirs importowy: Samochody</Text>
     </Text>
     <Text>
       <GUID>1441359</GUID>
-      <Text>Pirs importu: Diamenty</Text>
+      <Text>Pirs importowy: Diamenty</Text>
     </Text>
     <Text>
       <GUID>1441358</GUID>
-      <Text>Pirs importu: Sztabki srebra</Text>
+      <Text>Pirs importowy: Sztabki srebra</Text>
     </Text>
     <Text>
       <GUID>1441357</GUID>
-      <Text>Pirs importu: Wolfram</Text>
+      <Text>Pirs importowy: Wolfram</Text>
     </Text>
     <Text>
       <!-- Magnate Buff Building in Asia-->
@@ -364,7 +364,7 @@
     <Text>
       <!-- Redeeming Trade Licenses Text-->
       <GUID>1441331</GUID>
-      <Text>Wykupienie [AssetData(1999005351) Text]</Text>
+      <Text>Wykupywanie [AssetData(1999005351) Text]</Text>
     </Text>
     <!-- Production -->
     <Text>
@@ -381,7 +381,7 @@
     </Text>
     <Text>
       <GUID>1441241</GUID>
-      <Text>Kopalnia gliny</Text>
+      <Text>Wyrobisko gliny</Text>
     </Text>
     <Text>
       <GUID>1441242</GUID>
@@ -445,7 +445,7 @@
     </Text>
     <Text>
       <GUID>1441263</GUID>
-      <Text>Piec</Text>
+      <Text>Piec hutniczy</Text>
     </Text>
     <Text>
       <GUID>1441264</GUID>
@@ -461,7 +461,7 @@
     </Text>
     <Text>
       <GUID>1441267</GUID>
-      <Text>Fabryka betonu zbrojnego</Text>
+      <Text>Fabryka betonu zbrojonego</Text>
     </Text>
     <Text>
       <GUID>1441277</GUID>
@@ -505,16 +505,16 @@
     </Text>
     <Text>
       <GUID>1441293</GUID>
-      <Text>Oil Well</Text>
+      <Text>Szyb naftowy</Text>
     </Text>
     <!-- Recipes -->
     <Text>
       <GUID>1441288</GUID>
-      <Text>Smyczki</Text>
+      <Text>Struny</Text>
     </Text>
     <Text>
       <GUID>1441289</GUID>
-      <Text>Stalówki do piór</Text>
+      <Text>Stałowki do piór</Text>
     </Text>
     <Text>
       <GUID>1441304</GUID>
@@ -534,7 +534,7 @@
     </Text>
     <Text>
       <GUID>1441315</GUID>
-      <Text>Sos Sojowy</Text>
+      <Text>Sos sojowy</Text>
     </Text>
     <Text>
       <GUID>1441334</GUID>

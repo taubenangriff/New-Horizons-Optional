@@ -1,0 +1,69 @@
+<ModOps>
+    <ModOp Path = "//Text[GUID = '1414006698']/Text" Type = "replace">
+        <Text>Raksagarbha</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1440226']/Text" Type = "replace">
+        <Text>Śledź</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1441260']/Text" Type = "replace">
+        <Text>Łowisko śledzi</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1440405']/Text" Type = "replace">
+        <Text>Świątynia</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414007004']/Text" Type = "replace">
+        <Text>Obfitość śledzi</Text>
+    </ModOp>
+    <!-- Streetfood - Dango - Description -->
+    <ModOp Path = "//Text[GUID = '1442763']/Text" Type = "replace">
+        <Text>Popularne na festiwalach świątynnych, te przekąski składają się z trzech słodkich ciastek ryżowych na patyku, z których każde jest indywidualnie słodzone i aromatyzowane. Łatwe do przenoszenia i czyste w jedzeniu, są idealnym dodatkiem do spaceru po parku, podziwiając kwitnące wiśnie.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414006025']/Text" Type = "replace">
+        <Text>Srebrzysta ławicowa ryba, wypełniona delikatesami w środku.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414015084']/Text" Type = "replace">
+        <Text>Wielka Gołębia Pagoda</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414006829']/Text" Type = "replace">
+        <Text>Za Linią Wallace'a zwierzęta Oceanii kuszą swoimi niezwykłymi pierwotnymi formami.</Text>
+    </ModOp>
+    <!-- Bamboo Forest SETBUFF - TownhallBuff - Description -->
+    <ModOp Path = "//Text[GUID = '1414006830']/Text" Type = "replace">
+        <Text>Zrozumienie, że cierpliwość jest mądrością natury, a dostrzeżenie spokojnej energii tych zwierząt pozwoliło twoim obywatelom zwolnić tempo życia i delektować się każdą chwilą — nawet herbata smakuje głębiej w ciszy.</Text>
+    </ModOp>
+    <!-- Planet of the Apes SETBUFF - TownhallBuff - Description -->
+    <ModOp Path = "//Text[GUID = '1414006831']/Text" Type = "replace">
+        <Text>Wygłupy tych małpich kuzynów pozwoliły twoim obywatelom zastanowić się nad sobą i stać się bardziej ostrożnymi.</Text>
+    </ModOp>
+    <!-- Oceania SETBUFF - TownhallBuff - Description -->
+    <ModOp Path = "//Text[GUID = '1414006833']/Text" Type = "replace">
+        <Text>Te dziwne i egzotyczne bestie zahartowały apetyt twoich obywateli, ucząc ich sztuki uważnego jedzenia i obdarzając żołądkiem wyspy mędrców.</Text>
+    </ModOp>
+    <!-- Planet of the Apes - Itemset - Description -->
+    <ModOp Path = "//Text[GUID = '1414006833']/Text" Type = "replace">
+        <Text>Małpy razem silne. Powrót do małpy, prawda?</Text>
+    </ModOp>
+
+
+    <ModOp Path = "//Text[GUID = '1414018145']/Text" Type = "replace">
+        <Text>Wysoka Wielka Pagoda poprawi lokalne Fengshui i przypomni twoim ludziom, aby od czasu do czasu pielęgnowali lokalne tradycje. Aby jeszcze bardziej poprawić Fengshui, należy dodać jeszcze więcej pięter na szczycie.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018146']/Text" Type = "replace">
+        <Text>Aby zbudować miejsce, gdzie mnisi oddają się głębokiej medytacji i modlitwie, należy precyzyjnie wyrzeźbić i odpowiednio złożyć mnóstwo kamiennych bloków. Koła dharmy i złoto na dachu są obowiązkowe... dla oświecenia.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018147']/Text" Type = "replace">
+        <Text>W erze stalowych belek budowa ogromnego zwisającego dachu wydaje się trywialna, ale twoi architekci postanowili podtrzymać tradycję i zastosować tradycyjne metody, pomysłowo wspierając złocony dach pokryty dachówkami jedynie drewnianą konstrukcją. Ciężka to korona.</Text>
+    </ModOp>    
+    <ModOp Path = "//Text[GUID = '1414018148']/Text" Type = "replace">
+        <Text>Majestatyczny posąg Przebudzonego złożony z indywidualnie odlewanych płyt z brązu na stalowej konstrukcji. Choć końcowy rezultat wygląda na starożytny, wewnętrzna struktura jest dość nowoczesna, a raporty z odległej krainy zwanej "Nowym Światem" wskazują, że podobny posąg rywalizującego bóstwa został złożony w taki sam sposób.</Text>
+    </ModOp> 
+    <ModOp Path = "//Text[GUID = '1414018149']/Text" Type = "replace">
+        <Text>„Pawilon Rozkoszy to miejsce spotkań literatów i poszukiwaczy przyjemności z Horai. Wśród wielu pięter skąpanych w świetle kolorowych lampionów unosi się muzyka spływająca z krokwi, a kulturalna wyrafinowana atmosfera panuje tu niepodzielnie.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018242']/Text" Type = "replace">
+        <Text>Niewiele wiadomo o Pyrforianach: ich pochodzeniu, celu czy mocy, która nimi kieruje. Jasne jest jednak, że gromadzą siły i organizują się w potężną formację wojskową w Raksagarbha, starożytnej hinduskiej świątyni-fortecy kluczowej dla kontrolowania niespokojnych ziem Horai. Tam, w jej potężnych murach i cienistych salach, Pyrforianie przeprowadzają mroczne eksperymenty z odzyskanym Okiem Smoka, dążąc do stworzenia sił zła poza ludzkim zrozumieniem.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018243']/Text" Type = "replace">
+        <Text>W tradycji marynarki starożytnej cywilizacji Atlantydy Pyrforianie zawsze mieli tylko jednego członka w randze Nawarchy, który osobiście nadzoruje wszystkie interwencje wojskowe. Mówi się, że Nawarcha pozostaje w wiecznym rywalizowaniu z Wielkim Mistrzem Pyrforian, ale ten impas został przełamany przez kradzież Oka Smoka z Świętego Miasta przez Nawarchę, przechylając szalę w sposób, który może jeszcze zmienić bieg imperiów.</Text>
+    </ModOp>
+</ModOps>

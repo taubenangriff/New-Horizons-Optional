@@ -1,41 +1,41 @@
 <ModOps>
   <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '12920']/Text">
-    <Text>Customs Duty Chance</Text>
+    <Text>Szansa na opłatę celną</Text>
   </ModOp>
   <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23462']/Text">
-    <Text>Does not apply to Arctic plateau islands.</Text>
+    <Text>Nie dotyczy wysp na płaskowyżu Arktyki.</Text>
   </ModOp>
   <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '20327']/Text">
-    <Text>Every trade with another faction is amended by a tax of 5t of [ItemAssetData([RefGuid]) GoodGenerationPoolFormatted]. If a customs duty is applied to the island's trading post, the effect applies to all the island's piers as well.</Text>
+    <Text>Każdy handel z inną frakcją wiąże się z podatkiem w wysokości 5t [ItemAssetData([RefGuid]) GoodGenerationPoolFormatted]. Jeśli opłata celna zostanie zastosowana do posterunku handlowego wyspy, efekt ten dotyczy również wszystkich pirsów na wyspie.</Text>
   </ModOp>
   <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23254']/Text">
-    <Text>Every trade with another faction is amended by a tax 5t of [ItemAssetData({ItemGuid}) GoodGenerationPoolFormatted]. If a customs duty is applied to the island's trading post, the effect applies to all the island's piers as well.</Text>
+    <Text>Każdy handel z inną frakcją wiąże się z podatkiem 5t [ItemAssetData({ItemGuid}) GoodGenerationPoolFormatted]. Jeśli opłata celna zostanie zastosowana do portu handlowego wyspy, efekt ten dotyczy również wszystkich pirsów na wyspie.</Text>
   </ModOp>
   <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '21391']/Text">
-    <Text>The need for [ItemAssetData([RefGuid]) GoodConsumptionAllProvidedNeedsFormatted] is fulfilled by [ItemAssetData([RefGuid]) GoodConsumptionAmountInPercent(0) &gt;&gt; sellShipPrice]%.</Text>
+    <Text>Potrzeba na [ItemAssetData([RefGuid]) GoodConsumptionAllProvidedNeedsFormatted] zostaje zaspokojona w [ItemAssetData([RefGuid]) GoodConsumptionAmountInPercent(0) &gt;&gt; sellShipPrice]%.</Text>
   </ModOp>
   <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '15319']/Text">
-    <Text>Free Area Needed</Text>
+    <Text>Gęstość zalesienia</Text>
   </ModOp>
   <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '21610']/Text">
     <Text>[ItemAssetData([RefGuid]) AreaTolerance &gt;&gt; sellShipPrice]%</Text>
   </ModOp>
   <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '21521']/Text">
-    <Text>Adjusts the amount of free area inside a lumberjack that is needed to reach full productivity.</Text>
+    <Text>Zmniejsza ilość wolnej przestrzeni wymaganej do osiągnięcia pełnej wydajności.</Text>
   </ModOp>
   <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '22634']/Text">
-    <Text>Residences gain the specified amount of bonus residents from: [ItemAssetData([ToolOneHelper ItemActiveBuff([RefGuid])]) InputBenefitAllAdditionalSupplyFormatted].</Text>
+    <Text>Rezydencje zyskują określoną liczbę dodatkowych mieszkańców dzięki: [ItemAssetData([ToolOneHelper ItemActiveBuff([RefGuid])]) InputBenefitAllAdditionalSupplyFormatted].</Text>
   </ModOp>
   <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '192408']/Text">
-    <Text>Framework Knitters, Fur Dealers and [AssetData(1441259) Text].</Text>
+    <Text>Dziewiarki, Zakłady Futrzarskie oraz [AssetData(1441259) Text].</Text>
   </ModOp>
   <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23728']/Text">
     <Text>&lt;font color='0xff817f87'&gt; +[ItemAssetData([RefGuid]) AdditionalOutputAmount(index)]/[ItemAssetData([RefGuid]) AdditionalOutputCycle(index)] &lt;/font&gt;</Text>
   </ModOp>
   <ModOp Type = "replace" Path = "/TextExport/Texts/Text[GUID = '125003']/Text">
-    <Text>Trade routes with this resource will get high priority at this pier.</Text>
+    <Text>Szlaki handlowe z tym zasobem otrzymają wysoki priorytet przy tym pirsie.</Text>
   </ModOp>
   <ModOp Type = "replace" Path = "//Text[GUID = '137465']/Text">
-    <Text>Blueprints</Text>
+    <Text>Plany budowy</Text>
   </ModOp>
 </ModOps>
