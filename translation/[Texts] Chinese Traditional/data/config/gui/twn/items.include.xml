@@ -1,0 +1,383 @@
+<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+
+        <Text>
+            <GUID>1414011068</GUID>            <!-- Imperial Book Collection: Farming Volume I -->
+            <Text>《皇家典籍：農書一冊》</Text>
+        </Text>
+        <Text>
+            <GUID>1414006797</GUID>            <!-- Imperial Book Collection: Farming Volume I - Description -->
+            <Text>給初學者學習農業基礎的入門書</Text>
+        </Text>
+        <Text>
+            <GUID>1414011069</GUID>            <!-- Imperial Book Collection: Farming Volume II -->
+            <Text>《皇家典籍：農書二冊》</Text>
+        </Text>
+        <Text>
+            <GUID>1414006798</GUID>            <!-- Imperial Book Collection: Farming Volume II - Description -->
+            <Text>手把手教你怎麼下水稻田插秧的進階版農作指南。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011070</GUID>            <!-- Imperial Book Collection: Farming Volume III -->
+            <Text>《皇家典籍：農書三冊》</Text>
+        </Text>
+        <Text>
+            <GUID>1414006799</GUID>            <!-- Imperial Book Collection: Farming Volume III - Description -->
+            <Text>只有最資深的農民才能從中學到東西，極度專業的教授從生物學到氣象學的所有知識。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011071</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume I -->
+            <Text>《皇家典籍：食譜一冊》</Text>
+        </Text>
+        <Text>
+            <GUID>1414006800</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume I - Description -->
+            <Text>讓不會下廚的初心者至少能踏進廚房還能活著走出來的廚藝入門書。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011072</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume II -->
+            <Text>《皇家典籍：食譜二冊》</Text>
+        </Text>
+        <Text>
+            <GUID>1414006801</GUID>            <!--Imperial Book Collection: Food & Drinks Volume II - Description -->
+            <Text>紀載進階食譜的廚藝書。你敢吃你自己煮的東西嗎？</Text>
+        </Text>
+        <Text>
+            <GUID>1414011073</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume III -->
+            <Text>《皇家典籍：食譜三冊》</Text>
+        </Text>
+        <Text>
+            <GUID>1414006802</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume III - Description -->
+            <Text>只有廚藝精湛的廚子才學的來書中的內容。還在用篩子給米飯過冷河的你應該學不來。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011074</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume IV -->
+            <Text>《皇家典籍：食譜四冊》</Text>
+        </Text>
+        <Text>
+            <GUID>1414006803</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume IV - Description -->
+            <Text>只有米其林主廚才配得上的廚藝書，保證好吃到會讓你矇著眼睛沉浸在味蕾的衝擊享受中。</Text>
+        </Text>
+        <Text>
+            <GUID>14443039</GUID>            <!-- All Asian Food production - ItemEffectTargetPool -->
+            <Text>所有蓬萊食物生產</Text>
+        </Text>
+        <Text>
+            <GUID>14443040</GUID>            <!-- All Asian Drinks production - ItemEffectTargetPool -->
+            <Text>所有蓬萊飲品生產</Text>
+        </Text>
+        <Text>
+            <GUID>1414011075</GUID>            <!-- Shen Xu, Purveyor of all Fabrics -->
+            <Text>《天下布料供應商》徐紳</Text>
+        </Text>
+        <Text>
+            <GUID>1414006804</GUID>            <!-- Shen Xu, Purveyor of all Fabrics - Description -->
+            <Text>徐紳只靠摸一下布料，矇著眼都能告訴你是什麼布料。幸好布料不能吃，不然他真的想嘗給你看。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011076</GUID>            <!-- Jhin Sasaki, Master of the wheel -->
+            <Text>《陶藝大師》佐佐木進</Text>
+        </Text>
+        <Text>
+            <GUID>1414006805</GUID>            <!-- Jhin Sasaki, Master of the wheel - Description -->
+            <Text>精通天下所有陶藝，任何材料任何尺寸的陶藝都難不倒他。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011077</GUID>            <!-- Chiyoko Watanabe, Luring in more than fish -->
+            <Text>《漁姬》渡邊千代子</Text>
+        </Text>
+        <Text>
+            <GUID>1414006806</GUID>            <!-- Chiyoko Watanabe, Luring in more than fish - Description -->
+            <Text>千代子的釣魚技術極度精湛，堪稱水里任何貴重海鮮都能輕易被她釣上。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011078</GUID>            <!-- Sushi knife -->
+            <Text>壽司刀</Text>
+        </Text>
+        <Text>
+            <GUID>1414006807</GUID>            <!-- Sushi knife - Description -->
+            <Text>尖銳到足以一刀切斷手指，血染生魚片。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011079</GUID>            <!-- Ichika Takahashi, Is it spicy enough? -->
+            <Text>《激辛香料商》高橋一葉</Text>
+        </Text>
+        <Text>
+            <GUID>1414006808</GUID>            <!-- Ichika Takahashi, Is it spicy enough? - Description -->
+            <Text>一葉非常喜歡吃辣，任何她吃的東西都必須要加辣椒或胡椒。因此她周遊世界尋找及品嘗最棒最辣的香辛料。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011080</GUID>            <!-- Nanami Shimizu, How much is the fish? -->
+            <Text>《築地海鮮店》泗水娜娜美</Text>
+        </Text>
+        <Text>
+            <GUID>1414006809</GUID>            <!-- Nanami Shimizu, How much is the fish? - Description -->
+            <Text>娜娜美喜歡海鮮的味道，以至於捨不得洗掉身上沾染的那一身腥味。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011081</GUID>            <!-- Ryuu Yamada, Nobody says no to sushi -->
+            <Text>《壽司師傅》山田龍</Text>
+        </Text>
+        <Text>
+            <GUID>1414006810</GUID>            <!-- Ryuu Yamada, Nobody says no to sushi - Description -->
+            <Text>蓬萊數一數二的頂級和風料理師傅，尤其擅長製作充當前菜但不輸精美的頂級生鮮壽司。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011082</GUID>            <!-- Sister Hilarius, Tea solves problems not alcohol -->
+            <Text>《茶道修女》郝孝修女</Text>
+        </Text>
+        <Text>
+            <GUID>1414006811</GUID>            <!-- Sister Hilarius, Tea solves problems not alcohol - Description -->
+            <Text>郝孝修士的妹妹。雖然與她哥哥一起加入修道院，但與嗜酒的哥哥不同修女特地學來東方的神祕茶道。她主持的禱告會經常傳出迷人的茶香。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011083</GUID>            <!-- Luong Ku Tim, The City Wok -->
+            <Text>《酒樓大廚》梁辜添</Text>
+        </Text>
+        <Text>
+            <GUID>1414006812</GUID>            <!-- Luong Ku Tim, The City Wok - Description -->
+            <Text>梁大廚炒的菜比他對待客人的脾氣要好很多，雖然有時候會變差不多就是了。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011084</GUID>            <!-- Asian bird lover -->
+            <Text>蓬萊賞鳥家</Text>
+        </Text>
+        <Text>
+            <GUID>1414006813</GUID>            <!-- Asian bird lover - Description -->
+            <Text>靠聽鳥叫就知道種類的專家。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011085</GUID>            <!-- Additional Crop Storage module -->
+            <Text>額外穀物儲存空間</Text>
+        </Text>
+        <Text>
+            <GUID>1414006814</GUID>            <!-- Additional Crop Storage module - Description -->
+            <Text>為穀倉增加額外倉庫空間以儲存更多糧食。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011086</GUID>            <!-- Masao Miura, Lobster is all he needs -->
+            <Text>《龍蝦廚男》三浦正男</Text>
+        </Text>
+        <Text>
+            <GUID>1414006815</GUID>            <!-- Masao Miura, Lobster is all he needs - Description -->
+            <Text>正男對任何海鮮都不屑一顧，唯獨喜歡龍蝦。他煮任何東西都一定會加龍蝦。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011087</GUID>            <!-- Imperial Sketch Collection: Industry Volume 1  -->
+            <Text>《皇家典藏畫本：工業一冊》</Text>
+        </Text>
+        <Text>
+            <GUID>1414006816</GUID>            <!-- Imperial Sketch Collection: Industry Volume 1 - Description -->
+            <Text>指導提升工業產出的方法的入門書，雖然任何人都知道讓磨石轉快些就行。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011088</GUID>            <!-- Imperial Sketch Collection: Industry Volume 2 -->
+            <Text>《皇家典藏畫本：工業二冊》</Text>
+        </Text>
+        <Text>
+            <GUID>1414006817</GUID>            <!-- Imperial Sketch Collection: Industry Volume 2 - Description -->
+            <Text>指導提升工業產出的進階手冊，裡面告訴你別把手放進旋轉中的磨石機。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011089</GUID>            <!-- Imperial Sketch Collection: Industry Volume 3 -->
+            <Text>《皇家典藏畫本：工業三冊》</Text>
+        </Text>
+        <Text>
+            <GUID>1414006818</GUID>            <!-- Imperial Sketch Collection: Industry Volume 3 - Description -->
+            <Text>只有專家才看得懂裡面記載的機器畫像。如果你不懂電氣的話最好（暫時）別試著去學。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011090</GUID>            <!-- Imperial Sketch Collection: Advanced Industry Volume 1  -->
+            <Text>《皇家典藏畫本：高級工業一冊》</Text>
+        </Text>
+        <Text>
+            <GUID>1414006819</GUID>            <!-- Imperial Sketch Collection: Advanced Industry Volume 1 - Description -->
+            <Text>給新晉主管學習的初級高級工廠運轉指南。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011091</GUID>            <!-- Imperial Sketch Collection: Advanced Industry Volume 2 -->
+            <Text>《皇家典藏畫本：高級工業二冊》</Text>
+        </Text>
+        <Text>
+            <GUID>1414006820</GUID>            <!-- Imperial Sketch Collection: Advanced Industry Volume 2 - Description -->
+            <Text>工廠主管都需要學習的高級工廠進階指南，但不用它告訴你也應該知道別看到又大又紅的按鈕就本能地按下去。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011092</GUID>            <!-- Imperial Sketch Collection: Advanced Industry Volume 3 -->
+            <Text>《皇家典藏畫本：高級工業三冊》</Text>
+        </Text>
+        <Text>
+            <GUID>1414006821</GUID>            <!-- Imperial Sketch Collection: Advanced Industry Volume 3 - Description -->
+            <Text>只有專家才看得懂裡面記載的先進機器畫像。如果你不懂物理學的話最好（暫時）別試著去學。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011093</GUID>            <!-- Hendrik Baker, Not just one polymer -->
+            <Text>《聚合物專家》亨瑞克·貝可</Text>
+        </Text>
+        <Text>
+            <GUID>1414006822</GUID>            <!-- Hendrik Baker, Not just one polymer - Description -->
+            <Text>亨瑞克是聚合物的生產專家，甚至只靠聞的就能分辨出不同種類的塑膠產品。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011094</GUID>            <!-- Yui Sato, The finest tailoring -->
+            <Text>《天才裁縫家》佐藤優作</Text>
+        </Text>
+        <Text>
+            <GUID>1414006823</GUID>            <!-- Yui Sato, The finest tailoring - Description -->
+            <Text>有一說優作抱著裁縫機出生，五歲就為自己製作出給自己的第一套衣服。現今他專門製作給富人們的高級禮服。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011095</GUID>            <!-- Misaki Makino, Vegan cheesemaker -->
+            <Text>《素食乳酪商》牧野美咲</Text>
+        </Text>
+        <Text>
+            <GUID>1414006824</GUID>            <!-- Misaki Makino, Vegan cheesemaker - Description -->
+            <Text>美咲出身農家，看到乳牛辛苦產出的牛奶都被人類用於生產食用而變成素食者，並致力研究不利用動物製品來製造起司。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011096</GUID>            <!-- Worker 2 (Outsourced) -->
+            <Text>工作狂阿吉</Text>
+        </Text>
+        <Text>
+            <GUID>1414011097</GUID>            <!-- Worker 2 (Outsourced) - Description -->
+            <Text>阿吉的幾乎偏激的沉迷工作使他一天大部分時間都在工作崗位上，讓同事們能在家多多陪伴家人。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011098</GUID>            <!-- Worker 3 (Outsourced) -->
+            <Text>另類工人阿姜</Text>
+        </Text>
+        <Text>
+            <GUID>1414011099</GUID>            <!-- Worker 3 (Outsourced) - Description -->
+            <Text>阿姜不喜歡用傳統方式工作，他標奇立異的工作方式往往能降低不少成本。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011100</GUID>            <!-- Worker 4 (Outsourced) -->
+            <Text>商號少東阿包 </Text>
+        </Text>
+        <Text>
+            <GUID>1414011101</GUID>            <!-- Worker 4 (Outsourced) - Description -->
+            <Text>阿包保證員工的工作方式與他父親無異。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011102</GUID>            <!-- Propaganda Banner -->
+            <Text>大字報</Text>
+        </Text>
+        <Text>
+            <GUID>1414011103</GUID>            <!-- Propaganda Banner - Description -->
+            <Text>展示你的城市的價值及秩序</Text>
+        </Text>
+        <Text>
+            <GUID>1414011104</GUID>            <!-- Propaganda Banner -->
+            <Text>競選布條</Text>
+        </Text>
+        <Text>
+            <GUID>1414011105</GUID>            <!-- Propaganda Banner - Description -->
+            <Text>為你支持的候選人宣傳競選</Text>
+        </Text>
+
+        <!-- ### Additional Ornaments ### -->
+        <Text>
+            <GUID>133700400</GUID>
+            <Text>運河（平舖）</Text>
+        </Text>
+        <Text>
+            <GUID>133700401</GUID>
+            <Text>運河（泥土）</Text>
+        </Text>
+        <Text>
+            <GUID>133700402</GUID>
+            <Text>Canal bridge dirt</Text>            <!-- no translation required -->
+        </Text>
+        <Text>
+            <GUID>133700403</GUID>
+            <Text>Canal bridge stone</Text>            <!-- no translation required -->
+        </Text>
+        <Text>
+            <GUID>133700404</GUID>
+            <Text>帶長椅的燈籠掛飾</Text>
+        </Text>
+        <Text>
+            <GUID>133700405</GUID>
+            <Text>鳥居（小）</Text>
+        </Text>
+        <Text>
+            <GUID>133700406</GUID>
+            <Text>鳥居（大）</Text>
+        </Text>
+        <Text>
+            <GUID>133700407</GUID>
+            <Text>人行街</Text>
+        </Text>
+        <Text>
+            <GUID>133700408</GUID>
+            <Text>龍鼎</Text>
+        </Text>
+        <Text>
+            <GUID>133700409</GUID>
+            <Text>煙火發射台</Text>
+        </Text>
+        <Text>
+            <GUID>133700410</GUID>
+            <Text>旗桿</Text>
+        </Text>
+        <Text>
+            <GUID>133700411</GUID>
+            <Text>街燈</Text>
+        </Text>
+        <Text>
+            <GUID>133700412</GUID>
+            <Text>珠寶攤</Text>
+        </Text>
+        <Text>
+            <GUID>133700413</GUID>
+            <Text>祈禱攤</Text>
+        </Text>
+        <Text>
+            <GUID>133700414</GUID>
+            <Text>蔬菜攤</Text>
+        </Text>
+        <Text>
+            <GUID>133700415</GUID>
+            <Text>服飾攤</Text>
+        </Text>
+        <Text>
+            <GUID>133700416</GUID>
+            <Text>書報攤</Text>
+        </Text>
+        <Text>
+            <GUID>133700417</GUID>
+            <Text>小吃攤 1</Text>
+        </Text>
+        <Text>
+            <GUID>133700418</GUID>
+            <Text>圍圃</Text>
+        </Text>
+        <Text>
+            <GUID>133700419</GUID>
+            <Text>涼亭（2x2）</Text>
+        </Text>
+        <Text>
+            <GUID>133700420</GUID>
+            <Text>帶鐘的涼亭（2x2）</Text>
+        </Text>
+        <Text>
+            <GUID>133700421</GUID>
+            <Text>蓮花池</Text>
+        </Text>
+        <Text>
+            <GUID>133700423</GUID>
+            <Text>小吃攤 2</Text>
+        </Text>
+        <Text>
+            <GUID>133700424</GUID>
+            <Text>鮮花攤</Text>
+        </Text>
+        <Text>
+            <GUID>133700425</GUID>
+            <Text>水果攤</Text>
+        </Text>
+        <Text>
+            <GUID>133700426</GUID>
+            <Text>照相攤</Text>
+        </Text>
+    </ModOp>
+</ModOps>

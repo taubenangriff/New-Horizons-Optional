@@ -1,0 +1,425 @@
+<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <!-- Population Levels -->
+        <Text>
+            <GUID>15100000</GUID>
+            <Text>佃農</Text>
+        </Text>
+        <Text>
+            <GUID>15100001</GUID>
+            <Text>匠工</Text>
+        </Text>
+        <Text>
+            <GUID>15100002</GUID>
+            <Text>佃農勞動力</Text>
+        </Text>
+        <Text>
+            <GUID>15100003</GUID>
+            <Text>匠工勞動力</Text>
+        </Text>
+        <Text>
+            <GUID>15100100</GUID>
+            <Text>資本家</Text>
+        </Text>
+        <Text>
+            <GUID>15100101</GUID>
+            <Text>資本家勞動力</Text>
+        </Text>
+        <Text>
+            <GUID>1442500</GUID>
+            <Text>資本家住所</Text>
+        </Text>
+        <Text>
+            <GUID>1442501</GUID>
+            <Text>臨時工住所</Text>
+        </Text>
+        <Text>
+            <GUID>1442502</GUID>
+            <Text>佃農住所</Text>
+        </Text>
+        <Text>
+            <GUID>1442503</GUID>
+            <Text>匠工住所</Text>
+        </Text>
+        <Text>
+            <GUID>1447920</GUID>
+            <Text>憤怒的資本家</Text>
+        </Text>
+        <Text>
+            <GUID>1447921</GUID>
+            <Text>不開心的資本家</Text>
+        </Text>
+        <Text>
+            <GUID>1447922</GUID>
+            <Text>滿意的資本家</Text>
+        </Text>
+        <Text>
+            <GUID>1447923</GUID>
+            <Text>開心的資本家</Text>
+        </Text>
+        <Text>
+            <GUID>1447924</GUID>
+            <Text>狂喜的資本家</Text>
+        </Text>
+        <Text>
+            <GUID>1447930</GUID>
+            <Text>憤怒的佃農</Text>
+        </Text>
+        <Text>
+            <GUID>1447931</GUID>
+            <Text>不開心的佃農</Text>
+        </Text>
+        <Text>
+            <GUID>1447932</GUID>
+            <Text>滿意的佃農</Text>
+        </Text>
+        <Text>
+            <GUID>1447933</GUID>
+            <Text>開心的佃農</Text>
+        </Text>
+        <Text>
+            <GUID>1447934</GUID>
+            <Text>狂喜的佃農</Text>
+        </Text>
+        <Text>
+            <GUID>1447935</GUID>
+            <Text>憤怒的匠工</Text>
+        </Text>
+        <Text>
+            <GUID>1447936</GUID>
+            <Text>不開心的匠工</Text>
+        </Text>
+        <Text>
+            <GUID>1447937</GUID>
+            <Text>滿意的匠工</Text>
+        </Text>
+        <Text>
+            <GUID>1447938</GUID>
+            <Text>開心的匠工</Text>
+        </Text>
+        <Text>
+            <GUID>1447939</GUID>
+            <Text>狂喜的匠工</Text>
+        </Text>
+        <!-- Deposits -->
+        <Text>
+            <GUID>1447800</GUID>
+            <Text>高嶺土礦床</Text>
+        </Text>
+        <Text>
+            <GUID>1447801</GUID>
+            <Text>長石礦床</Text>            <!--Typo-->
+        </Text>
+        <Text>
+            <GUID>1447805</GUID>
+            <Text>鐵礦礦藏</Text>
+        </Text>
+        <Text>
+            <GUID>1447806</GUID>
+            <Text>銅礦礦藏</Text>
+        </Text>
+        <Text>
+            <GUID>1447807</GUID>
+            <Text>銥礦礦藏</Text>
+        </Text>
+        <Text>
+            <GUID>1447814</GUID>
+            <Text>銥礦礦藏</Text>
+        </Text>
+        <Text>
+            <GUID>1447808</GUID>
+            <Text>煤炭礦藏</Text>
+        </Text>
+        <Text>
+            <GUID>1447811</GUID>
+            <Text>高嶺土礦床</Text>
+        </Text>
+        <Text>
+            <GUID>1447812</GUID>
+            <Text>長石礦床</Text>            <!--Typo-->
+        </Text>
+        <Text>
+            <GUID>1447813</GUID>
+            <Text>黃鐵礦藏</Text>            <!--Typo-->
+        </Text>
+        <Text>
+            <GUID>1447803</GUID>
+            <Text>陶土礦床</Text>
+        </Text>
+        <Text>
+            <GUID>1447809</GUID>
+            <Text>陶土礦床</Text>
+        </Text>
+        <Text>
+            <GUID>1447861</GUID>
+            <Text>石材礦床</Text>
+        </Text>
+        <Text>
+            <GUID>1414040216</GUID>
+            <Text>石材礦床</Text>
+        </Text>
+        <!-- Fertilities -->
+        <Text>
+            <GUID>1414007001</GUID>
+            <Text>稻米生產力</Text>
+        </Text>
+        <Text>
+            <GUID>1414007002</GUID>
+            <Text>茶葉生產力</Text>
+        </Text>
+        <Text>
+            <GUID>1414007003</GUID>
+            <Text>柔麻生產力</Text>
+        </Text>
+        <Text>
+            <GUID>1414007004</GUID>
+            <Text>鱘魚棲息地</Text>
+        </Text>
+        <Text>
+            <GUID>1414007006</GUID>
+            <Text>胡椒生產力</Text>
+        </Text>
+        <Text>
+            <GUID>1414007007</GUID>
+            <Text>桑蠶生產力</Text>
+        </Text>
+        <Text>
+            <GUID>1414007008</GUID>
+            <Text>梅子生產力</Text>
+        </Text>
+        <Text>
+            <GUID>1414007009</GUID>
+            <Text>蜜蜂棲息地</Text>
+        </Text>
+        <Text>
+            <GUID>1414007010</GUID>
+            <Text>大豆生產力</Text>
+        </Text>
+        <!-- Festivals -->
+
+        <Text>
+            <GUID>1414006720</GUID>
+            <Text>重陽節</Text>
+        </Text>
+        <Text>
+            <GUID>1414006721</GUID>
+            <Text>元宵節</Text>
+        </Text>
+        <Text>
+            <GUID>1414006722</GUID>
+            <Text>農曆新年</Text>
+        </Text>
+        <Text>
+            <GUID>1414006723</GUID>
+            <Text>天長節</Text>
+        </Text>
+        <Text>
+            <GUID>1414006734</GUID>
+            <Text>九月又九日，最符合《美麗新世界》精神的節日啦！毋庸置疑，这里的人們生活平和安寧，萬事順意。</Text>
+        </Text>
+        <Text>
+            <GUID>1414006735</GUID>
+            <Text>《每歲元夕，於蓬萊州張燈五夜。傾城士女，皆得縱觀。》人們張燈結綵放飛天燈以慶祝春天的到來及友誼恆常久。</Text>
+        </Text>
+        <Text>
+            <GUID>1414006748</GUID>
+            <Text>新春佳節，各家張燈結綵喜慶洋洋，期待著新一年的豐收。</Text>
+        </Text>
+        <Text>
+            <GUID>1414006747</GUID>
+            <Text>吾民剛健，王化之下，安其居，樂其業，享其成，社稷永存！...只不過這裡的社稷當然指的是女王陛下啦！</Text>
+        </Text>
+        <Text>
+            <GUID>1414008600</GUID>
+            <Text>重陽節</Text>
+        </Text>
+        <Text>
+            <GUID>1414008601</GUID>
+            <Text>元宵節</Text>
+        </Text>
+        <Text>
+            <GUID>1414008602</GUID>
+            <Text>農曆新年</Text>
+        </Text>
+        <Text>
+            <GUID>1414008603</GUID>
+            <Text>天長節</Text>
+        </Text>
+        <!-- More Streetfood -->
+        <Text>
+            <GUID>1442742</GUID>            <!-- Streetfood - Noodle Stand - Buff -->
+            <Text>小吃攤</Text>
+        </Text>
+        <Text>
+            <GUID>1442743</GUID>            <!-- Streetfood - Street Grill - Buff -->
+            <Text>燒烤攤</Text>
+        </Text>
+        <Text>
+            <GUID>1442744</GUID>            <!-- Streetfood - Steamer Stand - Buff -->
+            <Text>蒸物攤</Text>
+        </Text>
+        <Text>
+            <GUID>1442745</GUID>            <!-- Streetfood - Dessert Stand - Buff -->
+            <Text>甜點攤</Text>
+        </Text>
+        <Text>
+            <GUID>1442746</GUID>            <!-- Streetfood - Noodle Stand - Buff -->
+            <Text>小吃攤</Text>
+        </Text>
+        <Text>
+            <GUID>1442747</GUID>            <!-- Streetfood - Street Grill - Buff -->
+            <Text>燒烤攤</Text>
+        </Text>
+        <Text>
+            <GUID>1442748</GUID>            <!-- Streetfood - Steamer Stand - Buff -->
+            <Text>蒸物攤</Text>
+        </Text>
+        <Text>
+            <GUID>1442749</GUID>            <!-- Streetfood - Dessert Stand - Buff -->
+            <Text>甜點攤</Text>
+        </Text>
+        <Text>
+            <GUID>1442700</GUID>            <!-- Streetfood Stand - Description -->
+            <Text>使用食譜售賣菜餚以滿足居民對小吃的需求。</Text>
+        </Text>
+        <Text>
+            <GUID>1442750</GUID>            <!-- Streetfood - Recipelist - Description -->
+            <Text>小吃，是東方居民在工業化的浪潮下的緊湊生活中得以快速吃上一頓或是轉換生活節奏的重要文化。每個攤商的各路廚師利用東西中外的各種新鮮食材以自己的方式創造千變萬化的佳餚，與大量生產的預製食品可不一樣，絕對走在時代尖端。</Text>
+        </Text>
+        <Text>
+            <GUID>1442725</GUID>            <!-- Streetfood - Nigiri-Sushi Recipe -->
+            <Text>握壽司</Text>
+        </Text>
+        <Text>
+            <GUID>1442751</GUID>            <!-- Streetfood - Nigiri-Sushi Recipe - Description -->
+            <Text>與押壽司不同，握壽司是只能現點現做的一種壽司。搭配的海鮮種類森羅萬象，每天漁獲的不同直接影響當地能提供的菜單，甚至每座島都有自己獨特的風格。</Text>
+        </Text>
+        <Text>
+            <GUID>1442726</GUID>            <!-- Streetfood - Vegetable Tempura Recipe -->
+            <Text>野菜天婦羅</Text>
+        </Text>
+        <Text>
+            <GUID>1442752</GUID>            <!-- Streetfood - Vegetable Tempura - Description -->
+            <Text>將新鮮蔬菜用麵衣包裹並炸至金黃色，一口咬下去外酥內軟，一直都是海內外的人氣菜色。</Text>
+        </Text>
+        <Text>
+            <GUID>1442727</GUID>            <!-- Streetfood - Hand-Pulled Beef Noodles Recipe -->
+            <Text>手撕牛肉麵</Text>
+        </Text>
+        <Text>
+            <GUID>1442753</GUID>            <!-- Streetfood - Hand-Pulled Beef Noodles - Description -->
+            <Text>現做麵條與豆腐在牛肉高湯中的極致結合。份量十足，除非你的胃口與牛一樣大通常一碗就能滿足一整天。</Text>
+        </Text>
+        <Text>
+            <GUID>1442728</GUID>            <!-- Streetfood - Takoyaki Recipe -->
+            <Text>章魚燒</Text>
+        </Text>
+        <Text>
+            <GUID>1442754</GUID>            <!-- Streetfood - Takoyaki - Description -->
+            <Text>油炸糰子搭配新世界的魷魚組成的一種特製煎團子。柔軟的團子內包彈牙的魷魚，上面淋上一層甜醬油。</Text>
+        </Text>
+        <Text>
+            <GUID>1442729</GUID>            <!-- Streetfood - Okonomiyaki Recipe -->
+            <Text>什錦燒</Text>
+        </Text>
+        <Text>
+            <GUID>1442755</GUID>            <!-- Streetfood - Okonomiyaki - Description -->
+            <Text>與歐式煎餅類似，在一層煎餅之上堆積大量新鮮食材及碎海苔的菜餚。顧客可在煎制的過程中挑選要加入的各種材料，因得其名。</Text>
+        </Text>
+        <Text>
+            <GUID>1442730</GUID>            <!-- Streetfood - Bak Kwa Recipe -->
+            <Text>肉脯</Text>
+        </Text>
+        <Text>
+            <GUID>1442756</GUID>            <!-- Streetfood - Bak Kwa - Description -->
+            <Text>又甜又鹹的一種烤製豬肉。在發源地東方帝國起初是一種保存豬肉的方式。清公主對它十分鍾愛，以至於每次寫信回帝國時都會要求皇室寄些過去給她。</Text>
+        </Text>
+        <Text>
+            <GUID>1442731</GUID>            <!-- Streetfood - Stir-Fried Rice Recipe -->
+            <Text>炒飯</Text>
+        </Text>
+        <Text>
+            <GUID>1442757</GUID>            <!-- Streetfood - Stir-Fried Rice - Description -->
+            <Text>一盤鑊氣十足的炒飯，臘腸與玉米，外加朗姆酒（？？？）提香大火快炒製成的菜餚。你不會以為有鮮蝦炒飯吧？</Text>
+        </Text>
+        <Text>
+            <GUID>1442732</GUID>            <!-- Streetfood - Kushiyaki Recipe -->
+            <Text>串燒</Text>
+        </Text>
+        <Text>
+            <GUID>1442758</GUID>            <!-- Streetfood - Kushiyaki - Description -->
+            <Text>東方諸島的傳統菜餚遇上寒冷的北極與悶熱的恩貝沙。傳統的串燒加上野味的鹿肉，以及讓布萊克爵士辣到跑廁所的辛香料。</Text>
+        </Text>
+        <Text>
+            <GUID>1442733</GUID>            <!-- Streetfood - Congee with Youtiao Recipe -->
+            <Text>清粥油條</Text>
+        </Text>
+        <Text>
+            <GUID>1442759</GUID>            <!-- Streetfood - Congee with Youtiao - Description -->
+            <Text>一碗清粥搭配酥脆的油條。雖然是早點但現今成為一種各階級人民都會享受的一種下午茶點。</Text>
+        </Text>
+        <Text>
+            <GUID>1442734</GUID>            <!-- Streetfood - Steamed Bao Buns Recipe -->
+            <Text>肉包</Text>
+        </Text>
+        <Text>
+            <GUID>1442760</GUID>            <!-- Streetfood - Steamed Bao Buns - Description -->
+            <Text>打開蒸籠，蒸氣散去後所揭曉的是一個個熱氣騰騰的飽滿包子，每個包的餡料無花八門難以取捨。你吃的數量直接決定了這是正餐還是點心。</Text>
+        </Text>
+        <Text>
+            <GUID>1442735</GUID>            <!-- Streetfood - Zong Zi Recipe -->
+            <Text>粽子</Text>
+        </Text>
+        <Text>
+            <GUID>1442761</GUID>            <!-- Streetfood - Zong Zi - Description -->
+            <Text>包入荷葉的糯米與豬肉在荷葉香的加持下蒸至熟透。新世界的旅客們嘗過後都覺得跟他們家鄉的玉米包很像。</Text>
+        </Text>
+        <Text>
+            <GUID>1442736</GUID>            <!-- Streetfood - Special Dumpling Soup Recipe -->
+            <Text>秘製餃子湯</Text>
+        </Text>
+        <Text>
+            <GUID>1442762</GUID>            <!-- Streetfood - Special Dumpling Soup - Description -->
+            <Text>傳統水餃加上恩貝沙的龍蝦將這碗餃子湯極致昇華。經常有大排長龍的隊伍排上數小時就為了嘗上一碗。</Text>
+        </Text>
+        <Text>
+            <GUID>1442737</GUID>            <!-- Streetfood - Dango Recipe -->
+            <Text>大福</Text>
+        </Text>
+        <Text>
+            <GUID>1442763</GUID>            <!-- Streetfood - Dango - Description -->
+            <Text>圓形糯米糖團子包裹著如糖跟蜂蜜等甜餡料。非常適合配茶享用。</Text>
+        </Text>
+        <Text>
+            <GUID>1442738</GUID>            <!-- Streetfood - Sweet Doufuhua Recipe -->
+            <Text>豆腐花</Text>
+        </Text>
+        <Text>
+            <GUID>1442764</GUID>            <!-- Streetfood - Sweet Doufuhua - Description -->
+            <Text>用大竹筒熬成的豆腐花，用扁勺一片一片切出來裝碗，可常溫或冷藏，搭配甜薑汁享用。</Text>
+        </Text>
+        <Text>
+            <GUID>1442739</GUID>            <!-- Streetfood - Imagawayaki Recipe -->
+            <Text>今川燒</Text>
+        </Text>
+        <Text>
+            <GUID>1442765</GUID>            <!-- Streetfood - Imagawayaki - Description -->
+            <Text>像蛋糕一般的燒餅包裹著紅豆製成的餡料,酥脆的外殼配上甜軟的紅豆餡組合成任何時候都能享受的絕品甜點。</Text>
+        </Text>
+        <Text>
+            <GUID>1442740</GUID>            <!-- Streetfood - Tanghulu Recipe -->
+            <Text>糖葫蘆</Text>
+        </Text>
+        <Text>
+            <GUID>1442741</GUID>            <!-- Streetfood - Buff -->
+            <Text>小吃</Text>
+        </Text>
+        <Text>
+            <GUID>1442766</GUID>            <!-- Streetfood - Tanghulu - Description -->
+            <Text>雖然在蓬萊山楂非常稀少，但你的人民卻找到一種非常適合的替代品：橘子、葡萄、和青梅串在一起用透明糖汁將其包裹，味道清脆可口，非常解渴。
+        <Text>
+            <GUID>1442700</GUID>            <!-- Streetfood Stand - Description -->
+            <Text>售賣各種現做小吃的路邊攤。使用各類食譜提供居民的小吃需求。</Text>
+        </Text>
+    </ModOp>
+</ModOps>

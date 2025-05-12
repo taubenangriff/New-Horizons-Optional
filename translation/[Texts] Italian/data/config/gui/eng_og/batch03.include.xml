@@ -7,19 +7,19 @@
     </Text>    
     <Text>
       <GUID>1445607</GUID>
-      <Text>Consumibles</Text>
+      <Text>Consumables</Text>
     </Text>
     <Text>
       <GUID>1445608</GUID>
-      <Text>Ciudad</Text>
+      <Text>City</Text>
     </Text>
     <Text>
       <GUID>1445609</GUID>
-      <Text>Materiales</Text>
+      <Text>Materials</Text>
     </Text>    
     <Text>
       <GUID>1445001</GUID>
-      <Text>Estilógrafos</Text>
+      <Text>Fountain Pens</Text>
     </Text>
     <Text>
       <GUID>1445002</GUID>
@@ -27,23 +27,23 @@
     </Text>
     <Text>
       <GUID>1445004</GUID>
-      <Text>Té</Text>
+      <Text>Tea</Text>
     </Text>
     <Text>
       <GUID>1445006</GUID>
-      <Text>Teléfonos</Text>
+      <Text>Telephones</Text>
     </Text>
     <Text>
       <GUID>1445007</GUID>
-      <Text>Queso</Text>
+      <Text>Cheese</Text>
     </Text>
     <Text>
       <GUID>1445008</GUID>
-      <Text>Porcelana</Text>
+      <Text>Porcelain</Text>
     </Text>
     <Text>
       <GUID>1445009</GUID>
-      <Text>Trajes de seda</Text>
+      <Text>Silk Vests</Text>
     </Text>
     <Text>
       <GUID>1445020</GUID>
@@ -55,7 +55,7 @@
     </Text>
     <Text>
       <GUID>1445028</GUID>
-      <Text>Té verde</Text>
+      <Text>Green Tea</Text>
     </Text>
     <Text>
       <GUID>1445022</GUID>
@@ -67,47 +67,47 @@
     </Text>
     <Text>
       <GUID>1445025</GUID>
-      <Text>Porcelana</Text>
+      <Text>Porcelain</Text>
     </Text>
     <Text>
       <GUID>1445026</GUID>
-      <Text>Comida enlatada</Text>
+      <Text>Canned Food</Text>
     </Text>
     <Text>
       <GUID>1445027</GUID>
-      <Text>Pato asado</Text>
+      <Text>Roast Duck</Text>
     </Text>
     <Text>
       <GUID>1445090</GUID>
-      <Text>Hongos nobles</Text>
+      <Text>Noble Mushrooms</Text>
     </Text>
     <Text>
       <GUID>1414006077</GUID>
-      <Text>Bienes comerciales</Text>
+      <Text>Trader's Goods</Text>
     </Text>
     <Text>
       <GUID>1414006079</GUID>
-      <Text>No puedes producir esta mercancía. Cómprala a estos comerciantes:</Text>
+      <Text>You cannot produce these goods. Buy it at those traders:</Text>
     </Text>
     <Text>
       <GUID>1445080</GUID>
-      <Text>Té</Text>
+      <Text>Tea</Text>
     </Text>
     <Text>
       <GUID>1445083</GUID>
-      <Text>Cableado</Text>
+      <Text>Strings</Text>
     </Text>
     <Text>
       <GUID>1445612</GUID>
-      <Text>árboles de selva húmeda</Text>
+      <Text>Subtropical Evergreen Trees</Text>
     </Text>
     <Text>
       <GUID>1445630</GUID>
-      <Text>Puesto de Comida Callejera</Text>      <!-- Construction Category -->
+      <Text>Streetfood Stand</Text>      <!-- Construction Category -->
     </Text>
     <Text>
       <GUID>1445631</GUID>
-      <Text>Fideos</Text>      <!-- Production Chain -->
+      <Text>Noodles</Text>      <!-- Production Chain -->
     </Text>
     <Text>
       <GUID>1445632</GUID>
@@ -119,7 +119,7 @@
     </Text>
     <Text>
       <GUID>1445040</GUID>
-      <Text>Galletas de Caviar</Text>
+      <Text>Caviar Crackers</Text>
     </Text>
     <Text>
       <GUID>1445056</GUID>
@@ -131,68 +131,68 @@
     </Text>
     <Text>
       <GUID>1445031</GUID>
-      <Text>Tablones</Text>
+      <Text>Timber</Text>
     </Text>
     <Text>
       <GUID>1445032</GUID>
-      <Text>Yeso de Arcilla</Text>
+      <Text>Clay Plaster</Text>
     </Text>
     <Text>
       <GUID>1445604</GUID>
-      <Text>Puerto Pequeño</Text>
+      <Text>Small Harbor</Text>
     </Text>
     <Text>
       <GUID>1445605</GUID>
-      <Text>Puerto Grande</Text>
+      <Text>Big Harbor</Text>
     </Text>    
     <Text>
       <GUID>1445039</GUID>
-      <Text>Sombreros cónicos</Text>
+      <Text>Conical Hats</Text>
     </Text>    
     <!-- Outsourced production chains, refer to vanilla texts -->
     <Text>
       <GUID>1445042</GUID>
-      <Text>Sebo</Text>
+      <Text>Tallow</Text>
     </Text>
     <Text>
       <GUID>1445043</GUID>
-      <Text>Acero</Text>
+      <Text>Steel</Text>
     </Text>
     <Text>
       <GUID>1445044</GUID>
-      <Text>Vigas de Acero</Text>
+      <Text>Steel Beams</Text>
     </Text>
     <Text>
       <GUID>1445045</GUID>
-      <Text>Cristal</Text>
+      <Text>Glass</Text>
     </Text>
     <Text>
       <GUID>1445046</GUID>
-      <Text>Filamentos</Text>
+      <Text>Filament</Text>
     </Text>
     <Text>
       <GUID>1445047</GUID>
-      <Text>Concreto</Text>
+      <Text>Concrete</Text>
     </Text>
     <Text>
       <GUID>1445048</GUID>
-      <Text>Electricidad</Text>
+      <Text>Electricity</Text>
     </Text>
     <Text>
       <GUID>1445049</GUID>
-      <Text>Dinamita</Text>
+      <Text>Dynamite</Text>
     </Text>
     <Text>
       <GUID>1445050</GUID>
-      <Text>Latón</Text>
+      <Text>Brass</Text>
     </Text>
     <Text>
       <GUID>1445051</GUID>
-      <Text>Motores de Vapor</Text>
+      <Text>Steam Motors</Text>
     </Text>
     <Text>
       <GUID>1445052</GUID>
-      <Text>Oro</Text>
+      <Text>Gold</Text>
     </Text>
     <Text>
       <GUID>1445053</GUID>
@@ -200,15 +200,15 @@
     </Text>
     <Text>
       <GUID>1445054</GUID>
-      <Text>Detector de señal</Text>
+      <Text>Detector Receivers</Text>
     </Text>
     <Text>
       <GUID>1445055</GUID>
-      <Text>Petróleo</Text>
+      <Text>Oil</Text>
     </Text>
     <Text>
       <GUID>1445077</GUID>
-      <Text>Ventanas</Text>
+      <Text>Windows</Text>
     </Text>    
     <Text>
       <GUID>1445038</GUID>
@@ -216,52 +216,52 @@
     </Text>
     <Text>
       <GUID>1445033</GUID>
-      <Text>Vigas de Acero</Text>
+      <Text>Steel Beams</Text>
     </Text>
     <Text>
       <GUID>1445034</GUID>
-      <Text>Oro</Text>
+      <Text>Gold</Text>
     </Text>
     <Text>
       <GUID>1445035</GUID>
-      <Text>Dinamita</Text>
+      <Text>Dynamite</Text>
     </Text>
     <Text>
       <GUID>1445036</GUID>
-      <Text>Latón</Text>
+      <Text>Brass</Text>
     </Text>
     <Text>
       <GUID>1445037</GUID>
-      <Text>Cristal</Text>
+      <Text>Glass</Text>
     </Text>
     <!-- Ornamental -->
     <Text>
       <GUID>1445636</GUID>
-      <Text>Rocas</Text>
+      <Text>Rocks</Text>
     </Text>
     <Text>
       <GUID>1445637</GUID>
-      <Text>Rocas de Jardín</Text>
+      <Text>Dry Rocks</Text>
     </Text>
     <Text>
       <GUID>1445638</GUID>
-      <Text>Arbustos</Text>
+      <Text>Bushes</Text>
     </Text>
     <Text>
       <GUID>1445634</GUID>
-      <Text>Murallas de la ciudad</Text>
+      <Text>City Walls</Text>
     </Text>
     <Text>
       <GUID>1445635</GUID>
-      <Text>Arcadas</Text>
+      <Text>Arcades</Text>
     </Text>
     <Text>
       <GUID>1445627</GUID>
-      <Text>Ciudad Interior</Text>
+      <Text>Inner City</Text>
     </Text>
     <Text>
       <GUID>1445628</GUID>
-      <Text>Mercado Callejero</Text>
+      <Text>Street Market</Text>
     </Text>
     <Text>
       <GUID>1445629</GUID>
@@ -269,123 +269,123 @@
     </Text>
     <Text>
       <GUID>1445626</GUID>
-      <Text>Puertas</Text>
+      <Text>Gates</Text>
     </Text>
     <Text>
       <GUID>1445621</GUID>
-      <Text>Grava</Text>
+      <Text>Gravel</Text>
     </Text>
     <Text>
       <GUID>1445622</GUID>
-      <Text>Arquitectura</Text>
+      <Text>Architecture</Text>
     </Text>
     <Text>
       <GUID>1445623</GUID>
-      <Text>Pasto</Text>
+      <Text>Grass</Text>
     </Text>
     <Text>
       <GUID>1445633</GUID>
-      <Text>Puerto</Text>
+      <Text>Harbor</Text>
     </Text>
     <Text>
       <GUID>1445624</GUID>
-      <Text>Pilares</Text>
+      <Text>Pillars</Text>
     </Text>
     <Text>
       <GUID>1445625</GUID>
-      <Text>Árboles templados</Text>
+      <Text>Temperate Trees</Text>
     </Text>
     <Text>
       <GUID>1445618</GUID>
-      <Text>Arboles estilo Zen</Text>
+      <Text>Zen Pavement Trees</Text>
     </Text>
     <Text>
       <GUID>1445619</GUID>
-      <Text>rboles de parque</Text>
+      <Text>Park Trees</Text>
     </Text>
     <Text>
       <GUID>1445615</GUID>
-      <Text>grava Rastrillada</Text>
+      <Text>Raked Gravel</Text>
     </Text>
     <Text>
       <GUID>1445613</GUID>
-      <Text>Jardín</Text>
+      <Text>Garden</Text>
     </Text>
     <Text>
       <GUID>1445611</GUID>
-      <Text>Grava</Text>
+      <Text>Gravel</Text>
     </Text>
     <Text>
       <GUID>1445614</GUID>
-      <Text>Grava con vegetación</Text>
+      <Text>Gravel with Vegetation</Text>
     </Text>
     <Text>
       <GUID>1445616</GUID>
-      <Text>Motivos en Grava</Text>
+      <Text>Gravel Motifs</Text>
     </Text>
     <Text>
       <GUID>1445617</GUID>
-      <Text>Muros</Text>
+      <Text>Walls</Text>
     </Text>
     <Text>
       <GUID>1445620</GUID>
-      <Text>Estatuas y Lámparas</Text>
+      <Text>Statues and Lamps</Text>
     </Text>
     <!-- Keep "Import Pier" in line with Noblesse Oblige-->
     <Text>
       <GUID>1441350</GUID>
-      <Text>Puerto de Importación: Tabuladores</Text>
+      <Text>Import Pier: Tabulators</Text>
     </Text>
     <Text>
       <GUID>1441351</GUID>
-      <Text>Puerto de Importación: Whisky Bourbon</Text>
+      <Text>Import Pier: Bourbon Whiskey</Text>
     </Text>
     <Text>
       <GUID>1441352</GUID>
-      <Text>Puerto de Importación: carruajes de vapor</Text>
+      <Text>Import Pier: Cars</Text>
     </Text>
     <Text>
       <GUID>1441359</GUID>
-      <Text>Puerto de Importación: Diamantes</Text>
+      <Text>Import Pier: Diamonds</Text>
     </Text>
     <Text>
       <GUID>1441358</GUID>
-      <Text>Puerto de Importación: Lingotes de Plata</Text>
+      <Text>Import Pier: Silver Bars</Text>
     </Text>
     <Text>
       <GUID>1441357</GUID>
-      <Text>Puerto de Importación: Tungsteno</Text>
+      <Text>Import Pier: Tungsten</Text>
     </Text>
     <Text>
       <!-- Magnate Buff Building in Asia-->
       <GUID>1441332</GUID>
-      <Text>Oficina Regional</Text>
+      <Text>Regional Office</Text>
     </Text>
     <Text>
       <!-- Redeeming Trade Licenses Text-->
       <GUID>1441331</GUID>
-      <Text>Redimiendo[AssetData(1999005351) Text]</Text>
+      <Text>Redeeming [AssetData(1999005351) Text]</Text>
     </Text>
     <!-- Production -->
     <Text>
       <GUID>1441279</GUID>
-      <Text>Extractor de grasa</Text>
+      <Text>Rendering Works</Text>
     </Text>
     <Text>
       <GUID>1441237</GUID>
-      <Text>Mina de Carbón</Text>
+      <Text>Coal Mine</Text>
     </Text>
     <Text>
       <GUID>1441238</GUID>
-      <Text>Mina de Cobre</Text>
+      <Text>Copper Mine</Text>
     </Text>
     <Text>
       <GUID>1441241</GUID>
-      <Text>Pozo de Arcilla</Text>
+      <Text>Clay Pit</Text>
     </Text>
     <Text>
       <GUID>1441242</GUID>
-      <Text>Fábrica de Yeso de Arcilla</Text>
+      <Text>Clay Plaster Factory</Text>
     </Text>    
     <Text>
       <GUID>1441243</GUID>
@@ -421,7 +421,7 @@
     </Text>
     <Text>
       <GUID>1441234</GUID>
-      <Text>Cabaña de Leñador</Text>
+      <Text>Lumberjack's Hut</Text>
     </Text>
     <Text>
       <GUID>1441236</GUID>
@@ -445,88 +445,88 @@
     </Text>
     <Text>
       <GUID>1441263</GUID>
-      <Text>Alto Horno</Text>
+      <Text>Furnace</Text>
     </Text>
     <Text>
       <GUID>1441264</GUID>
-      <Text>Acerería</Text>
+      <Text>Steelworks</Text>
     </Text>
     <Text>
       <GUID>1441265</GUID>
-      <Text>Cristalero</Text>
+      <Text>Glassmakers</Text>
     </Text>
     <Text>
       <GUID>1441266</GUID>
-      <Text>Fábrica de Filamentos</Text>
+      <Text>Filament Factory</Text>
     </Text>
     <Text>
       <GUID>1441267</GUID>
-      <Text>Fábrica de Concreto</Text>
+      <Text>Concrete Factory</Text>
     </Text>
     <Text>
       <GUID>1441277</GUID>
-      <Text>Fábricante de Ventanas</Text>
+      <Text>Windowmakers</Text>
     </Text>
     <Text>
       <GUID>1441268</GUID>
-      <Text>Central de Petróleo</Text>
+      <Text>Oil Power Plant</Text>
     </Text>
     <Text>
       <GUID>1441269</GUID>
-      <Text>Fábrica de Dinamita</Text>
+      <Text>Dynamite Factory</Text>
     </Text>
     <Text>
       <GUID>1441270</GUID>
-      <Text>Fundición de Latón</Text>
+      <Text>Brass Smeltery</Text>
     </Text>
     <Text>
       <GUID>1441271</GUID>
-      <Text>Fábrica de Motores</Text>
+      <Text>Motor Assembly Line</Text>
     </Text>
     <Text>
       <GUID>1441272</GUID>
-      <Text>Orfebre</Text>
+      <Text>Goldsmiths</Text>
     </Text>
     <Text>
       <GUID>1441273</GUID>
-      <Text>Fábrica de Carros</Text>
+      <Text>Coachmakers</Text>
     </Text>
     <Text>
       <GUID>1441275</GUID>
-      <Text>Fábrica de Plástico</Text>
+      <Text>Plastics Factory</Text>
     </Text>
     <Text>
       <GUID>1441287</GUID>
-      <Text>Detector de señales</Text>
+      <Text>Detector Receivers</Text>
     </Text>
     <Text>
       <GUID>1441292</GUID>
-      <Text>Refineria de Petróleo</Text>
+      <Text>Oil Refinery</Text>
     </Text>
     <Text>
       <GUID>1441293</GUID>
-      <Text>Pozo de Petróleo</Text>
+      <Text>Oil Well</Text>
     </Text>
     <!-- Recipes -->
     <Text>
       <GUID>1441288</GUID>
-      <Text>Cuerdas</Text>
+      <Text>Strings</Text>
     </Text>
     <Text>
       <GUID>1441289</GUID>
-      <Text>Puntas estilográficas</Text>
+      <Text>Fountain Pen Nibs</Text>
     </Text>
     <Text>
       <GUID>1441304</GUID>
-      <Text>Barniz</Text>
+      <Text>Lacquer</Text>
     </Text>
     <Text>
       <GUID>1441305</GUID>
-      <Text>Celuloide</Text>
+      <Text>Celluloid</Text>
     </Text>
     <Text>
       <GUID>1441306</GUID>
-      <Text>Etanol</Text>
+      <Text>Ethanol</Text>
     </Text>
     <Text>
       <GUID>1441314</GUID>
@@ -534,11 +534,11 @@
     </Text>
     <Text>
       <GUID>1441315</GUID>
-      <Text>Salsa de soya</Text>
+      <Text>Soy Sauce</Text>
     </Text>
     <Text>
       <GUID>1441334</GUID>
-      <Text>Fideos</Text>
+      <Text>Noodles</Text>
     </Text>
     <Text>
       <GUID>1441335</GUID>
@@ -547,11 +547,11 @@
     <Text>
       <!-- Blank Recipe-->
       <GUID>1441319</GUID>
-      <Text>Cocina</Text>
+      <Text>Kitchen</Text>
     </Text>
     <Text>
       <GUID>1441318</GUID>
-      <Text>Pato Asado</Text>
+      <Text>Roast Duck</Text>
     </Text>
     
   </ModOp>

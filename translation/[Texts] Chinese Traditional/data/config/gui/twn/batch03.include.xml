@@ -3,212 +3,212 @@
     <!-- Construction Menu Names -->
     <Text>
       <GUID>1445610</GUID>
-      <Text>Industrial</Text>
+      <Text>工業</Text>
     </Text>    
     <Text>
       <GUID>1445607</GUID>
-      <Text>Consumibles</Text>
+      <Text>消耗品</Text>
     </Text>
     <Text>
       <GUID>1445608</GUID>
-      <Text>Ciudad</Text>
+      <Text>城市</Text>
     </Text>
     <Text>
       <GUID>1445609</GUID>
-      <Text>Materiales</Text>
+      <Text>材料</Text>
     </Text>    
     <Text>
       <GUID>1445001</GUID>
-      <Text>Estilógrafos</Text>
+      <Text>鋼筆</Text>
     </Text>
     <Text>
       <GUID>1445002</GUID>
-      <Text>Radios</Text>
+      <Text>收音機</Text>
     </Text>
     <Text>
       <GUID>1445004</GUID>
-      <Text>Té</Text>
+      <Text>茶葉</Text>
     </Text>
     <Text>
       <GUID>1445006</GUID>
-      <Text>Teléfonos</Text>
+      <Text>電話</Text>
     </Text>
     <Text>
       <GUID>1445007</GUID>
-      <Text>Queso</Text>
+      <Text>起司</Text>
     </Text>
     <Text>
       <GUID>1445008</GUID>
-      <Text>Porcelana</Text>
+      <Text>瓷器</Text>
     </Text>
     <Text>
       <GUID>1445009</GUID>
-      <Text>Trajes de seda</Text>
+      <Text>絲綢衣物</Text>
     </Text>
     <Text>
       <GUID>1445020</GUID>
-      <Text>Oshi-Sushi</Text>
+      <Text>壽司</Text>
     </Text>
     <Text>
       <GUID>1445019</GUID>
-      <Text>Umeshu</Text>
+      <Text>梅酒</Text>
     </Text>
     <Text>
       <GUID>1445028</GUID>
-      <Text>Té verde</Text>
+      <Text>綠茶</Text>
     </Text>
     <Text>
       <GUID>1445022</GUID>
-      <Text>Kimonos</Text>
+      <Text>吳服</Text>
     </Text>
     <Text>
       <GUID>1445024</GUID>
-      <Text>Sake</Text>
+      <Text>清酒</Text>
     </Text>
     <Text>
       <GUID>1445025</GUID>
-      <Text>Porcelana</Text>
+      <Text>瓷器</Text>
     </Text>
     <Text>
       <GUID>1445026</GUID>
-      <Text>Comida enlatada</Text>
+      <Text>罐頭食品</Text>
     </Text>
     <Text>
       <GUID>1445027</GUID>
-      <Text>Pato asado</Text>
+      <Text>烤鴨</Text>
     </Text>
     <Text>
       <GUID>1445090</GUID>
-      <Text>Hongos nobles</Text>
+      <Text>貴紅菇</Text>
     </Text>
     <Text>
       <GUID>1414006077</GUID>
-      <Text>Bienes comerciales</Text>
+      <Text>進口商的貨物</Text>
     </Text>
     <Text>
       <GUID>1414006079</GUID>
-      <Text>No puedes producir esta mercancía. Cómprala a estos comerciantes:</Text>
+      <Text>你無法自行生產這個貨物，只能透過供應商進口：</Text>
     </Text>
     <Text>
       <GUID>1445080</GUID>
-      <Text>Té</Text>
+      <Text>茶葉</Text>
     </Text>
     <Text>
       <GUID>1445083</GUID>
-      <Text>Cableado</Text>
+      <Text>琴弦</Text>
     </Text>
     <Text>
       <GUID>1445612</GUID>
-      <Text>árboles de selva húmeda</Text>
+      <Text>熱帶林木</Text>
     </Text>
     <Text>
       <GUID>1445630</GUID>
-      <Text>Puesto de Comida Callejera</Text>      <!-- Construction Category -->
+      <Text>小吃攤</Text>      <!-- Construction Category -->
     </Text>
     <Text>
       <GUID>1445631</GUID>
-      <Text>Fideos</Text>      <!-- Production Chain -->
+      <Text>麵條</Text>      <!-- Production Chain -->
     </Text>
     <Text>
       <GUID>1445632</GUID>
-      <Text>Tofu</Text>      <!-- Production Chain -->
+      <Text>豆腐</Text>      <!-- Production Chain -->
     </Text>
     <Text>
       <GUID>1445092</GUID>
-      <Text>Kōji</Text>
+      <Text>米麴菌</Text>
     </Text>
     <Text>
       <GUID>1445040</GUID>
-      <Text>Galletas de Caviar</Text>
+      <Text>魚子醬佐餅乾</Text>
     </Text>
     <Text>
       <GUID>1445056</GUID>
-      <Text>Kotos</Text>
+      <Text>古箏</Text>
     </Text>
     <Text>
       <GUID>1445041</GUID>
-      <Text>Sake</Text>
+      <Text>清酒</Text>
     </Text>
     <Text>
       <GUID>1445031</GUID>
-      <Text>Tablones</Text>
+      <Text>木材</Text>
     </Text>
     <Text>
       <GUID>1445032</GUID>
-      <Text>Yeso de Arcilla</Text>
+      <Text>泥漆</Text>
     </Text>
     <Text>
       <GUID>1445604</GUID>
-      <Text>Puerto Pequeño</Text>
+      <Text>小型港口</Text>
     </Text>
     <Text>
       <GUID>1445605</GUID>
-      <Text>Puerto Grande</Text>
+      <Text>大型港口</Text>
     </Text>    
     <Text>
       <GUID>1445039</GUID>
-      <Text>Sombreros cónicos</Text>
+      <Text>斗笠</Text>
     </Text>    
     <!-- Outsourced production chains, refer to vanilla texts -->
     <Text>
       <GUID>1445042</GUID>
-      <Text>Sebo</Text>
+      <Text>動物性油脂</Text>
     </Text>
     <Text>
       <GUID>1445043</GUID>
-      <Text>Acero</Text>
+      <Text>鋼鐵</Text>
     </Text>
     <Text>
       <GUID>1445044</GUID>
-      <Text>Vigas de Acero</Text>
+      <Text>鋼梁</Text>
     </Text>
     <Text>
       <GUID>1445045</GUID>
-      <Text>Cristal</Text>
+      <Text>玻璃</Text>
     </Text>
     <Text>
       <GUID>1445046</GUID>
-      <Text>Filamentos</Text>
+      <Text>燈絲</Text>
     </Text>
     <Text>
       <GUID>1445047</GUID>
-      <Text>Concreto</Text>
+      <Text>混凝土</Text>
     </Text>
     <Text>
       <GUID>1445048</GUID>
-      <Text>Electricidad</Text>
+      <Text>電力</Text>
     </Text>
     <Text>
       <GUID>1445049</GUID>
-      <Text>Dinamita</Text>
+      <Text>炸藥</Text>
     </Text>
     <Text>
       <GUID>1445050</GUID>
-      <Text>Latón</Text>
+      <Text>黃銅</Text>
     </Text>
     <Text>
       <GUID>1445051</GUID>
-      <Text>Motores de Vapor</Text>
+      <Text>蒸汽機</Text>
     </Text>
     <Text>
       <GUID>1445052</GUID>
-      <Text>Oro</Text>
+      <Text>金錠</Text>
     </Text>
     <Text>
       <GUID>1445053</GUID>
-      <Text>Chassis</Text>
+      <Text>車架</Text>
     </Text>
     <Text>
       <GUID>1445054</GUID>
-      <Text>Detector de señal</Text>
+      <Text>接收器</Text>
     </Text>
     <Text>
       <GUID>1445055</GUID>
-      <Text>Petróleo</Text>
+      <Text>原油</Text>
     </Text>
     <Text>
       <GUID>1445077</GUID>
-      <Text>Ventanas</Text>
+      <Text>窗戶</Text>
     </Text>    
     <Text>
       <GUID>1445038</GUID>
@@ -216,176 +216,176 @@
     </Text>
     <Text>
       <GUID>1445033</GUID>
-      <Text>Vigas de Acero</Text>
+      <Text>鋼樑</Text>
     </Text>
     <Text>
       <GUID>1445034</GUID>
-      <Text>Oro</Text>
+      <Text>金錠</Text>
     </Text>
     <Text>
       <GUID>1445035</GUID>
-      <Text>Dinamita</Text>
+      <Text>炸藥</Text>
     </Text>
     <Text>
       <GUID>1445036</GUID>
-      <Text>Latón</Text>
+      <Text>黃銅</Text>
     </Text>
     <Text>
       <GUID>1445037</GUID>
-      <Text>Cristal</Text>
+      <Text>玻璃</Text>
     </Text>
     <!-- Ornamental -->
     <Text>
       <GUID>1445636</GUID>
-      <Text>Rocas</Text>
+      <Text>岩石</Text>
     </Text>
     <Text>
       <GUID>1445637</GUID>
-      <Text>Rocas de Jardín</Text>
+      <Text>乾燥岩石</Text>
     </Text>
     <Text>
       <GUID>1445638</GUID>
-      <Text>Arbustos</Text>
+      <Text>灌木叢</Text>
     </Text>
     <Text>
       <GUID>1445634</GUID>
-      <Text>Murallas de la ciudad</Text>
+      <Text>城牆</Text>
     </Text>
     <Text>
       <GUID>1445635</GUID>
-      <Text>Arcadas</Text>
+      <Text>拱廊</Text>
     </Text>
     <Text>
       <GUID>1445627</GUID>
-      <Text>Ciudad Interior</Text>
+      <Text>內城</Text>
     </Text>
     <Text>
       <GUID>1445628</GUID>
-      <Text>Mercado Callejero</Text>
+      <Text>街市</Text>
     </Text>
     <Text>
       <GUID>1445629</GUID>
-      <Text>Pagodas</Text>
+      <Text>涼亭</Text>
     </Text>
     <Text>
       <GUID>1445626</GUID>
-      <Text>Puertas</Text>
+      <Text>大門</Text>
     </Text>
     <Text>
       <GUID>1445621</GUID>
-      <Text>Grava</Text>
+      <Text>碎石</Text>
     </Text>
     <Text>
       <GUID>1445622</GUID>
-      <Text>Arquitectura</Text>
+      <Text>景觀建築</Text>
     </Text>
     <Text>
       <GUID>1445623</GUID>
-      <Text>Pasto</Text>
+      <Text>植物</Text>
     </Text>
     <Text>
       <GUID>1445633</GUID>
-      <Text>Puerto</Text>
+      <Text>港口</Text>
     </Text>
     <Text>
       <GUID>1445624</GUID>
-      <Text>Pilares</Text>
+      <Text>立柱</Text>
     </Text>
     <Text>
       <GUID>1445625</GUID>
-      <Text>Árboles templados</Text>
+      <Text>溫帶樹木/Text>
     </Text>
     <Text>
       <GUID>1445618</GUID>
-      <Text>Arboles estilo Zen</Text>
+      <Text>景觀樹木</Text>
     </Text>
     <Text>
       <GUID>1445619</GUID>
-      <Text>rboles de parque</Text>
+      <Text>公園樹木</Text>
     </Text>
     <Text>
       <GUID>1445615</GUID>
-      <Text>grava Rastrillada</Text>
+      <Text>棋盤碎石路面</Text>
     </Text>
     <Text>
       <GUID>1445613</GUID>
-      <Text>Jardín</Text>
+      <Text>花園</Text>
     </Text>
     <Text>
       <GUID>1445611</GUID>
-      <Text>Grava</Text>
+      <Text>碎石路面</Text>
     </Text>
     <Text>
       <GUID>1445614</GUID>
-      <Text>Grava con vegetación</Text>
+      <Text>帶植被碎石路面</Text>
     </Text>
     <Text>
       <GUID>1445616</GUID>
-      <Text>Motivos en Grava</Text>
+      <Text>帶特殊圖案的碎石路面</Text>
     </Text>
     <Text>
       <GUID>1445617</GUID>
-      <Text>Muros</Text>
+      <Text>牆壁</Text>
     </Text>
     <Text>
       <GUID>1445620</GUID>
-      <Text>Estatuas y Lámparas</Text>
+      <Text>雕像與路燈</Text>
     </Text>
     <!-- Keep "Import Pier" in line with Noblesse Oblige-->
     <Text>
       <GUID>1441350</GUID>
-      <Text>Puerto de Importación: Tabuladores</Text>
+      <Text>進口碼頭：製表機</Text>
     </Text>
     <Text>
       <GUID>1441351</GUID>
-      <Text>Puerto de Importación: Whisky Bourbon</Text>
+      <Text>進口碼頭：威士忌</Text>
     </Text>
     <Text>
       <GUID>1441352</GUID>
-      <Text>Puerto de Importación: carruajes de vapor</Text>
+      <Text>進口碼頭：汽車</Text>
     </Text>
     <Text>
       <GUID>1441359</GUID>
-      <Text>Puerto de Importación: Diamantes</Text>
+      <Text>進口碼頭：鑽石</Text>
     </Text>
     <Text>
       <GUID>1441358</GUID>
-      <Text>Puerto de Importación: Lingotes de Plata</Text>
+      <Text>進口碼頭：銀錠</Text>
     </Text>
     <Text>
       <GUID>1441357</GUID>
-      <Text>Puerto de Importación: Tungsteno</Text>
+      <Text>進口碼頭：鎢鋼</Text>
     </Text>
     <Text>
       <!-- Magnate Buff Building in Asia-->
       <GUID>1441332</GUID>
-      <Text>Oficina Regional</Text>
+      <Text>區域辦公室</Text>
     </Text>
     <Text>
       <!-- Redeeming Trade Licenses Text-->
       <GUID>1441331</GUID>
-      <Text>Redimiendo[AssetData(1999005351) Text]</Text>
+      <Text>兌換[AssetData(1999005351) Text]</Text>
     </Text>
     <!-- Production -->
     <Text>
       <GUID>1441279</GUID>
-      <Text>Extractor de grasa</Text>
+      <Text>精煉工作坊</Text>
     </Text>
     <Text>
       <GUID>1441237</GUID>
-      <Text>Mina de Carbón</Text>
+      <Text>煤礦場</Text>
     </Text>
     <Text>
       <GUID>1441238</GUID>
-      <Text>Mina de Cobre</Text>
+      <Text>銅礦場</Text>
     </Text>
     <Text>
       <GUID>1441241</GUID>
-      <Text>Pozo de Arcilla</Text>
+      <Text>陶土礦場</Text>
     </Text>
     <Text>
       <GUID>1441242</GUID>
-      <Text>Fábrica de Yeso de Arcilla</Text>
+      <Text>灰泥礦場</Text>
     </Text>    
     <Text>
       <GUID>1441243</GUID>
@@ -421,7 +421,7 @@
     </Text>
     <Text>
       <GUID>1441234</GUID>
-      <Text>Cabaña de Leñador</Text>
+      <Text>伐木工人小屋</Text>
     </Text>
     <Text>
       <GUID>1441236</GUID>
@@ -441,117 +441,117 @@
     </Text>
     <Text>
       <GUID>1441356</GUID>
-      <Text>Caviar</Text>
+      <Text>魚子醬</Text>
     </Text>
     <Text>
       <GUID>1441263</GUID>
-      <Text>Alto Horno</Text>
+      <Text>高爐</Text>
     </Text>
     <Text>
       <GUID>1441264</GUID>
-      <Text>Acerería</Text>
+      <Text>煉鋼廠</Text>
     </Text>
     <Text>
       <GUID>1441265</GUID>
-      <Text>Cristalero</Text>
+      <Text>玻璃廠</Text>
     </Text>
     <Text>
       <GUID>1441266</GUID>
-      <Text>Fábrica de Filamentos</Text>
+      <Text>燈絲工廠</Text>
     </Text>
     <Text>
       <GUID>1441267</GUID>
-      <Text>Fábrica de Concreto</Text>
+      <Text>混凝土廠</Text>
     </Text>
     <Text>
       <GUID>1441277</GUID>
-      <Text>Fábricante de Ventanas</Text>
+      <Text>窗戶工廠</Text>
     </Text>
     <Text>
       <GUID>1441268</GUID>
-      <Text>Central de Petróleo</Text>
+      <Text>燃油發電廠</Text>
     </Text>
     <Text>
       <GUID>1441269</GUID>
-      <Text>Fábrica de Dinamita</Text>
+      <Text>炸藥工廠</Text>
     </Text>
     <Text>
       <GUID>1441270</GUID>
-      <Text>Fundición de Latón</Text>
+      <Text>青銅冶煉廠</Text>
     </Text>
     <Text>
       <GUID>1441271</GUID>
-      <Text>Fábrica de Motores</Text>
+      <Text>蒸汽機裝配線</Text>
     </Text>
     <Text>
       <GUID>1441272</GUID>
-      <Text>Orfebre</Text>
+      <Text>黃金冶煉廠</Text>
     </Text>
     <Text>
       <GUID>1441273</GUID>
-      <Text>Fábrica de Carros</Text>
+      <Text>車輛製造廠</Text>
     </Text>
     <Text>
       <GUID>1441275</GUID>
-      <Text>Fábrica de Plástico</Text>
+      <Text>塑料廠</Text>
     </Text>
     <Text>
       <GUID>1441287</GUID>
-      <Text>Detector de señales</Text>
+      <Text>接收機</Text>
     </Text>
     <Text>
       <GUID>1441292</GUID>
-      <Text>Refineria de Petróleo</Text>
+      <Text>煉油廠</Text>
     </Text>
     <Text>
       <GUID>1441293</GUID>
-      <Text>Pozo de Petróleo</Text>
+      <Text>油井</Text>
     </Text>
     <!-- Recipes -->
     <Text>
       <GUID>1441288</GUID>
-      <Text>Cuerdas</Text>
+      <Text>琴弦</Text>
     </Text>
     <Text>
       <GUID>1441289</GUID>
-      <Text>Puntas estilográficas</Text>
+      <Text>鋼筆頭</Text>
     </Text>
     <Text>
       <GUID>1441304</GUID>
-      <Text>Barniz</Text>
+      <Text>亮面漆</Text>
     </Text>
     <Text>
       <GUID>1441305</GUID>
-      <Text>Celuloide</Text>
+      <Text>赛璐珞</Text>
     </Text>
     <Text>
       <GUID>1441306</GUID>
-      <Text>Etanol</Text>
+      <Text>乙醇</Text>
     </Text>
     <Text>
       <GUID>1441314</GUID>
-      <Text>Oshi-Sushi</Text>
+      <Text>壽司</Text>
     </Text>
     <Text>
       <GUID>1441315</GUID>
-      <Text>Salsa de soya</Text>
+      <Text>醬油</Text>
     </Text>
     <Text>
       <GUID>1441334</GUID>
-      <Text>Fideos</Text>
+      <Text>麵條</Text>
     </Text>
     <Text>
       <GUID>1441335</GUID>
-      <Text>Tofu</Text>
+      <Text>豆腐</Text>
     </Text>
     <Text>
       <!-- Blank Recipe-->
       <GUID>1441319</GUID>
-      <Text>Cocina</Text>
+      <Text>廚房</Text>
     </Text>
     <Text>
       <GUID>1441318</GUID>
-      <Text>Pato Asado</Text>
+      <Text>烤鴨</Text>
     </Text>
     
   </ModOp>

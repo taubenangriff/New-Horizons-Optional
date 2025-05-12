@@ -1,0 +1,364 @@
+<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <Text>
+            <GUID>1414187001</GUID>
+            <Text>Grande Pagode : Reconstruction</Text>
+        </Text>
+        <Text>
+            <GUID>1414187002</GUID>
+            <Text>Grande Pagode</Text>
+        </Text>
+        <Text>
+            <GUID>1414187006</GUID>
+            <Text>Sanctuaire : Reconstruction</Text>
+        </Text>
+        <Text>
+            <GUID>1414187007</GUID>
+            <Text>Sanctuaire</Text>
+        </Text>
+        <Text>
+            <GUID>1414187008</GUID>
+            <Text>Salle Royale : Reconstruction</Text>
+        </Text>
+        <Text>
+            <GUID>1414187009</GUID>
+            <Text>Salle Royale</Text>
+        </Text>
+        <Text>
+            <GUID>1414187010</GUID>
+            <Text>Daibutsu : Reconstruction</Text>
+        </Text>
+        <Text>
+            <GUID>1414187011</GUID>
+            <Text>Daibutsu</Text>
+        </Text>
+        <Text>
+            <GUID>1414187012</GUID>
+            <Text>Pavillon des Plaisirs : Reconstruction</Text>
+        </Text>
+        <Text>
+            <GUID>1414187013</GUID>
+            <Text>Pavillon des Plaisirs</Text>
+        </Text>
+        <Text>
+            <GUID>1414018135</GUID>
+            <Text>La première étape vers la reconstruction de la merveille est de reconstruire ses fondations. Après cela, seuls nos archéologues et nous connaîtrons la vérité. De toute façon, votre peuple sera ébloui par les toits dorés et brillants des merveilles reconstruites.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018136</GUID>
+            <Text>Fondation de Merveille</Text>
+        </Text>
+        <Text>
+            <GUID>1414018137</GUID>
+            <Text>Les travaux de construction de la Fondation de Merveille sont à l'arrêt.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018138</GUID>
+            <Text>Érigez des restaurations de différentes merveilles sur ces fondations.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018139</GUID>
+            <Text>Fondation de Merveille</Text>
+        </Text>
+        <Text>
+            <GUID>1414018140</GUID>
+            <Text>Un toit géant.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018141</GUID>
+            <Text>Un lieu sacré de tradition.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018142</GUID>
+            <Text>Un lieu où la loyauté inconditionnelle envers l'État est honorée.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018143</GUID>
+            <Text>Statue de Bouddha.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018144</GUID>
+            <Text>Un rappel du patrimoine culturel de Horai.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018145</GUID>
+            <Text>La Grande Pagode améliorera le Feng Shui local et rappellera à votre peuple de préserver les traditions locales de temps à autre. Pour cela, il faut empiler plusieurs étages les uns sur les autres.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018146</GUID>
+            <Text>Pour construire un lieu de prière pour les moines, de nombreux blocs de pierre doivent être sculptés et assemblés avec précision. Et le toit doit absolument être en or.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018147</GUID>
+            <Text>À l'ère des poutres d'acier, construire un toit avec plusieurs mètres de surplomb semble trivial, mais dans ce cas, vos architectes le font de manière traditionnelle, en soutenant un lourd toit doré avec une simple charpente en bois.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018148</GUID>
+            <Text>Une majestueuse statue de Bouddha assemblée à partir de plaques de bronze coulées individuellement sur une structure en acier. Le résultat semble ancien, la structure interne utilisée pour la première fois sur le Christ Rédempteur est assez moderne.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018149</GUID>
+            <Text>Le Pavillon du Plaisir est dédié au patrimoine culturel de Horai. Une fois terminé, l'intérieur sera rempli de statues impressionnantes.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018150</GUID>
+            <Text>La construction de la Merveille est à l'arrêt.</Text>
+        </Text>
+        <Text>
+            <GUID>1414187005</GUID>
+            <Text>Fondation de Merveille : Construction</Text>
+        </Text>
+        <Text>
+            <GUID>1414018155</GUID>
+            <Text>Vos archéologues ont terminé le nettoyage et découvert les vestiges d'un Pavillon des Plaisirs.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018156</GUID>
+            <Text>Vos archéologues ont terminé le nettoyage et découvert les vestiges d'une statue de Daibutsu.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018157</GUID>
+            <Text>Vos archéologues ont terminé le nettoyage et découvert les vestiges d'une salle royale.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018158</GUID>
+            <Text>Vos archéologues ont terminé le nettoyage et découvert les vestiges d'un Sanctuaire.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018159</GUID>
+            <Text>Vos archéologues ont terminé le nettoyage et découvert les vestiges d'une Grande Pagode.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018215</GUID>
+            <Text>Un reliquaire sacré pouvant contenir différentes reliques.</Text>
+        </Text>
+        <Text>
+            <GUID>1414187040</GUID>
+            <Text>Stupa : Reconstruction</Text>
+        </Text>
+        <Text>
+            <GUID>1414187041</GUID>
+            <Text>Stupa</Text>
+        </Text>
+        <Text>
+            <GUID>1414018216</GUID>
+            <Text>Vos archéologues ont terminé le nettoyage et découvert les vestiges d'un stupa.</Text>
+        </Text>
+        <Text>
+            <GUID>1414187047</GUID>
+            <Text>Réplique de relique</Text>
+        </Text>
+        <Text>
+            <GUID>1414187048</GUID>
+            <Text>Elle trompe l'œil du prenier venu, mais les restes de répliques restent des restes de répliques. Une relique originale pourrait être un meilleur choix.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018217</GUID>
+            <Text>Affecte le rayon du Stupa</Text>
+        </Text>
+        <Text>
+            <GUID>1414018218</GUID>
+            <Text>Affecte [ItemAssetData(1414187045) ItemOrBuffEffectTargetsFormatted] dans le rayon du Stupa</Text>
+        </Text>
+        <Text>
+            <GUID>1414018220</GUID>
+            <Text>Stupa Radius is determined through the equipped relic.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018221</GUID>
+            <Text>Rayon du Stupa</Text>
+        </Text>
+        <Text>
+            <GUID>1445639</GUID>
+            <Text>Merveilles</Text>
+        </Text>
+        <Text>
+            <GUID>1414018229</GUID>
+            <Text>Stand de restauration</Text>
+        </Text>
+        <Text>
+            <GUID>1414018230</GUID>
+            <Text>500 + Bonus de relique</Text>
+        </Text>
+        <Text>
+            <GUID>1414018231</GUID>
+            <Text>Consomme  [AssetData(1440216) Text]</Text>
+        </Text>
+        <Text>
+            <GUID>1414018232</GUID>
+            <Text>Nécessite une population dans le rayon</Text>
+        </Text>
+        <Text>
+            <GUID>1414018233</GUID>
+            <Text>Consomme [AssetData(1010221) Text]</Text>
+        </Text>
+        <Text>
+            <GUID>1414018234</GUID>
+            <Text>Consomme [AssetData(1440306) Text]</Text>
+        </Text>
+        <Text>
+            <GUID>1414018235</GUID>
+            <Text>Consomme [AssetData(1440229) Text]</Text>
+        </Text>
+        <Text>
+            <GUID>1414018236</GUID>
+            <Text>Requiert une relique</Text>
+        </Text>
+        <Text>
+            <GUID>1414018237</GUID>
+            <Text>Le Stupa apparaît avec une réplique de relique moins puissante que les reliques originales.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018238</GUID>
+            <Text>Le stupa est composé de six parties : une plateforme carrée pour le trône, une cavité circulaire pour les jambes croisées, un dôme pour le torse, une chambre à reliques carrée pour la tête, un sommet pour l'ushnisha et une couronne pour la bodhi.</Text>
+        </Text>
+        <!-- Diverse -->
+
+        <Text>
+            <GUID>1414018246</GUID>
+            <Text>Patrie</Text>
+        </Text>
+        <Text>
+            <GUID>1414018249</GUID>
+            <Text>Taille de l'envoi en tonnes</Text>
+        </Text>
+        <Text>
+            <GUID>1414018250</GUID>
+            <Text>Accepte les marchandises suivantes :</Text>
+        </Text>
+        <Text>
+            <GUID>1414018251</GUID>
+            <Text>Nombre d'expéditions par livraison</Text>
+        </Text>
+        <Text>
+            <GUID>1414018252</GUID>
+            <Text>Remplissez cet entrepôt, puis terminez une mission de livraison pour recevoir un gros dédommagement.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018253</GUID>
+            <Text>Espace plein !</Text>
+        </Text>
+        <Text>
+            <GUID>1414018247</GUID>
+            <Text>Vous pouvez vous procurer des objets de valeur en coulant des convois royaux</Text>
+        </Text>
+        <Text>
+            <GUID>1414018258</GUID>
+            <Text>Vous pouvez vous procurer de la drogue saisie en coulant des convois royaux</Text>
+        </Text>
+        <Text>
+            <GUID>1414018259</GUID>
+            <Text>Cette majestueuse villa coloniale a été construite pour l'officier commercial du Port Omega. Dans le cadre de la réactivation du Port Omega, James Goodwill a rénové le bâtiment pour lui-même, y ajoutant notamment des portes miniatures pour ses deux chats de compagnie, Nut et Geb, et une pièce insonorisée pour sa pratique quotidienne du duduk, un instrument qu'il adore, mais que les autres n'aiment pas vraiment entendre jouer.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018260</GUID>
+            <Text>Feu Pyrophorien</Text>
+        </Text>
+        <!-- Items -->
+        <Text>
+            <GUID>1414011120</GUID>
+            <Text>"A"</Text>
+        </Text>
+        <Text>
+            <GUID>1414011121</GUID>
+            <Text>Avec la précision d'une carte dessinée dans la brume, la confiance de celui qui avance les yeux bandés et la pertinence d'une clé qui ne fait tourner aucune serrure, vos choix ont pourtant des conséquences qui défient toute attente – c'est remarquable, en un sens, mais pas pour les raisons qu'on pourrait espérer.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011122</GUID>
+            <Text>Mustelus de Mercatore</Text>
+        </Text>
+        <Text>
+            <GUID>1414011123</GUID>
+            <Text>Ses origines modestes de fils d'ouvrier d'usine sont à l'origine de son talent à trouver des failles dans les règles et réglementations.</Text>
+        </Text>
+
+        <Text>
+            <GUID>1414011034</GUID>
+            <Text>Graines de riz hybride</Text>
+        </Text>
+        <Text>
+            <GUID>1414011035</GUID>
+            <Text>Graines de thé hybrides</Text>
+        </Text>
+        <Text>
+            <GUID>1414011036</GUID>
+            <Text>Graines de chanvre hybrides</Text>
+        </Text>
+        <Text>
+            <GUID>1414011037</GUID>
+            <Text>Graines de poivre hybrides</Text>
+        </Text>
+        <Text>
+            <GUID>1414011038</GUID>
+            <Text>Graines de mûrier hybrides</Text>
+        </Text>
+        <Text>
+            <GUID>1414011039</GUID>
+            <Text>Graines d'ume hybrides</Text>
+        </Text>
+        <Text>
+            <GUID>1414011000</GUID>
+            <Text>HRuches hybrides</Text>
+        </Text>
+        <Text>
+            <GUID>1414011001</GUID>
+            <Text>Graines de soja hybrides</Text>
+        </Text>
+        <Text>
+            <GUID>1414011002</GUID>
+            <Text>Nana Mochi, Céréales étrangères</Text>
+        </Text>
+        <Text>
+            <GUID>1414011003</GUID>
+            <Text>Nana aime le jaune et toutes les cultures de cette couleur brillante. L'or n'est pas le seul à lui conquérir le cœur.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011004</GUID>
+            <Text>Kiyoshi Katou, Poisson transformé</Text>
+        </Text>
+        <Text>
+            <GUID>1414011005</GUID>
+            <Text>Kiyoshi préfère câliner les cochons plutôt que de les transformer en suif. Avec les poissons? Pas de problèmes.</Text>
+        </Text>
+        <Text>
+            <GUID>1414040622</GUID>
+            <Text>Magnat</Text>
+        </Text>
+        <Text>
+            <GUID>1414040623</GUID>
+            <Text>Gōngrén</Text>
+        </Text>
+        <!-- Zoo Animal -->
+        <Text>
+            <GUID>1414018261</GUID>
+            <Text>&lt;b&gt;Mustela altaica.&lt;/b&gt; Si les visiteurs du zoo semblent apprécier ses représentations, les gardiens ne sont pas toujours enchantés par la nature de ses caprices.</Text>
+        </Text>
+        <!-- Loading Scene Tips -->
+        <Text>
+            <GUID>1414006670</GUID>
+            <Text>L'amiral Wu Guowei, fils d'une famille de diplomates de l'Empire, a autrefois connu une ascension fulgurante au sein de la marine impériale. Cependant, la flotte impériale, vétuste, a de moins en moins fait le poids face aux puissances occidentales, et une défaite humiliante a scellé le sort de l'Empire de Tianming et de Wu lui même. Cherchant désespérément à maintenir l'unité de l'Orient et à faire ses preuves une fois de plus, Wu est désormais aux confins de Horai, acceptant la réalité de n'être qu'un requin parmi tant d'autres, plus agressifs et arrivés d'outre-mer.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018239</GUID>
+            <Text>James Goodwill était un haut fonctionnaire de l'administration de l'E.T.A. qui contrôlait de vastes régions de l'Inde. Un poste qui lui fut brutalement retiré par la reine qui s'était emparée de la région pour le trône, le reléguant à un poste d'officier commercial de moindre importance. Cependant, la Reine ignore que Goodwill joue un jeu de vengeance personnelle et de profits à long terme, s'alliant à des forces plus discrêtes au sein du Conseil royal : sous son réseau commercial légal se cache un marché noir florissant qui vend tout ce dont les gens ont besoin, ce dont ils n'ont pas besoin et ce dont ils feraient mieu de se priver.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018240</GUID>
+            <Text>Majipun était une ville portuaire utopique, offrant richesse, culture et l'un des jardins les plus célèbres du Tianming guo à ses habitants. Tout cela a changé lorsque les Tianming ont perdu leur guerre contre la Couronne et que des traités inégaux leur ont été imposés. Si l'apparence utopique n'a pas changé, derrière le voile, le peuple de Majipun vit dans la misère sous la dictature militaire de l'amiral Wu.</Text>
+        </Text>
+
+        <Text>
+            <GUID>1414018241</GUID>
+            <Text>Le Port Omega était à l'origine une petite colonie portuaire à Horai, composée d'une chapelle et de quelques maisons de briques. Après dix ans d'abandon, James Goodwill a repris la colonie dans le cadre de son nouveau poste d'officier commercial pour la région. Il l'a revitalisée, reconstruite et agrandie, l'utilisant comme centre commercial et de stockage personnel.</Text>
+        </Text>
+
+        <Text>
+            <GUID>1414018242</GUID>
+            <Text>On sait peu de choses sur les Pyrophoriens, qui ils sont, d'où ils viennent ou qui les commande. Il est évident qu'ils s'organisent en une force militaire redoutable à Castrum Ignae, une ancienne forteresse bénéficiant de l'avantage de se situer dans une région où règne un vide de pouvoir, où les Pyrophoriens expérimentent l'Œil du Dragon pour créer un mal incompréhensible pour l'homme.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018243</GUID>
+            <Text>Dans la tradition des flottes de l'ancienne civilisation spartiate, les Pyrophoriens n'ont toujours eu qu'un seul Navarque, qui supervise personnellement l'intervention militaire. On pense que le Navarque est en rivalité constante avec le Grand Maître Pyrophorien, maintenant un équilibre de pouvoir fragile, qui a radicalement changé depuis que le Navarque a volé l'Œil du Dragon dans les salles aux trésors de l'Empereur Ruize.</Text>
+        </Text>
+    </ModOp>
+</ModOps>

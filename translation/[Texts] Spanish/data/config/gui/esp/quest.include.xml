@@ -1,0 +1,677 @@
+<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <Text>
+            <GUID>1414019037</GUID>
+            <Text>[AssetData([NotificationContext CharacterGUID]) Text] te ofrece algo de arroz para recoger y ayudarte a superar el monzón.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019038</GUID>
+            <Text>Los monzones barren regularmente estas tierras, deteniendo toda la producción agrícola durante su duración. Tus ciudades no están bien preparadas para esto. Para ayudarte a superar tu primer monzón, James Goodwill acude rápidamente en tu ayuda.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019039</GUID>
+            <Text>[AssetData([NotificationContext CharacterGUID]) Text] te pregunta si estás listo para cargar el arroz.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019040</GUID>
+            <Text>[AssetData([NotificationContext CharacterGUID]) Text] te entrega el arroz.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019041</GUID>
+            <Text>[AssetData([NotificationContext CharacterGUID]) Text] está sorprendido de que ni siquiera quieras el arroz.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019042</GUID>
+            <Text>[AssetData([NotificationContext CharacterGUID]) Text] te ofrece orientación sobre Horai.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019043</GUID>
+            <Text>[AssetData([NotificationContext CharacterGUID]) Text] está feliz de que estés preparado para el próximo monzón.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019044</GUID>
+            <Text>[AssetData([NotificationContext CharacterGUID]) Text] nota tu preparación deficiente y no te ayudará esta vez.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019045</GUID>
+            <Text>Los monzones son duros, detienen toda tu producción. El próximo monzón es solo cuestión de tiempo, ¡así que empieza a prepararte!</Text>
+        </Text>
+        <Text>
+            <GUID>1414019046</GUID>
+            <Text>Tus granjas dejarán de producir durante el monzón. Durante la temporada seca, tus granjas pueden cosechar y obtienen un aumento del 50% en la producción, por lo que dos granjas de arroz siguen siendo suficientes para una fábrica de sushi. Tu tarea: proporcionar suficiente espacio de almacenamiento para guardar la producción durante el monzón.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019047</GUID>
+            <Text>Tener en almacenamiento: <br/>[Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount]t [AssetData([Conditions QuestCondition Context]) Text]</Text>
+        </Text>
+        <Text>
+            <GUID>1414040617</GUID>
+            <Text>Tutorial - Si al principio no lo consigues...</Text>
+        </Text>
+        <Text>
+            <GUID>1414040620</GUID>
+            <Text>Tutorial - Estaciones</Text>
+        </Text>
+        <Text>
+            <GUID>1414018000</GUID>
+            <Text>Construye una calle comercial alrededor de tu Exposición Universal en [Area Area([Conditions QuestArea]) CityName], que incluya:</Text>
+        </Text>
+        <Text>
+            <GUID>1414040434</GUID>
+            <Text>Entrega de C.C.O: Galería del Glamour</Text>
+        </Text>
+        <Text>
+            <GUID>1414040436</GUID>
+            <Text>Entrega de C.C.O: Galería del Glamour</Text>
+        </Text>
+        <Text>
+            <GUID>1414040437</GUID>
+            <Text>Entrega de C.C.O: Galería del Glamour</Text>
+        </Text>
+        <Text>
+            <GUID>1414040439</GUID>
+            <Text>Entrega de C.C.O: Galería del Glamour</Text>
+        </Text>
+        <Text>
+            <GUID>1414018001</GUID>
+            <Text>Entrega 15t de cualquier producto de lujo al comerciante en tu Exposición Universal en [Area Area([Conditions QuestArea]) CityName].</Text>
+        </Text>
+        <Text>
+            <GUID>1414018002</GUID>
+            <Text>El comerciante Childan espera con entusiasmo tus artículos de exhibición.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018003</GUID>
+            <Text>El comerciante Childan te agradece por los artículos de exhibición.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018004</GUID>
+            <Text>Inicia cualquier evento de la Exposición Universal en [Area Area([Conditions QuestArea]) CityName]</Text>
+        </Text>
+        <Text>
+            <GUID>1414018005</GUID>
+            <Text>¡Un día espléndido! He sido elegido para albergar el gran Arcade Comercial de la Exposición Universal de esta temporada. Oh... oh..., discúlpame, ¿dónde he dejado mis modales? Permíteme presentarme. Soy Robert Childan, proveedor de finas antigüedades y lujos raros. Sueño con un gran campus de artesanía, una verdadera muestra de lo mejor de lo mejor. ¿No tendrás lujos en cantidad por ahí? No importa, tenemos mucho por hacer. ¡Comencemos a construir este campus juntos!</Text>
+        </Text>
+        <Text>
+            <GUID>1414018006</GUID>
+            <Text>¡Piezas exquisitas! Verdaderas obras de arte, delicadamente elaboradas. Todo está listo, excepto... ¿dónde están los visitantes? ¿El evento aún no ha comenzado? ¡Necesitamos empezar los preparativos, de inmediato!</Text>
+        </Text>
+        <Text>
+            <GUID>1414018007</GUID>
+            <Text>Alguien acaba de llegar y compró todo nuestro inventario al instante, ¡sin hacer preguntas! Eso es lo que llamo un éxito rotundo.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018008</GUID>
+            <Text>El comerciante Childan te espera ansiosamente en la Exposición Universal.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018009</GUID>
+            <Text>Selecciona tu Exposición Universal</Text>
+        </Text>
+        <Text>
+            <GUID>1414018010</GUID>
+            <Text>El comerciante Childan solicita algunas muestras para exhibir.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018011</GUID>
+            <Text>El comerciante Childan está interesado en saber qué pasó con las muestras solicitadas.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018012</GUID>
+            <Text>Envía tus Corredores de Bloqueo al extranjero a [Area Area([Conditions QuestArea]) CityName], para estar listo cuando aparezca un comprador.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018013</GUID>
+            <Text>El comerciante Childan presenta su pabellón de bienes de lujo a inversores con bolsillos profundos, ansiosos por gastar sin pestañear.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018014</GUID>
+            <Text>[AssetData([NotificationContext CharacterGUID]) Text] quiere atraer compradores potenciales en una Exposición Universal.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018015</GUID>
+            <Text>¿Qué mejor manera de mover grandes volúmenes de contrabando —legalmente, por supuesto— que bajo las luces glamorosas de la Exposición Universal? Las ventas son rápidas, y la demanda a menudo supera la oferta... pero no esta vez. James Goodwill ha asegurado los servicios de un comerciante de antigüedades experimentado para gestionar la operación, asegurándose de que nada se escape, excepto, tal vez, algunos principios éticos.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018016</GUID>
+            <Text>Construye una Puerta, un Pabellón y una Torre en un radio de 20 casillas alrededor de tu Exposición Universal.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018017</GUID>
+ gör
+            <Text>Obtén Ornamentos de la Exposición Universal completando exhibiciones arquitectónicas.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018018</GUID>
+            <Text>Robert "Bob" Childan se dedica principalmente a las antigüedades, una categoría de bienes que no se produce en las cantidades necesarias para un evento de este tamaño. Para ofrecer la mejor experiencia de compra, el señor Childan necesita más muestras para exhibir en su sala de exposición.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018019</GUID>
+            <Text>La sala de exposición está completa, ahora lo único que falta son los clientes. Organizar un gran evento como este debería ser un trabajo de un día como máximo, al menos según el señor Childan.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018020</GUID>
+            <Text>Selecciona tu Exposición Universal para comenzar los preparativos de una exhibición. Las exhibiciones en curso no cuentan.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018021</GUID>
+            <Text>Alguien acaba de comprar todo nuestro inventario, incluido el servicio de envío. El señor Childan está feliz por el éxito arrollador en las ventas, sin siquiera preguntarse de dónde provienen todos los lujos.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018022</GUID>
+            <Text>[AssetData([NotificationContext CharacterGUID]) Text] está feliz por la repentina aparición de un comprador.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018023</GUID>
+            <Text>Viaje a Volkhetka</Text>
+        </Text>
+        <Text>
+            <GUID>1414018024</GUID>
+            <Text>Para proporcionar un mercado, las unidades voluntarias deben primero realizar su viaje a través del mar.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019001</GUID>
+            <Text>Barco que se hunde</Text>
+        </Text>
+        <Text>
+            <GUID>1414019002</GUID>
+            <Text>Un silbido fuerte y agudo sacude a tu tripulación de su descanso vespertino, sumiéndolos en el pánico. Al principio, suena como si la caldera estuviera tomando agua, una señal segura de que el barco se está hundiendo rápidamente y que el desastre está a solo momentos de distancia.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019003</GUID>
+            <Text>¡Abandonar el barco!</Text>
+        </Text>
+        <Text>
+            <GUID>1414019009</GUID>
+            <Text>!EventPool Kamchatka</Text>
+        </Text>
+        <Text>
+            <GUID>1414019004</GUID>
+            <Text>Rescatar a los marineros</Text>
+        </Text>
+        <Text>
+            <GUID>1414019005</GUID>
+            <Text>Calmar a la tripulación</Text>
+        </Text>
+        <Text>
+            <GUID>1414019006</GUID>
+            <Text>Hacer que un técnico examine la situación</Text>
+        </Text>
+        <Text>
+            <GUID>1414019008</GUID>
+            <Text>El caos estalla cuando tu tripulación pierde todo sentido del orden, saltando al mar sin esperar a que se bajen los botes salvavidas. Pero rápidamente, queda claro que han cometido un grave error. No hay ninguna fuga aparente, y los marineros que corren a la sala de máquinas no encuentran señales de agua inundando el barco.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019010</GUID>
+            <Text>Con un golpe de suerte, logras salvar a la mayoría de tu tripulación. A pesar de algunas heridas graves, se recuperarán. Pero no todos tienen tanta suerte: un joven marinero yace casi sin vida en la cubierta.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019011</GUID>
+            <Text>Logras salvar a la mayoría de tu tripulación, aunque algunos de tus hombres se pierden.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019012</GUID>
+            <Text>Los esfuerzos de rescate terminan rápidamente en desastre. Entre los marineros que se ahogan, ves a algunos de tus reclutas voluntarios en el agua, luchando por sus vidas.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019013</GUID>
+            <Text>Intentar reanimar al joven marinero</Text>
+        </Text>
+        <Text>
+            <GUID>1414019014</GUID>
+            <Text>El joven marinero lucha por su vida junto a tu tripulación. Demasiado joven para estar al final de su viaje, resurge en el reino de los vivos, despertando esperanzas de una recuperación completa.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019015</GUID>
+            <Text>Los esfuerzos de reanimación resultan en vano, ya que el joven marinero sucumbe a sus heridas en la cubierta. La tripulación permanece impotente, mirando el cuerpo sin vida. La visión de un alma tan joven desvaneciéndose, tan poco después de perder a otros compañeros, es casi demasiado para ellos.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019016</GUID>
+            <Text>Ocultar al marinero del resto de la tripulación</Text>
+        </Text>
+        <Text>
+            <GUID>1414019017</GUID>
+            <Text>El joven marinero sucumbe silenciosamente a sus heridas solo, en la oscuridad. Una tragedia personal, de la que tu tripulación no se entera, creyendo que el marinero pereció en las aguas, una realidad con la que ya habían lidiado horas atrás.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019018</GUID>
+            <Text>Por ahora, la tripulación se está uniendo detrás de tu liderazgo, dejando de lado su pánico y confiando en que tienes razón en este asunto. Pero esto te deja con una decisión difícil: ¿qué sigue? Un ruido preocupante emana de la sala de máquinas, insinuando una posible fuga y la posibilidad de que las calderas estén tomando agua.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019019</GUID>
+            <Text>Ir a la sala de máquinas</Text>
+        </Text>
+        <Text>
+            <GUID>1414019020</GUID>
+            <Text>Intentar encontrar la fuga en el casco</Text>
+        </Text>
+        <Text>
+            <GUID>1414019021</GUID>
+            <Text>Tus palabras no logran convencer, y el caos estalla rápidamente. La tripulación, en pánico, abandona toda razón, saltando al mar sin esperar a que se bajen los botes salvavidas. Pero rápidamente, queda claro que han cometido un grave error. No hay ninguna fuga aparente, y los marineros que corren a la sala de máquinas no encuentran señales de agua inundando el barco.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019022</GUID>
+            <Text>La tripulación confía plenamente en el liderazgo sólido del maquinista, confiando en que tiene razón en este asunto. Pero esto te deja con una decisión difícil: ¿qué sigue? Un ruido preocupante emana de la sala de máquinas, insinuando una posible fuga y la posibilidad de que las calderas estén tomando agua.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019023</GUID>
+            <Text>Y ahí está: la fuente de todo este caos. El barco no se está hundiendo rápidamente, ni siquiera se está hundiendo. Lo que parecía una sala de calderas inundándose de agua es en realidad solo una tubería de vapor dañada, rota como un huevo, filtrando vapor en todas direcciones. Redirigir el vapor a través de la tubería adyacente parece una solución viable, asumiendo, por supuesto, que tienes algo de experiencia técnica.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019024</GUID>
+            <Text>Reparar la tubería dañada</Text>
+        </Text>
+        <Text>
+            <GUID>1414019025</GUID>
+            <Text>Hacer que el maquinista repare la tubería</Text>
+        </Text>
+        <Text>
+            <GUID>1414019026</GUID>
+            <Text>Sellar la tubería con tela</Text>
+        </Text>
+        <Text>
+            <GUID>1414019027</GUID>
+            <Text>La tubería es reparada rápidamente por las manos hábiles de tu tripulación. El fuerte ruido metálico cesa mientras el vapor ahora fluye suavemente a través de la tubería adyacente. Con un asentimiento satisfecho, la tripulación declara la misión un éxito y se dirige a la cubierta, dejando en tus manos unos metros de chatarra, útil para futuras reparaciones.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019028</GUID>
+            <Text>Lo que sea que tus técnicos estén intentando, nada parece funcionar. El vapor sigue escapando por aberturas inesperadas, y la tubería dañada permanece obstinadamente intacta. Al menos el ruido se ha reducido, haciendo el sonido más tolerable por el momento, aunque la molestia es evidente en los rostros de tu tripulación.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019029</GUID>
+            <Text>Poner tela sobre el problema no parece ayudar. El vapor empuja la tela lejos de la tubería, y ningún tornillo puede sujetarla cuando la tela simplemente se desgarra. Los restos afilados de la tubería rota no facilitan las cosas, cortando la tela y dejándote con un ruido constante y una tripulación molesta por el resto del viaje.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019030</GUID>
+            <Text>Con un estruendo ensordecedor, tus reparadores inexpertos pagan el precio por su arrogancia. Al olvidar apagar las máquinas para estas reparaciones, la tubería adyacente se rompe violentamente, enviando fragmentos en todas direcciones. Tu técnico no tuvo ninguna oportunidad. Para añadir insulto a la injuria, la explosión solo empeora el ruido, transformándolo en una cacofonía total.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019031</GUID>
+            <Text>Poner tela sobre el problema tendrá que bastar por el resto del viaje. La tela parece resistir, y el ruido se amortigua a un nivel donde dormir sin interrupciones es posible de nuevo. El vapor escapa por ventilaciones cortadas ingeniosamente, y las partes que hacen ruido ahora están amortiguadas por gruesas capas de tela. No es una solución perfecta, pero la tubería dañada ya no es un problema urgente.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019032</GUID>
+            <Text>El largo viaje de tu escuadrón ha dado frutos. Una afluencia significativa de reclutas del Nuevo Mundo proporcionará la mano de obra necesaria para que el levantamiento cambie el rumbo del conflicto. Ahora, todo lo que queda es asegurar las armas necesarias para el empujón final hacia la libertad.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019032</GUID>
+            <Text>!RewardKamchatka</Text>
+        </Text>
+        <Text>
+            <GUID>1414019033</GUID>
+            <Text>El buzo emerge de las profundidades, habiendo sobrevivido a las olas tumultuosas. Confirma que no hay ninguna fuga en el barco, y el ruido misterioso debe tener otra fuente. Aunque la tripulación está tranquilizada, su curiosidad permanece insatisfecha, y están ansiosos por descubrir el verdadero origen del sonido.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019034</GUID>
+            <Text>Intentar encontrar una fuga desde el interior</Text>
+        </Text>
+        <Text>
+            <GUID>1414019048</GUID>
+            <Text>La frustración crece rápidamente entre la tripulación mientras el esfuerzo de búsqueda se vuelve cada vez más caótico. En un momento de tensión, el primer oficial pierde los nervios y abandona el barco, desatando el pandemonio. La tripulación, en pánico, abandona toda razón, saltando al mar sin esperar a que se bajen los botes salvavidas. Pero rápidamente, queda claro que han cometido un grave error. Los mares agitados resultan aún más peligrosos que la supuesta amenaza, y desde el agua, los oficiales se dan cuenta de que el barco no se está hundiendo después de todo.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019049</GUID>
+            <Text>La búsqueda de la fuga resulta infructuosa, y aunque es un alivio, también te deja con preocupaciones persistentes. Por un lado, es una buena noticia que no se encontrara ninguna fuga, confirmando la seguridad del barco. Por otro lado, el misterio del ruido ensordecedor de la sala de máquinas sigue sin resolverse.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019050</GUID>
+            <Text>La Isla de los Animales Salvajes</Text>
+        </Text>
+        <Text>
+            <GUID>1414019051</GUID>
+            <Text>¡Tierra a la vista! Tras semanas de navegación, el barco finalmente llega a una gran isla, desprovista de asentamientos humanos. Sin embargo, lo que sí llama la atención son los numerosos animales raros y salvajes dispersos por la tierra. Tu tripulación está ansiosa por capturar algunos para llevar a casa como mascotas exóticas.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019052</GUID>
+            <Text>Permitir que tu tripulación navegue a la isla</Text>
+        </Text>
+        <Text>
+            <GUID>1414019053</GUID>
+            <Text>Prohibir a tu tripulación visitar la isla</Text>
+        </Text>
+        <Text>
+            <GUID>1414019054</GUID>
+            <Text>Gritos eufóricos estallan entre tu tripulación mientras el barco se acerca a la isla. Los marineros se apresuran a reunir todas las herramientas que pueden encontrar: redes, palas, cuerdas, cualquier cosa que pueda ayudarles a capturar un compañero salvaje. Cuando sus botas tocan la arena, se giran hacia ti con entusiasmo, esperando tus órdenes sobre la mejor manera de atrapar mascotas exóticas en la selva.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019055</GUID>
+            <Text>Tras las dificultades de la última semana, la perspectiva de mascotas raras y únicas había levantado el ánimo de la tripulación. Pero ahora, con la isla encogiéndose en el horizonte detrás de ti, está claro que apagar su entusiasmo no ha ayudado exactamente al estado de ánimo general a bordo del barco.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019056</GUID>
+            <Text>Ir a cazar con lazos</Text>
+        </Text>
+        <Text>
+            <GUID>1414019057</GUID>
+            <Text>Construir trampas para los animales</Text>
+        </Text>
+        <Text>
+            <GUID>1414019058</GUID>
+            <Text>Sentarse y rezar para que aparezcan animales</Text>
+        </Text>
+        <Text>
+            <GUID>1414019062</GUID>
+            <Text>Hacer que tu Susurrador de Animales capture un animal</Text>
+        </Text>
+        <Text>
+            <GUID>1414019059</GUID>
+            <Text>¡Eso fue fácil! Atrapas a un animal salvaje desprevenido: antes de que siquiera se dé cuenta de lo que está pasando, ya está enredado en tu lazo. ¡Uno de tus marineros ahora tiene un nuevo compañero! ¿Deberían intentar capturar más?</Text>
+        </Text>
+        <Text>
+            <GUID>1414019060</GUID>
+            <Text>Las criaturas ágiles parecen evadir tus esfuerzos de caza: cada intento es frustrado por sus rápidos reflejos y sentidos agudos. Pero con suficiente paciencia, incluso la suerte puede fallar. Una bestia desafortunada es atrapada desprevenida por los cazadores y es capturada. Ahora que han probado el éxito, ¿cómo deberían continuar la caza?</Text>
+        </Text>
+        <Text>
+            <GUID>1414019061</GUID>
+            <Text>No importa su tamaño, los animales siguen siendo demasiado astutos y ágiles para que tus cazadores los atrapen. Sus esfuerzos rozan lo ridículo, más una comedia de enredos que una caza, ya que comienzan a capturar accidentalmente a otros marineros en su lugar. ¿Quizás es hora de reconsiderar tu enfoque?</Text>
+        </Text>
+        <Text>
+            <GUID>1414019063</GUID>
+            <Text>La trampa bien colocada se activa. Dentro, tu tripulación encuentra un premio inesperado: una nueva mascota para el barco. Con cuidado, los marineros la llevan a bordo. La primera captura está hecha, ¿cuál es el próximo movimiento?</Text>
+        </Text>
+        <Text>
+            <GUID>1414019064</GUID>
+            <Text>La trampa está lejos de ser ideal, apenas oculta y toscamente hecha. Pero a veces, todo lo que se necesita es un animal particularmente desafortunado o estúpido. Con un chasquido repentino, la trampa se cierra, atrapando una nueva mascota desconcertada dentro. ¿Cuál es el próximo paso?</Text>
+        </Text>
+        <Text>
+            <GUID>1414019065</GUID>
+            <Text>Qué desperdicio de esfuerzo ha resultado esta trampa. Aunque logra ser visible desde lejos, con el cebo inexplicablemente colocado fuera en lugar de dentro, no ha capturado animales, un hecho del que tu tripulación se da cuenta cada vez más mientras espera en vano. Eventualmente, su interés en la trampa se desvanece por completo.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019067</GUID>
+            <Text>¡Aleluya! Parece que el destino ha actuado a tu favor: una criatura particularmente audaz camina directamente hacia los brazos de uno de tus marineros, quien rápidamente se hace su amigo. Así, una nueva mascota se une a tu tripulación. ¿Cómo deberían continuar tus marineros?</Text>
+        </Text>
+        <Text>
+            <GUID>1414019068</GUID>
+            <Text>Al final, la paciencia prevalece. Un animal curioso logra enredarse en un arbusto cercano, y tus marineros lo ayudan a liberarse. Agradecido, o tal vez simplemente confundido, la criatura ahora forma parte de la tripulación.</Text>
+        </Text>
+        <Text>
+            <GUID>1414019069</GUID>
+            <Text>Los pensamientos y oraciones literales, sin embargo, han resultado insuficientes. ¿En qué estaban pensando siquiera tus marineros?</Text>
+        </Text>
+        <Text>
+            <GUID>1414019070</GUID>
+            <Text>Abandonar la isla</Text>
+        </Text>
+        <Text>
+            <GUID>1414019071</GUID>
+            <Text>Y con eso, la caza ha terminado. Tus voluntarios recogen su equipo, listos para zarpar una vez más hacia su próximo destino. Junto a ellos hay una variopinta tripulación de animales, convirtiendo lo que una vez fue un formidable barco en algo más parecido a un zoológico flotante.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018034</GUID>
+            <Text>En la accidentada Península de Volkhetka, una rebelión contra el gobierno local tiránico está perdiendo impulso rápidamente. La llama de la resistencia titila, debilitada no por falta de voluntad, sino por la ausencia de combatientes entrenados. Aunque impulsados por un feroz deseo de libertad, los rebeldes carecen de la experiencia para llevar adelante su causa, arriesgándose al fracaso y dejando al pueblo soportar la opresión. James Goodwill urge acción inmediata: enviar ayuda vital y combatientes hábiles para apoyar a los rebeldes antes de que su movimiento colapse por completo.</Text>
+        </Text>
+        <Text>
+            <GUID>1414040701</GUID>
+            <Text>Combatientes Voluntarios</Text>
+        </Text>
+        <Text>
+            <GUID>1414018035</GUID>
+            <Text>Envía a los combatientes al extranjero completando la expedición "Viaje a Volkhetka"</Text>
+        </Text>
+        <Text>
+            <GUID>1414040700</GUID>
+            <Text>Entrega de C.C.O: Viaje a Volkhetka</Text>
+        </Text>
+        <Text>
+            <GUID>1414018036</GUID>
+            <Text>Reclutar en el Nuevo Mundo:<br/>[AssetData([Conditions QuestCondition Context]) Text] [Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount]</Text>
+        </Text>
+        <Text>
+            <GUID>1414018037</GUID>
+            <Text>!StoryTextAlcohol01</Text>
+        </Text>
+        <Text>
+            <GUID>1414018038</GUID>
+            <Text>Mantén la productividad promedio en cada [AssetData([Conditions QuestCondition Context]) Text] por encima de:<br />[Conditions QuestCondition CurrentAmount]% / [Conditions QuestCondition Amount]%</Text>
+        </Text>
+        <Text>
+            <GUID>1414018039</GUID>
+            <Text>[AssetData([NotificationContext CharacterGUID]) Text] está feliz de que un gran productor de alcohol pueda intervenir rápidamente para reemplazar el almacenamiento perdido.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018040</GUID>
+            <Text>Entrega una muestra de Umeshu a los catadores de Umeshu</Text>
+        </Text>
+        <Text>
+            <GUID>1414018041</GUID>
+            <Text>[AssetData([NotificationContext CharacterGUID]) Text] está muy feliz de que pudieras ayudarlo con un envío de alcohol.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018042</GUID>
+            <Text>[AssetData([NotificationContext CharacterGUID]) Text] descubre que alguien contaminó sus almacenes de alcohol.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018043</GUID>
+            <Text>[AssetData([NotificationContext CharacterGUID]) Text] aprecia tu umeshu local y estaría muy feliz de comprarte algo de alcohol.</Text>
+        </Text>
+        <Text>
+            <GUID>1414041300</GUID>
+            <Text>Flores para la Esposa</Text>
+        </Text>
+        <Text>
+            <GUID>1414041301</GUID>
+            <Text>Cualquier Flor de Loto</Text>
+        </Text>
+        <Text>
+            <GUID>1414041302</GUID>
+            <Text>Es el día del aniversario de bodas del Gōngrén, y está intentando crear un regalo muy especial para su amada.</Text>
+        </Text>
+        <Text>
+            <GUID>1414041303</GUID>
+            <Text>Me gustaría darle a mi esposa un regalo especial por nuestro aniversario de bodas. ¿Puedo pedirte tu generosa ayuda para encontrar una flor de loto para ella?</Text>
+        </Text>
+        <Text>
+            <GUID>1414041307</GUID>
+            <Text>Entrega a [AssetData(1446101) Text] en tu puerto: [AssetData([Conditions QuestCondition DeliveryObject(ObjectiveIndex)]) Text]</Text>
+        </Text>
+        <Text>
+            <GUID>1414041801</GUID>
+            <Text>Los trabajadores de tu cervecería de sake han oído hablar del atole, y su curiosidad está despertada. Proponen que explorar las bebidas de tierras lejanas podría inspirar nuevas técnicas, y tal vez elevar su propio oficio.</Text>
+        </Text>
+        <Text>
+            <GUID>1414041802</GUID>
+            <Text>Recientemente escuché sobre una bebida curiosa del Nuevo Mundo: la elaboran con granos locales, muy parecido a cómo elaboramos sake con arroz. Si pudieras traernos una muestra, te estaríamos muy agradecidos. Quién sabe, ¡quizás incluso haya algo útil que podamos aprender de ella!</Text>
+        </Text>
+        <Text>
+            <GUID>1414041803</GUID>
+            <Text>Nuestra gratitud por atender nuestra solicitud. ¡El atole sabía a nada de lo que esperaba, qué alegría descubrir algo nuevo!</Text>
+        </Text>
+        <Text>
+            <GUID>1414041800</GUID>
+            <Text>Atole de Atol</Text>
+        </Text>
+        <Text>
+            <GUID>1414041700</GUID>
+            <Text>Agente Doble</Text>
+        </Text>
+        <Text>
+            <GUID>1414041701</GUID>
+            <Text>El Almirante Wu sabe muy bien que la tecnología de su Imperio ha quedado rezagada desde hace mucho. Si la dinastía alguna vez espera enfrentarse a las potencias del Viejo Oeste, debe descubrir los secretos de sus innovaciones navales. ¿Te convertirás en su agente doble?</Text>
+        </Text>
+        <Text>
+            <GUID>1414041702</GUID>
+            <Text>Sé que comandas una flota impresionante, y me gustaría ver tus últimas adquisiciones. Si tan solo pudieras proporcionarme algunas fotos de esos barcos... puramente para admirarlos.</Text>
+        </Text>
+        <Text>
+            <GUID>1414041703</GUID>
+            <Text>Estos barcos lucen impresionantes. Ahora, si estás dispuesto, tal vez podrías venderme algunos para una nueva flota. Te aseguro que no verán acción en ningún campo de batalla... al menos, no en uno que te involucre.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042000</GUID>
+            <Text>El Soñador - Viajando Lejos</Text>
+        </Text>
+        <Text>
+            <GUID>1414042001</GUID>
+            <Text>Un joven Gōngrén local ha oído historias sobre los paisajes lejanos del Viejo Mundo. Con la imaginación encendida, ahora busca presenciar estas maravillas por sí mismo y ha solicitado tu ayuda.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042002</GUID>
+            <Text>He oído que tu ciudad natal es hogar de muchas estructuras magníficas. Conozco a alguien que le gustaría ver fotos de ellas, ¿está bien?</Text>
+        </Text>
+        <Text>
+            <GUID>1414042004</GUID>
+            <Text>Es una gran ciudad, y él está ansioso por visitarla personalmente. Sin embargo, su tío, el Almirante Wu, probablemente desaprobará la idea. ¿Quizás podrías arreglar que lo lleven de contrabando a tu ciudad natal a través de ese contacto tuyo?</Text>
+        </Text>
+        <Text>
+            <GUID>1414042005</GUID>
+            <Text>Viaje al Oeste</Text>
+        </Text>
+        <Text>
+            <GUID>1414042006</GUID>
+            <Text>El sobrino del Almirante Wu, que está en camino al Viejo Mundo.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042007</GUID>
+            <Text>Carta del Joven Soñador</Text>
+        </Text>
+        <Text>
+            <GUID>1414042008</GUID>
+            <Text>Una carta del sobrino del Almirante Wu a su tío, explicando sus razones para ir al Viejo Mundo.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042009</GUID>
+            <Text>[AssetData([NotificationContext CharacterGUID]) Text] está furioso por lo de su sobrino y quiere atraparlo.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042010</GUID>
+            <Text>Recoger:<br/>El sobrino del Almirante en tu puerto</Text>
+        </Text>
+        <Text>
+            <GUID>1414042011</GUID>
+            <Text>Llevar al sobrino del Almirante a James Goodwill</Text>
+        </Text>
+        <Text>
+            <GUID>1414042012</GUID>
+            <Text>Gracias por todo. Ahora puedo viajar al Viejo Mundo a bordo del barco del señor Goodwill. Lamento decir que me queda muy poco dinero, pero por favor, si puedes, entrega esta carta a mi tío. Estoy seguro de que entenderá y estará dispuesto a recompensarte en mi nombre.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042013</GUID>
+            <Text>Entrega:<br/>[Conditions QuestCondition Amount(ObjectiveIndex)] [AssetData([Conditions QuestCondition DeliveryObject(ObjectiveIndex)]) Text] a Majipun.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042014</GUID>
+            <Text>Parece que sus razones son válidas, y deseo que todo salga bien en su viaje al Viejo Mundo. Estos regalos vienen de parte de mi sobrino, y aunque el honor me obliga a entregártelos, ¡no los confundas con un gesto de mi afecto personal! Cuando supiste de la decisión de mi sobrino de embarcarse en un viaje tan lejano, el protocolo hubiera requerido consultarme primero.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042015</GUID>
+            <Text>Furiosamente, el Almirante abre la carta.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042016</GUID>
+            <Text>[AssetData([NotificationContext CharacterGUID]) Text] quiere saber si estás listo para llevar al sobrino del Almirante a la isla de Goodwill.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042017</GUID>
+            <Text>[AssetData([NotificationContext CharacterGUID]) Text] pregunta si el sobrino del Almirante quiere subir a su barco.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042019</GUID>
+            <Text>[AssetData([NotificationContext CharacterGUID]) Text] captura triunfalmente a su sobrino.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042020</GUID>
+            <Text>Querido Tío:<br /><br />Confío en que entenderás que no me voy sin despedirme, y que mi viaje al Oeste no es un simple capricho por la aventura. <br />Más bien, creo que representa una oportunidad para hacerme un nombre en esa tierra lejana y traer honor al nombre de nuestra familia: Suen.<br />Soy consciente de los peligros de este viaje, por lo que espero que no informes a mis padres de mi viaje por ahora. Si algo me ocurriera, espero que cuides de mi madre, tu hermana, y de mi hermano menor, Deming. Si llego a mi destino sano y salvo, me aseguraré de que alguien regrese con una carta en la primera oportunidad.<br />Además, por favor, no permitas que mi amigo sea molestado por mi culpa. Solo ofreció su ayuda a mi solicitud, y estaría agradecido si pudieras ofrecerle un gesto de aprecio en mi nombre.<br /><br /><br />Con respeto,<br />Dezhang</Text>
+        </Text>
+        <Text>
+            <GUID>1414042100</GUID>
+            <Text>Viaje al Oeste - Éxito Consumado</Text>
+        </Text>
+        <Text>
+            <GUID>1414042101</GUID>
+            <Text>Un magnate de Horai busca tu audiencia, deseando compartir contigo la alegría de su reciente éxito. ¿Tendrás un momento para escuchar su historia?</Text>
+        </Text>
+        <Text>
+            <GUID>1414042102</GUID>
+            <Text>¡Buenas noches, amigo! No estaría aquí sin tu ayuda. Gracias a ti, mis fortunas se han multiplicado, y he obtenido una buena ganancia comerciando con bienes exóticos. Ahora que el éxito me ha encontrado, por favor, acepta estos regalos, un gesto de mi gratitud.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042103</GUID>
+            <Text>Escucha, amigo: mi flota comercial acaba de descubrir una operación de contrabando respaldada por La Corona. ¡Ven, aprovechemos esta oportunidad juntos y atrapémoslos a todos! Ambos obtendremos grandes ganancias... y quién sabe, ¡quizás incluso ganemos una medalla o dos!</Text>
+        </Text>
+        <Text>
+            <GUID>1414042106</GUID>
+            <Text>¡He oído que tu Reina ha enviado un emisario para honrar tus esfuerzos contra el contrabando! Pero parece que se ha perdido en el camino. ¡Ve a buscarlo!</Text>
+        </Text>
+        <Text>
+            <GUID>1414042107</GUID>
+            <Text>Encuentra al emisario de la Reina, que se ha perdido en tu ciudad</Text>
+        </Text>
+        <Text>
+            <GUID>1414042109</GUID>
+            <Text>[AssetData([NotificationContext CharacterGUID]) Text] te entrega su regalo.</Text>
+        </Text>
+        <Text>
+            <GUID>1414041600</GUID>
+            <Text>Combatir el Fuego con Fuego</Text>
+        </Text>
+        <Text>
+            <GUID>1414041602</GUID>
+            <Text>El señor Goodwill parece estar en urgente necesidad de barcos de guerra para repeler la creciente amenaza de los Piróforos. Pero con ni el Almirante Wu ni la Corona dispuestos a proporcionar apoyo, solo queda una opción, y felicitaciones, ¡acabas de conseguir un contrato de adquisición de fuente única!</Text>
+        </Text>
+        <Text>
+            <GUID>1414041601</GUID>
+            <Text>¡Los Piróforos se están volviendo cada vez más agresivos! Nuestras recientes pérdidas están empezando a poner en peligro los contratos comerciales, y me encuentro en una necesidad urgente de nuevos barcos de guerra. Si pudieras venderme algunos... te compensaría generosamente.</Text>
+        </Text>
+        <Text>
+            <GUID>1414041603</GUID>
+            <Text>Vende al señor Goodwill: [Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount] Monitores</Text>
+        </Text>
+        <Text>
+            <GUID>1414041604</GUID>
+            <Text>Vende los barcos solicitados en el puerto del Dador de Misiones.</Text>
+        </Text>
+        <Text>
+            <GUID>1414041605</GUID>
+            <Text>[AssetData([NotificationContext CharacterGUID]) Text] te ofrece una misión de venta de barcos.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042110</GUID>
+            <Text>El Soñador - Regreso a Casa</Text>
+        </Text>
+        <Text>
+            <GUID>1414042111</GUID>
+            <Text>Un viejo conocido magnate de Horai te ha encontrado, luciendo preocupado y desanimado. ¿Tienes tiempo para verlo?</Text>
+        </Text>
+        <Text>
+            <GUID>1414042112</GUID>
+            <Text>Amigo, últimamente he estado soñando con mi ciudad natal noche tras noche, y una profunda nostalgia se ha arraigado en mi corazón. Por favor, si puedes, tráeme algo de pescado de Horai. Un sabor de casa podría ser justo lo que necesito.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042113</GUID>
+            <Text>El estómago es a menudo el órgano más nostálgico de todos... no importa a dónde viaje, son los sabores familiares los que susurran de casa. He preparado todo, ¡pero mis hijos se han ido a pasear! Por favor, ayúdame a encontrarlos. Están corriendo por ahí cerca. Diles que es hora de regresar, a nuestro verdadero hogar.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042114</GUID>
+            <Text>El hijo del Viejo Magnate</Text>
+        </Text>
+        <Text>
+            <GUID>1414042115</GUID>
+            <Text>Encuentra a los hijos del Viejo Magnate en tu ciudad: [Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount]</Text>
+        </Text>
+        <Text>
+            <GUID>1414042116</GUID>
+            <Text>Gracias por todos estos años. Finalmente estamos regresando a casa. He colocado las pertenencias que no puedo llevar conmigo en un fideicomiso, ahora están bajo tu cuidado.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042117</GUID>
+            <Text>Barco del Magnate</Text>
+        </Text>
+        <Text>
+            <GUID>1414042118</GUID>
+            <Text>Adiós, amigo. Cuando regrese, construiré un hogar tan magnífico y moderno como este lugar. Un día, mis descendientes ya no necesitarán dejar su hogar para perseguir el éxito, lo encontrarán en su tierra natal.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042119</GUID>
+            <Text>Autobiografía del Inmigrante Pródigo</Text>
+        </Text>
+        <Text>
+            <GUID>1414042120</GUID>
+            <Text>La historia de un emprendedor hecho a sí mismo del Lejano Oriente que asciende a la fama y la fortuna en el Occidente, solo para regresar a su ciudad natal años después. Algunos dicen que refleja la vida del autor, mientras que otros insisten en que es puramente una obra de ficción.</Text>
+        </Text>
+        <Text>
+            <GUID>1414042121</GUID>
+            <Text>Selecciona el barco de tu amigo magnate para despedirlo por última vez.</Text>
+        </Text>
+    </ModOp>
+</ModOps>
