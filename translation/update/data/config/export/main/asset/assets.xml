@@ -5,12 +5,12 @@
     </ModOp>
 
     <!-- # Garden Fix: Ignore Visibility of grass, zen paving and gravel -->
-     <ModOp GUID ='1445643' Type = "add" Path = "/Values/ConstructionCategory/BuildingList/Item">        
+    <ModOp GUID ='1445643' Type = "add" Path = "/Values/ConstructionCategory/BuildingList/Item">
         <IgnoreUnlockStateForCategoryVisibility>1</IgnoreUnlockStateForCategoryVisibility>
-     </ModOp>
-     <ModOp GUID ='1445643' Type = "remove" Path = "/Values/ConstructionCategory/BuildingList/Item[Building='1442560']/IgnoreUnlockStateForCategoryVisibility" /> 
+    </ModOp>
+    <ModOp GUID ='1445643' Type = "remove" Path = "/Values/ConstructionCategory/BuildingList/Item[Building='1442560']/IgnoreUnlockStateForCategoryVisibility" />
 
-     <!-- # Tea and Milk Trade Fix -->
+    <!-- # Tea and Milk Trade Fix -->
     <ModOp GUID = '131764' Path = "/Values/TradeContractFeature/Traders/Item/TradeLevels/Item/Trades/Item[Good='1440203' or Good='1440005']" Type = "remove" />
 
     <!-- Docklands 0 Unlock fixes -->
@@ -26,13 +26,28 @@
 
     <!-- ItemEffectTargetPool Fix -->
     <ModOp GUID='190890' Type="add" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
-        <Item>        
+        <Item>
             <GUID>1441363</GUID>
         </Item>
     </ModOp>
 
     <!-- Wandering Worker Quest Fix-->
-     <ModOp GUID ='1414040600' Path = "/Values/Quest" Type = "merge">        
-            <QuestGiver>1446116</QuestGiver>
-     </ModOp>
+    <ModOp GUID ='1414040600' Path = "/Values/Quest" Type = "merge">
+        <QuestGiver>1446116</QuestGiver>
+    </ModOp>
+
+    <ModOp GUID = '1447850' Path = "/Values" Type = "merge">
+        <FactoryBase>
+            <CycleTime>2700</CycleTime>
+        </FactoryBase>
+        <Maintenance>
+            <Maintenances>
+                <Item>
+                    <Product>15100003</Product>
+                    <Amount>100</Amount>
+                    <ShutdownThreshold>0.95</ShutdownThreshold>
+                </Item>
+            </Maintenances>
+        </Maintenance>
+    </ModOp>
 </ModOps>
