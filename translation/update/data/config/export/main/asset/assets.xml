@@ -30,4 +30,9 @@
             <GUID>1441363</GUID>
         </Item>
     </ModOp>
+
+    <!-- Wandering Worker Quest Fix-->
+     <ModOp GUID ='1414040600' Path = "/Values/Quest" Type = "merge">        
+            <QuestGiver>1446116</QuestGiver>
+     </ModOp>
 </ModOps>
