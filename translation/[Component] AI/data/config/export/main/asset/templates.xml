@@ -1,0 +1,10 @@
+<ModOps>
+    <ModOp Type = "add" Path = "//CrafterConstruction">
+        <Item>
+            <CrafterBuilding>1337881</CrafterBuilding>
+            <Region>Mod2</Region>
+            <SessionType>MainForRegion</SessionType>
+            <RequiredUnlock>1337881</RequiredUnlock>
+        </Item>
+    </ModOp>
+</ModOps>

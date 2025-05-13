@@ -1,0 +1,11 @@
+{
+    "Version": "1.0.1",
+    "ModID": "new_horizons_ai",
+    "Category": {
+      "English": "Component"
+    },
+    "ModName": {
+      "English": "AI"
+    },
+    "CreatorName": "New Horizons Team"
+}
