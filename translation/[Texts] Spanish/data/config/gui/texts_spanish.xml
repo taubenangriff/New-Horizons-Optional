@@ -6,7 +6,7 @@
   <Include File = "./esp/batch03.include.xml"/>
   <Include File = "./esp/batch05.include.xml" />
   <Include File = "./eng_og/batch08.include.xml" />
-  <Include File = "./eng_og/ornaments.include.xml" />
+  <Include File = "./esp/ornaments.include.xml" />
   <Include File = "./esp/customsduty.include.xml"/>
   <Include File = "./eng_og/items.include.xml" />
   <Include File = "./esp/batch10.include.xml" />

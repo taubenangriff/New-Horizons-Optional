@@ -1,0 +1,628 @@
+<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <Text>
+            <GUID>1414016153</GUID>
+            <Text>Barco pesquero</Text>
+        </Text>
+        <Text>
+            <GUID>1414016154</GUID>
+            <Text>Lorcha atracada</Text>
+        </Text>
+        <Text>
+            <GUID>1414016155</GUID>
+            <Text>Puente</Text>
+        </Text>
+        <Text>
+            <GUID>1414016156</GUID>
+            <Text>Barriles</Text>
+        </Text>
+        <Text>
+            <GUID>1414016157</GUID>
+            <Text>Bancas</Text>
+        </Text>
+        <Text>
+            <GUID>1414016158</GUID>
+            <Text>Botes</Text>
+        </Text>
+        <Text>
+            <GUID>1414016159</GUID>
+            <Text>Botes grandes</Text>
+        </Text>
+        <Text>
+            <GUID>1414016160</GUID>
+            <Text>Trampas de Pesca</Text>
+        </Text>
+        <Text>
+            <GUID>1414016161</GUID>
+            <Text>Grua</Text>
+        </Text>
+        <Text>
+            <GUID>1414016162</GUID>
+            <Text>Árbol</Text>
+        </Text>
+        <Text>
+            <GUID>1414016163</GUID>
+            <Text>Árbol de Cerezo</Text>
+        </Text>
+        <Text>
+            <GUID>1414016164</GUID>
+            <Text>Peral</Text>
+        </Text>
+        <Text>
+            <GUID>1414016165</GUID>
+            <Text>Pino</Text>
+        </Text>
+        <Text>
+            <GUID>1414016166</GUID>
+            <Text>Sauce</Text>
+        </Text>
+        <Text>
+            <GUID>1414016167</GUID>
+            <Text>Almacén</Text>
+        </Text>
+        <Text>
+            <GUID>1414016168</GUID>
+            <Text>Hortensias</Text>
+        </Text>
+        <Text>
+            <GUID>1414016169</GUID>
+            <Text>Enrejado de Glicinia</Text>
+        </Text>
+        <Text>
+            <GUID>1414016170</GUID>
+            <Text>Koinobori</Text>
+        </Text>
+
+        <Text>
+            <GUID>1414016000</GUID>
+            <Text>Grava</Text>
+        </Text>
+        <Text>
+            <GUID>1414016027</GUID>
+            <Text>muro desnudo</Text>
+        </Text>
+        <Text>
+            <GUID>1414016028</GUID>
+            <Text>muro enmarcado</Text>
+        </Text>
+        <Text>
+            <GUID>1414016029</GUID>
+            <Text>muro de Páneles</Text>
+        </Text>
+        <Text>
+            <GUID>1414016032</GUID>
+            <Text>Puerta de muro desnudo</Text>
+        </Text>
+        <Text>
+            <GUID>1414016033</GUID>
+            <Text>Puerta de muro enmarcado</Text>
+        </Text>
+        <Text>
+            <GUID>1414016034</GUID>
+            <Text>Puerta de muro de páneles</Text>
+        </Text>
+        <Text>
+            <GUID>1414016035</GUID>
+            <Text>Pino (pavimento)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016036</GUID>
+            <Text>Caqui (pavimento)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016037</GUID>
+            <Text>Sago (Paved)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016038</GUID>
+            <Text>Gingko (Paved)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016039</GUID>
+            <Text>Peral (Pavimento)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016040</GUID>
+            <Text>Musa Basjoo (Pavimento)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016041</GUID>
+            <Text>Cerezo (Pavimento)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016042</GUID>
+            <Text>Sauce(Pavimento)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016043</GUID>
+            <Text>Arce Rojo (Pavimento)</Text>
+        </Text>
+
+        <Text>
+            <GUID>1414016044</GUID>
+            <Text>Pino</Text>
+        </Text>
+        <Text>
+            <GUID>1414016045</GUID>
+            <Text>Caqui</Text>
+        </Text>
+        <Text>
+            <GUID>1414016046</GUID>
+            <Text>Sago</Text>
+        </Text>
+        <Text>
+            <GUID>1414016047</GUID>
+            <Text>Gingko</Text>
+        </Text>
+        <Text>
+            <GUID>1414016048</GUID>
+            <Text>Peral</Text>
+        </Text>
+        <Text>
+            <GUID>1414016049</GUID>
+            <Text>Musa Basjoo</Text>
+        </Text>
+        <Text>
+            <GUID>1414016050</GUID>
+            <Text>Cerezo</Text>
+        </Text>
+        <Text>
+            <GUID>1414016051</GUID>
+            <Text>Sauce</Text>
+        </Text>
+        <Text>
+            <GUID>1414016052</GUID>
+            <Text>Arce Rojo</Text>
+        </Text>
+        <Text>
+            <GUID>1414016053</GUID>
+            <Text>Cerezo llorón pavimentado</Text>
+        </Text>
+        <Text>
+            <GUID>1414016054</GUID>
+            <Text>Cerezo llorón</Text>
+        </Text>
+        <Text>
+            <GUID>1414016055</GUID>
+            <Text>Arbol de Bambú</Text>
+        </Text>
+        <Text>
+            <GUID>1414016056</GUID>
+            <Text>Arbol de Bambú (pavimentado)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016057</GUID>
+            <Text>Estatua de Buda</Text>
+        </Text>
+        <Text>
+            <GUID>1414016058</GUID>
+            <Text>Estatua pequeña de Dragón</Text>
+        </Text>
+        <Text>
+            <GUID>1414016059</GUID>
+            <Text>Estatua de Mandarin</Text>
+        </Text>
+        <Text>
+            <GUID>1414016060</GUID>
+            <Text>Estatua Maneki neko</Text>
+        </Text>
+        <Text>
+            <GUID>1414016061</GUID>
+            <Text>Estatua de Samurai grande</Text>
+        </Text>
+        <Text>
+            <GUID>1414016062</GUID>
+            <Text>Estatua de Dragón</Text>
+        </Text>
+        <Text>
+            <GUID>1414016063</GUID>
+            <Text>Estatua de Quilin</Text>
+        </Text>
+        <Text>
+            <GUID>1414016064</GUID>
+            <Text>Linternas Chochin</Text>
+        </Text>
+        <Text>
+            <GUID>1414016065</GUID>
+            <Text>Farola pavimentada</Text>
+        </Text>
+        <Text>
+            <GUID>1414016066</GUID>
+            <Text>Farola de Piedra</Text>
+        </Text>
+        <Text>
+            <GUID>1414016067</GUID>
+            <Text>Farola de madera</Text>
+        </Text>
+        <Text>
+            <GUID>1414016068</GUID>
+            <Text>Pilar de piedra pavimentado </Text>
+        </Text>
+        <Text>
+            <GUID>1414016069</GUID>
+            <Text>Pilar de piedra</Text>
+        </Text>
+        <Text>
+            <GUID>1414016006</GUID>
+            <Text>Gravilla Rastrillada</Text>
+        </Text>
+        <Text>
+            <GUID>1414016007</GUID>
+            <Text>Logo Anno Union en gravilla</Text>
+        </Text>
+        <Text>
+            <GUID>1414016008</GUID>
+            <Text>Yīn Yáng en gravilla</Text>
+        </Text>
+        <Text>
+            <GUID>1414016009</GUID>
+            <Text>Arbustos en Gravilla</Text>
+        </Text>
+        <Text>
+            <GUID>1414016010</GUID>
+            <Text>Arbustos en gravilla rastrillada</Text>
+        </Text>
+        <Text>
+            <GUID>1414016011</GUID>
+            <Text>Boj en gravilla</Text>
+        </Text>
+        <Text>
+            <GUID>1414016012</GUID>
+            <Text>Boj en gravilla rastrillada</Text>
+        </Text>
+        <Text>
+            <GUID>1414016013</GUID>
+            <Text>Rocas en gravilla rastrillada</Text>
+        </Text>
+        <Text>
+            <GUID>1414016014</GUID>
+            <Text>camino de piedra</Text>
+        </Text>
+        <Text>
+            <GUID>1414016015</GUID>
+            <Text>camino de piedra rastrillada</Text>
+        </Text>
+        <Text>
+            <GUID>1414016016</GUID>
+            <Text>escultura en gravilla</Text>
+        </Text>
+        <Text>
+            <GUID>1414016021</GUID>
+            <Text>Arbustos grandes en gravilla</Text>
+        </Text>
+        <Text>
+            <GUID>1414016022</GUID>
+            <Text>Arbustos grandes en gravilla rastrillada</Text>
+        </Text>
+        <Text>
+            <GUID>1414016023</GUID>
+            <Text>Rocas en Gravilla</Text>
+        </Text>
+        <Text>
+            <GUID>1414016024</GUID>
+            <Text>Patrones en Gravilla</Text>
+        </Text>
+        <Text>
+            <GUID>1414016071</GUID>
+            <Text>Camino</Text>
+        </Text>
+        <Text>
+            <GUID>1414016072</GUID>
+            <Text>césped</Text>
+        </Text>
+        <Text>
+            <GUID>1414016073</GUID>
+            <Text>arboledas</Text>
+        </Text>
+        <Text>
+            <GUID>1414016070</GUID>
+            <Text>Estatua grande de Buda</Text>
+        </Text>
+
+        <Text>
+            <GUID>1414016093</GUID>
+            <Text>Hierba plateada</Text>
+        </Text>
+        <Text>
+            <GUID>1414016094</GUID>
+            <Text>Caminos pavimentados</Text>
+        </Text>
+        <Text>
+            <GUID>1414016095</GUID>
+            <Text>Faro</Text>
+        </Text>
+        <Text>
+            <GUID>1414016096</GUID>
+            <Text>Valla de Bambú</Text>
+        </Text>
+        <Text>
+            <GUID>1414016097</GUID>
+            <Text>Estela</Text>
+        </Text>
+        <Text>
+            <GUID>1414016098</GUID>
+            <Text>Palma de molino de viento</Text>
+        </Text>
+        <Text>
+            <GUID>1414016099</GUID>
+            <Text>Palma de molino de viento (pavimentada)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016100</GUID>
+            <Text>Puerta lunar</Text>
+        </Text>
+        <Text>
+            <GUID>1414016101</GUID>
+            <Text>muralla de la ciudad</Text>
+        </Text>
+        <Text>
+            <GUID>1414016102</GUID>
+            <Text>Torres de la muralla de la ciudad</Text>
+        </Text>
+        <Text>
+            <GUID>1414016103</GUID>
+            <Text>Puerta interior de la muralla de la ciudad</Text>
+        </Text>
+        <Text>
+            <GUID>1414016104</GUID>
+            <Text>Puerta fortificada de la muralla de la ciudad</Text>
+        </Text>
+        <Text>
+            <GUID>1414016105</GUID>
+            <Text>Puerta angular de la muralla de la ciudad</Text>
+        </Text>
+        <Text>
+            <GUID>1414016106</GUID>
+            <Text>Puerta ancha interior de la muralla de la ciudad</Text>
+        </Text>
+        <Text>
+            <GUID>1414016107</GUID>
+            <Text>Puerta ancha fortificada de la muralla de la ciudad</Text>
+        </Text>
+        <Text>
+            <GUID>1414016108</GUID>
+            <Text>Arco de entrada</Text>
+        </Text>
+        <Text>
+            <GUID>1414016109</GUID>
+            <Text>Arco grande de entrada</Text>
+        </Text>
+        <Text>
+            <GUID>1414016110</GUID>
+            <Text>Rocas pequeñas I</Text>
+        </Text>
+        <Text>
+            <GUID>1414016111</GUID>
+            <Text>Rocas pequeñas II</Text>
+        </Text>
+        <Text>
+            <GUID>1414016112</GUID>
+            <Text>Rocas pequeñas III</Text>
+        </Text>
+        <Text>
+            <GUID>1414016113</GUID>
+            <Text>Rocas pequeñas IV</Text>
+        </Text>
+        <Text>
+            <GUID>1414016114</GUID>
+            <Text>Rocas pequeñas V</Text>
+        </Text>
+        <Text>
+            <GUID>1414016115</GUID>
+            <Text>Rocas pequeñas VI</Text>
+        </Text>
+        <Text>
+            <GUID>1414016116</GUID>
+            <Text>Rocas pequeñas VII</Text>
+        </Text>
+        <Text>
+            <GUID>1414016117</GUID>
+            <Text>Rocas pequeñas VIII</Text>
+        </Text>
+        <Text>
+            <GUID>1414016118</GUID>
+            <Text>Rocas medianas I</Text>
+        </Text>
+        <Text>
+            <GUID>1414016119</GUID>
+            <Text>Rocas medianas II</Text>
+        </Text>
+        <Text>
+            <GUID>1414016120</GUID>
+            <Text>Rocas medianas III</Text>
+        </Text>
+        <Text>
+            <GUID>1414016121</GUID>
+            <Text>Rocas medianas IV</Text>
+        </Text>
+        <Text>
+            <GUID>1414016122</GUID>
+            <Text>Rocas medianas V</Text>
+        </Text>
+        <Text>
+            <GUID>1414016123</GUID>
+            <Text>Rocas grandes I</Text>
+        </Text>
+        <Text>
+            <GUID>1414016124</GUID>
+            <Text>Rocas grandes II</Text>
+        </Text>
+        <Text>
+            <GUID>1414016125</GUID>
+            <Text>Rocas grandes III</Text>
+        </Text>
+
+        <Text>
+            <GUID>1414016126</GUID>
+            <Text>Rocas secas pequeñas I</Text>
+        </Text>
+        <Text>
+            <GUID>1414016127</GUID>
+            <Text>Rocas secas pequeñas II</Text>
+        </Text>
+        <Text>
+            <GUID>1414016128</GUID>
+            <Text>Rocas secas pequeñas III</Text>
+        </Text>
+        <Text>
+            <GUID>1414016129</GUID>
+            <Text>Rocas secas pequeñas IV</Text>
+        </Text>
+        <Text>
+            <GUID>1414016130</GUID>
+            <Text>Rocas secas pequeñas V</Text>
+        </Text>
+        <Text>
+            <GUID>1414016131</GUID>
+            <Text>Rocas secas pequeñas VI</Text>
+        </Text>
+        <Text>
+            <GUID>1414016132</GUID>
+            <Text>Rocas secas pequeñas VII</Text>
+        </Text>
+        <Text>
+            <GUID>1414016133</GUID>
+            <Text>Rocas secas pequeñas VIII</Text>
+        </Text>
+        <Text>
+            <GUID>1414016134</GUID>
+            <Text>Rocas medianas pequeñas I</Text>
+        </Text>
+        <Text>
+            <GUID>1414016135</GUID>
+            <Text>Rocas medianas pequeñas II</Text>
+        </Text>
+        <Text>
+            <GUID>1414016136</GUID>
+            <Text>Rocas medianas pequeñas III</Text>
+        </Text>
+        <Text>
+            <GUID>1414016137</GUID>
+            <Text>Rocas medianas pequeñas IV</Text>
+        </Text>
+        <Text>
+            <GUID>1414016138</GUID>
+            <Text>Rocas medianas pequeñas V</Text>
+        </Text>
+        <Text>
+            <GUID>1414016139</GUID>
+            <Text>Rocas grandes secas I</Text>
+        </Text>
+        <Text>
+            <GUID>1414016140</GUID>
+            <Text>Rocas grandes secas II</Text>
+        </Text>
+        <Text>
+            <GUID>1414016141</GUID>
+            <Text>Rocas grandes secas III</Text>
+        </Text>
+        <Text>
+            <GUID>1414016142</GUID>
+            <Text>Kerria</Text>
+        </Text>
+        <Text>
+            <GUID>1414016143</GUID>
+            <Text>Palmera Livistona</Text>
+        </Text>
+        <Text>
+            <GUID>1414016144</GUID>
+            <Text>Bambú celestial</Text>
+        </Text>
+        <Text>
+            <GUID>1414016145</GUID>
+            <Text>Osmanto</Text>
+        </Text>
+        <Text>
+            <GUID>1414016146</GUID>
+            <Text>Peonia</Text>
+        </Text>
+        <Text>
+            <GUID>1414016147</GUID>
+            <Text>Alheña</Text>
+        </Text>
+        <Text>
+            <GUID>1414016148</GUID>
+            <Text>Rododendro</Text>
+        </Text>
+        <Text>
+            <GUID>1414016149</GUID>
+            <Text>Rosas</Text>
+        </Text>
+        <Text>
+            <GUID>1414016150</GUID>
+            <Text>Espirea</Text>
+        </Text>
+        <Text>
+            <GUID>1414016151</GUID>
+            <Text>Arbo (Pavimentado)</Text>
+        </Text>
+        <Text>
+            <GUID>1414016152</GUID>
+            <Text>Arbol</Text>
+        </Text>
+        <Text>
+            <GUID>1414016091</GUID>
+            <Text>Puerta Paifung grande</Text>
+        </Text>
+        <Text>
+            <GUID>1414016092</GUID>
+            <Text>Puerta Paifung pequeña</Text>
+        </Text>
+        <Text>
+            <GUID>1414016090</GUID>
+            <Text>A de Haye</Text>
+        </Text>
+        <Text>
+            <GUID>1414018048</GUID>
+            <Text>Artesanía significativa, autenticidad, emoción e inteligencia. Menticuloso en el detalle y fabricado con cuidado, este simbolo se convierte en una herramienta utilizada para darle forma a su mundo en ANNO, esencial para dar vida a un constructor de ciudades de primer nivel.</Text>
+        </Text>
+        <Text>
+            <GUID>1414006704</GUID>
+            <Text>Un lugar bonito para llevar a la familia. Ahora, ¿Dónde está el fotógrafo?...</Text>
+        </Text>
+        <Text>
+            <GUID>1414006705</GUID>
+            <Text>Es tosco,... y aspero... e irritante... y es... espera, ¿esto no es arena?</Text>
+        </Text>
+        <Text>
+            <GUID>1414016026</GUID>
+            <Text>Pagoda</Text>
+        </Text>
+        <Text>
+            <GUID>1414016025</GUID>
+            <Text>Pavimento Zen</Text>
+        </Text>
+        <Text>
+            <GUID>1414016001</GUID>
+            <Text>Pérgola</Text>
+        </Text>
+        <Text>
+            <GUID>1414006703</GUID>
+            <Text>Decoraciones de Jardín</Text>
+        </Text>
+        <Text>
+            <GUID>1414006672</GUID>
+            <Text>Construye decoraciones de jardín en la isla para aumentar el radio del jardín principal.</Text>
+        </Text>
+        <Text>
+            <GUID>1442564</GUID>
+            <Text>Radio del Jardín</Text>
+        </Text>
+        <Text>
+            <GUID>1442560</GUID>
+            <Text>Puerta del Jardín</Text>
+        </Text>
+        <Text>
+            <GUID>1414006793</GUID>
+            <Text>Provee de un servicio a tus residentes. Su rango puede ser incrementado con decoraciones de jardín.</Text>
+        </Text>
+        <Text>
+            <GUID>1414006746</GUID>
+            <Text>Decoraciones de Jardín</Text>
+        </Text>
+        <Text>
+            <GUID>1414006718</GUID>
+            <Text>Las decoraciones de Jardín incrementan el actractivo e incrementan el radio de las puertas de jardín</Text>
+        </Text>
+    </ModOp>
+</ModOps>
