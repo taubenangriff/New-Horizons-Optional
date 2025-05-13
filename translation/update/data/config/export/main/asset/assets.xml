@@ -50,4 +50,10 @@
             </Maintenances>
         </Maintenance>
     </ModOp>
+
+    <ModOp GUID = '1441207' Path = "/Values" Type = "merge">
+        <Factory7>
+            <NeededFertility>1414007008</NeededFertility>
+        </Factory7>
+    </ModOp>
 </ModOps>
