@@ -1,5 +1,5 @@
 <ModOps>
-    <ModOp GUID = '85' Path = "/Values/ConstructionAI" Type = "add">
+    <ModOp GUID = '85' Path = "/Values/ConstructionAI" Type = "merge">
         <BuildingReplacements />
     </ModOp>
 
