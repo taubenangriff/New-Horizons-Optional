@@ -1,11 +1,11 @@
 {
-    "Version": "1.0.9",
-    "ModID": "new_horizons_text_taiwanese",
-    "Category": {
-      "English": "Translation"
-    },
-    "ModName": {
-      "English": "New Horizons Chinese Traditional"
-    },
-    "CreatorName": "New Horizons Team"
+  "Version": "1.0.10",
+  "ModID": "new_horizons_text_taiwanese",
+  "Category": {
+    "English": "Translation"
+  },
+  "ModName": {
+    "English": "New Horizons Chinese Traditional"
+  },
+  "CreatorName": "New Horizons Team"
 }
