@@ -15,7 +15,7 @@
     <Include File = "./fre/batch14.include.xml" />
     <Include File = "./fre/batch15.include.xml" />
     <Include File = "./eng_og/batch18.include.xml" />
-    <Include File = "./eng_og/batch19.include.xml" />
+    <Include File = "./fre/batch19.include.xml" />
     <Include File = "./eng_og/quest.include.xml" />
     <Include File = "./eng_og/quest02.include.xml" />
     <Include File = "./eng_og/edit.include.xml" />
