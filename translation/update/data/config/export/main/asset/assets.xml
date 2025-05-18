@@ -106,13 +106,6 @@
         <Unlock>131852</Unlock>
     </ModOp>
 
-    <!-- ItemEffectTargetPool Fix -->
-    <ModOp GUID='190890' Type="add" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
-        <Item>
-            <GUID>1441363</GUID>
-        </Item>
-    </ModOp>
-
     <!-- Wandering Worker Quest Fix-->
     <ModOp GUID ='1414040600' Path = "/Values/Quest" Type = "merge">
         <QuestGiver>1446116</QuestGiver>
@@ -133,9 +126,186 @@
         </Maintenance>
     </ModOp>
 
+    <!-- Ume Farm Fertility Fix-->
     <ModOp GUID = '1441207' Path = "/Values" Type = "merge">
         <Factory7>
             <NeededFertility>1414007008</NeededFertility>
         </Factory7>
     </ModOp>
+
+    <!-- *********************** Adding Buildings To Additional Shared Pools ***********************-->
+
+    <!-- All Cloth Industries -->
+    <ModOp GUID='190890' Type="add" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>1441363</GUID>
+        </Item>
+    </ModOp>
+
+    <!-- All Buildings With Maintenance -->
+    <ModOp GUID='368' Type="add" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>1441330</GUID>            <!-- Foreign Trading Company (Horai) -->
+        </Item>
+        <Item>
+            <GUID>1441364</GUID>            <!-- Foreign Trading Company Warehouse (Horai) -->
+        </Item>
+        <Item>
+            <GUID>1441332</GUID>            <!-- Regional Office -->
+        </Item>
+        <Item>
+            <GUID>1441357</GUID>            <!-- Import Pier - Tungsten (Horai) -->
+        </Item>
+        <Item>
+            <GUID>1441358</GUID>            <!-- Import Pier - Silver Bars (Horai) -->
+        </Item>
+        <Item>
+            <GUID>1441359</GUID>            <!-- Import Pier - Diamond (Horai) -->
+        </Item>
+    </ModOp>
+
+    <!-- All Harbour Buildings -->
+    <ModOp GUID='193480' Type="add" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>1441330</GUID>            <!-- Foreign Trading Company (Horai) -->
+        </Item>
+        <Item>
+            <GUID>1441364</GUID>            <!-- Foreign Trading Company Warehouse (Horai) -->
+        </Item>
+        <Item>
+            <GUID>1441357</GUID>            <!-- Import Pier - Tungsten (Horai) -->
+        </Item>
+        <Item>
+            <GUID>1441358</GUID>            <!-- Import Pier - Silver Bars (Horai) -->
+        </Item>
+        <Item>
+            <GUID>1441359</GUID>            <!-- Import Pier - Diamond (Horai) -->
+        </Item>
+    </ModOp>
+
+    <!-- All Trading Posts And Piers -->
+    <ModOp GUID='193897' Type="add" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>1441330</GUID>            <!-- Foreign Trading Company (Horai) -->
+        </Item>
+    </ModOp>
+
+    <!-- Light Bulb Factory -->
+    <ModOp GUID='1742200018' Type="add" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>1441360</GUID>
+        </Item>
+    </ModOp>
+
+    <!-- Gramophone Factory -->
+    <ModOp GUID='1742200019' Type="add" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>1441361</GUID>
+        </Item>
+    </ModOp>
+
+    <!-- Goldsmiths -->
+    <ModOp GUID='1742200020' Type="add" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>1441272</GUID>
+        </Item>
+    </ModOp>
+
+    <!-- Jewellers -->
+    <ModOp GUID='1742200021' Type="add" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>1441362</GUID>
+        </Item>
+    </ModOp>
+
+    <!-- Rendering Works -->
+    <ModOp GUID='1500200675,192436' Type="add" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>1441279</GUID>
+        </Item>
+    </ModOp>
+
+    <!-- Glassmakers -->
+    <ModOp GUID='1500011903,192566' Type="add" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>1441265</GUID>
+        </Item>
+    </ModOp>
+
+    <!-- Windowmakers -->
+    <ModOp GUID='1500011900,190914' Type="add" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>1441277</GUID>
+        </Item>
+    </ModOp>
+
+    <!-- Furnace -->
+    <ModOp GUID='1500200682,193771,192436' Type="add" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>1441263</GUID>
+        </Item>
+    </ModOp>
+
+    <!-- Steelworks -->
+    <ModOp GUID='1500011901,193771' Type="add" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>1441264</GUID>
+        </Item>
+    </ModOp>
+
+    <!-- Filament Factory -->
+    <ModOp GUID='1742200022' Type="add" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>1441266</GUID>
+        </Item>
+    </ModOp>
+
+    <!-- Concrete Factory -->
+    <ModOp GUID='1500011902' Type="add" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>1441267</GUID>
+        </Item>
+    </ModOp>
+
+    <!-- Dynamite Factory -->
+    <ModOp GUID='1742200023,192436' Type="add" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>1441269</GUID>
+        </Item>
+    </ModOp>
+
+    <!-- Brass Smeltery -->
+    <ModOp GUID='1500301940,1742200024' Type="add" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>1441270</GUID>
+        </Item>
+    </ModOp>
+
+    <!-- Motor Assembly Line -->
+    <ModOp GUID='1500301946,193771,194023' Type="add" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>1441271</GUID>
+        </Item>
+    </ModOp>
+
+    <!-- Coachmakers -->
+    <ModOp GUID='1742200025,190914' Type="add" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>1441273</GUID>
+        </Item>
+    </ModOp>
+
+    <!-- Chemical Plant -->
+    <ModOp GUID='194011' Type="add" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>1441301</GUID>
+        </Item>
+        <Item>
+            <GUID>1441302</GUID>
+        </Item>
+        <Item>
+            <GUID>1441303</GUID>
+        </Item>
+    </ModOp>
+
 </ModOps>
