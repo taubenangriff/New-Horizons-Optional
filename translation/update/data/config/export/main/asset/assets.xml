@@ -1,4 +1,86 @@
 <ModOps>
+
+    <!-- Construction Menu Fixes -->
+
+    <!-- Adding Consumables/Public Services/Harbour buildings to sorting Type -->
+    <!-- Consumables -->
+    <ModOp GUID='500945' Path="/Values/ConstructionCategory/BuildingList/" Type="add" Condition="!/Values/ConstructionCategory/BuildingList/Item[Building='1445083']">
+        <Item>
+            <Building>1445083</Building>            <!-- Strings -->
+        </Item>
+    </ModOp>
+    <ModOp GUID='500945' Path="/Values/ConstructionCategory/BuildingList/" Type="add" Condition="!/Values/ConstructionCategory/BuildingList/Item[Building='1445080']">
+        <Item>
+            <Building>1445080</Building>            <!-- Tea -->
+        </Item>
+    </ModOp>
+    <ModOp GUID='500945' Path="/Values/ConstructionCategory/BuildingList/" Type="add">
+        <Item>
+            <Building>1445040</Building>            <!-- Crackers -->
+        </Item>
+        <Item>
+            <Building>1445002</Building>            <!-- Radios -->
+        </Item>
+        <Item>
+            <Building>1445001</Building>            <!-- Pens -->
+        </Item>
+        <Item>
+            <Building>1445007</Building>            <!-- Cheese -->
+        </Item>
+        <Item>
+            <Building>1445008</Building>            <!-- Porcelain -->
+        </Item>
+        <Item>
+            <Building>1445009</Building>            <!-- Silk Vests -->
+        </Item>
+        <Item>
+            <Building>1445041</Building>            <!-- Sake -->
+        </Item>
+    </ModOp>
+    <!-- Services -->
+    <ModOp GUID='500094' Path="/Values/ConstructionCategory/BuildingList/" Type="add">
+        <Item>
+            <Building>1442540</Building>            <!-- Subway Station -->
+        </Item>
+    </ModOp>
+    <!-- Harbour -->
+    <ModOp GUID='500111' Path="/Values/ConstructionCategory/BuildingList/" Type="add" Condition="!/Values/ConstructionCategory/BuildingList/Item[Building='1999005385']">
+        <Item>
+            <Building>1999005385</Building>            <!-- Foreign Trading Company -->
+        </Item>
+    </ModOp>
+
+    <!-- Gramophone chain -->
+    <ModOp GUID='1445085' Path="/Values/ProductionChain/Tier1/Item[Building='1010320']/Tier2/Item/Building" Type="merge">
+        <Building>1441234</Building>
+    </ModOp>
+    <!-- Oil Harbour chain -->
+    <ModOp GUID='1445055' Path="/Values/ProductionChain/Tier1/" Type="add">
+        <Item>
+            <Building>1337875</Building>
+        </Item>
+    </ModOp>
+    <!-- Reorder Nongmin buildings -->
+    <ModOp GUID='1445602' Path="/Values/ConstructionCategory/BuildingList/Item[Building='1446002']" Type="remove" />
+    <ModOp GUID='1445602' Path="/Values/ConstructionCategory/BuildingList/Item[Building='1442525']" Type="remove" />
+    <ModOp GUID='1445602' Path="/Values/ConstructionCategory/BuildingList/Item[Building='1445031']" Type="remove" />
+    <ModOp GUID='1445602' Path="/Values/ConstructionCategory/BuildingList/Item[Building='1442502']" Type="remove" />
+
+    <ModOp GUID='1445602' Path="/Values/ConstructionCategory/BuildingList/Item[Building='1446000']" Type="addNextSibling">
+        <Item>
+            <Building>1442525</Building>            <!-- Marketplace -->
+        </Item>
+        <Item>
+            <Building>1442502</Building>            <!-- Nongmin Residence -->
+        </Item>
+        <Item>
+            <Building>1446002</Building>            <!-- Small Warehouse -->
+        </Item>
+        <Item>
+            <Building>1445031</Building>            <!-- Timber -->
+        </Item>
+    </ModOp>
+
     <!-- Clay Plaster Fix-->
     <ModOp GUID = '1441242' Path = "/Values/FactoryBase/FactoryInputs/Item[Product='1440233']" Type = "add">
         <Amount>1</Amount>
