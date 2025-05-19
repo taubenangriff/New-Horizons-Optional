@@ -162,6 +162,9 @@
         <Item>
             <GUID>1441359</GUID>            <!-- Import Pier - Diamond (Horai) -->
         </Item>
+        <Item>
+            <GUID>1441284</GUID>            <!-- String Factory (Silk) -->
+        </Item>
     </ModOp>
 
     <!-- All Harbour Buildings -->
