@@ -1,11 +1,11 @@
 {
-    "Version": "1.0.10",
+    "Version": "1.0.11",
     "ModID": "new_horizons_patch",
     "Category": {
       "English": "Component"
     },
     "ModName": {
-      "English": "Patch 1.0.10"
+      "English": "Patch 1.0.11"
     },
     "CreatorName": "New Horizons Team",
     "LoadAfterIds": [
