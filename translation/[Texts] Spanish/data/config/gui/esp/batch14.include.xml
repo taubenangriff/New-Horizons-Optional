@@ -1,0 +1,382 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">    
+    <Text>
+      <GUID>1414018244</GUID>
+      <Text>HUMILLACIÓN</Text>
+    </Text>
+    <Text>
+      <GUID>1414018245</GUID>
+      <Text>RESTAURACIÓN</Text>
+    </Text>
+    <Text>
+      <GUID>1414006637</GUID>
+      <Text>Escolta de Convoy Real</Text>
+    </Text>
+    <Text>
+      <GUID>1414018044</GUID>
+      <Text>Un gran mercado con una torre alta de mercado, ajustable para asentamientos grandes.</Text>
+    </Text>
+    <Text>
+      <GUID>1442800</GUID>
+      <Text>Mercado de la ciudad</Text>
+    </Text>
+    <Text>
+      <GUID>1414018045</GUID>
+      <Text>Ciudad Central</Text>
+    </Text>
+    <Text>
+      <GUID>1414018172</GUID>
+      <Text>Trae [AssetData(5380) Text] a tus depósitos en Horai</Text>
+    </Text>
+    <Text>
+      <GUID>1414018173</GUID>
+      <Text>Trae [AssetData(133097) Text] a tus depósitos en Horai</Text>
+    </Text>
+    <Text>
+      <GUID>1414018174</GUID>
+      <Text>Trae [AssetData(118728) Text] a tus depósitos en Horai</Text>
+    </Text>
+    <Text>
+      <GUID>1414018175</GUID>
+      <Text>Bring [AssetData(112694) Text] a tus depósitos en Horai</Text>
+    </Text>
+    <!-- 3rdparty Fluffs when clicking island buildings -->
+    <Text>
+      <GUID>1414018121</GUID><!-- Goodwill Lost shipment text -->
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] Está muy molesto contigo por haber perdido ese cargamento, y ajustará tus futuras tarifas de pago.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006695</GUID>
+      <Text>Esta aeronave luce como un buen velero, listo para cualquier inesperada escapada de último minuto, algo para lo que un contrabandista siempre debe estar preparado. Así que ahí yace, esperando pacientemente su futuro.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006696</GUID>
+      <Text>La documentación de esta oficina solía verse muy distinta. Ahora que la Corona controla la mayoría de las antiguas posesiones de la C.C.O, los esfuerzos se centran en rastrear el comercio del mercado negro.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006697</GUID>
+      <Text>Aunque se construyó hace unos veinte años como ala administrativa, las habitaciones ahora son una prisión excepcional. ¿Para qué necesita una empresa de contrabando tantos prisioneros?, se preguntarán. Sin embargo, hay una cantidad exagerada de caras nuevas en cada visita.</Text>
+    </Text>
+    <Text>
+      <GUID>1414015072</GUID>
+      <Text>Hongyipao</Text>
+    </Text>
+    <Text>
+      <GUID>1414015071</GUID>
+      <Text>Astillero de Juncos</Text>
+    </Text>
+    <Text>
+      <GUID>1414015061</GUID>
+      <Text>Residencia de los oficiales</Text>
+    </Text>
+    <Text>
+      <GUID>1414040615</GUID>
+      <Text>Faro del Almirante Wu Guowei</Text>
+    </Text>
+    <Text>
+      <GUID>1414018130</GUID>
+      <Text>Alrededor de la época de las campañas del bisabuelo del Almirante Wu para recuperar el Ojo del Dragón hace ya más de un siglo atrás, el Imperio Tiangming desplegó juntos con gran efecto. Aunque su diseño no ha cambiado, los tiempos sí. Esas naves que antaño fueron formidables ahora son reliquias, y el Imperio Tianming ni tiene los recursos ni el interés por modernizarlas.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018131</GUID>
+      <Text>Ya en el abismo de la completa decadencia, el Imperio Tianming unicamente se mantiene unido por dos cosas: la fuerza militar y la religión. En sitios como Majipun, asi como muchos otros, muchos ciudadanos del oriente ruegan por una forma de escapar de este siglo de humillación</Text>
+    </Text>
+    <Text>
+      <GUID>1414018132</GUID>
+      <Text>Paseando por el jardín, los visitantes encuentran una serie de escenas cuidadosamente elaboradas con gracia y elegancia deliberadas. En tiempos de crisis existencial, el Emperador Ruize encuentra consuelo manteniendo estos jardines en una condición inmaculada, aun a costa de enormes gastos personales — cosa que es uno de los pocos poderes que de cierta forma, aun retiene.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018133</GUID>
+      <Text>Los soldados Tianming apodareon a estas armas el "Cañón Rojo Bárbaro", un vínculo con los invasores de La Corona, desde que los primeros modelos fueron capturados. Aunque más tarde refinados, aun permaecen como reliquias de una era pasada — un tiempo en el que el Imperio Tianming se mantuvo como una formidable potencia militar.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018160</GUID>
+      <Text>El palacio administrativo central, no solo sirve como comandancia del Almirante desde donde el administra un estricto régimen militar sobre Majipun, sino que tambien marca un lugar donde el control del Emperador Ruize sobre  Tianming Guo aún permanece inalterado.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018161</GUID>
+      <Text>La población local de Majipun trabaja en estas granjas para abastecerse de Arroz y Té. Es todo lo que necesitan, o al menos es lo que ha dictado el Almirante Wu.</Text>
+    </Text>
+    <Text>
+      <GUID>1414015077</GUID>
+      <Text>Palacio Administrativo</Text>
+    </Text>
+    <Text>  <!-- Geb and Nut are James Goodwills pets. -->
+      <GUID>1414015089</GUID>
+      <Text>Casita de Geb</Text>
+    </Text>
+    <Text>
+      <GUID>1414015090</GUID>
+      <Text>Casita de Nut</Text>
+    </Text>
+    <Text>
+      <GUID>1414015091</GUID>
+      <Text>Duduk</Text>
+    </Text>
+    <Text>
+      <GUID>1414018176</GUID>
+      <Text>Esta espléndida pagoda, construida hace siglos atrás, se levanta en la cumbre de una gran escalinata que asciende a través del arco de la esperanza hacia la divinidad. Elevándose por encima de las preocupaciones tempranas de la vida cotidiana, se mantiene como un puente entre el mundo terrenal y lo sagrado.</Text>
+    </Text>
+    <Text>
+      <GUID>1414015084</GUID>
+      <Text>Gran Pagoda de la Paloma</Text>
+    </Text>
+    <Text>
+      <GUID>1414018177</GUID>
+      <Text>Los trabajadores de Omega Haven miran hacia la torre del reloj a menudo, solo para percatarse de que su turno no ha terminado.</Text>
+    </Text>
+    <Text>
+      <GUID>1414015085</GUID>
+      <Text>Torre del Reloj</Text>
+    </Text>
+    <!-- Item -->
+    <Text>
+      <GUID>1414011052</GUID>
+      <Text>Zelos, la bibliotecaria</Text>
+    </Text>
+    <Text>
+      <GUID>1414006736</GUID>
+      <Text>Leyendo todo lo que cae en sus manos de ratón de biblioteca, Solamente deduce las soluciones más fascinantes y complicadas. Una vez, el descubrió que las casas pueden tener sótanos...</Text>
+    </Text>
+    <Text>
+      <GUID>1440508</GUID>
+      <Text>[AssetData(1999005351) Text]</Text>
+    </Text>
+    <!-- Foreign Trading Company Texts (NH specific)-->
+    <Text>
+      <GUID>1414018030</GUID>
+      <Text>Provee a los negocios de magnates de los alrededores con [AssetData(1999005351) Text], Incrementando sus ingresos.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018031</GUID>
+      <Text>Distribuye [AssetData(1999005351) Text] a los negocios de magnates.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018032</GUID>
+      <Text>Un puerto que permite la construcción de negocios de magnates alrededor, e importar bienes de alrededor del mundo.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018046</GUID>
+      <Text>Genera [AssetData(1999005351) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414018047</GUID>
+      <Text>Por cada unidad consumida de [AssetData(1999005351) Text] se añade al almacenamiento de la isla.</Text>
+    </Text>
+    <!-- Zoo -->    
+    <Text>
+      <GUID>14443035</GUID>
+      <Text>Producción de alimentos y bebidas Horayanas</Text>
+    </Text>
+    <Text>
+      <GUID>1414017000</GUID>
+      <Text>PLANETA DE LOS SIMIOS</Text>
+    </Text>
+    <Text>
+      <GUID>1414017002</GUID>
+      <Text>BOSQUE DE BAMBÚ</Text>
+    </Text>
+    <Text>
+      <GUID>1414017003</GUID>
+      <Text>OCEANIA</Text>
+    </Text>
+    <Text>
+      <GUID>1414006829</GUID>      <!-- Oceania - ItemSet - Description -->
+      <Text>Beyond the Wallace Line, the animals of Oceania beckon with their unusual primeval forms.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006830</GUID>      <!-- Bamboo Forest SETBUFF - TownhallBuff - Description -->
+      <Text>Learning that patience is the wisdom of the wild, and to see the tranquil energy of these animals have allowed your citizenry to take life more slowly and savor each sip, as even tea tastes deeper in stillness.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006831</GUID>      <!-- Planet of the Apes SETBUFF - TownhallBuff - Description -->
+      <Text>The antics of these simian cousins have allowed your citizenry to reflect upon themselves and become more careful. </Text>
+    </Text>
+    <Text>
+      <GUID>1414006833</GUID>      <!-- Oceania SETBUFF - TownhallBuff - Description -->
+      <Text>These strange and exotic beasts have tempered the appetite of your citizenry, granting them the art of mindful eating and the stomach of an island sage.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006834</GUID>      <!-- Planet of the Apes - Itemset - Description -->
+      <Text>Apes together strong. Retvrn to monkee, am I right?</Text>
+    </Text>
+    <Text>
+      <GUID>1414017004</GUID>
+      <Text>Panda Rojo</Text>
+    </Text>
+    <Text>
+      <GUID>1414017005</GUID>
+      <Text>Oso Panda</Text>
+    </Text>
+    <Text>
+      <GUID>1414017006</GUID>
+      <Text>Koala</Text>
+    </Text>
+    <Text>
+      <GUID>1414017007</GUID>
+      <Text>Macaco</Text>
+    </Text>
+    <Text>
+      <GUID>1414017008</GUID>
+      <Text>Tiburón Ballena</Text>
+    </Text>
+    <Text>
+      <GUID>1414017009</GUID>
+      <Text>Sapo volador de Wallace</Text>
+    </Text>
+    <Text>
+      <GUID>1414017010</GUID>
+      <Text>Pitón reticulada</Text>
+    </Text>
+    <Text>
+      <GUID>1414017011</GUID>
+      <Text>Dragón de Komodo</Text>
+    </Text>
+    <Text>
+      <GUID>1414017012</GUID>
+      <Text>Foca orejera</Text>
+    </Text>
+    <Text>
+      <GUID>1414017013</GUID>
+      <Text>Pangolin</Text>
+    </Text>
+    <Text>
+      <GUID>1414017014</GUID>
+      <Text>Leopardo de Amur</Text>
+    </Text>
+    <Text>
+      <GUID>1414006737</GUID>
+      <Text>&lt;b&gt;Rhacophorus nigropalmatus.&lt;/b&gt; Esta curiosa ranita, que vive entre las húmedas y soleadas copas de los árboles de Sunda, no puede volar, pero seguro que puede intentarlo.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017018</GUID>
+      <Text>Recinto de comadrejas</Text>
+    </Text>
+    <Text>
+      <GUID>1414006738</GUID>
+      <Text>&lt;b&gt;Mustela altaica.&lt;/b&gt; En realidad, no vive en las grandes montañas de Hindun, sino en los frondosos bosques de bambú de las colinas circundantes. Es un mito que planifique sus propias ciudades cuando nadie lo ve.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006739</GUID>
+      <Text>&lt;b&gt;Ailuropoda melanoleuca.&lt;/b&gt; Un lindo, lindo y, lo más importante, lindo oso blanco y negro que se sienta y come bambú todo el día, para no morir de hambre si se salta una comida.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006740</GUID>
+      <Text>&lt;b&gt;Varanus komodoensis.&lt;/b&gt; Este enorme lagarto de Sunda no es un dragón que escupe fuego, sino un reptil muy venenoso y muy peligroso.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006741</GUID>
+      <Text>&lt;b&gt;Malayopython reticulatus.&lt;/b&gt; La serpiente más larga jamás conocida por la humanidad. Ataca no con veneno, sino envolviendo a su presa con sus enormes anillos y estrangulándola con precisión silenciosa.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006742</GUID>
+      <Text>&lt;b&gt;Macaca fuscata.&lt;/b&gt; Un pequeño mono de cara roja de las islas del norte de Horai. Inteligente y bribón por naturaleza, Aprende de manera rápida, es un ávido entusiasta de los baños termales y el juego sin fin.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006743</GUID>
+      <Text>&lt;b&gt;Manis pentadacty.&lt;/b&gt; Atesorado por los habitantes del Imperio Tianming por sus supuestas escamas sanadoras, esta discreta, silenciosa y tímida criatura se alimenta por las noches con una dieta de termitas y hormigas.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018225</GUID>
+      <Text>&lt;b&gt;Ailurus fulgens&lt;/b&gt; 	Un encantador animal de color rojo encendido, que comparte cosas en común con los pandas gigantes de donde proviene su nombre, y en el hecho de que también come bambú todo el día. Con un rostro enmascarado, cola anillada y gracia felina, conduce al crepúsculo, a la vida arbórea en lo alto de los árboles.</Text>
+    </Text>
+	<Text>
+      <GUID>1414018226</GUID>
+      <Text>&lt;b&gt;Arctocephalus galapagoensis&lt;/b&gt; Una foca que vive en una de las tantasislas del norte de Ulimaroa, que ama el clima cálido y recostarse en el sol.</Text>
+    </Text>
+    <Text>
+      <GUID>1414018227</GUID>
+      <Text>&lt;b&gt;Phascolarctos cinereus&lt;/b&gt; Una curiosa criaturita que pasa la mayor parte de su tiempo en alos árboles de eucalipto. De hecho, están tan encerrados en su propio mundo que ni siquiera pueden reconocer un estilo de vida fuera de sus amados árboles..</Text>
+    </Text>
+    <Text>
+      <GUID>1414018228</GUID>
+      <Text>&lt;b&gt;Rhincodon typus&lt;/b&gt; ¿Es una ballena? ¿Es un tiburón? ¿Es... ambos? Habitando los mares tropicales del sur y alimentándose pacíficamente de kril y plancton, solo el ejemplar más pequeño cabe en un zoológico..</Text>
+    </Text>
+    <!-- Wonder Buff Texts -->    
+    <Text>
+      <GUID>1414018178</GUID>
+      <Text>Mejora de productividad</Text>
+    </Text>
+    <Text>
+      <GUID>1414018179</GUID>
+      <Text>Mejora de residencias</Text>
+    </Text>
+    <Text>
+      <GUID>1414018180</GUID>
+      <Text>Las residencias en Distancia a la Calle se suministran con [AssetData(1440405) Text].</Text>
+    </Text>
+    <Text>
+      <GUID>1414018181</GUID>
+      <Text>Mejoras de bonificación</Text>
+    </Text>
+    <Text>
+      <GUID>1414018182</GUID>
+      <Text>Afecta en la distancia de la calle:</Text>
+    </Text>
+    <Text>
+      <GUID>1414187028</GUID>
+      <Text>[Selection Object Factory PostboxResidents] Residentes el radio</Text>
+    </Text>
+    <Text>
+      <GUID>1414018183</GUID>
+      <Text>Los residentes ganan bonificacion de felicidad de [ItemAssetData(1414187031) InputBenefitAllAdditionalHappinessFormatted].</Text>
+    </Text>
+    <Text>
+      <GUID>1414018184</GUID>
+      <Text>mejora única</Text>
+    </Text>
+    <Text>
+      <GUID>1414018185</GUID>
+      <Text>Afecta a [ItemAssetData(1414187030) ItemOrBuffEffectTargetsFormatted] en la distancia de la calle</Text>
+    </Text>
+    <Text>
+      <GUID>1414018186</GUID>
+      <Text>Afecta a [ItemAssetData(1414187033) ItemOrBuffEffectTargetsFormatted] En la isla</Text>
+    </Text>
+    <Text>
+      <GUID>1414018187</GUID>
+      <Text>Afecta en la isla:</Text>
+    </Text>
+    <Text>
+      <GUID>1414018188</GUID>
+      <Text>Mejora en defensa</Text>
+    </Text>
+    <Text>
+      <GUID>1414018189</GUID>
+      <Text>Afecta a [ItemAssetData(1414187034) ItemOrBuffEffectTargetsFormatted] en la isla</Text>
+    </Text>
+    <Text>
+      <GUID>1414018190</GUID>
+      <Text>Afecta a [ItemAssetData(1414187036) ItemOrBuffEffectTargetsFormatted] en la distancia de la calle</Text>
+    </Text>
+    <Text>
+      <GUID>1414018191</GUID>
+      <Text>Residencias con la [ItemAssetData(1414187039) AllSubstituteNeedsFormatted] necesidad satisfecha, son provistos de [ItemAssetData(1414187039) AllProvidedNeedsFormatted].</Text>
+    </Text>
+    <Text><!-- Gen 3rdParty Feedback to Wonder built -->
+      <GUID>1414006694</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] Está deleitado con la maravilla.</Text>
+    </Text>
+    <!-- Botanical Garden Buff Texts -->
+    <Text>
+      <GUID>1414018210</GUID>
+      <Text>Se activa [AssetData(1414007001) Text] Si es construido en Horai</Text>
+    </Text>
+    <Text>
+      <GUID>1414018211</GUID>
+      <Text>Se activa [AssetData(1414007002) Text] Si es construido en Horai</Text>
+    </Text>
+    <Text>
+      <GUID>1414018212</GUID>
+      <Text>Se activa [AssetData(1414007003) Text] Si es construido en Horai</Text>
+    </Text>
+    <Text>
+      <GUID>1414018213</GUID>
+      <Text>Se activa [AssetData(1414007007) Text] Si es construido en Horai</Text>
+    </Text>
+    <Text>
+      <GUID>1414018214</GUID>
+      <Text>Se activa [AssetData(1414007010) Text] Si es construido en Horai</Text>
+    </Text>
+  </ModOp>
+</ModOps>
