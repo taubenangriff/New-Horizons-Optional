@@ -1,4 +1,56 @@
 <ModOps>
+    <ModOp GUID = '130248' Type = "addNextSibling">
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1414020000</GUID>
+                    <Name>Invasions initial unlock - investors</Name>
+                    <IconFilename/>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionPlayerCounter>
+                                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                <Context>15000004</Context>
+                                <CounterAmount>1</CounterAmount>
+                            </ConditionPlayerCounter>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1443335</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- Fix Invasion Cooldowns -->
+    <ModOp GUID = '1443354,1443353,1443352' Path = "/Valus/Trigger/TriggerActions/Item/TriggerAction/Values/ActionUnlockAsset/UnhideAssets" Type = "replace">
+        <UnlockAssets>
+            <Item>
+                <Asset>1443335</Asset>
+            </Item>
+        </UnlockAssets>
+    </ModOp>
 
     <!-- Construction Menu Fixes -->
 
