@@ -41,9 +41,53 @@
                 <TriggerSetup />
             </Values>
         </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1414020001</GUID>
+                    <Name>Periodic Music Reset</Name>
+                    <IconFilename/>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionTimer</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionTimer>
+                                <TimeLimit>3600000</TimeLimit>
+                            </ConditionTimer>
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionSetAudioState</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionSetAudioState>
+                                        <TargetStateGroup>203535</TargetStateGroup>
+                                        <TargetState>203531</TargetState>
+                                    </ActionSetAudioState>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionResetTrigger</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionResetTrigger />
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
     </ModOp>
 
-    <!-- Fix Invasion Cooldowns -->
     <ModOp GUID = '1443354,1443353,1443352' Path = "/Valus/Trigger/TriggerActions/Item/TriggerAction/Values/ActionUnlockAsset/UnhideAssets" Type = "replace">
         <UnlockAssets>
             <Item>
