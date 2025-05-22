@@ -7,7 +7,7 @@ local InvasionProtectionProduct = 1414042213
 math.randomseed(os.time())
 
 local function StartInvasion()
-    ts.Unlock.SetUnlock(InvasionFeatureUnlock);
+    ts.Unlock.SetUnlockNet(InvasionFeatureUnlock);
 end
 
 local function ResetBuildup()
