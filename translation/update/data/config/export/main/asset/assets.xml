@@ -879,7 +879,7 @@
         <CooldownOnQuestEnd>1</CooldownOnQuestEnd>
         <QuestCooldown>30000000</QuestCooldown>
     </ModOp>
-    
+
     <!-- Pagoda Plans -->
     <ModOp GUID = '1414011131' Path = "/Values/ItemAction" Type = "merge">
         <IsDestroyedAfterCooldown>1</IsDestroyedAfterCooldown>
@@ -917,7 +917,7 @@
         <CanEndItemAction>0</CanEndItemAction>
         <StopMovementOnInteraction>0</StopMovementOnInteraction>
     </ModOp>
-    
+
     <!-- Tower Plans -->
     <ModOp GUID = '1414011135' Path = "/Values/ItemAction" Type = "merge">
         <IsDestroyedAfterCooldown>1</IsDestroyedAfterCooldown>
@@ -935,6 +935,125 @@
         <ActionDescription>1414020018</ActionDescription>
         <CanEndItemAction>0</CanEndItemAction>
         <StopMovementOnInteraction>0</StopMovementOnInteraction>
+    </ModOp>
+
+    <ModOp GUID = '1414011131,1414011132,1414011133,1414011134,1414011135,1414011136' Path = "/Values/ItemWithUI" Type = "add">
+        <DestroyOnClick>1</DestroyOnClick>
+    </ModOp>
+
+    <ModOp GUID = '1414011131' Path = "/Values/ItemWithUI/ItemActions/Values/ActionList/Actions" Type = "replace">
+        <Actions>
+            <Item>
+                <Action>
+                    <Template>ActionUnlockAsset</Template>
+                    <Values>
+                        <Action />
+                        <ActionUnlockAsset>
+                            <UnlockAssets>
+                                <Item>
+                                    <Asset>14440202</Asset>
+                                </Item>
+                            </UnlockAssets>
+                        </ActionUnlockAsset>
+                    </Values>
+                </Action>
+            </Item>
+        </Actions>
+    </ModOp>
+    <ModOp GUID = '1414011132' Path = "/Values/ItemWithUI/ItemActions/Values/ActionList/Actions" Type = "replace">
+        <Actions>
+            <Item>
+                <Action>
+                    <Template>ActionUnlockAsset</Template>
+                    <Values>
+                        <Action />
+                        <ActionUnlockAsset>
+                            <UnlockAssets>
+                                <Item>
+                                    <Asset>14440203</Asset>
+                                </Item>
+                            </UnlockAssets>
+                        </ActionUnlockAsset>
+                    </Values>
+                </Action>
+            </Item>
+        </Actions>
+    </ModOp>
+    <ModOp GUID = '1414011133' Path = "/Values/ItemWithUI/ItemActions/Values/ActionList/Actions" Type = "replace">
+        <Actions>
+            <Item>
+                <Action>
+                    <Template>ActionUnlockAsset</Template>
+                    <Values>
+                        <Action />
+                        <ActionUnlockAsset>
+                            <UnlockAssets>
+                                <Item>
+                                    <Asset>14440204</Asset>
+                                </Item>
+                            </UnlockAssets>
+                        </ActionUnlockAsset>
+                    </Values>
+                </Action>
+            </Item>
+        </Actions>
+    </ModOp>
+    <ModOp GUID = '1414011134' Path = "/Values/ItemWithUI/ItemActions/Values/ActionList/Actions" Type = "replace">
+        <Actions>
+            <Item>
+                <Action>
+                    <Template>ActionUnlockAsset</Template>
+                    <Values>
+                        <Action />
+                        <ActionUnlockAsset>
+                            <UnlockAssets>
+                                <Item>
+                                    <Asset>14440205</Asset>
+                                </Item>
+                            </UnlockAssets>
+                        </ActionUnlockAsset>
+                    </Values>
+                </Action>
+            </Item>
+        </Actions>
+    </ModOp>
+    <ModOp GUID = '1414011135' Path = "/Values/ItemWithUI/ItemActions/Values/ActionList/Actions" Type = "replace">
+        <Actions>
+            <Item>
+                <Action>
+                    <Template>ActionUnlockAsset</Template>
+                    <Values>
+                        <Action />
+                        <ActionUnlockAsset>
+                            <UnlockAssets>
+                                <Item>
+                                    <Asset>14440206</Asset>
+                                </Item>
+                            </UnlockAssets>
+                        </ActionUnlockAsset>
+                    </Values>
+                </Action>
+            </Item>
+        </Actions>
+    </ModOp>    
+    <ModOp GUID = '1414011136' Path = "/Values/ItemWithUI/ItemActions/Values/ActionList/Actions" Type = "replace">
+        <Actions>
+            <Item>
+                <Action>
+                    <Template>ActionUnlockAsset</Template>
+                    <Values>
+                        <Action />
+                        <ActionUnlockAsset>
+                            <UnlockAssets>
+                                <Item>
+                                    <Asset>14440210</Asset>
+                                </Item>
+                            </UnlockAssets>
+                        </ActionUnlockAsset>
+                    </Values>
+                </Action>
+            </Item>
+        </Actions>
     </ModOp>
 
 
