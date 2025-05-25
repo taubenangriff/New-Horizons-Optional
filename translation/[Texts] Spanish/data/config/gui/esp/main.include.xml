@@ -237,109 +237,109 @@
       <Text>Motor de turbina de aceite</Text>
     </Text>
     <Text>
-          <Text>
-      <GUID>1414006456</GUID>
-      <Text>Los granjeros son gente feliz y amable que no suele mirar más allá de sus campos y tabernas.</Text>
-    </Text>
-    <Text>
-      <GUID>1414006457</GUID>
-      <Text>Los obreros son gente común que soporta duros turnos en fábricas para alimentar a sus familias.</Text>
-    </Text>
-    <Text>
-      <GUID>1414006458</GUID>
-      <Text>Los artesanos viven entre arte y música, sostenidos por su oficio y sus honorarios.</Text>
-    </Text>
-    <Text>
-      <GUID>1414006459</GUID>
-      <Text>Los ingenieros pasan su tiempo buscando que la industria preste atención a sus inventos.</Text>
-    </Text>
-    <Text>
-      <GUID>1414006460</GUID>
-      <Text>Los inversores son hombres de negocios veteranos obsesionados con el rendimiento de sus capitales.</Text>
-    </Text>
-    <Text>
-      <GUID>1414006461</GUID>
-      <Text>Los magnates son la nueva generación de magnates industriales, expertos en evadir impuestos como auténticos amos del capitalismo.</Text>
-    </Text>
-    <Text>
-      <GUID>1414006462</GUID>
-      <Text>Los jornaleros añoran los viejos tiempos — solo desean una vida autónoma.</Text>
-    </Text>
-    <Text>
-      <GUID>1414006463</GUID>
-      <Text>Los obreros se adaptaron a la nueva era, vendiendo sus oficios para vivir libres de opresión.</Text>
-    </Text>
-    <Text>
-      <GUID>1414006469</GUID>
-      <Text>Los industriales abandonaron vidas cómodas en el Viejo Mundo para explorar nuevos mercados y supervisar sus fábricas.</Text>
-    </Text>
-    <Text>
-      <GUID>1414006464</GUID>
-      <Text>Los exploradores se unieron a las expediciones árticas para conocer cada rincón del mundo.</Text>
-    </Text>
-    <Text>
-      <GUID>1414006465</GUID>
-      <Text>Los técnicos no conocen límites — si no haces preguntas tontas, pueden reparar cualquier cosa.</Text>
-    </Text>
-    <Text>
-      <GUID>1414006466</GUID>
-      <Text>Los pastores apenas han ampliado sus horizontes más allá de sus rebaños.</Text>
-    </Text>
-    <Text>
-      <GUID>1414006467</GUID>
-      <Text>Los ancianos pertenecen a la última generación que vio la caída de Enbesa, y lucharán por reconstruirla hasta su último aliento.</Text>
-    </Text>
-    <Text>
-      <GUID>1414006468</GUID>
-      <Text>Los eruditos se fascinan con campos inexplorados de ciencia, no con aburridas semanas laborales.</Text>
-    </Text>
-    <Text>
-      <GUID>1414006470</GUID>
-      <Text>Los nóngmín llevan una vida dura pero espiritual, dedicados a la fe, la tradición y la sabiduría ancestral de la tierra.</Text>
-    </Text>
-    <Text>
-      <GUID>1414006471</GUID>
-      <Text>Los gōngrén son un pueblo lleno de esperanza, atraído por la promesa de prosperidad moderna. Solo esa esperanza los trajo hasta estas costas salvajes.</Text>
-    </Text>
-    <Text>
-      <GUID>1414006576</GUID>
       <Text>
-      <GUID>1414006576</GUID>
-      <Text>No sabemos a quién vendemos estos bienes, pero ¿acaso importa?</Text>
-    </Text>
-    <Text>
-      <GUID>1414006577</GUID>
-      <Text>Entrega los bienes de contrabando en tu barco al lugar indicado, evitando los patrulleros cerca del objetivo.</Text>
-    </Text>
-    <Text>
-      <GUID>1414006578</GUID>
-      <Text>Isabel Sarmento necesita desesperadamente suministros de drogas para su lucha contra La Corona.</Text>
-    </Text>
-    <Text>
-      <GUID>1414006579</GUID>
-      <Text>Madame Kahina vende sus drogas al mejor postor, sin importar dónde estén — pero, sinceramente, ¿a ti te importaría?</Text>
-    </Text>
-    <Text>
-      <GUID>1414006580</GUID>
-      <Text>La sacerdotisa quiere levantar el ánimo, y estas drogas parecen una buena opción.</Text>
-    </Text>
-    <Text>
-      <GUID>1414006581</GUID>
-      <Text>Estas drogas alivian la soledad del viejo Nate de vez en cuando.</Text>
-    </Text>
-    <Text>
-      <GUID>1414006582</GUID>
-      <Text>Un loco como Alonso Graves podría ser más humano de lo que crees. Hasta él necesita olvidarlo a veces.</Text>
-    </Text>
-    <Text>
-      <GUID>1414006583</GUID>
-      <Text>Los pajaritos de Beryl O'Mara parecen listos para algo más que robar carteras. Ella quiere entrar al juego grande.</Text>
-    </Text>
-    <Text>
-      <GUID>1414006584</GUID>
-      <Text>Es dudoso que Willie sepa qué es esto. En todo caso, mejor que lo atrapen a él y no a ti.</Text>
-    </Text>
-    </Text>
+        <GUID>1414006456</GUID>
+        <Text>Los granjeros son gente feliz y amable que no suele mirar más allá de sus campos y tabernas.</Text>
+      </Text>
+      <Text>
+        <GUID>1414006457</GUID>
+        <Text>Los obreros son gente común que soporta duros turnos en fábricas para alimentar a sus familias.</Text>
+      </Text>
+      <Text>
+        <GUID>1414006458</GUID>
+        <Text>Los artesanos viven entre arte y música, sostenidos por su oficio y sus honorarios.</Text>
+      </Text>
+      <Text>
+        <GUID>1414006459</GUID>
+        <Text>Los ingenieros pasan su tiempo buscando que la industria preste atención a sus inventos.</Text>
+      </Text>
+      <Text>
+        <GUID>1414006460</GUID>
+        <Text>Los inversores son hombres de negocios veteranos obsesionados con el rendimiento de sus capitales.</Text>
+      </Text>
+      <Text>
+        <GUID>1414006461</GUID>
+        <Text>Los magnates son la nueva generación de magnates industriales, expertos en evadir impuestos como auténticos amos del capitalismo.</Text>
+      </Text>
+      <Text>
+        <GUID>1414006462</GUID>
+        <Text>Los jornaleros añoran los viejos tiempos — solo desean una vida autónoma.</Text>
+      </Text>
+      <Text>
+        <GUID>1414006463</GUID>
+        <Text>Los obreros se adaptaron a la nueva era, vendiendo sus oficios para vivir libres de opresión.</Text>
+      </Text>
+      <Text>
+        <GUID>1414006469</GUID>
+        <Text>Los industriales abandonaron vidas cómodas en el Viejo Mundo para explorar nuevos mercados y supervisar sus fábricas.</Text>
+      </Text>
+      <Text>
+        <GUID>1414006464</GUID>
+        <Text>Los exploradores se unieron a las expediciones árticas para conocer cada rincón del mundo.</Text>
+      </Text>
+      <Text>
+        <GUID>1414006465</GUID>
+        <Text>Los técnicos no conocen límites — si no haces preguntas tontas, pueden reparar cualquier cosa.</Text>
+      </Text>
+      <Text>
+        <GUID>1414006466</GUID>
+        <Text>Los pastores apenas han ampliado sus horizontes más allá de sus rebaños.</Text>
+      </Text>
+      <Text>
+        <GUID>1414006467</GUID>
+        <Text>Los ancianos pertenecen a la última generación que vio la caída de Enbesa, y lucharán por reconstruirla hasta su último aliento.</Text>
+      </Text>
+      <Text>
+        <GUID>1414006468</GUID>
+        <Text>Los eruditos se fascinan con campos inexplorados de ciencia, no con aburridas semanas laborales.</Text>
+      </Text>
+      <Text>
+        <GUID>1414006470</GUID>
+        <Text>Los nóngmín llevan una vida dura pero espiritual, dedicados a la fe, la tradición y la sabiduría ancestral de la tierra.</Text>
+      </Text>
+      <Text>
+        <GUID>1414006471</GUID>
+        <Text>Los gōngrén son un pueblo lleno de esperanza, atraído por la promesa de prosperidad moderna. Solo esa esperanza los trajo hasta estas costas salvajes.</Text>
+      </Text>
+      <Text>
+        <GUID>1414006576</GUID>
+        <Text>
+          <GUID>1414006576</GUID>
+          <Text>No sabemos a quién vendemos estos bienes, pero ¿acaso importa?</Text>
+        </Text>
+        <Text>
+          <GUID>1414006577</GUID>
+          <Text>Entrega los bienes de contrabando en tu barco al lugar indicado, evitando los patrulleros cerca del objetivo.</Text>
+        </Text>
+        <Text>
+          <GUID>1414006578</GUID>
+          <Text>Isabel Sarmento necesita desesperadamente suministros de drogas para su lucha contra La Corona.</Text>
+        </Text>
+        <Text>
+          <GUID>1414006579</GUID>
+          <Text>Madame Kahina vende sus drogas al mejor postor, sin importar dónde estén — pero, sinceramente, ¿a ti te importaría?</Text>
+        </Text>
+        <Text>
+          <GUID>1414006580</GUID>
+          <Text>La sacerdotisa quiere levantar el ánimo, y estas drogas parecen una buena opción.</Text>
+        </Text>
+        <Text>
+          <GUID>1414006581</GUID>
+          <Text>Estas drogas alivian la soledad del viejo Nate de vez en cuando.</Text>
+        </Text>
+        <Text>
+          <GUID>1414006582</GUID>
+          <Text>Un loco como Alonso Graves podría ser más humano de lo que crees. Hasta él necesita olvidarlo a veces.</Text>
+        </Text>
+        <Text>
+          <GUID>1414006583</GUID>
+          <Text>Los pajaritos de Beryl O'Mara parecen listos para algo más que robar carteras. Ella quiere entrar al juego grande.</Text>
+        </Text>
+        <Text>
+          <GUID>1414006584</GUID>
+          <Text>Es dudoso que Willie sepa qué es esto. En todo caso, mejor que lo atrapen a él y no a ti.</Text>
+        </Text>
+      </Text>
       <GUID>1414006586</GUID>
       <Text>No Hostile Invasions</Text>
     </Text>
@@ -606,158 +606,159 @@
     <Text>
       <GUID>1414017058</GUID>      <!-- Hakirawashi's Sword - CultureItem - Description -->
       <Text>Espada brillante del clan Hakirawashi</Text>
- <Text>
-  <GUID>1414017059</GUID>      <!-- Imperial Tea Room - CultureItem -->
-  <Text>Salón Imperial de Té</Text>
-</Text>
-<Text>
-  <GUID>1414017060</GUID>      <!-- Imperial Tea Room - CultureItem - Description -->
-  <Text>Bonito salón de té para un samurái.</Text>
-</Text>
-<Text>
-  <GUID>1414017061</GUID>      <!-- Imperial Terracotta Army - CultureItem -->
-  <Text>Ejército Imperial de Terracota</Text>
-</Text>
-<Text>
-  <GUID>1414017062</GUID>      <!-- Imperial Terracotta Army - CultureItem - Description -->
-  <Text>¿Alguna vez viste un ejército de terracota tan grande?</Text>
-</Text>
-<Text>
-  <GUID>1414017063</GUID>      <!-- Jade Bok Choy - CultureItem -->
-  <Text>Bok Choy de Jade</Text>
-</Text>
-<Text>
-  <GUID>1414017064</GUID>      <!-- Jade Bok Choy - CultureItem - Description -->
-  <Text>¿Esto no es chop choy?</Text>
-</Text>
-<Text>
-  <GUID>1414017065</GUID>      <!-- Cursive Poems in Script - CultureItem -->
-  <Text>Poemas Cursivos en Caligrafía</Text>
-</Text>
-<Text>
-  <GUID>1414017066</GUID>      <!-- Cursive Poems in Script - CultureItem - Description -->
-  <Text>He leído muchas cosas, pero estas caligrafías están entre las mejores.</Text>
-</Text>
-<Text>
-  <GUID>1414017067</GUID>      <!-- Dynastic Blue & White Vase Set - CultureItem -->
-  <Text>Juego Dinástico de Jarrones Azul y Blanco</Text>
-</Text>
-<Text>
-  <GUID>1414017068</GUID>      <!-- Dynastic Blue & White Vase Set - CultureItem - Description -->
-  <Text>No los empujes, estos jarrones no son fáciles de conseguir.</Text>
-</Text>
-<Text>
-  <GUID>1414017069</GUID>      <!-- Treasure Ship Wreckage - CultureItem -->
-  <Text>Restos de Barco del Tesoro</Text>
-</Text>
-<Text>
-  <GUID>1414017070</GUID>      <!-- Treasure Ship Wreckage - CultureItem - Description -->
-  <Text>Encontrado en el fondo del mar.</Text>
-</Text>
-<Text>
-  <GUID>1414017071</GUID>      <!-- Chūzan Crown - CultureItem -->
-  <Text>Corona de Chūzan</Text>
-</Text>
-<Text>
-  <GUID>1414017072</GUID>      <!-- Chūzan Crown - CultureItem - Description -->
-  <Text>Encontrada en el fondo del mar.</Text>
-</Text>
-<Text>
-  <GUID>1414017073</GUID>      <!-- The Great Star of Light - CultureItem -->
-  <Text>La Gran Estrella de la Luz</Text>
-</Text>
-<Text>
-  <GUID>1414017074</GUID>      <!-- The Great Star of Light - CultureItem - Description -->
-  <Text>La luz siempre toca este lugar.</Text>
-</Text>
-<Text>
-  <GUID>1414017075</GUID>      <!-- Peacock Throne - CultureItem -->
-  <Text>Trono del Pavo Real</Text>
-</Text>
-<Text>
-  <GUID>1414017076</GUID>      <!-- Peacock Throne - CultureItem - Description -->
-  <Text>Un trono solo para los más orgullosos.</Text>
-</Text>
-<Text>
-  <GUID>1414017077</GUID>      <!-- Guptan Iron Pillar - CultureItem -->
-  <Text>Pilar de Hierro Guptano</Text>
-</Text>
-<Text>
-  <GUID>1414017078</GUID>      <!-- Guptan Iron Pillar - CultureItem - Description -->
-  <Text>Brindaba el mejor soporte para un edificio impresionante.</Text>
-</Text>
-<Text>
-  <GUID>1414017079</GUID>      <!-- Smiling Temple - CultureItem -->
-  <Text>Templo Sonriente</Text>
-</Text>
-<Text>
-  <GUID>1414017080</GUID>      <!-- Smiling Temple - CultureItem - Description -->
-  <Text>Incluso los edificios pueden ser felices.</Text>
-</Text>
-<Text>
-  <GUID>1414017081</GUID>      <!-- Crown of Great Victory - CultureItem -->
-  <Text>Corona de la Gran Victoria</Text>
-</Text>
-<Text>
-  <GUID>1414017082</GUID>      <!-- Crown of Great Victory - CultureItem - Description -->
-  <Text>Usar esta corona casi siempre te hace victorioso.</Text>
-</Text>
-<Text>
-  <GUID>1414017083</GUID>      <!-- Candi Bentar Gate - CultureItem -->
-  <Text>Puerta Candi Bentar</Text>
-</Text>
-<Text>
-  <GUID>1414017084</GUID>      <!-- Candi Bentar Gate - CultureItem - Description -->
-  <Text>Nada pasa por esta puerta.</Text>
-</Text>
-<Text>
-  <GUID>1414017085</GUID>      <!-- Magic Sword - CultureItem -->
-  <Text>Espada Mágica</Text>
-</Text>
-<Text>
-  <GUID>1414017086</GUID>      <!-- Magic Sword - CultureItem - Description -->
-  <Text>Una espada como ninguna otra.</Text>
-</Text>
-<Text>
-  <GUID>1414017087</GUID>      <!-- Wish-Granting Mallet - CultureItem -->
-  <Text>Martillo que Concede Deseos</Text>
-</Text>
-<Text>
-  <GUID>1414017088</GUID>      <!-- Wish-Granting Mallet - CultureItem - Description -->
-  <Text>¿Has visto alguna vez un martillo así?</Text>
-</Text>
-<Text>
-  <GUID>1414017089</GUID>      <!-- Rock-Holding-Down-the-Eastern-Atolls - CultureItem -->
-  <Text>Roca que Sujeta Horai</Text>
-</Text>
-<Text>
-  <GUID>1414017090</GUID>      <!-- Rock-Holding-Down-the-Eastern-Atolls - CultureItem - Description -->
-  <Text>¿Dónde habías estado buscando esto?</Text>
-</Text>
-<Text>
-  <GUID>1414017091</GUID>      <!-- Monkey Staff - CultureItem -->
-  <Text>Bastón del Mono</Text>
-</Text>
-<Text>
-  <GUID>1414017092</GUID>      <!-- Monkey Staff - CultureItem - Description -->
-  <Text>Tallado de las maderas más duras y grabado con signos antiguos.</Text>
-</Text>
-<Text>
-  <GUID>1414017093</GUID>      <!-- Nine-toothed Rake - CultureItem -->
-  <Text>Rastrillo de Nueve Dientes</Text>
-</Text>
-<Text>
-  <GUID>1414017094</GUID>      <!-- Nine-toothed Rake - CultureItem - Description -->
-  <Text>Con esos nueve dientes, la tierra no sabe qué la golpeó.</Text>
-</Text>
-<Text>
-  <GUID>1414017095</GUID>      <!-- Longevity Crown - CultureItem -->
-  <Text>Corona de la Longevidad</Text>
-</Text>
-<Text>
-  <GUID>1414017096</GUID>      <!-- Longevity Crown - CultureItem - Description -->
-  <Text>Quien la lleve tendrá una vida larga, pero realmente mala.</Text>
-</Text>
-<!-- 1414018314 taken -->
+    </Text>
+    <Text>
+      <GUID>1414017059</GUID>      <!-- Imperial Tea Room - CultureItem -->
+      <Text>Salón Imperial de Té</Text>
+    </Text>
+    <Text>
+      <GUID>1414017060</GUID>      <!-- Imperial Tea Room - CultureItem - Description -->
+      <Text>Bonito salón de té para un samurái.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017061</GUID>      <!-- Imperial Terracotta Army - CultureItem -->
+      <Text>Ejército Imperial de Terracota</Text>
+    </Text>
+    <Text>
+      <GUID>1414017062</GUID>      <!-- Imperial Terracotta Army - CultureItem - Description -->
+      <Text>¿Alguna vez viste un ejército de terracota tan grande?</Text>
+    </Text>
+    <Text>
+      <GUID>1414017063</GUID>      <!-- Jade Bok Choy - CultureItem -->
+      <Text>Bok Choy de Jade</Text>
+    </Text>
+    <Text>
+      <GUID>1414017064</GUID>      <!-- Jade Bok Choy - CultureItem - Description -->
+      <Text>¿Esto no es chop choy?</Text>
+    </Text>
+    <Text>
+      <GUID>1414017065</GUID>      <!-- Cursive Poems in Script - CultureItem -->
+      <Text>Poemas Cursivos en Caligrafía</Text>
+    </Text>
+    <Text>
+      <GUID>1414017066</GUID>      <!-- Cursive Poems in Script - CultureItem - Description -->
+      <Text>He leído muchas cosas, pero estas caligrafías están entre las mejores.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017067</GUID>      <!-- Dynastic Blue & White Vase Set - CultureItem -->
+      <Text>Juego Dinástico de Jarrones Azul y Blanco</Text>
+    </Text>
+    <Text>
+      <GUID>1414017068</GUID>      <!-- Dynastic Blue & White Vase Set - CultureItem - Description -->
+      <Text>No los empujes, estos jarrones no son fáciles de conseguir.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017069</GUID>      <!-- Treasure Ship Wreckage - CultureItem -->
+      <Text>Restos de Barco del Tesoro</Text>
+    </Text>
+    <Text>
+      <GUID>1414017070</GUID>      <!-- Treasure Ship Wreckage - CultureItem - Description -->
+      <Text>Encontrado en el fondo del mar.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017071</GUID>      <!-- Chūzan Crown - CultureItem -->
+      <Text>Corona de Chūzan</Text>
+    </Text>
+    <Text>
+      <GUID>1414017072</GUID>      <!-- Chūzan Crown - CultureItem - Description -->
+      <Text>Encontrada en el fondo del mar.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017073</GUID>      <!-- The Great Star of Light - CultureItem -->
+      <Text>La Gran Estrella de la Luz</Text>
+    </Text>
+    <Text>
+      <GUID>1414017074</GUID>      <!-- The Great Star of Light - CultureItem - Description -->
+      <Text>La luz siempre toca este lugar.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017075</GUID>      <!-- Peacock Throne - CultureItem -->
+      <Text>Trono del Pavo Real</Text>
+    </Text>
+    <Text>
+      <GUID>1414017076</GUID>      <!-- Peacock Throne - CultureItem - Description -->
+      <Text>Un trono solo para los más orgullosos.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017077</GUID>      <!-- Guptan Iron Pillar - CultureItem -->
+      <Text>Pilar de Hierro Guptano</Text>
+    </Text>
+    <Text>
+      <GUID>1414017078</GUID>      <!-- Guptan Iron Pillar - CultureItem - Description -->
+      <Text>Brindaba el mejor soporte para un edificio impresionante.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017079</GUID>      <!-- Smiling Temple - CultureItem -->
+      <Text>Templo Sonriente</Text>
+    </Text>
+    <Text>
+      <GUID>1414017080</GUID>      <!-- Smiling Temple - CultureItem - Description -->
+      <Text>Incluso los edificios pueden ser felices.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017081</GUID>      <!-- Crown of Great Victory - CultureItem -->
+      <Text>Corona de la Gran Victoria</Text>
+    </Text>
+    <Text>
+      <GUID>1414017082</GUID>      <!-- Crown of Great Victory - CultureItem - Description -->
+      <Text>Usar esta corona casi siempre te hace victorioso.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017083</GUID>      <!-- Candi Bentar Gate - CultureItem -->
+      <Text>Puerta Candi Bentar</Text>
+    </Text>
+    <Text>
+      <GUID>1414017084</GUID>      <!-- Candi Bentar Gate - CultureItem - Description -->
+      <Text>Nada pasa por esta puerta.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017085</GUID>      <!-- Magic Sword - CultureItem -->
+      <Text>Espada Mágica</Text>
+    </Text>
+    <Text>
+      <GUID>1414017086</GUID>      <!-- Magic Sword - CultureItem - Description -->
+      <Text>Una espada como ninguna otra.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017087</GUID>      <!-- Wish-Granting Mallet - CultureItem -->
+      <Text>Martillo que Concede Deseos</Text>
+    </Text>
+    <Text>
+      <GUID>1414017088</GUID>      <!-- Wish-Granting Mallet - CultureItem - Description -->
+      <Text>¿Has visto alguna vez un martillo así?</Text>
+    </Text>
+    <Text>
+      <GUID>1414017089</GUID>      <!-- Rock-Holding-Down-the-Eastern-Atolls - CultureItem -->
+      <Text>Roca que Sujeta Horai</Text>
+    </Text>
+    <Text>
+      <GUID>1414017090</GUID>      <!-- Rock-Holding-Down-the-Eastern-Atolls - CultureItem - Description -->
+      <Text>¿Dónde habías estado buscando esto?</Text>
+    </Text>
+    <Text>
+      <GUID>1414017091</GUID>      <!-- Monkey Staff - CultureItem -->
+      <Text>Bastón del Mono</Text>
+    </Text>
+    <Text>
+      <GUID>1414017092</GUID>      <!-- Monkey Staff - CultureItem - Description -->
+      <Text>Tallado de las maderas más duras y grabado con signos antiguos.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017093</GUID>      <!-- Nine-toothed Rake - CultureItem -->
+      <Text>Rastrillo de Nueve Dientes</Text>
+    </Text>
+    <Text>
+      <GUID>1414017094</GUID>      <!-- Nine-toothed Rake - CultureItem - Description -->
+      <Text>Con esos nueve dientes, la tierra no sabe qué la golpeó.</Text>
+    </Text>
+    <Text>
+      <GUID>1414017095</GUID>      <!-- Longevity Crown - CultureItem -->
+      <Text>Corona de la Longevidad</Text>
+    </Text>
+    <Text>
+      <GUID>1414017096</GUID>      <!-- Longevity Crown - CultureItem - Description -->
+      <Text>Quien la lleve tendrá una vida larga, pero realmente mala.</Text>
+    </Text>
+    <!-- 1414018314 taken -->
   </ModOp>
 </ModOps>

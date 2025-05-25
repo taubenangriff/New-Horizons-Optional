@@ -1,0 +1,69 @@
+<ModOps>
+    <ModOp Path = "//Text[GUID = '1414006698']/Text" Type = "replace">
+        <Text>Raksagarbha</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1440226']/Text" Type = "replace">
+        <Text>Hareng</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1441260']/Text" Type = "replace">
+        <Text>Pêcherie de Hareng</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1440405']/Text" Type = "replace">
+        <Text>Temple</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414007004']/Text" Type = "replace">
+        <Text>Abondance de Hareng</Text>
+    </ModOp>
+    <!-- Streetfood - Dango - Description -->
+    <ModOp Path = "//Text[GUID = '1442763']/Text" Type = "replace">
+        <Text>Présenté couramment lors des festivals de temple, ce snack comprend trois gâteaux de riz sucrés sur un bâton, chacun sucré et aromatisé individuellement. Faciles à transporter et faciles à manger, ces petits trésors sont parfaits pour une promenade au parc et admirer les cerisiers en fleurs.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414006025']/Text" Type = "replace">
+        <Text>Un banc de poissons argentés, rempli de délices.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414015084']/Text" Type = "replace">
+        <Text>Grande Pagode aux Pigeons</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414006829']/Text" Type = "replace">
+        <Text>Au-delà de la ligne Wallace, les animaux d'Océanie attirent avec leurs formes primitives inhabituelles.</Text>
+    </ModOp>
+    <!-- Bamboo Forest SETBUFF - TownhallBuff - Description -->
+    <ModOp Path = "//Text[GUID = '1414006830']/Text" Type = "replace">
+        <Text>Apprendre que la patience est la sagesse de la nature et observer l'énergie tranquille de ces animaux ont permis à vos citoyens de prendre la vie plus lentement et de savourer chaque gorgée, car même le thé a un goût plus profond dans le calme.</Text>
+    </ModOp>
+    <!-- Planet of the Apes SETBUFF - TownhallBuff - Description -->
+    <ModOp Path = "//Text[GUID = '1414006831']/Text" Type = "replace">
+        <Text>Les frasques de ces cousins ​​simiens ont permis à vos citoyens de réfléchir et de devenir plus prudents. </Text>
+    </ModOp>
+    <!-- Oceania SETBUFF - TownhallBuff - Description -->
+    <ModOp Path = "//Text[GUID = '1414006833']/Text" Type = "replace">
+        <Text>Ces bêtes étranges et exotiques ont calmé l'appétit de vos citoyens, leur conférant l'art de manger en pleine conscience et l'estomac d'un sage des îles.</Text>
+    </ModOp>
+    <!-- Planet of the Apes - Itemset - Description -->
+    <ModOp Path = "//Text[GUID = '1414006833']/Text" Type = "replace">
+        <Text>Singes, ensemble, forts. Return to monkee!</Text>
+    </ModOp>
+
+
+    <ModOp Path = "//Text[GUID = '1414018145']/Text" Type = "replace">
+        <Text>L'imposante Grande Pagode améliorera le Feng Shui local et rappellera à vos habitants de préserver les traditions locales de temps à autre. Pour améliorer encore le Feng Shui, il faudra empiler davantage d'étages.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018146']/Text" Type = "replace">
+        <Text>Pour construire un lieu où les moines viennent méditer et prier profondément, une multitude de blocs de pierre doivent être taillés avec précision et assemblés en conséquence. Les roues du Dharma et l'or sur le toit sont absolument indispensables pour faciliter l'éveil.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018147']/Text" Type = "replace">
+        <Text>À l'ère des poutres d'acier, construire un immense toit en surplomb semble trivial, mais vos architectes ont choisi de préserver la tradition et de suivre les méthodes traditionnelles, soutenant ingénieusement un toit chargé de tuiles dorées avec une simple charpente en bois. Lourde, en effet, est cette couronne.</Text>
+    </ModOp>    
+    <ModOp Path = "//Text[GUID = '1414018148']/Text" Type = "replace">
+        <Text>Une statue majestueuse de l'Éveillé, assemblée à partir de plaques de bronze coulées individuellement sur une structure en acier. Bien que le résultat final paraisse ancien, la structure interne est assez moderne, et des rapports provenant d'une terre lointaine appelée le « Nouveau Monde » indiquent qu'une statue similaire d'une divinité rivale a été assemblée de cette manière.</Text>
+    </ModOp> 
+    <ModOp Path = "//Text[GUID = '1414018149']/Text" Type = "replace">
+        <Text>Le Pavillon du Plaisir est un lieu de rassemblement pour les lettrés et les amateurs de plaisirs de Horai. Dans ses nombreux étages colorés éclairés par des lanternes, la musique semble émaner des murs et le raffinement culturel règne en maître.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018242']/Text" Type = "replace">
+        <Text>On sait peu de choses sur les Pyrophoriens : leurs origines, leur mission et le pouvoir qui les gouverne. Ce qui est clair, cependant, c'est qu'ils rassemblent des forces et s'organisent en une formidable force militaire à Raksagarbha, un ancien temple-forteresse hindou, clé du contrôle des terres agitées de Horai. Là, entre ses murs imposants et ses salles obscures, les Pyrophoriens mènent de sombres expériences avec l'Œil du Dragon qu'ils ont retrouvé, s'efforçant de créer une force maléfique dépassant l'entendement humain.</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018243']/Text" Type = "replace">
+        <Text>Dans la tradition des flottes de l'ancienne civilisation atlante, les Pyrophoriens n'ont toujours compté qu'un seul membre au rang de Navarque, qui supervise personnellement toutes les interventions militaires. On raconte que le Navarch est en perpétuelle rivalité avec le Grand Maître Pyrophorien, mais cet équilibre a été brisée par le vol de l'Œil du Dragon de la Cité Sainte par le Navarch, faisant pencher la balance d'une manière qui pourrait bien changer le destins des empires.</Text>
+    </ModOp>
+</ModOps>
