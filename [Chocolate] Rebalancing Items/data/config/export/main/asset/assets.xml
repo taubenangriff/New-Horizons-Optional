@@ -268,19 +268,7 @@
 	<ModOp GUID='191465' Path="/Values/CultureUpgrade/AttractivenessUpgrade" Type="merge">
 		<Value>3</Value>
 	</ModOp>
-	<!-- Gritty Gas Extractor: Renamed to "Gritty Extractor". Extra goods removed. Now affects variable resource extractors. Extra goods: Gas -->
-	<ModOp GUID='116167' Type="replace" Path="/Values/ItemEffect/EffectTargets/Item/GUID">
-		<GUID>14443011</GUID>
-	</ModOp>
-	<ModOp GUID='116167' Path="/Values/FactoryUpgrade/AdditionalOutput" Type="replace">
-		<AdditionalOutput>
-			<Item>
-				<Product>112706</Product>
-				<AdditionalOutputCycle>9</AdditionalOutputCycle>
-				<Amount>1</Amount>
-			</Item>
-		</AdditionalOutput>
-	</ModOp>
+
 	<!-- Hans Klein: Extra Goods Gold (5/1) instead of Jewellry-->
 	<ModOp GUID='191324' Path="/Values/FactoryUpgrade/AdditionalOutput/Item" Type="replace">
 		<Item>
