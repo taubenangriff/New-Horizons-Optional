@@ -1,0 +1,12 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1414020003</GUID>
+      <Text>Разблокировка по выбору:</Text>
+    </Text>
+    <Text>
+      <GUID>1414020004</GUID>
+      <Text>Открывает это чудо и помещает его на фундамент чудес, не обнаруживая его во время раскопок.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

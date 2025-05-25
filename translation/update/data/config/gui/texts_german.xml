@@ -1,0 +1,12 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1414020003</GUID>
+      <Text>Bei Auswahl freischalten:</Text>
+    </Text>
+    <Text>
+      <GUID>1414020004</GUID>
+      <Text>Schaltet dieses Wunder frei, um es auf Wunderfundamenten zu platzieren, ohne es bei einer Ausgrabung zu entdecken.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

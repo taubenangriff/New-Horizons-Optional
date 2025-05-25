@@ -1,0 +1,12 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1414020003</GUID>
+      <Text>Desbloqueo al seleccionar:</Text>
+    </Text>
+    <Text>
+      <GUID>1414020004</GUID>
+      <Text>Desbloquea esta Maravilla para que se coloque en los cimientos de las maravillas sin descubrirla en una excavación.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

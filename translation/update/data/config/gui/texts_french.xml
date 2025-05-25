@@ -1,0 +1,12 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1414020003</GUID>
+      <Text>Déverrouiller sur sélection :</Text>
+    </Text>
+    <Text>
+      <GUID>1414020004</GUID>
+      <Text>Débloque cette merveille pour être placée sur les fondations des merveilles sans la découvrir lors d’une fouille.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

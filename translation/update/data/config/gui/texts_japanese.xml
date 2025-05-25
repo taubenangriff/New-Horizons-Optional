@@ -1,0 +1,12 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1414020003</GUID>
+      <Text>選択時にアンロック:</Text>
+    </Text>
+    <Text>
+      <GUID>1414020004</GUID>
+      <Text>このワンダーをアンロックして、発掘で発見せずにワンダーファウンデーションに配置します。</Text>
+    </Text>
+  </ModOp>
+</ModOps>

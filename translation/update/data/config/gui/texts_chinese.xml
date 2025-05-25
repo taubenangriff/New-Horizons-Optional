@@ -1,0 +1,12 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1414020003</GUID>
+      <Text>选择时解锁：</Text>
+    </Text>
+    <Text>
+      <GUID>1414020004</GUID>
+      <Text>解锁此奇迹以放置在奇迹基础上，而无需在挖掘中发现它。</Text>
+    </Text>
+  </ModOp>
+</ModOps>

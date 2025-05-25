@@ -1,0 +1,12 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1414020003</GUID>
+      <Text>선택 시 잠금 해제:</Text>
+    </Text>
+    <Text>
+      <GUID>1414020004</GUID>
+      <Text>이 불가사의를 발굴에서 발견하지 않고 불가사의의 기초에 놓을 수 있도록 잠금 해제합니다.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

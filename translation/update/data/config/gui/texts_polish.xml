@@ -1,0 +1,12 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1414020003</GUID>
+      <Text>Odblokuj po wyborze:</Text>
+    </Text>
+    <Text>
+      <GUID>1414020004</GUID>
+      <Text>Odblokowuje ten cud, który można umieścić na fundamentach cudów bez odkrywania go w wykopaliskach.</Text>
+    </Text>
+  </ModOp>
+</ModOps>
