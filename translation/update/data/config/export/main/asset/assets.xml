@@ -1035,7 +1035,7 @@
                 </Action>
             </Item>
         </Actions>
-    </ModOp>    
+    </ModOp>
     <ModOp GUID = '1414011136' Path = "/Values/ItemWithUI/ItemActions/Values/ActionList/Actions" Type = "replace">
         <Actions>
             <Item>
@@ -1066,5 +1066,27 @@
     <ModOp GUID = '1442502,1442503' Path = "/Values/Standard" Type = "merge">
         <AdjustToNeighbors>Nongmin</AdjustToNeighbors>
         <NeighborLevel>Nongmin</NeighborLevel>
+    </ModOp>
+
+    <!-- Sound Fix for Garden -->
+    <ModOp GUID = '1442528,1442560' Path = "/Values/SoundEmitter/ActiveSounds" Type = "replace">
+        <ActiveSounds />
+    </ModOp>
+    <ModOp GUID = '1442540' Path = "/Values/SoundEmitter/ActiveSounds" Type = "replace">
+        <ActiveSounds>
+            <Item>
+                <Sound>200896</Sound>
+            </Item>
+            <Item>
+                <Sound>200920</Sound>
+            </Item>
+        </ActiveSounds>
+    </ModOp>
+    <ModOp GUID = '1442526' Path = "/Values/SoundEmitter/ActiveSounds" Type = "replace">
+        <ActiveSounds>
+            <Item>
+                <Sound>201665</Sound>
+            </Item>
+        </ActiveSounds>
     </ModOp>
 </ModOps>
