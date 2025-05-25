@@ -1,0 +1,361 @@
+<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+        <Text>
+            <GUID>1414187001</GUID>
+            <Text>Gran Pagoda: Reconstrucción</Text>
+        </Text>
+        <Text>
+            <GUID>1414187002</GUID>
+            <Text>Gran Pagoda</Text>
+        </Text>
+        <Text>
+            <GUID>1414187006</GUID>
+            <Text>Noble Santuario: Reconstrucción</Text>
+        </Text>
+        <Text>
+            <GUID>1414187007</GUID>
+            <Text>Noble Santuario</Text>
+        </Text>
+        <Text>
+            <GUID>1414187008</GUID>
+            <Text>Pabellón Real: Reconstrucción</Text>
+        </Text>
+        <Text>
+            <GUID>1414187009</GUID>
+            <Text>Pabellón Real</Text>
+        </Text>
+        <Text>
+            <GUID>1414187010</GUID>
+            <Text>Daibutsu: Reconstrucción</Text>
+        </Text>
+        <Text>
+            <GUID>1414187011</GUID>
+            <Text>Daibutsu</Text>
+        </Text>
+        <Text>
+            <GUID>1414187012</GUID>
+            <Text>Pabellón de las Delicias: Reconstrucción</Text>
+        </Text>
+        <Text>
+            <GUID>1414187013</GUID>
+           <Text>Pabellón de las Delicias</Text>
+        </Text>
+        <Text>
+            <GUID>1414018135</GUID>
+            <Text>El primer paso hacia la reconstrucción de la maravilla está en reconstruir los cimientos. Despues de eso, solo tu y los arqueólogos conocerán la verdad. De todas formas, tu pueblo quedará cegado por la resplandeciente gloria de las maravillas ya reconstruidas.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018136</GUID>
+            <Text>Cimientos de la Maravilla</Text>
+        </Text>
+        <Text>
+            <GUID>1414018137</GUID>
+            <Text>La construcción en los cimientos de la maravilla se ha detenido.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018138</GUID>
+            <Text>Construye restauraciones de diferentes maravillas en estos cimientos.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018139</GUID>
+            <Text>Cimientos de Maravilla</Text>
+        </Text>
+        <Text>
+            <GUID>1414018140</GUID>
+            <Text>Una imponente pila de tejados, si se le puede llamar así..</Text>
+        </Text>
+        <Text>
+            <GUID>1414018141</GUID>
+            <Text>U sitio sagrado de Tradición.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018142</GUID>
+            <Text>Un sitio donde se honra la incuestionable lealtad hacia la nación.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018143</GUID>
+            <Text>Una gigantesca estatua del Iluminado.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018144</GUID>
+            <Text>Un recuerdo de la antigua refinada cultura de Horai.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018145</GUID>
+            <Text>La imponente Gran Pagoda mejorará el Feng Shui local y recordará a la gente que debe mantener las tradiciones locales de vez en cuando. Para mejorar aún más el Feng Shui, es necesario apilar aún más pisos.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018146</GUID>
+            <Text>Para construir un lugar donde los monjes acudan a meditar y orar profundamente, es necesario tallar con precisión una multitud de bloques de piedra y ensamblarlos adecuadamente. Las ruedas del dharma y el oro del techo son indispensables... para la iluminación.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018147</GUID>
+            <Text>En la era de las vigas de acero, construir un enorme techo voladizo parece trivial, pero los arquitectos han optado por mantener la tradición y seguir los métodos tradicionales, al sostener de forma ingeniosa un techo de tejas doradas con una simple estructura de madera. La corona es, sin duda, pesada.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018148</GUID>
+            <Text>A majestic statue of the Awakened One assembled from individually casted bronze plates on a steel structure. While the final result looks ancient, the internal structure is quite modern, and reports from a faraway land called the "New World" states that a similar statue of a rival deity was put together in such a manner.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018149</GUID>
+            <Text>The Pavilion of Pleasure is a gathering spot for the literati and pleasure-seekers of Horai. Within its multitude of colorful lantern-lit floors, music wafts from the rafters, and cultural refinement reigns supreme.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018150</GUID>
+            <Text>La construcción de la maravilla se ha detenido.</Text>
+        </Text>
+        <Text>
+            <GUID>1414187005</GUID>
+            <Text>Cimientos de Maravilla: Alzamiento</Text>
+        </Text>
+        <Text>
+            <GUID>1414018155</GUID>
+            <Text>Tus arqueólogos han terminado la limpieza y han encontrado los restos de un Pabellón de las Delicias</Text>
+        </Text>
+        <Text>
+            <GUID>1414018156</GUID>
+            <Text>Tus arqueólogos han terminado la limpieza y han encontrado los restos de un Daibutsu</Text>
+        </Text>
+        <Text>
+            <GUID>1414018157</GUID>
+            <Text>Tus arqueólogos han terminado la limpieza y han encontrado los restos de un Pabellón Real</Text>
+        </Text>
+        <Text>
+            <GUID>1414018158</GUID>
+            <Text>Tus arqueólogos han terminado la limpieza y han encontrado los restos de un Noble Santuario</Text>
+        </Text>
+        <Text>
+            <GUID>1414018159</GUID>
+            <Text>Tus arqueólogos han terminado la limpieza y han encontrado los restos de una Gran Pagoda</Text>
+        </Text>
+        <Text>
+            <GUID>1414018215</GUID>
+            <Text>Un relicario sagrado que puede albergar diferentes reliquias dentro de su prístina cámara blanca.</Text>
+        </Text>
+        <Text>
+            <GUID>1414187040</GUID>
+            <Text>Estupa: Reconstrucción</Text>
+        </Text>
+        <Text>
+            <GUID>1414187041</GUID>
+            <Text>Estupa</Text>
+        </Text>
+        <Text>
+            <GUID>1414018216</GUID>
+            <Text>Tus arqueólogos han terminado la limpieza y han encontrado los restos de una Estupa</Text>
+        </Text>
+        <Text>
+            <GUID>1414187047</GUID>
+            <Text>Replica de Reliquia</Text>
+        </Text>
+        <Text>
+            <GUID>1414187048</GUID>
+            <Text>Es tonto, para los ojos de un necio, pero los restos de una reliquia permanecen en la replica de una reliquia. Una reliquia original tal vez sea una mejor elección.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018217</GUID>
+            <Text>Afecta al radio de la Estupa</Text>
+        </Text>
+        <Text>
+            <GUID>1414018218</GUID>
+            <Text>Afecta a [ItemAssetData(1414187045) ItemOrBuffEffectTargetsFormatted] En el radio de la Estupa</Text>
+        </Text>
+        <Text>
+            <GUID>1414018220</GUID>
+            <Text>El radio de la Estupa se determina por la reliquia equipada.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018221</GUID>
+            <Text>Radio de la Estupa</Text>
+        </Text>
+        <Text>
+            <GUID>1445639</GUID>
+            <Text>Maravillas</Text>
+        </Text>
+        <Text>
+            <GUID>1414018229</GUID>
+            <Text>Puesto de comidas</Text>
+        </Text>
+        <Text>
+            <GUID>1414018230</GUID>
+            <Text>500+ Bonificación de reliquia</Text>
+        </Text>
+        <Text>
+            <GUID>1414018231</GUID>
+            <Text>Consume [AssetData(1440216) Text]</Text>
+        </Text>
+        <Text>
+            <GUID>1414018232</GUID>
+            <Text>Necesita población en el radio de influencia</Text>
+        </Text>
+        <Text>
+            <GUID>1414018233</GUID>
+            <Text>Consume [AssetData(1010221) Text]</Text>
+        </Text>
+        <Text>
+            <GUID>1414018234</GUID>
+            <Text>Consume [AssetData(1440306) Text]</Text>
+        </Text>
+        <Text>
+            <GUID>1414018235</GUID>
+            <Text>Consume [AssetData(1440229) Text]</Text>
+        </Text>
+        <Text>
+            <GUID>1414018236</GUID>
+            <Text>Necesita Item de reliquia</Text>
+        </Text>
+        <Text>
+            <GUID>1414018237</GUID>
+            <Text>La estupa aparece con una réplica de reliquia menos poderosa que las originales. ¿Cómo llegó allí?</Text>
+        </Text>
+        <Text>
+            <GUID>1414018238</GUID>
+            <Text>La Estupa se compone de seis partes: una plataforma cuadrática para el trono, una cavidad circular para las piernas cruzadas, una cúpula para el torso, una cámara de reliquias cuadrática para la cabeza, un vértice para la ushnisha y una corona para el bodhi...</Text>
+        </Text>
+        <!-- Diverse -->
+
+        <Text>
+            <GUID>1414018246</GUID>
+            <Text>Tierra Natal</Text>
+        </Text>
+        <Text>
+            <GUID>1414018249</GUID>
+            <Text>Tamaño del Envío en Toneladas</Text>
+        </Text>
+        <Text>
+            <GUID>1414018250</GUID>
+            <Text>Acepta las siguientes Mercancías:</Text>
+        </Text>
+        <Text>
+            <GUID>1414018251</GUID>
+            <Text>Envíos por Entrega</Text>
+        </Text>
+        <Text>
+            <GUID>1414018252</GUID>
+            <Text>Llena este almacén y luego completa una misión de entrega para recibir un pago considerable.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018253</GUID>
+            <Text>¡Almacén lleno!</Text>
+        </Text>
+        <Text>
+            <GUID>1414018247</GUID>
+            <Text>Los objetos valiosos pueden obtenerse hundiendo convoyes reales.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018258</GUID>
+            <Text>Las drogas pueden obtenerse hundiendo convoyes reales.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018259</GUID>
+            <Text>Esta gran villa colonial fue originalmente construida para un oficial comercial de Omega Haven. Como parte de la recolonización de Omega Haven, James Goodwill renovó el edificio para sí mismo, incluyendo puertas en miniatura para sus dos gatos falderos, Nut y Geb, y una sala insonorizada para su práctica diaria del duduk, un instrumento que ama profundamente, pero que el resto del personal de la C.C.O preferiría no escuchar.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018260</GUID>
+            <Text>Fuego Piróforo</Text>
+        </Text>
+        <!-- Items -->
+        <Text>
+            <GUID>1414011120</GUID>
+            <Text>"A"</Text>
+        </Text>
+        <Text>
+            <GUID>1414011121</GUID>
+            <Text>Con la confianza de un mapa dibujado en la niebla, la certeza de pasos sobre un puente que se desvanece, y el ingenio de una llave que no encaja en ninguna cerradura, tus elecciones se despliegan de maneras que desafían las expectativas: notables, en cierto sentido, aunque no por las razones que uno podría esperar.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011122</GUID>
+            <Text>Mustelus de Mercatore</Text>
+        </Text>
+        <Text>
+            <GUID>1414011123</GUID>
+            <Text>Sus humildes orígenes como hijo de un trabajador de fábrica son la fuente de su brillantez para encontrar lagunas en las reglas y regulaciones.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011034</GUID>
+            <Text>Semillas de Arroz Híbrido</Text>
+        </Text>
+        <Text>
+            <GUID>1414011035</GUID>
+            <Text>Semillas de Hierbas de Té Híbridas</Text>
+        </Text>
+        <Text>
+            <GUID>1414011036</GUID>
+            <Text>Semillas de Cáñamo Híbrido</Text>
+        </Text>
+        <Text>
+            <GUID>1414011037</GUID>
+            <Text>Semillas de Pimienta Híbrida</Text>
+        </Text>
+        <Text>
+            <GUID>1414011038</GUID>
+            <Text>Semillas de Morera Híbrida</Text>
+        </Text>
+        <Text>
+            <GUID>1414011039</GUID>
+            <Text>Semillas de Ume Híbrido</Text>
+        </Text>
+        <Text>
+            <GUID>1414011000</GUID>
+            <Text>Colmenas Híbridas</Text>
+        </Text>
+        <Text>
+            <GUID>1414011001</GUID>
+            <Text>Semillas de Soja Híbrida</Text>
+        </Text>
+        <Text>
+            <GUID>1414011002</GUID>
+            <Text>Nana Mochi, Maestra de Granos Foráneos</Text>
+        </Text>
+        <Text>
+            <GUID>1414011003</GUID>
+            <Text>A Nana le gusta el amarillo y todos los cultivos que crecen en ese color brillante; no solo el oro puede robar su corazón.</Text>
+        </Text>
+        <Text>
+            <GUID>1414011004</GUID>
+            <Text>Kiyoshi Katou, Procesadora de Peces</Text>
+        </Text>
+        <Text>
+            <GUID>1414011005</GUID>
+            <Text>Kiyoshi preferiría mucho más abrazar cerdos que convertirlos en sebo. Por otro lado, no tiene problema en triturar peces para obtener grasas útiles.</Text>
+        </Text>
+        <Text>
+            <GUID>1414040622</GUID>
+            <Text>Magnate</Text>
+        </Text>
+        <Text>
+            <GUID>1414040623</GUID>
+            <Text>Gōngrén</Text>
+        </Text>
+        <!-- Zoo Animal -->
+        <Text>
+            <GUID>1414018261</GUID>
+            <Text><b>Mustela altaica.</b> No vive realmente en las grandes montañas de Hindun, sino en los exuberantes bosques de bambú en las colinas circundantes. Es un mito que planea sus propias ciudades cuando nadie está mirando.</Text>
+        </Text>
+        <!-- Loading Scene Tips -->
+        <Text>
+            <GUID>1414006670</GUID>
+            <Text>El Almirante Wu Guowei, heredero de una distinguida estirpe de diplomáticos imperiales, alguna vez trazó un curso brillante a través de los rangos de la marina del Emperador. Pero la envejecida flota del Imperio Tianming fue aplastada por las potencias del Viejo Mundo, marcando el fin tanto del ascenso de Wu como de las ilusiones de supremacía marítima del imperio. Luchando por mantener unido el Este y recuperar su honor, Wu se encuentra ahora en las inquietas tierras fronterizas de Horai, forzado a aceptar una amarga verdad: ya no es un depredador dominante, sino solo otro tiburón en aguas ahora repletas de rivales más feroces de ultramar.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018239</GUID>
+            <Text>James Goodwill fue alguna vez un alto funcionario de la C.C.O, ejerciendo considerable influencia sobre vastas regiones de Hindun durante el dominio de la compañía. Pero su poder le fue arrebatado rápidamente cuando la Reina, decidida a llevar la región bajo el control de la corona, lo degradó a un humilde oficial comercial, un puesto de poco prestigio y aún menos autoridad. Sin embargo, la Reina no sospecha que Goodwill está jugando un juego largo de venganza personal y ganancias, aliándose con fuerzas oscuras dentro del Consejo Real. Oculta bajo su red comercial de dudosa legalidad, florece un mercado de contrabando que vende lo que la gente necesita, no necesita, y nunca debería necesitar.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018240</GUID>
+            <Text>Majipun fue alguna vez la perla de Horai, rica por el comercio marítimo y hogar de uno de los jardines más célebres del Tianming Guo. Pero todo cambió cuando el Imperio Tianming perdió su guerra contra las potencias del Viejo Occidente y fue forzado a firmar una serie de tratados desiguales. Aunque conserva sus aires distinguidos, bajo la superficie yace una población aplastada por el peso del mando militar del Almirante Wu: próspera en apariencia, pero hueca por la desesperación.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018241</GUID>
+            <Text>Omega Haven comenzó como una modesta colonia portuaria de la C.C.O en Horai, poco más que una capilla y un grupo de casas de comerciantes. Tras una década de abandono, el asentamiento cobró nueva vida bajo James Goodwill, quien asumió el control como parte de su nombramiento como oficial comercial regional. Con visión y determinación, ha transformado esta antigua colonia en su base personal de comercio y operaciones.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018242</GUID>
+            <Text>Poco se sabe sobre los Piróforos: sus orígenes, su propósito, o el poder que los comanda. Lo que está claro, sin embargo, es que están recuperando fuerzas y organizándose en una formidable fuerza militar en Raksagarbha, una antigua fortaleza-templo de Hindun clave para controlar las inquietas tierras de Horai. Allí, dentro de sus imponentes muros y salones sombríos, los Piróforos llevan a cabo oscuros experimentos con el recuperado Ojo del Dragón, esforzándose por crear una fuerza maligna más allá de la comprensión humana.</Text>
+        </Text>
+        <Text>
+            <GUID>1414018243</GUID>
+            <Text>En la tradición de las armadas de la antigua civilización atlante, los Piróforos solo tienen un miembro en el rango de Navarca, quien supervisa personalmente todas las intervenciones militares. Se dice que el Navarca mantiene una rivalidad perpetua con el Gran Maestro Piróforo, pero este punto muerto se rompió con el robo del Ojo del Dragón por parte del Navarca en la Ciudad Santa, inclinando la balanza de una manera que aún podría cambiar el curso de los imperios.</Text>
+        </Text>
+    </ModOp>
+</ModOps>
