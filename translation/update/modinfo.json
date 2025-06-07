@@ -1,11 +1,11 @@
 {
-    "Version": "1.0.13",
+    "Version": "1.0.14",
     "ModID": "new_horizons_patch",
     "Category": {
       "English": "Component"
     },
     "ModName": {
-      "English": "Patch 1.0.13"
+      "English": "Patch 1.0.14"
     },
     "CreatorName": "New Horizons Team",
     "LoadAfterIds": [
@@ -15,7 +15,8 @@
       "new_horizons_buildmenu",
       "new_horizons_quests",
       "new_horizons_monuments",
-      "new_horizons_items"
+      "new_horizons_items",
+      "new_horizons_customsduty"
     ]
   }
   
