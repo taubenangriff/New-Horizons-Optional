@@ -1,0 +1,112 @@
+<ModOps>
+  <!-- # Product: Incense -->
+  <Group>
+    <ModOp GUID="114356" Type="addPrevSibling">
+      <Asset>
+        <Template>Product</Template>
+        <Values>
+          <Standard>
+            <GUID>1440307</GUID>
+            <Name>Durian Fruits</Name>
+            <IconFilename>data/graphics/ui/icons/goods/icon_durian.png</IconFilename>
+            <InfoDescription>1414006642</InfoDescription>
+          </Standard>
+          <Text />
+          <Locked />
+          <Product>
+            <StorageLevel>Building</StorageLevel>
+            <ProductCategory>54005139</ProductCategory>
+            <BasePrice>210</BasePrice>
+            <CivLevel>2</CivLevel>
+            <AssociatedRegion />
+            <ProductionRegions />
+          </Product>
+          <ExpeditionAttribute>
+            <BaseMorale>5</BaseMorale>
+          </ExpeditionAttribute>
+          <Locked />
+        </Values>
+      </Asset>
+    </ModOp>
+  </Group>
+  <ModOp Type="add" GUID="800111" Condition="!~/Values/ExpeditionFeature/FeedOption/FeedOptions[Item/Product='1440307']" Path="/Values/ExpeditionFeature/FeedOption/FeedOptions">
+    <Item>
+      <MoraleFactor>0.1</MoraleFactor>
+      <Product>1440307</Product>
+    </Item>
+  </ModOp>
+  <!-- # Storage Lists -->
+  <Group>
+    <ModOp Type="add" GUID="120055" Condition="!/Values/ProductStorageList/ProductList/Item[Product='1440307']" Path="/Values/ProductStorageList/ProductList">
+      <Item>
+        <Product>1440307</Product>
+      </Item>
+    </ModOp>
+  </Group>
+  <!-- # Is Main Fake  -->
+  <ModOp Type="addNextSibling" GUID="120008" Condition="!//FactoryBase[FactoryOutputs/Item/Product='1440307']/IsMainFactory[text()='1']">
+    <Asset>
+      <Template>FreeAreaBuilding</Template>
+      <Values>
+        <Standard>
+          <GUID>1414020022</GUID>
+          <Name>IsMainFactory_Fake: Durian Fruit</Name>
+        </Standard>
+        <Building>
+          <AssociatedRegions>Colony01</AssociatedRegions>
+          <SecondPartyRelevant>0</SecondPartyRelevant>
+        </Building>
+        <Blocking>
+          <DeletePropsRadius>1</DeletePropsRadius>
+        </Blocking>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/dlc08/graphics/buildings/production/tree_planter/tree_planter_coconut.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Locked />
+        <FactoryBase>
+          <FactoryOutputs>
+            <Item>
+              <Product>1440307</Product>
+              <Amount>1</Amount>
+              <StorageAmount>4</StorageAmount>
+            </Item>
+          </FactoryOutputs>
+          <IsMainFactory>1</IsMainFactory>
+        </FactoryBase>
+        <Maintenance>
+          <Maintenances>
+            <Item>
+              <Product>1010017</Product>
+              <Amount>50</Amount>
+              <InactiveAmount>25</InactiveAmount>
+            </Item>
+            <Item>
+              <Product>1010366</Product>
+              <Amount>35</Amount>
+              <ShutdownThreshold>0.2</ShutdownThreshold>
+            </Item>
+          </Maintenances>
+        </Maintenance>
+        <FreeAreaProductivity>
+          <InfluenceRadius>9</InfluenceRadius>
+          <NeededAreaPercent>80</NeededAreaPercent>
+          <FreeAreaType>Coconut</FreeAreaType>
+          <MaxWorkerAmount>3</MaxWorkerAmount>
+          <AdditionalWorkerForForestation>9</AdditionalWorkerForForestation>
+          <WorkerPause>10000</WorkerPause>
+          <CutTree>0</CutTree>
+          <ShowCollectFeedback>1</ShowCollectFeedback>
+          <AdditionalTreePropPercent>50</AdditionalTreePropPercent>
+          <AdditionalTreeProp>data/graphics/props/storage/basket_pile_v1.prp</AdditionalTreeProp>
+        </FreeAreaProductivity>
+        <Culture>
+          <CultureType>Landscaping</CultureType>
+        </Culture>
+      </Values>
+    </Asset>
+  </ModOp>
+</ModOps>

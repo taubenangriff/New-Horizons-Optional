@@ -1,0 +1,17 @@
+{
+  "Version": "1.0.14",
+  "ModID": "durian-newhorizons",
+  "LoadAfterIds": [
+  ],
+  "ModDependencies": [
+
+  ],
+  "Category": {
+    "English": "Product"
+  },
+  "ModName": {
+    "English": "Durian (New Horizons)"
+  },
+    "CreatorName": "New Horizons Team",
+    "CreatorContact": "https://github.com/taubenangriff/Anno-1800-New-Horizons"
+}

@@ -1,0 +1,98 @@
+<ModOps>
+  <ModOp Type="addNextSibling" GUID="1010217">
+    <Asset>
+      <Template>Product</Template>
+      <Values>
+        <Standard>
+          <GUID>1440239</GUID>
+          <Name>Tofu</Name>
+          <IconFilename>data/graphics/ui/icons/goods/icon_tofu.png</IconFilename>
+          <InfoDescription>1414018195</InfoDescription>
+        </Standard>
+        <Text>
+          <LocaText />
+          <LineID>5385</LineID>
+        </Text>
+        <Locked />
+        <Product>
+          <StorageLevel>Building</StorageLevel>
+          <ProductCategory>11703</ProductCategory>
+          <BasePrice>255</BasePrice>
+          <CivLevel>2</CivLevel>
+          <AssociatedRegion>Mod2</AssociatedRegion>
+          <ProductionRegions>
+            <Item>
+              <RegionType>Mod2</RegionType>
+            </Item>
+          </ProductionRegions>
+        </Product>
+        <ExpeditionAttribute>
+          <ExpeditionAttributes>
+            <ExpeditionAttributes>
+              <Item>
+                <Attribute>Melee</Attribute>
+                <Amount>5</Amount>
+              </Item>
+            </ExpeditionAttributes>
+          </ExpeditionAttributes>
+        </ExpeditionAttribute>
+        <Locked />
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- # Storage Lists -->
+  <ModOp Type="add" GUID="120055" Condition="!~/Values/ProductStorageList/ProductList/Item[Product='1440239']" Path="/Values/ProductStorageList/ProductList">
+    <Item>
+      <Product>1440239</Product>
+    </Item>
+  </ModOp>
+
+  <ModOp Type="add" GUID="800111" Condition="!~/Values/ExpeditionFeature/FeedOption/FeedOptions[Item/Product='1440239']" Path="/Values/ExpeditionFeature/FeedOption/FeedOptions">
+    <Item>
+      <MoraleFactor>0.25</MoraleFactor>
+      <Product>1440239</Product>
+    </Item>
+  </ModOp>
+
+  <ModOp Type="addNextSibling" GUID="131764" Condition="!//FactoryBase[FactoryOutputs/Item/Product='1440239']/IsMainFactory[text()='1']">
+    <Asset>
+      <Template>FactoryBuilding7</Template>
+      <Values>
+        <Standard>
+          <GUID>1414020021</GUID>
+          <Name>IsMainFactory fake</Name>
+        </Standard>
+        <Building>
+          <BuildModeRandomRotation>90</BuildModeRandomRotation>
+          <AssociatedRegions>Moderate</AssociatedRegions>
+        </Building>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data\graphics\buildings\public\logistic_01\logistic_01.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <FactoryBase>
+          <FactoryOutputs>
+            <Item>
+              <Product>1440239</Product>
+              <Amount>1</Amount>
+              <StorageAmount>2</StorageAmount>
+            </Item>
+          </FactoryOutputs>
+          <IsMainFactory>1</IsMainFactory>
+        </FactoryBase>
+        <Maintenance>
+          <Maintenances>
+            <Item>
+              <Product>1010117</Product>
+              <Amount>120</Amount>
+            </Item>
+          </Maintenances>
+        </Maintenance>
+      </Values>
+    </Asset>
+  </ModOp>
+</ModOps>

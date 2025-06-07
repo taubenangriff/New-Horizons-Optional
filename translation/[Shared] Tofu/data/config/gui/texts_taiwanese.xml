@@ -1,0 +1,12 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1440239</GUID>
+      <Text>豆腐</Text>
+    </Text>
+    <Text>
+      <GUID>1414018195</GUID>
+      <Text>以前是豆子，現在是乳酪。</Text>
+    </Text>
+  </ModOp>
+</ModOps>
