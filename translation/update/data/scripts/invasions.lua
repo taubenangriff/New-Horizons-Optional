@@ -1,5 +1,6 @@
 local InvasionFeatureUnlock = 1443234
 local BuildupTimeUnlock = 1443335
+local PyrphorianDefeatedUnlock = 1414020020
 local InvasionChanceIncreasePerTick = 5
 local InvasionBuildupProduct = 1440606
 local InvasionProtectionProduct = 1414042213
@@ -37,6 +38,10 @@ local function Update()
     end
     if(not ts.Unlock.GetIsUnlocked(BuildupTimeUnlock)) then 
         print("Invasion Buildup time has not ran through. Discarding this spawn try.")
+        return 
+    end
+    if(ts.Unlock.GetIsUnlocked(PyrphorianDefeatedUnlock)) then 
+        print("Pyrphorian Base has been defeated. Discarding this spawn try.")
         return 
     end
 
