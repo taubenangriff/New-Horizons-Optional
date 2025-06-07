@@ -1089,4 +1089,10 @@
             </Item>
         </ActiveSounds>
     </ModOp>
+
+    <!-- 1.0.14 Updates -->
+    <!-- Magnate House Attackable -->
+    <ModOp GUID = '1442500,1442503,1442502,1442504,1442505,1442506,1442507' Path = "/Values/Attackable" Type = "merge">
+        <AttackableType>IslandBuilding</AttackableType>
+    </ModOp>
 </ModOps>
