@@ -696,7 +696,7 @@
 
     <!-- Wandering Worker Quest Fix-->
     <ModOp GUID ='1414040600' Path = "/Values/Quest" Type = "merge">
-        <QuestGiver>1446116</QuestGiver>
+        <QuestGiver>75</QuestGiver>
     </ModOp>
 
     <ModOp GUID = '1447850' Path = "/Values" Type = "merge">
