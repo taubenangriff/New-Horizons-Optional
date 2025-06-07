@@ -1,0 +1,5 @@
+<ModOps>
+    <ModOp Template = 'CustomsDutyBuff' Path = "/Properties/ItemEffect" Type = "merge">
+        <AllowStacking>0</AllowStacking>
+    </ModOp>
+</ModOps>
