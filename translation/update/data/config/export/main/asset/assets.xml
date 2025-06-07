@@ -726,6 +726,9 @@
         <Item>
             <GUID>1441284</GUID>            <!-- String Factory (Silk) -->
         </Item>
+        <Item>
+            <GUID>1442540</GUID>            <!-- Subway Station -->
+        </Item>
     </ModOp>
 
     <!-- All Harbour Buildings -->
@@ -1055,7 +1058,6 @@
             </Item>
         </Actions>
     </ModOp>
-
 
     <!-- Neighbor Autoadjust -->
     <ModOp GUID = '1442500,1442504,1442505,1442506,1442507' Path = "/Values/Standard" Type = "merge">
