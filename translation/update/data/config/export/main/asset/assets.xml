@@ -551,6 +551,33 @@
                 </Text>
             </Values>
         </Asset>
+
+        <Asset>
+            <Template>FeatureUnlock</Template>
+            <Values>
+                <Standard>
+                    <GUID>1414020020</GUID>
+                    <Name>Pyrphorian Defeated</Name>
+                </Standard>
+                <Locked />
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionAlwaysFalse</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionAlwaysFalse />
+                        </Values>
+                    </TriggerCondition>
+                    <ResetTrigger>
+                        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                        <Values>
+                            <EmptyAutoCreateValue />
+                        </Values>
+                    </ResetTrigger>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
     </ModOp>
 
     <ModOp GUID = '1443354,1443353,1443352' Path = "/Valus/Trigger/TriggerActions/Item/TriggerAction/Values/ActionUnlockAsset/UnhideAssets" Type = "replace">
@@ -1096,5 +1123,30 @@
     <!-- Magnate House Attackable -->
     <ModOp GUID = '1442500,1442503,1442502,1442504,1442505,1442506,1442507' Path = "/Values/Attackable" Type = "merge">
         <AttackableType>IslandBuilding</AttackableType>
+    </ModOp>
+
+    <ModOp GUID = '1443324' Path = "/Values/Trigger/TriggerActions" Type = "add">
+        <Item>
+            <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                    <Action />
+                    <ActionUnlockAsset>
+                        <UnlockAssets>
+                            <Item>
+                                <Asset>1414020020</Asset>
+                            </Item>
+                        </UnlockAssets>
+                    </ActionUnlockAsset>
+                </Values>
+            </TriggerAction>
+        </Item>
+    </ModOp>
+
+    <ModOp GUID = '13371312' Type = "merge" Path = "/Values/Standard">
+        <IconFilename>data/graphics/ui/icons/tree_painter/icon_bamboo.png</IconFilename>
+    </ModOp>
+    <ModOp GUID = '1445612' Type = "merge" Path = "/Values/Standard">
+        <IconFilename>data/graphics/ui/icons/tree_painter/icon_tree_regrowing_asia.png</IconFilename>
     </ModOp>
 </ModOps>
