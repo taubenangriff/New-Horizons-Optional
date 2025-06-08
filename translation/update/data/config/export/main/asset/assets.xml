@@ -903,7 +903,7 @@
     </ModOp>
 
     <!-- Quest Cooldown Fix -->
-    <ModOp GUID = '1414040635' Path = "/Values/Quest" Type = "merge">
+    <ModOp GUID = '1414040635' Path = "/Values/QuestPool" Type = "merge">
         <PoolCooldown>3000000</PoolCooldown>
         <CooldownOnQuestStart>1</CooldownOnQuestStart>
         <CooldownOnQuestEnd>1</CooldownOnQuestEnd>
