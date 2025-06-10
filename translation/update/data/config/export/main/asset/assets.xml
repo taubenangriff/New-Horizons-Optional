@@ -1193,8 +1193,13 @@
     <!-- 1414020022 taken -->
     <!-- 1414020021 taken -->
 
-    <ModOp GUID = '1337880' Path = "/Values/Building" Type = "merge">
-        <PickingAsset>1337867</PickingAsset>
+    <ModOp GUID = '1337880' Path = "/Values" Type = "merge">
+        <Building>
+            <PickingAsset>1337867</PickingAsset>
+        </Building>
+        <Text>
+            <TextOverride>125028</TextOverride>
+        </Text>
     </ModOp>
 
     <ModOp GUID = '141647' Path = "/Values/WorkforceTransferFeature/TransferShipForRegion" Type = "add">
@@ -1205,5 +1210,9 @@
 
     <ModOp GUID = '1414041800,1414043300,1414042000,1414043000,1414043100,1414041300,1414043500,1414042900,1414043400,1414043200,1414043800,1414041500' Path = "/Values/Reward/RewardAssets[Reward]/Item" Type = "add">
         <SentToQuestArea>1</SentToQuestArea>
+    </ModOp>
+
+    <ModOp GUID = '1414008551' Path = "/Values/BuildingUpgrade/WorkforceAmountUpgrade/Value" Type = "replace">
+        <Value>-20</Value>
     </ModOp>
 </ModOps>
