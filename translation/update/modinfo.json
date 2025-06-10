@@ -1,11 +1,11 @@
 {
-    "Version": "1.0.15",
+    "Version": "1.0.16",
     "ModID": "new_horizons_patch",
     "Category": {
       "English": "Component"
     },
     "ModName": {
-      "English": "Patch 1.0.15"
+      "English": "Patch 1.0.16"
     },
     "CreatorName": "New Horizons Team",
     "LoadAfterIds": [
@@ -17,7 +17,8 @@
       "new_horizons_residences",
       "new_horizons_monuments",
       "new_horizons_items",
-      "new_horizons_session"
+      "new_horizons_session",
+      "new_horizons_trading_company"
     ]
   }
   
