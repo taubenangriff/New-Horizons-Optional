@@ -578,6 +578,46 @@
                 <TriggerSetup />
             </Values>
         </Asset>
+        <Asset>
+            <Template>Trigger</Template>
+            <Values>
+                <Standard>
+                    <GUID>1414020023</GUID>
+                    <Name>High Tech Pier Unlock Fix</Name>
+                    <IconFilename/>
+                </Standard>
+                <Trigger>
+                    <TriggerCondition>
+                        <Template>ConditionUnlocked</Template>
+                        <Values>
+                            <Condition />
+                            <ConditionUnlocked>
+                                <UnlockNeeded>125191</UnlockNeeded>
+                            </ConditionUnlocked>
+                            <ConditionPropsNegatable />
+                        </Values>
+                    </TriggerCondition>
+                    <TriggerActions>
+                        <Item>
+                            <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                    <Action />
+                                    <ActionUnlockAsset>
+                                        <UnlockAssets>
+                                            <Item>
+                                                <Asset>1337880</Asset>
+                                            </Item>
+                                        </UnlockAssets>
+                                    </ActionUnlockAsset>
+                                </Values>
+                            </TriggerAction>
+                        </Item>
+                    </TriggerActions>
+                </Trigger>
+                <TriggerSetup />
+            </Values>
+        </Asset>
     </ModOp>
 
     <ModOp GUID = '1443354,1443353,1443352' Path = "/Valus/Trigger/TriggerActions/Item/TriggerAction/Values/ActionUnlockAsset/UnhideAssets" Type = "replace">
@@ -1149,7 +1189,17 @@
     <ModOp GUID = '1445612' Type = "merge" Path = "/Values/Standard">
         <IconFilename>data/graphics/ui/icons/tree_painter/icon_tree_regrowing_asia.png</IconFilename>
     </ModOp>
-    
+
     <!-- 1414020022 taken -->
     <!-- 1414020021 taken -->
+
+    <ModOp GUID = '141647' Path = "/Values/WorkforceTransferFeature/TransferShipForRegion" Type = "add">
+        <Mod2>
+            <WorkforceTransferShip>101743</WorkforceTransferShip>
+        </Mod2>
+    </ModOp>
+
+    <ModOp GUID = '1414041800,1414043300,1414042000,1414043000,1414043100,1414041300,1414043500,1414042900,1414043400,1414043200,1414043800,1414041500' Path = "/Values/Reward/RewardAssets[Reward]/Item" Type = "add">
+        <SentToQuestArea>1</SentToQuestArea>
+    </ModOp>
 </ModOps>
