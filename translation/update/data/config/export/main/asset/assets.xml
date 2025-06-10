@@ -1193,6 +1193,10 @@
     <!-- 1414020022 taken -->
     <!-- 1414020021 taken -->
 
+    <ModOp GUID = '1337880' Path = "/Values/Building" Type = "merge">
+        <PickingAsset>1337867</PickingAsset>
+    </ModOp>
+
     <ModOp GUID = '141647' Path = "/Values/WorkforceTransferFeature/TransferShipForRegion" Type = "add">
         <Mod2>
             <WorkforceTransferShip>101743</WorkforceTransferShip>
