@@ -964,7 +964,7 @@
         <AdditionalOutput>
             <Item>
                 <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
-                <AdditionalOutputCycle>2</AdditionalOutputCycle>
+                <AdditionalOutputCycle>10</AdditionalOutputCycle>
                 <Amount>1</Amount>
             </Item>
         </AdditionalOutput>
