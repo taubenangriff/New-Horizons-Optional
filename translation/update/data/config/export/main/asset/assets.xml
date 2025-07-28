@@ -1215,4 +1215,8 @@
     <ModOp GUID = '1414008551' Path = "/Values/BuildingUpgrade/WorkforceAmountUpgrade/Value" Type = "replace">
         <Value>-20</Value>
     </ModOp>
+
+    <ModOp GUID = '133700404,133700418' Path = "/Values/Building/SecondPartyRelevant" Type = "replace">
+        <SecondPartyRelevant>0</SecondPartyRelevant>
+    </ModOp>
 </ModOps>
