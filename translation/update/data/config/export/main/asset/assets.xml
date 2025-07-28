@@ -1219,4 +1219,11 @@
     <ModOp GUID = '133700404,133700418' Path = "/Values/Building/SecondPartyRelevant" Type = "replace">
         <SecondPartyRelevant>0</SecondPartyRelevant>
     </ModOp>
+
+    <ModOp GUID = '1441234' Type = "merge" Path = "/Values/Text">
+        <TextOverride>1010266</TextOverride>
+    </ModOp>
+    <ModOp GUID = '1441236' Type = "merge" Path = "/Values/Text">
+        <TextOverride>100451</TextOverride>
+    </ModOp>
 </ModOps>
