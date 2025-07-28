@@ -1264,4 +1264,10 @@
     <ModOp GUID = '1441236' Type = "merge" Path = "/Values/Text">
         <TextOverride>100451</TextOverride>
     </ModOp>
+
+    <ModOp GUID = '15504020' Type = "addNextSibling" Path = "/Values/ProductList/List/Item[Product = '15504030']">
+        <Item>
+            <Product>502308</Product>
+        </Item>
+    </ModOp>
 </ModOps>
