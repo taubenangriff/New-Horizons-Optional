@@ -950,6 +950,44 @@
         <QuestCooldown>30000000</QuestCooldown>
     </ModOp>
 
+    <!-- Item Fixes -->
+
+    <!-- Dual Wheel Loom -->
+    <!-- Remove replace input - Affect All Cloth Works -->
+    <ModOp GUID='1414011059' Path="/Values/ItemEffect/EffectTargets" Type="merge">
+        <Item>
+            <GUID>190890</GUID>
+        </Item>
+    </ModOp>
+    <ModOp GUID='1414011059' Path="/Values/FactoryUpgrade/ReplaceInputs" Type="remove"/>
+    <ModOp GUID='1414011059' Path="/Values/FactoryUpgrade/AdditionalOutput" Type="replace">
+        <AdditionalOutput>
+            <Item>
+                <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
+                <AdditionalOutputCycle>10</AdditionalOutputCycle>
+                <Amount>1</Amount>
+            </Item>
+        </AdditionalOutput>
+    </ModOp>
+    <ModOp GUID='1414011059' Path="/Values/FactoryUpgrade" Type="merge">
+        <ProductivityUpgrade>
+            <Value>60</Value>
+            <Percental>1</Percental>
+        </ProductivityUpgrade>
+    </ModOp>
+    <ModOp GUID='1414011059' Path="/Values/BuildingUpgrade" Type="replace">
+        <BuildingUpgrade>
+            <WorkforceAmountUpgrade>
+                <Value>40</Value>
+                <Percental>1</Percental>
+            </WorkforceAmountUpgrade>
+            <MaintenanceUpgrade>
+                <Value>100</Value>
+                <Percental>1</Percental>
+            </MaintenanceUpgrade>
+        </BuildingUpgrade>
+    </ModOp>
+
     <!-- Pagoda Plans -->
     <ModOp GUID = '1414011131' Path = "/Values/ItemAction" Type = "merge">
         <IsDestroyedAfterCooldown>1</IsDestroyedAfterCooldown>
