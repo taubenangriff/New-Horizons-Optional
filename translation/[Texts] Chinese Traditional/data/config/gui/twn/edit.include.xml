@@ -1,0 +1,69 @@
+<ModOps>
+    <ModOp Path = "//Text[GUID = '1414006698']/Text" Type = "replace">
+        <Text>拉克薩戈巴</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1440226']/Text" Type = "replace">
+        <Text>鯡魚</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1441260']/Text" Type = "replace">
+        <Text>鯡魚漁場</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1440405']/Text" Type = "replace">
+        <Text>寺廟</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414007004']/Text" Type = "replace">
+        <Text>鯡魚漁獲點</Text>
+    </ModOp>
+    <!-- Streetfood - Dango - Description -->
+    <ModOp Path = "//Text[GUID = '1442763']/Text" Type = "replace">
+        <Text>常見於廟會，這是一種將數顆不同口味的甜糯米球串在一起的甜點。擁有容易攜帶及食用的特點，非常適合用來在散步賞櫻的時候邊走邊吃。</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414006025']/Text" Type = "replace">
+        <Text>一種白色群居的小魚，非常美味</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414015084']/Text" Type = "replace">
+        <Text>白鴿寶塔</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414006829']/Text" Type = "replace">
+        <Text>生存在華勒斯線以外擁有怪異外表的大洋洲代表生物。</Text>
+    </ModOp>
+    <!-- Bamboo Forest SETBUFF - TownhallBuff - Description -->
+    <ModOp Path = "//Text[GUID = '1414006830']/Text" Type = "replace">
+        <Text>這些生活在茂密竹林的慵懶動物讓你的居民學習到野性的耐心，讓他們放慢生活步調享受人生。</Text>
+    </ModOp>
+    <!-- Planet of the Apes SETBUFF - TownhallBuff - Description -->
+    <ModOp Path = "//Text[GUID = '1414006831']/Text" Type = "replace">
+        <Text>這些人類遠親的幼稚舉止讓你的人民們深刻反省自身的行為舉止。</Text>
+    </ModOp>
+    <!-- Oceania SETBUFF - TownhallBuff - Description -->
+    <ModOp Path = "//Text[GUID = '1414006833']/Text" Type = "replace">
+        <Text>這些奇特的生物讓看過的人稍微吊了一下胃口，順便讓他們重新檢視他們的飲食習慣。</Text>
+    </ModOp>
+    <!-- Planet of the Apes - Itemset - Description -->
+    <ModOp Path = "//Text[GUID = '1414006833']/Text" Type = "replace">
+        <Text>猿們團結在一起才有力量，對吧凱薩？</Text>
+    </ModOp>
+
+
+    <ModOp Path = "//Text[GUID = '1414018145']/Text" Type = "replace">
+        <Text>人們相信寶塔能夠改善當地風水，並且提供一個能夠祭奠的地方。為了更加改善風水，人們會把寶塔越蓋越多層。</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018146']/Text" Type = "replace">
+        <Text>多種精密的石材被切割及精準堆砌就為了給幾個和尚在其中修行佛法。屋頂上的法輪裝飾及鑲金屋瓦對於修行的啟示是必要的。</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018147']/Text" Type = "replace">
+        <Text>在現代利用鋼鐵結構建造這種尺寸的懸挑屋頂非常簡單，但是利用傳統木材框架結構支撐沉重的鑲金屋簷就沒那麼簡單了。</Text>
+    </ModOp>    
+    <ModOp Path = "//Text[GUID = '1414018148']/Text" Type = "replace">
+        <Text>利用鋼樑結構及鑄鐵板金建造的宏偉巨型佛像。外觀看起來非常古老，但裡面的支撐結構卻是用最新的建築工藝製成的，就像新世界的的巨大異教神祇雕像一樣。</Text>
+    </ModOp> 
+    <ModOp Path = "//Text[GUID = '1414018149']/Text" Type = "replace">
+        <Text>亭台是蓬萊當地文人學士聚集交流的地方。五彩燈籠的照明及四周傳出的音樂讓這裡的文化氣氛完全拉滿。</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018242']/Text" Type = "replace">
+        <Text>派若弗利安至今仍是一個謎團，關於他們的起源、目的、權力架構等細節仍然充滿未知。但有一點可以知道的是，他們在蓬萊地區這個邊陲地帶擁有一支令人畏懼的海軍力量。他們佔領著一個名為「拉克薩戈巴」的海上堡壘--相傳曾經是一個印度教武僧修行駐守的地方。派若弗利安人在這座陰森的堡壘裡面對他們從天明帝國偷來的名為「龍眼」的文物進行研究，創造正常人類無法理解但其恐怖深植人心的強大武器。</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018243']/Text" Type = "replace">
+        <Text>派若弗利安的權力架構據說與傳說中的亞特蘭提斯類似，其中有一位教團海軍的最高指揮官，名為「都統」（Navarch），其手中權力與負責領導宗教事務及名義上的領導人--大教長相當。有傳言指現任都統與大教長長年以來在教團內部進行著勢均力敵的權力爭奪，但兩者之間的平衡僵局在都統從聖城盜取「龍眼」之後被打破，其影響甚至有可能左右各大帝國的國運。</Text>
+    </ModOp>
+</ModOps>

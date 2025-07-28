@@ -1,0 +1,294 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">  
+    <!-- Ships -->
+    <Text>
+      <GUID>14740009</GUID>
+      <Text>散裝貨船</Text>
+    </Text>
+    <Text>
+      <GUID>14740010</GUID>
+      <Text>用來長途運送大量單一種類貨物的大型貨船，船艙隔間較少但空間巨大。</Text>
+    </Text>    
+    <Text>
+      <GUID>1414006566</GUID>
+      <Text>這艘船會被誤以為是天明帝國的船隻。.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006568</GUID>
+      <Text>蓬萊地區原產的傳統帆船。看起來很落後，但至少會這麼想的人同時也不會認為這是你的船。</Text>
+    </Text>
+    <Text>
+      <GUID>14740116</GUID>
+      <Text>平那帆船</Text>
+    </Text>
+    <Text>
+      <GUID>1414018223</GUID>
+      <Text>配備鏈彈炮的小型砲艇，其發射的鏈彈可破壞敵方船隻的船帆與船桅迫其減速，非常適合用來追擊逃跑的敵艦。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018224</GUID>
+      <Text>用來在島嶼間短距離運送少量貨物的傳統帆船。</Text>
+    </Text>
+    <Text>
+      <GUID>14740117</GUID>
+      <Text>鏈彈砲艇</Text>
+    </Text>
+    <Text>
+      <GUID>14740127</GUID>
+      <Text>古德威爾的兇殘貨船</Text>  <!-- Flavored Shipname-->
+    </Text>
+    <Text>
+      <GUID>14740129</GUID>
+      <Text>古德威爾的兇殘貨船</Text> <!-- Flavored Shipname-->
+    </Text>
+    <Text>
+      <GUID>14740126</GUID>
+      <Text>吳高偉的壞心腸戎克船</Text> <!-- Flavored Shipname-->
+    </Text>
+    <!-- Goodwill's Island texts -->
+    <Text>
+      <GUID>1414006074</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]在近期的經濟危機中嗅到商機。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006075</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]邀請你在遠東擴張。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1414006403</GUID>
+      <Text>東方貿易司近年的改革促使天明帝國的經濟活動開始活絡起來，這顯然是守舊派們不願意看到且窮極一切力量阻止，包括使用暴力。如今在西摩將軍的艦隊平定了兩國間群島盤據的海盜後，帝國與天明簽訂的平等協議規定兩國商人均可在如同中立地帶的島嶼群中定居發展。派遣艦隊向東航行，尋找新天地與新機遇吧！</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1414006404</GUID>
+      <Text>完成遠征抵達蓬萊地區以繼續你的旅途。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006405</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]歡迎你到蓬萊地區。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006406</GUID>
+      <Text>古德威爾提供給你一艘滿載資源的船用來興建你在蓬萊的第一座港口。手腳最好快些，只要建成了港口就算是女王本人也拿她忠誠的僕人的財產沒轍。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1446111</GUID>
+      <Text>詹姆士·古德威爾的倉庫船</Text>
+    </Text>
+    <Text>
+      <GUID>1446113</GUID>
+      <Text>詹姆士·古德威爾的燈塔</Text>
+    </Text>
+    <Text>
+      <GUID>1414040002</GUID>
+      <Text>平等條約</Text>
+    </Text>
+    <Text>
+      <GUID>1414040004</GUID>
+      <Text>創大業</Text>
+    </Text>
+    <Text>
+      <GUID>14740074</GUID>
+      <Text>東貿司工坊</Text>
+    </Text>
+    <Text>
+      <GUID>1414006548</GUID>
+      <Text>平等條約簽訂</Text>
+    </Text>
+    <Text>
+      <GUID>1414006549</GUID>
+      <Text>女王決定性的外交勝利 ++ 條約促使東方皇帝停止對商路私掠 +++ 賠償內容包括新定居點 +++ 詳情在第三頁</Text>
+    </Text>
+    <Text>
+      <GUID>1414006550</GUID>
+      <Text>工人們在拆解這艘舊船。八成是為了尋找能安裝在其他船上的備用零件。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006553</GUID>
+      <Text>隨時監視著慵懶的工人、遠方的船隻、還有細作。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006554</GUID>
+      <Text>長期疏忽職守導致這艘鐵甲艦長期擱淺在此，現在被當成固定砲台使用。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006555</GUID>
+      <Text>用來治療頭痛感冒，完全合法的成藥.</Text>
+    </Text>
+    <Text>
+      <GUID>1414006556</GUID>
+      <Text>絕對正當管道獲得的藝術品、工藝品、還有鑽石</Text>
+    </Text>
+    <Text>
+      <GUID>1414006558</GUID>
+      <Text>細心釀造的高品質醇酒。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006559</GUID>
+      <Text>兩成進口稅！你這會把所有人錢包榨乾的！你居然敢！</Text>
+    </Text>
+    <Text>
+      <GUID>1414006560</GUID>
+      <Text>預留給用在和平用途的老實人。</Text>
+    </Text>
+    <Text>
+      <GUID>1414015008</GUID>
+      <Text>詹姆士·古德威爾的殖民總督官邸</Text>
+    </Text>
+    <Text>
+      <GUID>1414006557</GUID>
+      <Text>違禁品</Text>
+    </Text>
+    <Text>
+      <GUID>1414040202</GUID>
+      <Text>Royal Convoy: Sink this ship to obtain drugs or valuables</Text>
+    </Text>
+    <Text>
+      <GUID>1414006561</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]詢問你是否準備好將違禁品轉移到他的倉庫。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006562</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]將違禁品存到他的倉庫裡。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006563</GUID>
+      <Text>違禁品倉庫</Text>
+    </Text>
+    <Text>
+      <GUID>1414006564</GUID>
+      <Text>詹姆士·古德威爾想知道他能否將你船上的藥品送進他的倉庫。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006569</GUID>
+      <Text>詹姆士·古德威爾想知道他能否將你船上的貴重品送進他的倉庫。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006570</GUID>
+      <Text>詹姆士·古德威爾想知道他能否將你船上的酒類送進他的倉庫。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006571</GUID>
+      <Text>詹姆士·古德威爾想知道他能否將你船上的奢侈品送進他的倉庫。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006572</GUID>
+      <Text>詹姆士·古德威爾想知道他能否將你船上的武器送進他的倉庫。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006567</GUID>
+      <Text>提供建造戎克船的地方。</Text>
+    </Text>
+    <Text>
+      <GUID>1414015021</GUID>
+      <Text>[Selection Object Residence EconomyModifier(0) &gt;&gt; storagegoodM]/[Selection Object Area Economy StorageCapacity(1440505) &gt;&gt; storagegoodM]噸 [AssetData(1440505) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414015022</GUID>
+      <Text>[Selection Object Residence EconomyModifier(0) &gt;&gt; storagegoodM]/[Selection Object Area Economy StorageCapacity(1440506) &gt;&gt; storagegoodM]噸 [AssetData(1440506) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414015023</GUID>
+      <Text>[Selection Object Residence EconomyModifier(0) &gt;&gt; storagegoodM]/[Selection Object Area Economy StorageCapacity(1440502) &gt;&gt; storagegoodM]噸 [AssetData(1440502) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414015024</GUID>
+      <Text>[Selection Object Residence EconomyModifier(0) &gt;&gt; storagegoodM]/[Selection Object Area Economy StorageCapacity(1440504) &gt;&gt; storagegoodM]噸 [AssetData(1440504) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414015025</GUID>
+      <Text>[Selection Object Residence EconomyModifier(0) &gt;&gt; storagegoodM]/[Selection Object Area Economy StorageCapacity(1440503) &gt;&gt; storagegoodM]噸 [AssetData(1440503) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414040210</GUID>
+      <Text>藥品庫存</Text>
+    </Text>
+    <Text>
+      <GUID>1414040211</GUID>
+      <Text>貴重品庫存</Text>
+    </Text>
+    <Text>
+      <GUID>1414040212</GUID>
+      <Text>酒類庫存</Text>
+    </Text>
+    <Text>
+      <GUID>1414040213</GUID>
+      <Text>武器庫存</Text>
+    </Text>
+    <Text>
+      <GUID>1414040214</GUID>
+      <Text>奢侈品庫存</Text>
+    </Text>
+    <Text>
+      <GUID>14740100</GUID>
+      <Text>[AssetData(1010062) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>14740101</GUID>
+      <Text>[AssetData(1010062) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>14740103</GUID>
+      <Text>假旗</Text>
+    </Text>
+    <Text>
+      <GUID>1414006573</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]留意到你完成了一筆訂單。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006574</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]感謝你送貨給他。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006585</GUID>
+      <Text>派遣一艘船前往奧米加港以收取你的收益。</Text>
+    </Text>
+    <Text>
+      <GUID>14740120</GUID>
+      <Text>突圍者</Text>
+    </Text>
+    <Text>
+      <GUID>1414006585</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]已準備好跟你分帳。</Text>
+    </Text>
+    <Text>
+      <GUID>1414040217</GUID>
+      <Text>藥品裝船完成！點擊以命令其進行運送</Text>
+    </Text>
+    <Text>
+      <GUID>1414040218</GUID>
+      <Text>貴重品裝船完成！點擊以命令其進行運送</Text>
+    </Text>
+    <Text>
+      <GUID>1414040219</GUID>
+      <Text>酒類裝船完成！點擊以命令其進行運送</Text>
+    </Text>
+    <Text>
+      <GUID>1414040220</GUID>
+      <Text>武器裝船完成！點擊以命令其進行運送</Text>
+    </Text>
+    <Text>
+      <GUID>1414040221</GUID>
+      <Text>奢侈品裝船完成！點擊以命令其進行運送</Text>
+    </Text>
+    <Text>
+      <GUID>1414006747</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]通知你一船藥品準備好出口了。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018200</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]通知你一船貴重品準備好出口了。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018201</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]通知你一船酒類準備好出口了。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018202</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]通知你一船奢侈品準備好出口了。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018203</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]通知你一船武器準備好出口了。</Text>
+    </Text>
+  </ModOp>
+</ModOps>

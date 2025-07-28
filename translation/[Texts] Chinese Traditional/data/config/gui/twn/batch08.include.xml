@@ -1,0 +1,342 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+
+    <Text>
+      <GUID>1414050006</GUID>
+      <Text>危機席「卷」而來！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050007</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]的海鮮供貨中斷導致壽司店無貨可賣！饕客們如同壽司捲一樣龜縮在店門口久久不肯離去！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050022</GUID>
+      <Text>民怨沸騰！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050023</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]的茶葉不到貨，文人們抱怨口乾舌燥沒法好好吟詩！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050025</GUID>
+      <Text>梅酒？美酒？沒酒！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050026</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]的梅酒短缺，民怨如同發酵的酒一樣正在沸騰！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050028</GUID>
+      <Text>脫帽禮！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050029</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]的斗笠供貨不足，農夫們抱怨大太陽沒辦法好好收割</Text>
+    </Text>
+    <Text>
+      <GUID>1414050031</GUID>
+      <Text>「吳服」消受！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050032</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]的吳服店正在為沒貨發愁，稱快要趕不上潮流了！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050034</GUID>
+      <Text>鴨飛蛋打！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050035</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]的鴨子，無論生的還熟的都飛了！饕客們望鴨興嘆，餐桌上毫無生氣</Text>
+    </Text>
+    <Text>
+      <GUID>1414050037</GUID>
+      <Text>「瓷」到！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050038</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]的瓷器供不上貨，居民們小心翼翼捧著飯碗，生怕摔了就沒了</Text>
+    </Text>
+    <Text>
+      <GUID>1414050040</GUID>
+      <Text>閉門「清」客！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050041</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]的酒窖空空如也，居民威脅要將失職官員扔進酒窖來釀</Text>
+    </Text>
+    <Text>
+      <GUID>1414050043</GUID>
+      <Text>無線電靜默！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050044</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]陷入集體靜默！缺乏收音機的住民們只能靠口耳相傳傳遞訊息，好事者趁機造謠生事！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050046</GUID>
+      <Text>起司憂鬱！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050047</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]的上流社會因為藍起司不夠而集體沸騰，稱連下酒的樂趣都沒了</Text>
+    </Text>
+    <Text>
+      <GUID>1414050049</GUID>
+      <Text>蜀錦比蜀道還難！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050050</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]的西裝店因絲綢背心短缺而集體恐慌，現在被逼只能放舊貨出來賣而飽受負評</Text>
+    </Text>
+    <Text>
+      <GUID>1414050052</GUID>
+      <Text>有白紙沒黑字！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050053</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]的鋼筆短缺，居民抱怨連寫個抱怨給市政廳都沒筆可下手！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050055</GUID>
+      <Text>鴉雀無「箏」！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050056</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]的街頭因為古琴缺貨而缺乏音樂，居民表示沒有音樂走在街上每秒都像念經！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050058</GUID>
+      <Text>莊稼沒人收！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050059</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]的莊稼不夠工人來收，憂心忡忡的農家們擔心趕不及採收造成糧食短缺</Text>
+    </Text>
+    <Text>
+      <GUID>1414050061</GUID>
+      <Text>有工沒人幹！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050062</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]的匠工短缺正在威脅著經濟增長！工廠沒人生產貨物，即將導致物資短缺！？</Text>
+    </Text>
+    <Text>
+      <GUID>1414050076</GUID>
+      <Text>寺廟開光如同眾神降臨</Text>
+    </Text>
+    <Text>
+      <GUID>1414050077</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]開光首間寺廟，傳聞指降臨的眾神抱怨沒有能泡澡的地方。</Text>
+    </Text>
+    <Text>
+      <GUID>1414050079</GUID>
+      <Text>澡堂帶來天倫之樂</Text>
+    </Text>
+    <Text>
+      <GUID>1414050080</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]開放首間澡堂，興奮的居民據報過度跳水導致燒燙傷不斷。</Text>
+    </Text>
+    <Text>
+      <GUID>1414050082</GUID>
+      <Text>和諧之門大開</Text>
+    </Text>
+    <Text>
+      <GUID>1414050083</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]的首間花園敞開大門，為當地居民提供忙裡偷閒的好去處。</Text>
+    </Text>
+    <Text>
+      <GUID>1414050085</GUID>
+      <Text>地鐵通車</Text>
+    </Text>
+    <Text>
+      <GUID>1414050086</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]通車首條地鐵，期望可降低當地擁擠不堪的地面交通。</Text>
+    </Text>
+    
+    <Text>
+      <GUID>54005100</GUID>
+      <Text>如同1404年一般味道！</Text>      <!--Grammar-->
+    </Text>
+    <Text>
+      <GUID>54005101</GUID>
+      <Text>美味的水果</Text>
+    </Text>
+    <Text>
+      <GUID>54005102</GUID>
+      <Text>有些人覺得這代表了人類的未來。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005103</GUID>
+      <Text>傳遞正確信息給居民的重要手段。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005104</GUID>
+      <Text>消過毒、均過質、脂肪比3.5%。</Text>
+    </Text>
+    <Text>
+      <GUID>54005105</GUID>
+      <Text>滴...答...滴...答...滴...答...</Text>
+    </Text>
+    <Text>
+      <GUID>54005106</GUID>
+      <Text>非常粗糙的初代絕緣電線。</Text>      <!--Capitalization-->
+    </Text>
+    <Text>
+      <GUID>54005107</GUID>
+      <Text>電報的終結者。</Text>      <!--Capitalization-->
+    </Text>
+    <Text>
+      <GUID>54005108</GUID>
+      <Text>能接收所有無線電信號</Text>      <!--Capitalization-->
+    </Text>
+    <Text>
+      <GUID>54005109</GUID>
+      <Text>被神奇的氣體氯氣消毒過。</Text>      <!--Grammar-->
+    </Text>
+    <Text>
+      <GUID>54005110</GUID>
+      <Text>儲存各式各樣的知識。</Text>      <!--Grammar-->
+    </Text>
+    <Text>
+      <GUID>54005111</GUID>
+      <Text>上面有新世界嗎？</Text>      <!--Grammar-->
+    </Text>
+    <Text>
+      <GUID>54005112</GUID>
+      <Text>利用藍色黴菌處理過的濃郁奶酪。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005113</GUID>
+      <Text>又鹹又好玩。</Text>
+    </Text>
+    <Text>
+      <GUID>54005114</GUID>
+      <Text>沒有酒精反而更好。</Text>      <!--Capitalization-->
+    </Text>
+    <Text>
+      <GUID>54005115</GUID>
+      <Text>經常有人把它當黃金，但重要性可比黃金重要的多。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005116</GUID>
+      <Text>黏稠的短米</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005118</GUID>
+      <Text>捲起來的靖魚與醋飯的合體。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005119</GUID>
+      <Text>能將清酒變成梅酒的特別梅子種類。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005120</GUID>
+      <Text>多種茶葉的合稱。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005121</GUID>
+      <Text>東方世界的必需品。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005122</GUID>
+      <Text>其雪白的外表不像是從地下挖上來的。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005123</GUID>
+      <Text>到處都是，但有需要的時候完全不夠的金屬。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005124</GUID>
+      <Text>小心擺放！</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005125</GUID>
+      <Text>每根絲都是桑蠶的辛苦勞作。</Text>
+    </Text>
+    <Text>
+      <GUID>54005126</GUID>
+      <Text>摸起來最滑順的布料之一。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005127</GUID>
+      <Text>看起來特別的綠。</Text>
+    </Text>
+    <Text>
+      <GUID>54005128</GUID>
+      <Text>五彩艷麗應該就是為了這個而創的詞。</Text>
+    </Text>
+    <Text>
+      <GUID>54005129</GUID>
+      <Text>用糖製成的異常黏的物質。</Text>
+    </Text>
+    <Text>
+      <GUID>54005130</GUID>
+      <Text>正而八經的酵母。</Text>
+    </Text>
+    <Text>
+      <GUID>54005131</GUID>
+      <Text>用小杯享受風味更佳。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005132</GUID>
+      <Text>別跟鵝搞混了。</Text>
+    </Text>
+    <Text>
+      <GUID>54005133</GUID>
+      <Text>蓬萊的蜜蜂。跟恩貝沙的有些區別。</Text>
+    </Text>
+    <Text>
+      <GUID>54005134</GUID>
+      <Text>外酥內嫩的多汁美味烤鴨。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005135</GUID>
+      <Text>農民們的最愛。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005136</GUID>
+      <Text>非常高貴的一種菇類。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005137</GUID>
+      <Text>製作配方比可樂更加受到保護。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005141</GUID>
+      <Text>堅硬但脆弱的金屬，製筆業者喜歡用來加強鋼筆的寫字清晰度。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005142</GUID>
+      <Text>委外生產的燉菜。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005143</GUID>
+      <Text>遠東地區的主食之一，在這個時代名聲還沒開始臭下去。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005144</GUID>
+      <Text>歡迎來到時尚的尖端！</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005145</GUID>
+      <Text>說真的...誰會吃這東西啊？</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1414006023</GUID>
+      <Text>正港的香辛料！</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1414006024</GUID>
+      <Text>加點料！</Text>
+    </Text>
+    <Text>
+      <GUID>1414006025</GUID>
+      <Text>古老又醜陋的外表底下藏著美味的魚肉。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1414006026</GUID>
+      <Text>烏漆抹黑。</Text>
+    </Text>
+  </ModOp>
+</ModOps>

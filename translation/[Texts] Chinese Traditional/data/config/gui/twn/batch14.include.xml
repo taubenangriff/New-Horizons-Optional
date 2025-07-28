@@ -1,0 +1,382 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">    
+    <Text>
+      <GUID>1414018244</GUID>
+      <Text>羞辱至極！</Text>
+    </Text>
+    <Text>
+      <GUID>1414018245</GUID>
+      <Text>復辟！</Text>
+    </Text>
+    <Text>
+      <GUID>1414006637</GUID>
+      <Text>皇家護送艦隊</Text>
+    </Text>
+    <Text>
+      <GUID>1414018044</GUID>
+      <Text>擁有更高中央高塔的市集，可滿足一座大型城市的居民們的生活所需。</Text>
+    </Text>
+    <Text>
+      <GUID>1442800</GUID>
+      <Text>城鎮市集</Text>
+    </Text>
+    <Text>
+      <GUID>1414018045</GUID>
+      <Text>中央城</Text>
+    </Text>
+    <Text>
+      <GUID>1414018172</GUID>
+      <Text>將[AssetData(5380) Text]帶到你在蓬萊的倉庫。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018173</GUID>
+      <Text>將[AssetData(133097) Text]帶到你在蓬萊的倉庫。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018174</GUID>
+      <Text>將[AssetData(118728) Text]帶到你在蓬萊的倉庫。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018175</GUID>
+      <Text>將[AssetData(112694) Text]帶到你在蓬萊的倉庫。</Text>
+    </Text>
+    <!-- 3rdparty Fluffs when clicking island buildings -->
+    <Text>
+      <GUID>1414018121</GUID><!-- Goodwill Lost shipment text -->
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]對你蘇州過後的表現非常失望，並且表示將會檢討你的分紅比例。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006695</GUID>
+      <Text>這艘飛船看起來非常適合以備不時之需，尤其是幹走私這行的隨時可能遇到條子要腳底抹油溜。它就這麼靜靜地躺在這邊，等待著隨時可能需要它的任何時候。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006696</GUID>
+      <Text>東方貿易司被皇家收回治權後，在這間辦公室裡面經手的文件悄悄地由處理殖民地貿易事務變成為黑市掩蓋蹤跡。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006697</GUID>
+      <Text>這部分在20年前剛落成時是作為延伸空間使用，現在被改造成了一座意外好用的監獄。沒有人知道一個走私客關這麼多人要做甚，但可以確定的是，被關押在此的人不在少數。</Text>
+    </Text>
+    <Text>
+      <GUID>1414015072</GUID>
+      <Text>紅衣大砲</Text>
+    </Text>
+    <Text>
+      <GUID>1414015071</GUID>
+      <Text>戎克船廠</Text>
+    </Text>
+    <Text>
+      <GUID>1414015061</GUID>
+      <Text>官邸</Text>
+    </Text>
+    <Text>
+      <GUID>1414040615</GUID>
+      <Text>水師提督吳高偉的燈塔</Text>
+    </Text>
+    <Text>
+      <GUID>1414018130</GUID>
+      <Text>吳都督的曾祖父在上百年前率領水師嘗試奪回龍眼的年代，戎克船就已經是天明帝國水師的主力艦種。而在之後的一個世紀，戎克船幾乎不變的設計理念使其對照西方船隻已經完全落伍，但天明帝國現今的國力卻不允許也無能力為其建造新型的船隻與西方抗衡。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018131</GUID>
+      <Text>天明帝國在幾乎完全崩潰之時，其為二能夠抓住的兩根救命稻草就是：武力與宗教。東方之民在像是馬吉蓬隨處可見的這些寺廟中，日夜祈禱神靈能夠拯救蒼生脫離超過一個世紀的苦難與羞恥。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018132</GUID>
+      <Text>東方的花園讓遊人們欣賞用各種植物細心剪裁出來的壯觀場景。就算是國難當頭，天明皇帝仍視園藝為一頭等大事--畢竟這是他剩下為數不多的權力之一了。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018133</GUID>
+      <Text>天明帝國的士兵們管這些大砲叫「紅夷大砲」，名字取自於他們百年前從入侵的拉科羅納軍隊繳獲的初始版本。雖然經過數次改進，對比現在火器技術而言仍然是一款落伍的產品，象徵著曾經盛極一時的天明帝國軍。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018160</GUID>
+      <Text>馬吉蓬的中央宮殿除了是水師衙門與管治馬吉蓬的軍政府所在地，也是象徵著天明的瑞澤帝仍無法完全控制他的國家。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018161</GUID>
+      <Text>馬吉蓬的人民們在這些種植稻米與茶葉的農田中辛苦勞作。在吳都督的認知中，馬吉蓬的人民只靠這些就能生存下去。</Text>
+    </Text>
+    <Text>
+      <GUID>1414015077</GUID>
+      <Text>總督宮殿</Text>
+    </Text>
+    <Text>  <!-- Geb and Nut are James Goodwills pets. -->
+      <GUID>1414015089</GUID>
+      <Text>蓋的小屋</Text>
+    </Text>
+    <Text>
+      <GUID>1414015090</GUID>
+      <Text>納特的小屋</Text>
+    </Text>
+    <Text>
+      <GUID>1414015091</GUID>
+      <Text>杜讀管</Text>
+    </Text>
+    <Text>
+      <GUID>1414018176</GUID>
+      <Text>一座數百年前建造的宏偉寶塔。在象徵希望與神聖的綿延階梯盡頭矗立著一座凌駕於底層人民無聊及單調的生活的一座高聳入雲的寶塔。</Text>
+    </Text>
+    <Text>
+      <GUID>1414015084</GUID>
+      <Text>山頂寶塔</Text>
+    </Text>
+    <Text>
+      <GUID>1414018177</GUID>
+      <Text>奧米加港的工人們時不時都會往這鐘塔望去，只為了知道他們的工作時間還有很長。</Text>
+    </Text>
+    <Text>
+      <GUID>1414015085</GUID>
+      <Text>鐘塔</Text>
+    </Text>
+    <!-- Item -->
+    <Text>
+      <GUID>1414011052</GUID>
+      <Text>Librarian of Zelos</Text>
+    </Text>
+    <Text>
+      <GUID>1414006736</GUID>
+      <Text>Reading everything he can get his bookwormy hands on, he draws only the most fascinating and convoluted conclusions. Once he discovered that houses can have basements...</Text>
+    </Text>
+    <Text>
+      <GUID>1440508</GUID>
+      <Text>[AssetData(1999005351) Text]</Text>
+    </Text>
+    <!-- Foreign Trading Company Texts (NH specific)-->
+    <Text>
+      <GUID>1414018030</GUID>
+      <Text>為周圍的資本家企業提供[AssetData(1999005351) Text]，以增加產能。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018031</GUID>
+      <Text>為周圍的資本家企業提供[AssetData(1999005351) Text]。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018032</GUID>
+      <Text>為周圍資本家企業進口貨物的港口設施。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018046</GUID>
+      <Text>產生[AssetData(1999005351) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414018047</GUID>
+      <Text>資本家們每消耗一噸指定貨物，就會產生一單位[AssetData(1999005351) Text]到島嶼的倉庫。</Text>
+    </Text>
+    <!-- Zoo -->    
+    <Text>
+      <GUID>14443035</GUID>
+      <Text>蓬萊食物與飲品生產線</Text>
+    </Text>
+    <Text>
+      <GUID>1414017000</GUID>
+      <Text>猩球崛起</Text>
+    </Text>
+    <Text>
+      <GUID>1414017002</GUID>
+      <Text>竹林</Text>
+    </Text>
+    <Text>
+      <GUID>1414017003</GUID>
+      <Text>大洋洲</Text>
+    </Text>
+    <Text>
+      <GUID>1414006829</GUID>      <!-- Oceania - ItemSet - Description -->
+      <Text>生存在華勒斯線以外擁有怪異外表的大洋洲代表生物。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006830</GUID>      <!-- Bamboo Forest SETBUFF - TownhallBuff - Description -->
+      <Text>這些生活在茂密竹林的慵懶動物讓你的居民學習到野性的耐心，讓他們放慢生活步調享受人生。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006831</GUID>      <!-- Planet of the Apes SETBUFF - TownhallBuff - Description -->
+      <Text>這些人類遠親的幼稚舉止讓你的人民們深刻反省自身的行為舉止。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006833</GUID>      <!-- Oceania SETBUFF - TownhallBuff - Description -->
+      <Text>這些奇特的生物讓看過的人稍微吊了一下胃口，順便讓他們重新檢視他們的飲食習慣。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006834</GUID>      <!-- Planet of the Apes - Itemset - Description -->
+      <Text>猿們團結在一起才有力量，對吧凱薩？</Text>
+    </Text>
+    <Text>
+      <GUID>1414017004</GUID>
+      <Text>小熊貓</Text>
+    </Text>
+    <Text>
+      <GUID>1414017005</GUID>
+      <Text>大熊貓</Text>
+    </Text>
+    <Text>
+      <GUID>1414017006</GUID>
+      <Text>無尾熊</Text>
+    </Text>
+    <Text>
+      <GUID>1414017007</GUID>
+      <Text>獼猴</Text>
+    </Text>
+    <Text>
+      <GUID>1414017008</GUID>
+      <Text>鯨鯊</Text>
+    </Text>
+    <Text>
+      <GUID>1414017009</GUID>
+      <Text>黑掌樹蛙</Text>
+    </Text>
+    <Text>
+      <GUID>1414017010</GUID>
+      <Text>網紋蟒</Text>
+    </Text>
+    <Text>
+      <GUID>1414017011</GUID>
+      <Text>科摩多龍</Text>
+    </Text>
+    <Text>
+      <GUID>1414017012</GUID>
+      <Text>海獅</Text>
+    </Text>
+    <Text>
+      <GUID>1414017013</GUID>
+      <Text>穿山甲</Text>
+    </Text>
+    <Text>
+      <GUID>1414017014</GUID>
+      <Text>東北豹</Text>
+    </Text>
+    <Text>
+      <GUID>1414006737</GUID>
+      <Text>這種可愛的小青蛙分布在霧氣瀰漫但陽光充足的巽他島，雖然不會飛但跳躍能力極強。</Text>
+    </Text>
+    <Text>
+      <GUID>1414017018</GUID>
+      <Text>黃鼠狼圍欄</Text>
+    </Text>
+    <Text>
+      <GUID>1414006738</GUID>
+      <Text>香鼬。與大多數人的認知不同，它們居住在山麓茂密的竹林中。根據神話紀載，它們會在人們不注意的地方興建自己的城市。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006739</GUID>
+      <Text>最惹人喜愛的黑白相間大熊。特殊的演化史令這些大熊必須隨時進食大量的竹子才能生存。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006740</GUID>
+      <Text>這種來自巽他島的怪異生物雖然不是會噴火的龍，但危險程度完全不亞於名字中的龍。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006741</GUID>
+      <Text>已知最長的一種蛇類。不靠毒液而是依靠物理上掐死獵物來狩獵。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006742</GUID>
+      <Text>原產於蓬萊以北諸島的一種紅臉猴子。學習與搗蛋的能力都非常高。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006743</GUID>
+      <Text>在東方因傳聞中其鱗片對疾病有奇效而被視為珍寶。夜行性且膽子較小，以蟻類為主食。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018225</GUID>
+      <Text>在名字與吃竹子這點與大熊貓相像，但其餘幾乎沒一樣相近的小型熊類。但臉上如同面具般的紅色眼罩還是非常惹人喜愛。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018226</GUID>
+      <Text>分布在新荷蘭群島北部的海豹，特別喜歡溫暖的氣候。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018227</GUID>
+      <Text>一生絕大多數時間都待在樹上的一種奇特小型熊類。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018228</GUID>
+      <Text>是鯨？還是鯊？又或者二者之間？這種又鯨又鯊的生物生活在熱帶海域，通常體型龐大，只有異常小的品種才能在動物園中展示。</Text>
+    </Text>
+    <!-- Wonder Buff Texts -->    
+    <Text>
+      <GUID>1414018178</GUID>
+      <Text>生產力加成</Text>
+    </Text>
+    <Text>
+      <GUID>1414018179</GUID>
+      <Text>居民加成</Text>
+    </Text>
+    <Text>
+      <GUID>1414018180</GUID>
+      <Text>為街道影響範圍內的住宅提供[AssetData(1440405) Text]。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018181</GUID>
+      <Text>獎勵加成</Text>
+    </Text>
+    <Text>
+      <GUID>1414018182</GUID>
+      <Text>影響街道影響範圍內的：</Text>
+    </Text>
+    <Text>
+      <GUID>1414187028</GUID>
+      <Text>[Selection Object Factory PostboxResidents]範圍內的居民。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018183</GUID>
+      <Text>住民們透過提供[ItemAssetData(1414187031) InputBenefitAllAdditionalHappinessFormatted]獲得額外滿意度。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018184</GUID>
+      <Text>獨特加成</Text>
+    </Text>
+    <Text>
+      <GUID>1414018185</GUID>
+      <Text>影響街道影響範圍內的[ItemAssetData(1414187030) ItemOrBuffEffectTargetsFormatted]</Text>
+    </Text>
+    <Text>
+      <GUID>1414018186</GUID>
+      <Text>影響島嶼上的所有[ItemAssetData(1414187033) ItemOrBuffEffectTargetsFormatted]</Text>
+    </Text>
+    <Text>
+      <GUID>1414018187</GUID>
+      <Text>影響島嶼上的：</Text>
+    </Text>
+    <Text>
+      <GUID>1414018188</GUID>
+      <Text>防禦力加成</Text>
+    </Text>
+    <Text>
+      <GUID>1414018189</GUID>
+      <Text>影響島嶼上的所有[ItemAssetData(1414187034) ItemOrBuffEffectTargetsFormatted]</Text>
+    </Text>
+    <Text>
+      <GUID>1414018190</GUID>
+      <Text>影響街道影響範圍內的[ItemAssetData(1414187036) ItemOrBuffEffectTargetsFormatted]</Text>
+    </Text>
+    <Text>
+      <GUID>1414018191</GUID>
+      <Text>住民們透過滿足[ItemAssetData(1414187039) AllSubstituteNeedsFormatted]需求，可額外獲得[ItemAssetData(1414187039) AllProvidedNeedsFormatted]。</Text>
+    </Text>
+    <Text><!-- Gen 3rdParty Feedback to Wonder built -->
+      <GUID>1414006694</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]對於你修復古蹟的行為非常高興。</Text>
+    </Text>
+    <!-- Botanical Garden Buff Texts -->
+    <Text>
+      <GUID>1414018210</GUID>
+      <Text>在蓬萊完成收集可提供[AssetData(1414007001) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414018211</GUID>
+      <Text>在蓬萊完成收集可提供[AssetData(1414007002) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414018212</GUID>
+      <Text>在蓬萊完成收集可提供[AssetData(1414007003) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414018213</GUID>
+      <Text>在蓬萊完成收集可提供[AssetData(1414007007) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414018214</GUID>
+      <Text>在蓬萊完成收集可提供[AssetData(1414007010) Text]</Text>
+    </Text>
+  </ModOp>
+</ModOps>

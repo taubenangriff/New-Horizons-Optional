@@ -2,627 +2,627 @@
     <ModOp Type="add" Path="/TextExport/Texts">
         <Text>
             <GUID>1414016153</GUID>
-            <Text>Fishing Boat</Text>
+            <Text>漁船</Text>
         </Text>
         <Text>
             <GUID>1414016154</GUID>
-            <Text>Docked Lorcha</Text>
+            <Text>泊岸的老閘船</Text>
         </Text>
         <Text>
             <GUID>1414016155</GUID>
-            <Text>Bridge</Text>
+            <Text>橋梁</Text>
         </Text>
         <Text>
             <GUID>1414016156</GUID>
-            <Text>Barrels</Text>
+            <Text>木桶</Text>
         </Text>
         <Text>
             <GUID>1414016157</GUID>
-            <Text>Benches</Text>
+            <Text>長椅</Text>
         </Text>
         <Text>
             <GUID>1414016158</GUID>
-            <Text>Boats</Text>
+            <Text>船隻</Text>
         </Text>
         <Text>
             <GUID>1414016159</GUID>
-            <Text>Big Boats</Text>
+            <Text>大型船隻</Text>
         </Text>
         <Text>
             <GUID>1414016160</GUID>
-            <Text>Fishtraps</Text>
+            <Text>漁網</Text>
         </Text>
         <Text>
             <GUID>1414016161</GUID>
-            <Text>Crane</Text>
+            <Text>起重機</Text>
         </Text>
         <Text>
             <GUID>1414016162</GUID>
-            <Text>Tree</Text>
+            <Text>樹木</Text>
         </Text>
         <Text>
             <GUID>1414016163</GUID>
-            <Text>Cherry Tree</Text>
+            <Text>櫻桃樹</Text>
         </Text>
         <Text>
             <GUID>1414016164</GUID>
-            <Text>Pear Tree</Text>
+            <Text>梨樹</Text>
         </Text>
         <Text>
             <GUID>1414016165</GUID>
-            <Text>Pine Tree</Text>
+            <Text>松樹</Text>
         </Text>
         <Text>
             <GUID>1414016166</GUID>
-            <Text>Willow Tree</Text>
+            <Text>柳樹</Text>
         </Text>
         <Text>
             <GUID>1414016167</GUID>
-            <Text>Warehouse</Text>
+            <Text>倉庫</Text>
         </Text>
         <Text>
             <GUID>1414016168</GUID>
-            <Text>Hydrangea</Text>
+            <Text>繡球花</Text>
         </Text>
         <Text>
             <GUID>1414016169</GUID>
-            <Text>Wisteria Trellis</Text>
+            <Text>紫藤樹</Text>
         </Text>
         <Text>
             <GUID>1414016170</GUID>
-            <Text>Koinobori</Text>
+            <Text>鯉魚旗</Text>
         </Text>
 
         <Text>
             <GUID>1414016000</GUID>
-            <Text>Gravel</Text>
+            <Text>碎石</Text>
         </Text>
         <Text>
             <GUID>1414016027</GUID>
-            <Text>Bare Wall</Text>
+            <Text>磚牆</Text>
         </Text>
         <Text>
             <GUID>1414016028</GUID>
-            <Text>Framed Wall</Text>
+            <Text>木框磚牆</Text>
         </Text>
         <Text>
             <GUID>1414016029</GUID>
-            <Text>Paneled Wall</Text>
+            <Text>木牆</Text>
         </Text>
         <Text>
             <GUID>1414016032</GUID>
-            <Text>Bare Wall Gate</Text>
+            <Text>磚牆大門</Text>
         </Text>
         <Text>
             <GUID>1414016033</GUID>
-            <Text>Framed Wall Gate</Text>
+            <Text>木框磚牆大門</Text>
         </Text>
         <Text>
             <GUID>1414016034</GUID>
-            <Text>Paneled Wall Gate</Text>
+            <Text>木牆大門</Text>
         </Text>
         <Text>
             <GUID>1414016035</GUID>
-            <Text>Pine (Paved)</Text>
+            <Text>帶路面的景觀樹</Text>
         </Text>
         <Text>
             <GUID>1414016036</GUID>
-            <Text>Persimmon (Paved)</Text>
+            <Text>帶路面的柿子樹</Text>
         </Text>
         <Text>
             <GUID>1414016037</GUID>
-            <Text>Sago (Paved)</Text>
+            <Text>帶路面的熱帶灌木</Text>
         </Text>
         <Text>
             <GUID>1414016038</GUID>
-            <Text>Gingko (Paved)</Text>
+            <Text>帶路面的銀杏樹</Text>
         </Text>
         <Text>
             <GUID>1414016039</GUID>
-            <Text>Pear (Paved)</Text>
+            <Text>帶路面的梨樹</Text>
         </Text>
         <Text>
             <GUID>1414016040</GUID>
-            <Text>Musa Basjoo (Paved)</Text>
+            <Text>帶路面的芭蕉樹</Text>
         </Text>
         <Text>
             <GUID>1414016041</GUID>
-            <Text>Sakura (Paved)</Text>
+            <Text>帶路面的櫻花樹</Text>
         </Text>
         <Text>
             <GUID>1414016042</GUID>
-            <Text>Willow (Paved)</Text>
+            <Text>帶路面的柳樹</Text>
         </Text>
         <Text>
             <GUID>1414016043</GUID>
-            <Text>Momji Maple (Paved)</Text>
+            <Text>帶路面的楓樹</Text>
         </Text>
 
         <Text>
             <GUID>1414016044</GUID>
-            <Text>Pine</Text>
+            <Text>景觀樹</Text>
         </Text>
         <Text>
             <GUID>1414016045</GUID>
-            <Text>Persimmon</Text>
+            <Text>柿子樹</Text>
         </Text>
         <Text>
             <GUID>1414016046</GUID>
-            <Text>Sago</Text>
+            <Text>熱帶灌木</Text>
         </Text>
         <Text>
             <GUID>1414016047</GUID>
-            <Text>Gingko</Text>
+            <Text>銀杏樹</Text>
         </Text>
         <Text>
             <GUID>1414016048</GUID>
-            <Text>Pear</Text>
+            <Text>梨樹</Text>
         </Text>
         <Text>
             <GUID>1414016049</GUID>
-            <Text>Musa Basjoo</Text>
+            <Text>芭蕉樹</Text>
         </Text>
         <Text>
             <GUID>1414016050</GUID>
-            <Text>Sakura</Text>
+            <Text>櫻花樹</Text>
         </Text>
         <Text>
             <GUID>1414016051</GUID>
-            <Text>Willow</Text>
+            <Text>柳樹</Text>
         </Text>
         <Text>
             <GUID>1414016052</GUID>
-            <Text>Momji Maple</Text>
+            <Text>楓樹</Text>
         </Text>
         <Text>
             <GUID>1414016053</GUID>
-            <Text>Paved Weeping Sakura</Text>
+            <Text>帶路面的白櫻花樹</Text>
         </Text>
         <Text>
             <GUID>1414016054</GUID>
-            <Text>Weeping Sakura</Text>
+            <Text>白櫻花樹</Text>
         </Text>
         <Text>
             <GUID>1414016055</GUID>
-            <Text>Bamboo Tree</Text>
+            <Text>竹林</Text>
         </Text>
         <Text>
             <GUID>1414016056</GUID>
-            <Text>Bamboo Tree (Paved)</Text>
+            <Text>帶路面的竹林</Text>
         </Text>
         <Text>
             <GUID>1414016057</GUID>
-            <Text>Buddha Statue</Text>
+            <Text>佛像</Text>
         </Text>
         <Text>
             <GUID>1414016058</GUID>
-            <Text>Small Dragon Statue</Text>
+            <Text>小型龍雕像</Text>
         </Text>
         <Text>
             <GUID>1414016059</GUID>
-            <Text>Mandarin Statue</Text>
+            <Text>官員雕像</Text>
         </Text>
         <Text>
             <GUID>1414016060</GUID>
-            <Text>Neko Statue</Text>
+            <Text>招財貓雕像</Text>
         </Text>
         <Text>
             <GUID>1414016061</GUID>
-            <Text>Large Samurai Statue</Text>
+            <Text>大型武人雕像</Text>
         </Text>
         <Text>
             <GUID>1414016062</GUID>
-            <Text>Dragon Statue</Text>
+            <Text>巨龍雕像</Text>
         </Text>
         <Text>
             <GUID>1414016063</GUID>
-            <Text>Qilin Statue</Text>
+            <Text>麒麟雕像</Text>
         </Text>
         <Text>
             <GUID>1414016064</GUID>
-            <Text>Chochin Lamps</Text>
+            <Text>木架燈籠</Text>
         </Text>
         <Text>
             <GUID>1414016065</GUID>
-            <Text>Paved Stone Lamp</Text>
+            <Text>帶路面的木架燈籠</Text>
         </Text>
         <Text>
             <GUID>1414016066</GUID>
-            <Text>Stone Lamp</Text>
+            <Text>石燈</Text>
         </Text>
         <Text>
             <GUID>1414016067</GUID>
-            <Text>Wooden Lamp</Text>
+            <Text>木燈</Text>
         </Text>
         <Text>
             <GUID>1414016068</GUID>
-            <Text>Paved Stone Pillar</Text>
+            <Text>帶路面的石燈</Text>
         </Text>
         <Text>
             <GUID>1414016069</GUID>
-            <Text>Stone Pillar</Text>
+            <Text>石柱</Text>
         </Text>
         <Text>
             <GUID>1414016006</GUID>
-            <Text>Raked Gravel</Text>
+            <Text>棋盤路面</Text>
         </Text>
         <Text>
             <GUID>1414016007</GUID>
-            <Text>Gravel Union Logo</Text>
+            <Text>碎石路面上的工會旗幟</Text>
         </Text>
         <Text>
             <GUID>1414016008</GUID>
-            <Text>Gravel Yīn Yáng</Text>
+            <Text>碎石路面上的陰陽旗幟</Text>
         </Text>
         <Text>
             <GUID>1414016009</GUID>
-            <Text>Gravel Bushes</Text>
+            <Text>碎石路面上的灌木叢</Text>
         </Text>
         <Text>
             <GUID>1414016010</GUID>
-            <Text>Raked Gravel Bushes</Text>
+            <Text>棋盤路面上的灌木叢</Text>
         </Text>
         <Text>
             <GUID>1414016011</GUID>
-            <Text>Gravel Boxwood</Text>
+            <Text>碎石路面上的喬木</Text>
         </Text>
         <Text>
             <GUID>1414016012</GUID>
-            <Text>Raked Gravel Boxwood</Text>
+            <Text>棋盤路面上的喬木</Text>
         </Text>
         <Text>
             <GUID>1414016013</GUID>
-            <Text>Raked Gravel Rocks</Text>
+            <Text>棋盤路面上的岩石景觀</Text>
         </Text>
         <Text>
             <GUID>1414016014</GUID>
-            <Text>Stone Path</Text>
+            <Text>鋪石步道</Text>
         </Text>
         <Text>
             <GUID>1414016015</GUID>
-            <Text>Raked Stone Path</Text>
+            <Text>棋盤鋪石步道</Text>
         </Text>
         <Text>
             <GUID>1414016016</GUID>
-            <Text>Gravel Sculpture</Text>
+            <Text>碎石雕像</Text>
         </Text>
         <Text>
             <GUID>1414016021</GUID>
-            <Text>Large Gravel Bushes</Text>
+            <Text>碎石路面上的大型灌木</Text>
         </Text>
         <Text>
             <GUID>1414016022</GUID>
-            <Text>Large Raked Gravel Bushes</Text>
+            <Text>棋盤路面上的大型灌木</Text>
         </Text>
         <Text>
             <GUID>1414016023</GUID>
-            <Text>Gravel Rocks</Text>
+            <Text>碎石路面上的岩石景觀</Text>
         </Text>
         <Text>
             <GUID>1414016024</GUID>
-            <Text>Gravel Patterns</Text>
+            <Text>碎石圖像景觀</Text>
         </Text>
         <Text>
             <GUID>1414016071</GUID>
-            <Text>Pathway</Text>
+            <Text>小徑</Text>
         </Text>
         <Text>
             <GUID>1414016072</GUID>
-            <Text>Grass</Text>
+            <Text>草坪</Text>
         </Text>
         <Text>
             <GUID>1414016073</GUID>
-            <Text>Groves</Text>
+            <Text>樹林</Text>
         </Text>
         <Text>
             <GUID>1414016070</GUID>
-            <Text>Large Buddha Statue</Text>
+            <Text>大佛像</Text>
         </Text>
 
         <Text>
             <GUID>1414016093</GUID>
-            <Text>Silvergrass</Text>
+            <Text>芒草</Text>
         </Text>
         <Text>
             <GUID>1414016094</GUID>
-            <Text>Paved Pathways</Text>
+            <Text>鋪設小徑</Text>
         </Text>
         <Text>
             <GUID>1414016095</GUID>
-            <Text>Lighthouse</Text>
+            <Text>燈塔</Text>
         </Text>
         <Text>
             <GUID>1414016096</GUID>
-            <Text>Bamboo Fence</Text>
+            <Text>竹製圍籬</Text>
         </Text>
         <Text>
             <GUID>1414016097</GUID>
-            <Text>Stele</Text>
+            <Text>石碑</Text>
         </Text>
         <Text>
             <GUID>1414016098</GUID>
-            <Text>Windmill Palm</Text>
+            <Text>棕梠樹</Text>
         </Text>
         <Text>
             <GUID>1414016099</GUID>
-            <Text>Windmill Palm (Paved)</Text>
+            <Text>帶路面的棕梠樹</Text>
         </Text>
         <Text>
             <GUID>1414016100</GUID>
-            <Text>Moon Gate</Text>
+            <Text>月亮門</Text>
         </Text>
         <Text>
             <GUID>1414016101</GUID>
-            <Text>City Wall</Text>
+            <Text>城牆</Text>
         </Text>
         <Text>
             <GUID>1414016102</GUID>
-            <Text>City Wall Towers</Text>
+            <Text>城牆望樓</Text>
         </Text>
         <Text>
             <GUID>1414016103</GUID>
-            <Text>City Wall Inner Gate</Text>
+            <Text>城門</Text>
         </Text>
         <Text>
             <GUID>1414016104</GUID>
-            <Text>Fortified City Wall Gate</Text>
+            <Text>加固城門</Text>
         </Text>
         <Text>
             <GUID>1414016105</GUID>
-            <Text>Angled City Wall Gate</Text>
+            <Text>凸出城門</Text>
         </Text>
         <Text>
             <GUID>1414016106</GUID>
-            <Text>Wide City Wall Inner Gate</Text>
+            <Text>加寬城門</Text>
         </Text>
         <Text>
             <GUID>1414016107</GUID>
-            <Text>Wide Fortified City Wall Gate</Text>
+            <Text>加寬加固城門</Text>
         </Text>
         <Text>
             <GUID>1414016108</GUID>
-            <Text>Arcade Entrance</Text>
+            <Text>街市入口牌</Text>
         </Text>
         <Text>
             <GUID>1414016109</GUID>
-            <Text>Large Arcade Entrance</Text>
+            <Text>大型街市入口牌</Text>
         </Text>
         <Text>
             <GUID>1414016110</GUID>
-            <Text>Small Rocks I</Text>
+            <Text>小型岩石I</Text>
         </Text>
         <Text>
             <GUID>1414016111</GUID>
-            <Text>Small Rocks II</Text>
+            <Text>小型岩石II</Text>
         </Text>
         <Text>
             <GUID>1414016112</GUID>
-            <Text>Small Rocks III</Text>
+            <Text>小型岩石III</Text>
         </Text>
         <Text>
             <GUID>1414016113</GUID>
-            <Text>Small Rocks IV</Text>
+            <Text>小型岩石IV</Text>
         </Text>
         <Text>
             <GUID>1414016114</GUID>
-            <Text>Small Rocks V</Text>
+            <Text>小型岩石V</Text>
         </Text>
         <Text>
             <GUID>1414016115</GUID>
-            <Text>Small Rocks VI</Text>
+            <Text>小型岩石VI</Text>
         </Text>
         <Text>
             <GUID>1414016116</GUID>
-            <Text>Small Rocks VII</Text>
+            <Text>小型岩石VII</Text>
         </Text>
         <Text>
             <GUID>1414016117</GUID>
-            <Text>Small Rocks VIII</Text>
+            <Text>小型岩石VIII</Text>
         </Text>
         <Text>
             <GUID>1414016118</GUID>
-            <Text>Medium Rocks I</Text>
+            <Text>中型岩石I</Text>
         </Text>
         <Text>
             <GUID>1414016119</GUID>
-            <Text>Medium Rocks II</Text>
+            <Text>中型岩石II</Text>
         </Text>
         <Text>
             <GUID>1414016120</GUID>
-            <Text>Medium Rocks III</Text>
+            <Text>中型岩石III</Text>
         </Text>
         <Text>
             <GUID>1414016121</GUID>
-            <Text>Medium Rocks IV</Text>
+            <Text>中型岩石IV</Text>
         </Text>
         <Text>
             <GUID>1414016122</GUID>
-            <Text>Medium Rocks V</Text>
+            <Text>中型岩石V</Text>
         </Text>
         <Text>
             <GUID>1414016123</GUID>
-            <Text>Large Rocks I</Text>
+            <Text>大型岩石I</Text>
         </Text>
         <Text>
             <GUID>1414016124</GUID>
-            <Text>Large Rocks II</Text>
+            <Text>大型岩石II</Text>
         </Text>
         <Text>
             <GUID>1414016125</GUID>
-            <Text>Large Rocks III</Text>
+            <Text>大型岩石III</Text>
         </Text>
 
         <Text>
             <GUID>1414016126</GUID>
-            <Text>Small Dry Rocks I</Text>
+            <Text>小型乾燥岩石I</Text>
         </Text>
         <Text>
             <GUID>1414016127</GUID>
-            <Text>Small Dry Rocks II</Text>
+            <Text>小型乾燥岩石II</Text>
         </Text>
         <Text>
             <GUID>1414016128</GUID>
-            <Text>Small Dry Rocks III</Text>
+            <Text>小型乾燥岩石III</Text>
         </Text>
         <Text>
             <GUID>1414016129</GUID>
-            <Text>Small Dry Rocks IV</Text>
+            <Text>小型乾燥岩石IV</Text>
         </Text>
         <Text>
             <GUID>1414016130</GUID>
-            <Text>Small Dry Rocks V</Text>
+            <Text>小型乾燥岩石V</Text>
         </Text>
         <Text>
             <GUID>1414016131</GUID>
-            <Text>Small Dry Rocks VI</Text>
+            <Text>小型乾燥岩石VI</Text>
         </Text>
         <Text>
             <GUID>1414016132</GUID>
-            <Text>Small Dry Rocks VII</Text>
+            <Text>小型乾燥岩石VII</Text>
         </Text>
         <Text>
             <GUID>1414016133</GUID>
-            <Text>Small Dry Rocks VIII</Text>
+            <Text>小型乾燥岩石VIII</Text>
         </Text>
         <Text>
             <GUID>1414016134</GUID>
-            <Text>Medium Dry Rocks I</Text>
+            <Text>中型乾燥岩石I</Text>
         </Text>
         <Text>
             <GUID>1414016135</GUID>
-            <Text>Medium Dry Rocks II</Text>
+            <Text>中型乾燥岩石II</Text>
         </Text>
         <Text>
             <GUID>1414016136</GUID>
-            <Text>Medium Dry Rocks III</Text>
+            <Text>中型乾燥岩石III</Text>
         </Text>
         <Text>
             <GUID>1414016137</GUID>
-            <Text>Medium Dry Rocks IV</Text>
+            <Text>中型乾燥岩石IV</Text>
         </Text>
         <Text>
             <GUID>1414016138</GUID>
-            <Text>Medium Dry Rocks V</Text>
+            <Text>中型乾燥岩石V</Text>
         </Text>
         <Text>
             <GUID>1414016139</GUID>
-            <Text>Large Dry Rocks I</Text>
+            <Text>大型乾燥岩石I</Text>
         </Text>
         <Text>
             <GUID>1414016140</GUID>
-            <Text>Large Dry Rocks II</Text>
+            <Text>大型乾燥岩石II</Text>
         </Text>
         <Text>
             <GUID>1414016141</GUID>
-            <Text>Large Dry Rocks III</Text>
+            <Text>大型乾燥岩石III</Text>
         </Text>
         <Text>
             <GUID>1414016142</GUID>
-            <Text>Kerria</Text>
+            <Text>隸棠</Text>
         </Text>
         <Text>
             <GUID>1414016143</GUID>
-            <Text>Liviastona Palm</Text>
+            <Text>蒲葵</Text>
         </Text>
         <Text>
             <GUID>1414016144</GUID>
-            <Text>Heavenly Bamboo</Text>
+            <Text>南天竹</Text>
         </Text>
         <Text>
             <GUID>1414016145</GUID>
-            <Text>Osmanthus</Text>
+            <Text>桂花</Text>
         </Text>
         <Text>
             <GUID>1414016146</GUID>
-            <Text>Peony</Text>
+            <Text>牡丹</Text>
         </Text>
         <Text>
             <GUID>1414016147</GUID>
-            <Text>Privet</Text>
+            <Text>女貞</Text>
         </Text>
         <Text>
             <GUID>1414016148</GUID>
-            <Text>Rhododendron</Text>
+            <Text>杜鵑</Text>
         </Text>
         <Text>
             <GUID>1414016149</GUID>
-            <Text>Roses</Text>
+            <Text>玫瑰</Text>
         </Text>
         <Text>
             <GUID>1414016150</GUID>
-            <Text>Spirea</Text>
+            <Text>繡線菊</Text>
         </Text>
         <Text>
             <GUID>1414016151</GUID>
-            <Text>Tree (Paved)</Text>
+            <Text>帶路面的路邊樹</Text>
         </Text>
         <Text>
             <GUID>1414016152</GUID>
-            <Text>Tree</Text>
+            <Text>路邊樹</Text>
         </Text>
         <Text>
             <GUID>1414016091</GUID>
-            <Text>Large Paifung Gate</Text>
+            <Text>大型牌坊</Text>
         </Text>
         <Text>
             <GUID>1414016092</GUID>
-            <Text>Small Paifung Gate</Text>
+            <Text>小型牌坊</Text>
         </Text>
         <Text>
             <GUID>1414016090</GUID>
-            <Text>Haye's A</Text>
+            <Text>Haye的紀元A</Text>
         </Text>
         <Text>
             <GUID>1414018048</GUID>
-            <Text>Signifying craft, authenticity, emotion and intelligence. Meticulous in detail and crafted with care, the symbol becomes a tool wielded by the Community to shape their ANNO world, essential in bringing a premier City builder to life.</Text>
+            <Text>象徵工藝、真實、情緒、與智慧，這個精心設計與細心製作的標誌物被美麗新世界社群的成員們用來朔造每個人心中的小天地。</Text>
         </Text>
         <Text>
             <GUID>1414006704</GUID>
-            <Text>A nice place to take one's family to. Now, where is the photographer...</Text>
+            <Text>闔家出遊的好去處，只差個能拍照留念的攝影師...</Text>
         </Text>
         <Text>
             <GUID>1414006705</GUID>
-            <Text>It's coarse... and rough... and irritating, and it gets... wait, this isn't sand?</Text>
+            <Text>又粗...又硬...又難以觸摸的- 等等，走錯棚了</Text>
         </Text>
         <Text>
             <GUID>1414016026</GUID>
-            <Text>Pagoda</Text>
+            <Text>寶塔</Text>
         </Text>
         <Text>
             <GUID>1414016025</GUID>
-            <Text>Zen Pavement</Text>
+            <Text>禪意路面</Text>
         </Text>
         <Text>
             <GUID>1414016001</GUID>
-            <Text>Gazebo</Text>
+            <Text>涼亭</Text>
         </Text>
         <Text>
             <GUID>1414006703</GUID>
-            <Text>Garden Ornament</Text>
+            <Text>花園裝飾品</Text>
         </Text>
         <Text>
             <GUID>1414006672</GUID>
-            <Text>Build garden ornaments on the island to increase the range of the main garden.</Text>
+            <Text>放置花園裝飾品以增加花園的影響範圍</Text>
         </Text>
         <Text>
             <GUID>1442564</GUID>
-            <Text>Garden Range</Text>
+            <Text>花園影響範圍</Text>
         </Text>
         <Text>
             <GUID>1442560</GUID>
-            <Text>Garden Gateway</Text>
+            <Text>花園大門</Text>
         </Text>
         <Text>
             <GUID>1414006793</GUID>
-            <Text>Provides a service to your residents. Its range can be increased with Garden Ornaments.</Text>
+            <Text>為居民提供公共服務。影響範圍可透過放置裝飾物增加。</Text>
         </Text>
         <Text>
             <GUID>1414006746</GUID>
-            <Text>Garden Ornaments</Text>
+            <Text>花園裝飾品</Text>
         </Text>
         <Text>
             <GUID>1414006718</GUID>
-            <Text>Garden Ornaments increase attractiveness and increase the range of Garden Gateways</Text>
+            <Text>裝飾品可為你的花園大門增加吸引力與影響範圍</Text>
         </Text>
     </ModOp>
 </ModOps>

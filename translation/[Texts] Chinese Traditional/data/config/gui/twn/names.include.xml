@@ -3,502 +3,499 @@
         <!-- Ship Names, feel free to deviate -->
         <Text>
             <GUID>1414006300</GUID>
-            <Text>Kido</Text>
+            <Text>木棉號</Text>
         </Text>
         <Text>
             <GUID>1414006302</GUID>
-            <Text>Sik Ting</Text>
+            <Text>絲綢之路號</Text>
         </Text>
         <Text>
             <GUID>1414006303</GUID>
-            <Text>Sayurala</Text>
+            <Text>南浪號</Text>
         </Text>
         <Text>
             <GUID>1414006304</GUID>
-            <Text>Hiryū</Text>
+            <Text>雲麗號</Text>
         </Text>
         <Text>
             <GUID>1414006305</GUID>
-            <Text>Fusō</Text>
+            <Text>東島號</Text>
         </Text>
         <Text>
             <GUID>1414006306</GUID>
-            <Text>Tenryū</Text>
+            <Text>天麗號</Text>
         </Text>
         <Text>
             <GUID>1414006307</GUID>
-            <Text>Kamikaze</Text>
+            <Text>天罡號</Text>
         </Text>
         <Text>
             <GUID>1414006309</GUID>
-            <Text>Yamazuki</Text>
+            <Text>岫月號</Text>
         </Text>
         <Text>
             <GUID>1414006310</GUID>
-            <Text>Ise</Text>
+            <Text>翊神號</Text>
         </Text>
         <Text>
             <GUID>1414006311</GUID>
-            <Text>Takao</Text>
+            <Text>峻岳號</Text>
         </Text>
         <Text>
             <GUID>1414006312</GUID>
-            <Text>Rising Sun</Text>
+            <Text>旭日號</Text>
         </Text>
         <Text>
             <GUID>1414006313</GUID>
-            <Text>Ronin</Text>
+            <Text>雲霞號</Text>
         </Text>
         <Text>
             <GUID>1414006314</GUID>
-            <Text>Mikasa</Text>
+            <Text>山岳號</Text>
         </Text>
         <Text>
             <GUID>1414006315</GUID>
-            <Text>Jintsu</Text>
+            <Text>金濤號</Text>
         </Text>
         <Text>
             <GUID>1414006316</GUID>
-            <Text>Yamato</Text>
+            <Text>霄瀚號</Text>
         </Text>
         <Text>
             <GUID>1414006317</GUID>
-            <Text>Tone</Text>
+            <Text>桐川號</Text>
         </Text>
         <Text>
             <GUID>1414006318</GUID>
-            <Text>Tsushima</Text>
+            <Text>蒼峽號</Text>
         </Text>
         <Text>
             <GUID>1414006319</GUID>
-            <Text>Settsu</Text>
+            <Text>涉川號</Text>
         </Text>
         <Text>
             <GUID>1414006320</GUID>
-            <Text>Kure</Text>
+            <Text>橋津號</Text>
         </Text>
         <Text>
             <GUID>1414006321</GUID>
-            <Text>Ghost of Water</Text>
+            <Text>滄魅號</Text>
         </Text>
         <Text>
             <GUID>1414006322</GUID>
-            <Text>Tleilaxu</Text>
+            <Text>御靈會號</Text>
         </Text>
         <Text>
             <GUID>1414006323</GUID>
-            <Text>Ix</Text>
+            <Text>聖數號</Text>
         </Text>
         <Text>
             <GUID>1414006324</GUID>
-            <Text>Gesserit</Text>
+            <Text>修道院號</Text>
         </Text>
         <Text>
             <GUID>1414006325</GUID>
-            <Text>Dragon</Text>
+            <Text>火龍號</Text>
         </Text>
         <Text>
             <GUID>1414006326</GUID>
-            <Text>Liang Wu</Text>
+            <Text>吳亮號</Text>
         </Text>
-
         <Text>
             <GUID>1414018080</GUID>
-            <Text>Hitoshi</Text>
+            <Text>和濤號</Text>
         </Text>
         <Text>
             <GUID>1414018081</GUID>
-            <Text>Fukio</Text>
+            <Text>瑞潮號</Text>
         </Text>
         <Text>
             <GUID>1414018082</GUID>
-            <Text>Heirei</Text>
+            <Text>賀鳴號</Text>
         </Text>
         <Text>
             <GUID>1414018083</GUID>
-            <Text>Umune</Text>
+            <Text>瀾岳號</Text>
         </Text>
         <Text>
             <GUID>1414018084</GUID>
-            <Text>Kiyoshi</Text>
+            <Text>清輝號</Text>
         </Text>
         <Text>
             <GUID>1414018085</GUID>
-            <Text>Kenta</Text>
+            <Text>奇峰號</Text>
         </Text>
         <Text>
             <GUID>1414018086</GUID>
-            <Text>Hisako</Text>
+            <Text>恒海號</Text>
         </Text>
         <Text>
             <GUID>1414018087</GUID>
-            <Text>Sayume</Text>
+            <Text>晨羽號</Text>
         </Text>
         <Text>
             <GUID>1414018088</GUID>
-            <Text>Yukaru</Text>
+            <Text>夕航號</Text>
         </Text>
         <Text>
             <GUID>1414018089</GUID>
-            <Text>Mosaki</Text>
+            <Text>望礁號</Text>
         </Text>
         <Text>
             <GUID>1414018090</GUID>
-            <Text>Yasuko</Text>
+            <Text>康寧號</Text>
         </Text>
         <Text>
             <GUID>1414018091</GUID>
-            <Text>Naomi</Text>
+            <Text>值海號</Text>
         </Text>
         <Text>
             <GUID>1414018092</GUID>
-            <Text>Chieko</Text>
+            <Text>馳光號</Text>
         </Text>
         <Text>
             <GUID>1414018093</GUID>
-            <Text>Muneyasu</Text>
+            <Text>裕康號</Text>
         </Text>
         <Text>
             <GUID>1414018094</GUID>
-            <Text>Akikatsu</Text>
+            <Text>秋風號</Text>
         </Text>
         <Text>
             <GUID>1414018095</GUID>
-            <Text>Jikouji</Text>
+            <Text>濟光號</Text>
         </Text>
         <Text>
             <GUID>1414018096</GUID>
-            <Text>Fusakaze</Text>
+            <Text>扶風號</Text>
         </Text>
         <Text>
             <GUID>1414018097</GUID>
-            <Text>Ishimaki</Text>
+            <Text>礪海號</Text>
         </Text>
         <Text>
             <GUID>1414018098</GUID>
-            <Text>Kamei</Text>
+            <Text>吉瀾號</Text>
         </Text>
         <Text>
             <GUID>1414018099</GUID>
-            <Text>Tsukushi</Text>
+            <Text>朔雲號</Text>
         </Text>
         <Text>
             <GUID>1414018100</GUID>
-            <Text>Murata</Text>
+            <Text>通惠號</Text>
         </Text>
         <Text>
             <GUID>1414018101</GUID>
-            <Text>Hirohashi</Text>
+            <Text>雲棧號</Text>
         </Text>
         <Text>
             <GUID>1414018102</GUID>
-            <Text>Irotaka</Text>
+            <Text>朱穹號</Text>
         </Text>
         <Text>
             <GUID>1414018103</GUID>
-            <Text>Hanamitaka</Text>
+            <Text>錦穹號</Text>
         </Text>
         <Text>
             <GUID>1414018104</GUID>
-            <Text>Yashiro</Text>
+            <Text>天祝號</Text>
         </Text>
         <Text>
             <GUID>1414018105</GUID>
-            <Text>Hagashi</Text>
+            <Text>東瀾號</Text>
         </Text>
         <Text>
             <GUID>1414018106</GUID>
-            <Text>Yamamoto</Text>
+            <Text>桃酒號</Text>
         </Text>
         <Text>
             <GUID>1414018107</GUID>
-            <Text>Tachibana</Text>
+            <Text>花月號</Text>
         </Text>
         <Text>
             <GUID>1414018108</GUID>
-            <Text>Haizui</Text>
+            <Text>飛霆號</Text>
         </Text>
         <Text>
             <GUID>1414018109</GUID>
-            <Text>Anlin</Text>
+            <Text>醒獅號</Text>
         </Text>
         <Text>
             <GUID>1414018110</GUID>
-            <Text>Pulin</Text>
+            <Text>浦林號</Text>
         </Text>
         <Text>
             <GUID>1414018110</GUID>
-            <Text>Xuanlin</Text>
+            <Text>暄林號</Text>
         </Text>
         <Text>
             <GUID>1414018111</GUID>
-            <Text>Yingshou</Text>
+            <Text>鷹狩號</Text>
         </Text>
         <Text>
             <GUID>1414018112</GUID>
-            <Text>Xuanxin</Text>
+            <Text>璇昕號</Text>
         </Text>
         <Text>
             <GUID>1414018113</GUID>
-            <Text>Haixiong</Text>
+            <Text>高雄號</Text>
         </Text>
         <Text>
             <GUID>1414018114</GUID>
-            <Text>Haiyan</Text>
+            <Text>海雁號</Text>
         </Text>
         <Text>
             <GUID>1414018115</GUID>
-            <Text>Hongyan</Text>
+            <Text>鴻雁號</Text>
         </Text>
         <Text>
             <GUID>1414018116</GUID>
-            <Text>Jutou</Text>
+            <Text>巨濤號</Text>
         </Text>
         <Text>
             <GUID>1414018117</GUID>
-            <Text>Xuanyan</Text>
+            <Text>璇岩號</Text>
         </Text>
         <Text>
             <GUID>1414018118</GUID>
-            <Text>Huya</Text>
+            <Text>虎崖號</Text>
         </Text>
         <Text>
             <GUID>1414018119</GUID>
-            <Text>Daolian</Text>
+            <Text>稻花號</Text>
         </Text>
         <Text>
             <GUID>1414018120</GUID>
-            <Text>Orintashi</Text>
-        </Text>
+            <Text>雲梭號</Text>
         <!-- City Names start here -->
         <Text>
             <GUID>54001000</GUID>
-            <Text>Souhidaka</Text>
+            <Text>雙陽</Text>
         </Text>
         <Text>
             <GUID>54001001</GUID>
-            <Text>Zhongrao</Text>
+            <Text>饒平</Text>
         </Text>
         <Text>
             <GUID>54001002</GUID>
-            <Text>Kumanobe</Text>
+            <Text>熊澤</Text>
         </Text>
         <Text>
             <GUID>54001003</GUID>
-            <Text>Quanchang</Text>
+            <Text>湧泉</Text>
         </Text>
         <Text>
             <GUID>54001004</GUID>
-            <Text>Kiyotama</Text>
+            <Text>清河</Text>
         </Text>
         <Text>
             <GUID>54001005</GUID>
-            <Text>Sharjinst</Text>
+            <Text>金山</Text>
         </Text>
         <Text>
             <GUID>54001006</GUID>
-            <Text>Yakuhoma</Text>
+            <Text>屋山</Text>
         </Text>
         <Text>
             <GUID>54001007</GUID>
-            <Text>Khyaltai</Text>
+            <Text>蒼原</Text>
         </Text>
         <Text>
             <GUID>54001008</GUID>
-            <Text>Kurokumo</Text>
+            <Text>雲山</Text>
         </Text>
         <Text>
             <GUID>54001009</GUID>
-            <Text>Tsenshir</Text>
+            <Text>望鄉</Text>
         </Text>
         <Text>
             <GUID>54001010</GUID>
-            <Text>Dancheng</Text>
+            <Text>丹港</Text>
         </Text>
         <Text>
             <GUID>54001011</GUID>
-            <Text>Yangcheok</Text>
+            <Text>望舶台</Text>
         </Text>
         <Text>
             <GUID>54001012</GUID>
-            <Text>Erlin</Text>
+            <Text>彌林</Text>
         </Text>
         <Text>
             <GUID>54001013</GUID>
-            <Text>Mutsuzaki</Text>
+            <Text>睦林</Text>
         </Text>
         <Text>
             <GUID>54001014</GUID>
-            <Text>Kangwang</Text>
+            <Text>康旺</Text>
         </Text>
         <Text>
             <GUID>54001015</GUID>
-            <Text>Guangshui</Text>
+            <Text>廣水</Text>
         </Text>
         <Text>
             <GUID>54001016</GUID>
-            <Text>Shangwei</Text>
+            <Text>豐饒</Text>
         </Text>
         <Text>
             <GUID>54001017</GUID>
-            <Text>Tariaturuun</Text>
+            <Text>塔河</Text>
         </Text>
         <Text>
             <GUID>54001018</GUID>
-            <Text>Uramatsunai</Text>
+            <Text>松江</Text>
         </Text>
         <Text>
             <GUID>54001019</GUID>
-            <Text>Pyonggye</Text>
+            <Text>平溪</Text>
         </Text>
         <Text>
             <GUID>54001020</GUID>
-            <Text>Xiangzou</Text>
+            <Text>香洲</Text>
         </Text>
         <Text>
             <GUID>54001021</GUID>
-            <Text>Yuganagawa</Text>
+            <Text>泓泉</Text>
         </Text>
         <Text>
             <GUID>54001022</GUID>
-            <Text>Shinekhorin</Text>
+            <Text>新瀾</Text>
         </Text>
         <Text>
             <GUID>54001023</GUID>
-            <Text>Uranobe</Text>
+            <Text>浦野</Text>
         </Text>
         <Text>
             <GUID>54001024</GUID>
-            <Text>Bagaserleg</Text>
+            <Text>桃源</Text>
         </Text>
         <Text>
             <GUID>54001025</GUID>
-            <Text>Uigye</Text>
+            <Text>義浦川</Text>
         </Text>
         <Text>
             <GUID>54001026</GUID>
-            <Text>Tanwon</Text>
+            <Text>檀垣</Text>
         </Text>
         <Text>
             <GUID>54001027</GUID>
-            <Text>Tengshan</Text>
+            <Text>騰山</Text>
         </Text>
         <Text>
             <GUID>54001028</GUID>
-            <Text>Kimoyama</Text>
+            <Text>木山</Text>
         </Text>
         <Text>
             <GUID>54001029</GUID>
-            <Text>Huichaek</Text>
+            <Text>惠溪</Text>
         </Text>
         <Text>
             <GUID>54001030</GUID>
-            <Text>Woncheon</Text>
+            <Text>元川</Text>
         </Text>
         <Text>
             <GUID>54001032</GUID>
-            <Text>Menhir</Text>
+            <Text>碣林</Text>
         </Text>
-
         <Text>
             <GUID>1414018055</GUID>
-            <Text>Kiyoshibetsu</Text>
+            <Text>青淵</Text>
         </Text>
         <Text>
             <GUID>1414018056</GUID>
-            <Text>Tansong</Text>
+            <Text>青松潭</Text>
         </Text>
         <Text>
             <GUID>1414018057</GUID>
-            <Text>Saltont</Text>
+            <Text>鹽阜</Text>
         </Text>
         <Text>
             <GUID>1414018058</GUID>
-            <Text>Qishui</Text>
+            <Text>淇水</Text>
         </Text>
         <Text>
             <GUID>1414018059</GUID>
-            <Text>Onganuur</Text>
+            <Text>青藕</Text>
         </Text>
         <Text>
             <GUID>1414018060</GUID>
-            <Text>Furushihoro</Text>
+            <Text>古道</Text>
         </Text>
         <Text>
             <GUID>1414018061</GUID>
-            <Text>Zhaodao</Text>
+            <Text>嘉魚涌</Text>
         </Text>
         <Text>
             <GUID>1414018062</GUID>
-            <Text>Kurikita</Text>
+            <Text>黎山</Text>
         </Text>
         <Text>
             <GUID>1414018063</GUID>
-            <Text>Nagashihoro</Text>
+            <Text>志遠</Text>
         </Text>
         <Text>
             <GUID>1414018064</GUID>
-            <Text>Pyonghung</Text>
+            <Text>慶安</Text>
         </Text>
         <Text>
             <GUID>1414018065</GUID>
-            <Text>Shimakanai</Text>
+            <Text>豐裕</Text>
         </Text>
         <Text>
             <GUID>1414018066</GUID>
-            <Text>Hanlin</Text>
+            <Text>翰林台</Text>
         </Text>
         <Text>
             <GUID>1414018067</GUID>
-            <Text>Asatsukawa</Text>
+            <Text>曦月</Text>
         </Text>
         <Text>
             <GUID>1414018068</GUID>
-            <Text>Ganggye</Text>
+            <Text>昌隆</Text>
         </Text>
         <Text>
             <GUID>1414018069</GUID>
-            <Text>Baruungor</Text>
+            <Text>西河</Text>
         </Text>
         <Text>
             <GUID>1414018070</GUID>
-            <Text>Yugatari</Text>
+            <Text>吉泉</Text>
         </Text>
         <Text>
             <GUID>1414018071</GUID>
-            <Text>Hayahaba</Text>
+            <Text>晨原灘</Text>
         </Text>
         <Text>
             <GUID>1414018072</GUID>
-            <Text>Tokju</Text>
+            <Text>德化</Text>
         </Text>
         <Text>
             <GUID>1414018073</GUID>
-            <Text>Hoerwang</Text>
+            <Text>安順</Text>
         </Text>
         <Text>
             <GUID>1414018074</GUID>
-            <Text>Dangsan</Text>
+            <Text>洋山</Text>
         </Text>
         <Text>
             <GUID>1414018075</GUID>
-            <Text>Shenxing</Text>
+            <Text>神星</Text>
         </Text>
         <Text>
             <GUID>1414018076</GUID>
-            <Text>Liaohan</Text>
+            <Text>漢拓</Text>
         </Text>
         <Text>
             <GUID>1414018077</GUID>
-            <Text>Jincheok</Text>
+            <Text>豐年</Text>
         </Text>
         <Text>
             <GUID>1414018078</GUID>
-            <Text>Bukhaan</Text>
+            <Text>北鑾</Text>
         </Text>
         <Text>
             <GUID>1414018079</GUID>
-            <Text>Nagakawa</Text>
+            <Text>永定</Text>
         </Text>
     </ModOp>
 </ModOps>
