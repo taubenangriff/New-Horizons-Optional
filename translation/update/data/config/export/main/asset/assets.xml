@@ -1255,7 +1255,7 @@
     </ModOp>
 
     <ModOp GUID = '133700404,133700418' Path = "/Values/Building/SecondPartyRelevant" Type = "replace">
-        <SecondPartyRelevant>0</SecondPartyRelevant>
+        <SecondPartyRelevant>1</SecondPartyRelevant>
     </ModOp>
 
     <ModOp GUID = '1441234' Type = "merge" Path = "/Values/Text">
