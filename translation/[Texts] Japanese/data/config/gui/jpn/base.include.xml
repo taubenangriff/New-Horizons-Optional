@@ -2,11 +2,11 @@
   <ModOp Type="add" Path="/TextExport/Texts">
     <Text>
       <GUID>1446131</GUID>
-      <Text>パイロフォリアン艦隊司令官</Text>
+      <Text>パイルフォリアン海軍司令官</Text>
     </Text>
     <Text>
       <GUID>1446109</GUID>
-      <Text>ジェームズ大使</Text>
+      <Text>ジェームズ・グッドウィル</Text>
     </Text>
     <Text>
       <GUID>1446116</GUID>
@@ -15,7 +15,7 @@
     <!-- Admiral Island -->
     <Text>
       <GUID>1414006702</GUID>
-      <Text>マージプーン</Text>
+      <Text>マジプン</Text>
     </Text>
     <!-- Goodwill Island-->
     <Text>
@@ -25,40 +25,40 @@
     <!-- Pyrphorian Island-->
     <Text>
       <GUID>1414006698</GUID>
-      <Text>イグネイ要塞</Text>
+      <Text>カストルム・イグナエ</Text>
     </Text>
     <Text>
       <GUID>1445600</GUID>
-      <Text>マグネイト</Text>
+      <Text>大富豪</Text>
     </Text>
     <Text>
       <GUID>1445602</GUID>
-      <Text>ノンミン</Text>
+      <Text>農民</Text>
     </Text>
     <Text>
       <GUID>1446100</GUID>
-      <Text>ノンミン</Text>
+      <Text>農民</Text>
     </Text>
     <Text>
       <GUID>1446101</GUID>
-      <Text>ゴングレン</Text>
+      <Text>工人</Text>
     </Text>
     <Text>
       <GUID>1445603</GUID>
-      <Text>ゴングレン</Text>
+      <Text>工人</Text>
     </Text>
     <Text>
       <GUID>1446103</GUID>
-      <Text>ゴングレン</Text>
+      <Text>工人</Text>
     </Text>
     <Text>
       <GUID>1446106</GUID>
-      <Text>マグネイト</Text>
+      <Text>大富豪</Text>
     </Text>
     <!-- Products -->
     <Text>
       <GUID>1440235</GUID>
-      <Text>円錐形の傘</Text>
+      <Text>円錐形の笠</Text>
     </Text>    
     <Text>
       <GUID>1440004</GUID>
@@ -166,7 +166,7 @@
     </Text>
     <Text>
       <GUID>1440216</GUID>
-      <Text>酒</Text>
+      <Text>日本酒</Text>
     </Text>
     <Text>
       <GUID>1440217</GUID>
@@ -237,7 +237,7 @@
     </Text>
     <Text>
       <GUID>1440232</GUID>
-      <Text>シルクのウエストコート</Text>
+      <Text>絹製のベスト</Text>
     </Text>
     <Text>
       <GUID>1440233</GUID>
@@ -261,7 +261,7 @@
     </Text>
     <Text>
       <GUID>1440307</GUID>
-      <Text>ドリアンの果実</Text>
+      <Text>ドリアン果実</Text>
     </Text>
     <Text>
       <GUID>1440236</GUID>
@@ -435,7 +435,7 @@
     </Text>
     <Text>
       <GUID>1441290</GUID>
-      <Text>シルクのウエストコート仕立て工場
+      <Text>絹製のベスト仕立て工場
     </Text></Text>
     <Text>
       <GUID>1441022</GUID>
@@ -459,7 +459,7 @@
     </Text>
     <Text>
       <GUID>1441259</GUID>
-      <Text>円錐形の傘工房</Text>
+      <Text>円錐形の笠工房</Text>
     </Text>
     <Text>
       <GUID>1441215</GUID>

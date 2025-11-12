@@ -1,0 +1,317 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+
+    <Text>
+      <GUID>1414050006</GUID>
+      <Text>寿司業界に危機到来！大混乱の渦中</Text>
+    </Text>
+    <Text>
+      <GUID>1414050007</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]の寿司愛好家たちは、突然の供給不足により大打撃を受けている。主要食材の輸入が滞った影響で寿司ネタが不足し、飲食店はどこも看板メニューの提供に苦慮している。この状況は、消費者も料理人も共に「良い流れ」を維持しようと奮闘する事態となっている。</Text>
+    </Text>
+    <Text>
+      <GUID>1414050022</GUID>
+      <Text>紅茶危機が勃発！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050023</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]では紅茶の供給が途絶え、住民たちは絶望の淵に立たされている。「いつになったら再びまともな一杯の紅茶を楽しめるのか」と、住民たちは不安を募らせている。</Text>
+    </Text>
+    <Text>
+      <GUID>1414050025</GUID>
+      <Text>梅は運に見放された！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050026</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]では梅酒の不足が深刻化し、住民たちは空のグラスに涙している。この渇きは間もなく癒えるのか、それとも事態はさらに悪化して本格的な危機へと発展するのか。</Text>
+    </Text>
+    <Text>
+      <GUID>1414050028</GUID>
+      <Text>帽子は売り切れ続出！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050029</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]では円錐形の笠がほぼ完売状態だ。収穫期を控えた地元農家たちは貯金を元手に新しい笠への投資を計画しているが、残念ながら市場には一つも残っていない！代替品も品薄で需要も低く、地元の販売店は「西洋風の帽子は上部が丸いが、我々が求めるのは尖った形のものだ」と語っている。</Text>
+    </Text>
+    <Text>
+      <GUID>1414050031</GUID>
+      <Text>帯はもう手に入らない！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050032</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]では着物不足が深刻化し、住民たちは不安を隠せない。「このままでは服装の品格そのものが崩壊してしまうのではないか」と懸念する声が上がっている。</Text>
+    </Text>
+    <Text>
+      <GUID>1414050034</GUID>
+      <Text>これは深刻な事態だ！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050035</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]では予期せぬローストダックの不足が発生し、住民たちは不快な状況の解決策を求めて右往左往している。</Text>
+    <Text>
+      <GUID>1414050037</GUID>
+      <Text>夢は打ち砕かれた！</Text>
+    </Text>
+    <Text>[Newspaper FindArticle([RefGuid]) Context TownName]では陶磁器の不足により、食卓は空っぽ、棚は空っぽの状態だ。当局が適切な対策を講じない限り、この状況はますます深刻化する一方である。</Text>
+    </Text>
+    <Text>
+      <GUID>1414050040</GUID>
+      <Text>これは本当に困った事態だ！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050041</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]では酒が入手困難となり、多くの人々が後味の悪い思いをしている。切羽詰まった住民たちは、町議会がこの問題に解決策を見出し、士気が低下する前に事態を打開してくれることを願っている。</Text>
+    </Text>
+    <Text>
+      <GUID>1414050043</GUID>
+      <Text>ラジオは沈黙したまま！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050044</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]ではラジオが姿を消した。更新も放送も行われず、噂話が信号よりも速く広がっている。当局はこの通信危機に対処するため、いつになったら放送を再開するのだろうか。</Text>
+    </Text>
+    <Text>
+      <GUID>1414050046</GUID>
+      <Text>ブルーチーズの憂鬱！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050047</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]ではブルーチーズが不足し、住民たちの心は打ち砕かれている。噂では、この状況が数週間続く可能性があり、住民の士気は急激に低下している。</Text>
+    </Text>
+    <Text>
+      <GUID>1414050049</GUID>
+      <Text>絹の服はもう手に入らない！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050050</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]の上流階級は、絹のベストが不足したことで端がほつれそうなほど困惑している。ファッションの大惨事が社会そのものを脅かす中、この深刻な生産ギャップはまだ埋められるのだろうか。</Text>
+    </Text>
+    <Text>
+      <GUID>1414050052</GUID>
+      <Text>これは不運な出来事だ！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050053</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]ではペンが深刻な不足状態にあり、重要な契約が締結されず、住民の苦情も聞き入れられない状況だ。インクの流れもほとんどない中、なんとか今回の号を発行することができた。</Text>
+    </Text>
+    <Text>
+      <GUID>1414050055</GUID>
+      <Text>4'33"！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050056</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]の街路は静寂に包まれている。地元の音楽家たちは演奏する琴を見つけられず、他の住民たちも突然、典型的なバックグラウンドミュージックが聞こえなくなってしまった。彼らは今、アジアにいることをどのように認識すればよいのだろうか。</Text>
+    </Text>
+    <Text>
+      <GUID>1414050058</GUID>
+      <Text>収穫期に農民がいない！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050059</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]における農民不足は地元の食糧供給に懸念を抱かせる。「飢饉を避けたいのであれば、来月中に収穫を完了させなければならない」と、ある米農家は不安を口にしている。</Text>
+    </Text>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]に今週、見事な新浴場がオープンした。心地よい温泉と完璧な内装が特徴で、ほとんどの客がその静謐な雰囲気を楽しんでいたが、一人の客が排水を試みた結果、「お尻で爆発させる行為」は一切禁止という厳格なルールが制定されることになった。</Text>
+    <Text>
+      <GUID>1414050082</GUID>
+      <Text>調和への門</Text>
+    </Text>
+    <Text>
+      <GUID>1414050083</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]に門が出現し、広大な庭園へと続いている。市の計画者たちはまだ庭園のレイアウトを決定していないが、彼らが何を造ろうとも、それは現代世界から逃れ、より簡素な時代へと誘う素晴らしい空間となるだろう。</Text>
+    </Text>
+    <Text>
+      <GUID>1414050085</GUID>
+      <Text>自由市民、自由な通行</Text>
+    </Text>
+    <Text>
+      <GUID>1414050086</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]での生活は急速に加速している。ちょうど大都市の地下を走り始めた新しい地下鉄のように。ある若手実業家はこう語っている。「新しい地下鉄は非常に気に入っている。開通以来、低所得層の歩行者が路上ではなく電車で移動するようになったからだ。これは私の新車のために本当に確保しておくべき空間だ」</Text>
+    </Text>
+    
+    <Text>
+      <GUID>54005100</GUID>
+      <Text>味はまだ1404年のものと変わらない！</Text>      <!--Grammar-->
+    </Text>
+    <Text>
+      <GUID>54005101</GUID>
+      <Text>美味しい果物。</Text>
+    </Text>
+    <Text>
+      <GUID>54005102</GUID>
+      <Text>これは人類の未来だと言う者もいる。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005103</GUID>
+      <Text>市民の心に正しい物語を植え付けるための重要なツール。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005104</GUID>
+      <Text>低温殺菌、均質化、脂肪分3.5%</Text>
+    </Text>
+    <Text>
+      <GUID>54005105</GUID>
+      <Text>カチカチ カチカチ カチカチ</Text>
+    </Text>
+    <Text>
+      <GUID>54005106</GUID>
+      <Text>分離された電線の第一世代。</Text>      <!--Capitalization-->
+    </Text>
+    <Text>
+      <GUID>54005107</GUID>
+      <Text>電信の終焉。</Text>      <!--Capitalization-->
+    </Text>
+    <Text>
+      <GUID>54005108</GUID>
+      <Text>微弱な電波も感知する。</Text>      <!--Capitalization-->
+    </Text>
+    <Text>
+      <GUID>54005109</GUID>
+      <Text>塩素という驚異のガスで漂白されている。</Text>      <!--Grammar-->
+    </Text>
+    <Text>
+      <GUID>54005110</GUID>
+      <Text>あらゆる種類の知識を蓄える。</Text>      <!--Grammar-->
+    </Text>
+    <Text>
+      <GUID>54005111</GUID>
+      <Text>あの空の上には新しい世界があるのか？</Text>      <!--Grammar-->
+    </Text>
+    <Text>
+      <GUID>54005112</GUID>
+      <Text>より美味しくなるよう特別に青カビを強化配合。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005113</GUID>
+      <Text>酸味はあるが、ユーモアに富む。</Text>
+    </Text>
+    <Text>
+      <GUID>54005114</GUID>
+      <Text>アルコールなしで楽しめる娯楽。</Text>      <!--Capitalization-->
+    </Text>
+    <Text>
+      <GUID>54005115</GUID>
+      <Text>金と勘違いさせるものの、この鉱物は重要な資源である。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005116</GUID>
+      <Text>粘り気のある短粒米。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005118</GUID>
+      <Text>丁寧に押し固めた鯖と酢飯のセット。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005119</GUID>
+      <Text>普通の酒を梅酒に変えることができる特別な梅の品種。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005120</GUID>
+      <Text>様々な種類のお茶。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005121</GUID>
+      <Text>お茶は極東地域と切っても切れない関係にある。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005122</GUID>
+      <Text>その土臭い起源にもかかわらず、雪のように白く輝く。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005123</GUID>
+      <Text>豊富に存在する鉱物だが、最も必要な時に手に入らないことが多い。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005124</GUID>
+      <Text>落とすなよ！</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005125</GUID>
+      <Text>一本一本が一匹の蚕の一生をかけた作品である。</Text>
+    </Text>
+    <Text>
+      <GUID>54005126</GUID>
+      <Text>これまでに感じたことのない、最も滑らかで上質な布地。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005127</GUID>
+      <Text>驚くほど緑色をしている。</Text>
+    </Text>
+    <Text>
+      <GUID>54005128</GUID>
+      <Text>これを見る前に「カラフルな」という言葉を使うのは許されない！</Text>
+    </Text>
+    
+    <Text>
+      <GUID>54005129</GUID>
+      <Text>砂糖で作られた、非常に粘り気のある物質。</Text>
+    </Text>
+    <Text>
+      <GUID>54005130</GUID>
+      <Text>フェルドマン社オリジナルの酵母菌。</Text>
+    </Text>
+    <Text>
+      <GUID>54005131</GUID>
+      <Text>浅い茶碗で温かくして飲むのが最適。</Text>     <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005132</GUID>
+      <Text>クワック？クワック！</Text>
+    </Text>
+    <Text>
+      <GUID>54005133</GUID>
+      <Text>アフリカ産とは全く異なる、蓬莱蜂。</Text>
+    </Text>
+    <Text>
+      <GUID>54005134</GUID>
+      <Text>ジューシーな鴨肉に、カリッと醤油漬けした皮をトッピングしたもの。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005135</GUID>
+      <Text>どんな庶民も思わず手が伸びる禁断の味。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005136</GUID>
+      <Text>有害とは無縁の、高貴なキノコ。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005137</GUID>
+      <Text>コーラ・モラ・ウォラのレシピよりもさらに厳重に守られた秘密！</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005141</GUID>
+      <Text>ペン職人たちが筆跡の質を向上させると主張する、硬くて脆い金属。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005142</GUID>
+      <Text>グーラッシュだが、外注したもの。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005143</GUID>
+      <Text>東洋の食生活に欠かせない、この有用な豆類はまだ悪名を得る段階には至っていない。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005144</GUID>
+      <Text>上品さの頂点へようこそ！</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>54005145</GUID>
+      <Text>本気で…誰がこんなものを食べるのか？</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1414006023</GUID>
+      <Text>スコヴィル値など忘れろ、これが元祖ペッパーだ！</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1414006024</GUID>
+      <Text>スパイスを効かせろ！</Text>
+    </Text>
+    <Text>
+      <GUID>1414006025</GUID>
+      <Text>見た目が悪く、古代から存在する魚だが、中には絶品が詰まっている。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1414006026</GUID>
+      <Text>真っ黒だ。</Text>
+    </Text>
+  </ModOp>
+</ModOps>

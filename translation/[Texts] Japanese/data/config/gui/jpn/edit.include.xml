@@ -1,0 +1,74 @@
+<ModOps>
+    <ModOp Path = "//Text[GUID = '1414006698']/Text" Type = "replace">
+        <Text>ラクシャーガルバ</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1440226']/Text" Type = "replace">
+        <Text>ニシン</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1441260']/Text" Type = "replace">
+        <Text>ニシン漁業</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1440405']/Text" Type = "replace">
+        <Text>寺院
+        </Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414007004']/Text" Type = "replace">
+        <Text>ニシンの生息数</Text>
+    </ModOp>
+    <!-- Streetfood - Dango - Description -->
+    <ModOp Path = "//Text[GUID = '1442763']/Text" Type = "replace">
+        <Text>縁日などでよく見られるこの菓子は、串に刺さった3つの餅菓子で構成されており、それぞれ個別に甘みが付けられ、様々な風味が施されている。持ち運びが便利で汚れにくいため、桜の花を眺めながら公園を散策する際のお供として最適だ。
+            </Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414006025']/Text" Type = "replace">
+        <Text>銀色に輝く群れを成す魚で、中には様々な美味が詰まっている。</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414015084']/Text" Type = "replace">
+        <Text>大鳩塔</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414006829']/Text" Type = "replace">
+        <Text>ウォレス線を越えたオセアニア地域では、独特の原始的な形態を持つ動物たちが我々を待ち受けている。</Text>
+    </ModOp>
+    <!-- Bamboo Forest SETBUFF - TownhallBuff - Description -->
+    <ModOp Path = "//Text[GUID = '1414006830']/Text" Type = "replace">
+        <Text>忍耐こそが野生の知恵であることを学び、これらの動物たちの落ち着いたエネルギーに触れることで、あなたの市民たちはよりゆっくりとした時間の流れを受け入れ、一口一口をじっくりと味わうようになった。静寂の中でこそ、お茶の味もより深く感じられるようになったのである。</Text>
+    </ModOp>
+    <!-- Planet of the Apes SETBUFF - TownhallBuff - Description -->
+    <ModOp Path = "//Text[GUID = '1414006831']/Text" Type = "replace">
+        <Text>これらの類人猿の振る舞いは、市民たちに自己を見つめ直す機会を与え、より慎重な生き方を促すことになった。 </Text>
+    </ModOp>
+    <!-- Oceania SETBUFF - TownhallBuff - Description -->
+    <ModOp Path = "//Text[GUID = '1414006833']/Text" Type = "replace">
+        <Text>これらの奇妙でエキゾチックな生物は、市民の食欲を研ぎ澄まし、彼らに意識的な食事の術と、島の賢者のような強靭な胃袋を授けた。</Text>
+    </ModOp>
+    <!-- Planet of the Apes - Itemset - Description -->
+    <ModOp Path = "//Text[GUID = '1414006833']/Text" Type = "replace">
+        <Text>猿は群れれば強い。元の猿に戻れ、ということか？</Text>
+    </ModOp>
+
+
+    <ModOp Path = "//Text[GUID = '1414018145']/Text" Type = "replace">
+        <Text>この壮大な大塔は地域の風水を改善し、住民たちに時折地元の伝統文化を守るよう促すだろう。風水効果をさらに高めるためには、さらに多くの階層を積み重ねていく必要がある。</Text>
+    
+</ModOp>
+    <ModOp Path = "//Text[GUID = '1414018146']/Text" Type = "replace">
+        <Text>僧侶たちが深遠な瞑想と祈りに耽ることのできる場を築くためには、無数の石板を正確に彫刻し、適切に組み上げる必要がある。屋根に施された法輪と金装飾は不可欠なものである...悟りのために。</Text>
+   </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018147']/Text" Type = "replace">
+        <Text>鋼材の時代において、巨大な張り出し屋根を構築するなど容易な作業に思えるかもしれないが、当建築チームは伝統を重んじ、伝統的な手法を追求している。金箔を施した瓦屋根をわずかばかりの木造構造で見事に支えているのだ。まさに重厚な冠と言えよう。</Text>
+    </ModOp>    
+    <ModOp Path = "//Text[GUID = '1414018148']/Text" Type = "replace">
+        <Text>鋼鉄製の骨組みに個別に鋳造した青銅板を組み立てて造られた、釈迦如来の荘厳な像である。最終的な外観は古風な印象を与えるが、内部構造は極めて近代的であり、「新世界」と呼ばれる遠方の地では、同様の手法で敵対する神像が組み立てられたとの報告がある。</Text>
+    </ModOp> 
+    <ModOp Path = "//Text[GUID = '1414018149']/Text" Type = "replace">
+        <Text>歓楽殿は、蓬莱の文人や遊楽者たちが集う場所である。色とりどりの提灯で照らされた無数の階層内部では、天井から音楽が流れ、文化的な洗練が至高のものとして君臨している。</Text>
+    </ModOp>
+   <ModOp Path = "//Text[GUID = '1414018242']/Text" Type = "replace">
+        <Text>パイルフォリアンについてはほとんど何も知られていない。その起源も、存在目的も、彼らを支配する力についても同様だ。しかし明らかなのは、彼らが力を結集し、蓬莱地方の不安定な地域を支配する上で鍵となる古代ヒンドゥー寺院要塞「ラクサガルバ」において、強力な軍事組織として再編成を進めているという事実である。この要塞の堅固な城壁と闇に包まれた回廊の中で、パイルフォリアンたちは回収した「竜の眼」を用いて、人間の理解を超えた邪悪な力を生み出そうとする闇の実験を行っている。</Text>
+    </ModOp>
+    <ModOp Path = "//Text[GUID = '1414018243']/Text" Type = "replace">
+        <Text>古代アトランティス文明の海軍の伝統に倣い、パイルフォリアン軍にはナバルク（海軍司令官）の地位に就く者は一人しかおらず、この者が全ての軍事作戦を直接指揮している。伝えられるところによれば、このナバルクはパイルフォリアンのグランドマスターと常に対立関係にあるというが、この膠着状態はナバルクが聖都から「竜の眼」を強奪したことで破られた。この行為は勢力均衡を一変させ、今や帝国の運命そのものを変える可能性を秘めている。</Text>
+    </ModOp>
+    
+
+</ModOps>

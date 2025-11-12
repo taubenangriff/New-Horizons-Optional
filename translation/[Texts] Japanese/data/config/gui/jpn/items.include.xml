@@ -1,0 +1,399 @@
+<ModOps>
+    <ModOp Type="add" Path="/TextExport/Texts">
+
+        <Text>
+            <GUID>1414011068</GUID>            <!-- Imperial Book Collection: Farming Volume I -->
+            <Text>帝国の書物コレクション：農業 第1巻</Text>
+        </Text>
+        <Text>
+            <GUID>1414006797</GUID>            <!-- Imperial Book Collection: Farming Volume I - Description -->
+            <Text>初心者向けに解説した農業の基本。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011069</GUID>            <!-- Imperial Book Collection: Farming Volume II -->
+            <Text>帝国の書物コレクション：農業 第2巻
+            </Text>
+        </Text>
+        <Text>
+            <GUID>1414006798</GUID>            <!-- Imperial Book Collection: Farming Volume II - Description -->
+            <Text>農業に関するより高度な解説。実際に田んぼで実践しながら学んでほしい。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011070</GUID>            <!-- Imperial Book Collection: Farming Volume III -->
+            <Text>帝国の書物コレクション：農業 第3巻</Text>
+        </Text>
+        <Text>
+            <GUID>1414006799</GUID>            <!-- Imperial Book Collection: Farming Volume III - Description -->
+            <Text>この本から真に学べるのは、最も熟練した者だけだ。私たちはもはやいかなる過ちも犯さない。農業の内情も天候の変化もすべて熟知している。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011071</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume I -->
+            <Text>帝国の書物コレクション: 食品・飲料編 第1巻 &amp; </Text>
+        </Text>
+        <Text>
+            <GUID>1414006800</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume I - Description -->
+            <Text>食品・飲料の生産に関する基礎知識を初心者向けに解説。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011072</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume II -->
+            <Text>帝国の書物コレクション: 食品・飲料編 第2巻 &amp;</Text>
+        </Text>
+        <Text>
+            <GUID>1414006801</GUID>            <!--Imperial Book Collection: Food & Drinks Volume II - Description -->
+            <Text>食品や飲料の製造に関するより高度な解説。自分で作ったものを自分で味見することはあるか？
+</Text>
+        </Text>
+        <Text>
+            <GUID>1414011073</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume III -->
+            <Text>帝国の書物コレクション: 食品・飲料編 第3巻 &amp;</Text>
+        </Text>
+        <Text>
+            <GUID>1414006802</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume III - Description -->
+            <Text>この本から学べるのは最も熟練した者だけだ。まだ指を切ってしまうような者には、この本を読む資格はない。
+</Text>
+        </Text>
+        <Text>
+            <GUID>1414011074</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume IV -->
+            <Text>帝国の書物コレクション: 食品・飲料編 第4巻 &amp;</Text>
+        </Text>
+        <Text>
+            <GUID>1414006803</GUID>            <!-- Imperial Book Collection: Food & Drinks Volume IV - Description -->
+            <Text>この本から学べるのは、最も熟練した者だけだ。あなたは料理の味をさらに楽しむため、すべての食事を目隠しして味わうのだ。
+</Text>
+        </Text>
+        <Text>
+            <GUID>14443039</GUID>            <!-- All Asian Food production - ItemEffectTargetPool -->
+            <Text>すべての蓬莱料理の生産</Text>
+        </Text>
+        <Text>
+            <GUID>14443040</GUID>            <!-- All Asian Drinks production - ItemEffectTargetPool -->
+            <Text>すべての蓬莱飲料の生産</Text>
+        </Text>
+        <Text>
+            <GUID>1414011075</GUID>            <!-- Shen Xu, Purveyor of all Fabrics -->
+            <Text>シェン・シュ - 全ての布地の供給者
+</Text>
+        </Text>
+        <Text>
+            <GUID>1414006804</GUID>            <!-- Shen Xu, Purveyor of all Fabrics - Description -->
+            <Text>シェンの指先が布地に触れると、目で見なくても瞬時にそれがどの種類の布地であるかを言い当てることができる。もし布地を食べることができたなら、おそらくそうするだろう。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011076</GUID>            <!-- Jhin Sasaki, Master of the wheel -->
+            <Text>ジン・ササキ - 陶芸の巨匠</Text>
+        </Text>
+        <Text>
+            <GUID>1414006805</GUID>            <!-- Jhin Sasaki, Master of the wheel - Description -->
+            <Text>ジン・ササキはあらゆる種類の陶器と磁器の制作に携わっている。彼の陶芸ろくろの技術は比類なく、粘土をはじめとする自然の素材から、大小を問わず見事な造形物を生み出すことができる。 </Text>
+            </Text>
+        <Text>
+            <GUID>1414011077</GUID>            <!-- Chiyoko Watanabe, Luring in more than fish -->
+            <Text>チヨコ・ワタナべ - 魚以外も引き寄せる技</Text>
+        </Text>
+        <Text>
+            <GUID>1414006806</GUID>            <!-- Chiyoko Watanabe, Luring in more than fish - Description -->
+            <Text>魚を釣る際に使う餌は何ですか？チヨコはさらに高度なテクニックを駆使し、最高級のロブスターでさえ見事に引き寄せてしまう。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011078</GUID>            <!-- Sushi knife -->
+            <Text>寿司包丁</Text>
+        </Text>
+        <Text>
+            <GUID>1414006807</GUID>            <!-- Sushi knife - Description -->
+            <Text>通常の包丁よりも鋭い切れ味。うっかり指を切り落とし、料理を血まみれにしてしまうほどの鋭さだ。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011079</GUID>            <!-- Ichika Takahashi, Is it spicy enough? -->
+            <Text>イチカ・タカハシ - 辛さは十分か？</Text>
+        </Text>
+        <Text>
+            <GUID>1414006808</GUID>            <!-- Ichika Takahashi, Is it spicy enough? - Description -->
+            <Text>一部の人は辛すぎる料理を食べて舌を火傷した。しかし、イチカ・タカハシは違う。彼女はどんな料理にも必ず唐辛子や香辛料を加えることを欠かさない。彼女は唐辛子への情熱を追求し、より高度な粉砕方法を模索していた。</Text>
+        <Text>
+            <GUID>1414011080</GUID>            <!-- Nanami Shimizu, How much is the fish? -->
+            <Text>ナナミ・シミズ - 魚の値段はいくら？</Text>
+        </Text>
+        <Text>
+            <GUID>1414006809</GUID>            <!-- Nanami Shimizu, How much is the fish? - Description -->
+            <Text>魚を扱ったり、その身を捌いたりするのは誰でもできることではない。帰宅した時、体中に魚の強烈な匂いが染みついていることもある。ナナミはそんなこと気にも留めない。朝も昼も夜も、魚の匂いが好きなのだ。</Text></Text></Text>
+        <Text>
+            <GUID>1414011081</GUID>            <!-- Ryuu Yamada, Nobody says no to sushi -->
+            <Text>リュー・ヤマダ - 寿司にノーという者はいない</Text>
+        </Text>
+        <Text>
+            <GUID>1414006810</GUID>            <!-- Ryuu Yamada, Nobody says no to sushi - Description -->
+            <Text>山田龍は高級料理の達人である。彼はあらゆる料理を細心の注意と情熱を込めて調理する。彼の心の中心にあるのは寿司であり、メイン料理の前に前菜として供される特別な一品として丹念に作り上げている。
+</Text>
+        </Text>
+        <Text>
+            <GUID>1414011082</GUID>            <!-- Sister Hilarius, Tea solves problems not alcohol -->
+            <Text>シスター・ヒラリウス - 酒ではなくお茶が問題を解決する</Text>
+        </Text>
+        <Text>
+            <GUID>1414006811</GUID>            <!-- Sister Hilarius, Tea solves problems not alcohol - Description -->
+            <Text>シスター・ヒラリウスは、兄と同様に宗教の道を選んだ。兄と同様、彼女は仲間のシスターたちのために飲み物を用意する日々を過ごしている。しかし、彼女と兄の間には決定的な違いがある。彼女はアルコールに断固反対の立場を取り、お茶さえあればあらゆる問題は解決できると信じているのだ。</Text></Text>
+        <Text>
+            <GUID>1414011083</GUID>            <!-- Luong Ku Tim, The City Wok -->
+            <Text>ルオン・クティム - 街の料理人</Text>
+        </Text>
+        <Text>
+            <GUID>1414006812</GUID>            <!-- Luong Ku Tim, The City Wok - Description -->
+            <Text>外交的な対応や顧客への親切心は、このシェフの持ち合わせている資質ではない。幸いなことに、彼の料理の味は悪くない。まあ、時々は美味しいこともあるが。</Text>
+        
+</Text>
+        <Text>
+            <GUID>1414011084</GUID>            <!-- Asian bird lover -->
+            <Text>蓬莱の鳥愛好家</Text>
+        </Text>
+        <Text>
+            <GUID>1414006813</GUID>            <!-- Asian bird lover - Description -->
+            <Text>彼はあらゆる種類の鳥たちに囲まれて日々を過ごしている。鳥をそれぞれの特有の鳴き声で識別することができる。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011085</GUID>            <!-- Additional Crop Storage module -->
+            <Text>追加作物貯蔵モジュール</Text>
+        </Text>
+        <Text>
+            <GUID>1414006814</GUID>            <!-- Additional Crop Storage module - Description -->
+            <Text>作物の保存性を高めるため、作物貯蔵庫に追加のサイロモジュールを設置する。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011086</GUID>            <!-- Masao Miura, Lobster is all he needs -->
+            <Text>マサオ・ミウラ - ロブスターさえあえばそれでいい</Text>
+        </Text>
+        <Text>
+            <GUID>1414006815</GUID>            <!-- Masao Miura, Lobster is all he needs - Description -->
+            <Text>マサオは料理にロブスターを加えることで、普段の魚料理に一風変わったアクセントを加えている。この海の生物は彼の心を奪い、その味わいは夏の日差しで溶ける氷のように彼の味覚をとろけさせている。</Text></Text>
+        <Text>
+            <GUID>1414011087</GUID>            <!-- Imperial Sketch Collection: Industry Volume 1  -->
+            <Text>帝国スケッチコレクション：産業編 第1巻</Text>
+        </Text>
+        <Text>
+            <GUID>1414006816</GUID>            <!-- Imperial Sketch Collection: Industry Volume 1 - Description -->
+            <Text>製粉工場の効率向上に関する基本知識――初心者のための入門ガイド</Text>
+        </Text>
+        <Text>
+            <GUID>1414011088</GUID>            <!-- Imperial Sketch Collection: Industry Volume 2 -->
+            <Text>帝国スケッチコレクション：産業編 第2巻</Text>
+        </Text>
+        <Text>
+            <GUID>1414006817</GUID>            <!-- Imperial Sketch Collection: Industry Volume 2 - Description -->
+            <Text>製粉工場の運営に関するより高度な解説。稼働中の機械に指を近づけてはならない。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011089</GUID>            <!-- Imperial Sketch Collection: Industry Volume 3 -->
+            <Text>帝国スケッチコレクション：産業編 第3巻</Text>
+        </Text>
+        <Text>
+            <GUID>1414006818</GUID>            <!-- Imperial Sketch Collection: Industry Volume 3 - Description -->
+            <Text>これらの複雑な機械装置のスケッチを理解できるのは、最も熟練した技術者だけだ。もし電気の仕組みを理解していないのなら、おそらく今はまだこれらの図面を見るべきではないだろう。</Text>
+        
+</Text>
+        <Text>
+            <GUID>1414011090</GUID>            <!-- Imperial Sketch Collection: Advanced Industry Volume 1  -->
+            <Text>帝国スケッチコレクション：高度産業編 第1巻</Text>
+        </Text>
+        <Text>
+            <GUID>1414006819</GUID>            <!-- Imperial Sketch Collection: Advanced Industry Volume 1 - Description -->
+            <Text>高度な工場システムの基本的な仕組みについて解説した内容。初心者にも分かりやすい内容となっている。
+</Text>
+        </Text>
+        <Text>
+            <GUID>1414011091</GUID>            <!-- Imperial Sketch Collection: Advanced Industry Volume 2 -->
+            <Text>帝国スケッチコレクション：高度産業編 第2巻</Text>
+        </Text>
+        <Text>
+            <GUID>1414006820</GUID>            <!-- Imperial Sketch Collection: Advanced Industry Volume 2 - Description -->
+            <Text>高度な重工業工場の運用に関するより詳細な解説。「大きくて赤く『押すな』と表示されているボタンは絶対に押さないこと。」</Text>
+        
+</Text>
+        <Text>
+            <GUID>1414011092</GUID>            <!-- Imperial Sketch Collection: Advanced Industry Volume 3 -->
+            <Text>帝国スケッチコレクション：高度産業編 第3巻</Text>
+        </Text>
+        <Text>
+            <GUID>1414006821</GUID>            <!-- Imperial Sketch Collection: Advanced Industry Volume 3 - Description -->
+            <Text>高度な機械装置の設計図を理解できるのは、ごく限られた熟練者だけだ。力の作用原理を理解していない者は、おそらくこれらの設計図を見るべきではないだろう（少なくとも現時点では）。</Text>
+        </Text>
+        <Text>
+            <GUID>1414011093</GUID>            <!-- Hendrik Baker, Not just one polymer -->
+            <Text>ヘンドリック・ベイカー、単なる高分子ではない</Text>
+        </Text>
+        <Text>
+            <GUID>1414006822</GUID>            <!-- Hendrik Baker, Not just one polymer - Description -->
+            <Text>ヘンドリックはこれまでに作られたあらゆるポリマーの匂いを識別できる。目を閉じた状態で、ただ触れるだけでそれらを区別することが可能だ。</Text></Text>
+        <Text>
+            <GUID>1414011094</GUID>            <!-- Yui Sato, The finest tailoring -->
+            <Text>ユイ・サトー、最高の仕立て技術</Text>
+        </Text>
+        <Text>
+            <GUID>1414006823</GUID>            <!-- Yui Sato, The finest tailoring - Description -->
+            <Text>ユイ・サトーは生まれながらにしてミシンの扱いに長けていたと言われている。5歳の時には自分で最初の服を仕立てた。その後、より年齢を重ねるにつれて、富裕層向けの高級衣服の制作に専念するようになった。</Text></Text>
+        <Text>
+            <GUID>1414011095</GUID>            <!-- Misaki Makino, Vegan cheesemaker -->
+            <Text>ミサキ・マキノ、ヴィーガンチーズ職人</Text>
+        </Text>
+        <Text>
+            <GUID>1414006824</GUID>            <!-- Misaki Makino, Vegan cheesemaker - Description -->
+            <Text>マキノは畜産農場で育った。牛たちが搾乳され、その乳がすべて人間の消費に回される現状に強い憤りを感じていた。ヴィーガンとしての生き方を貫き、動物の乳を使わずにチーズを作る方法を模索し続けた。</Text></Text>
+        <Text>
+            <GUID>1414011096</GUID>            <!-- Worker 2 (Outsourced) -->
+            <Text>３号業務従事者ヨシ</Text>
+        </Text>
+        <Text>
+            <GUID>1414011097</GUID>            <!-- Worker 2 (Outsourced) - Description -->
+            <Text>ヨシは同僚のシフトを頻繁に代わるため、他の従業員は家族と過ごせる時間を増やせている。</Text></Text>
+        <Text>
+            <GUID>1414011098</GUID>            <!-- Worker 3 (Outsourced) -->
+            <Text>代替労働者ギャン</Text>
+        </Text>
+        <Text>
+            <GUID>1414011099</GUID>            <!-- Worker 3 (Outsourced) - Description -->
+            <Text>労働者ギャンは従来の労働方法に囚われない。代替的な働き方を採用することで、彼は生産コストの削減を実現している。</Text></Text>
+        <Text>
+            <GUID>1414011100</GUID>            <!-- Worker 4 (Outsourced) -->
+            <Text>ボスの息子、バオ </Text>
+        </Text>
+        <Text>
+            <GUID>1414011101</GUID>            <!-- Worker 4 (Outsourced) - Description -->
+            <Text>バオは父親が定めたすべての手順を確実に守るようにしている。
+   </Text>
+        </Text>
+        <Text>
+            <GUID>1414011102</GUID>            <!-- Propaganda Banner -->
+            <Text>プロパガンダバナー</Text>
+        </Text>
+        <Text>
+            <GUID>1414011103</GUID>            <!-- Propaganda Banner - Description -->
+            <Text>街を秩序正しく保ち、街への愛を誇示しよう。
+
+        </Text>
+        </Text>
+        <Text>
+            <GUID>1414011104</GUID>            <!-- Propaganda Banner -->
+            <Text>選挙の旗</Text>
+        </Text>
+        <Text>
+            <GUID>1414011105</GUID>            <!-- Propaganda Banner - Description -->
+            <Text>最も愛する党への愛を誇示しよう。
+
+        </Text>
+        </Text>
+
+        <!-- ### Additional Ornaments ### -->
+         <Text>
+            <GUID>133700400</GUID>
+            <Text>運河（舗装済み）</Text>
+        </Text>
+        <Text>
+            <GUID>133700401</GUID>
+            <Text>運河（未舗装）</Text>
+        </Text>
+        <Text>
+            <GUID>133700402</GUID>
+            <Text>Canal bridge dirt</Text>            <!-- no translation required -->
+        </Text>
+        <Text>
+            <GUID>133700403</GUID>
+            <Text>Canal bridge stone</Text>            <!-- no translation required -->
+        </Text>
+        
+        <Text>
+            <GUID>133700404</GUID>
+              <Text>ベンチ付き灯籠</Text>
+        </Text>
+        <Text>
+            <GUID>133700405</GUID>
+            <Text>鳥居（2×1）</Text>
+        </Text>
+        <Text>
+            <GUID>133700406</GUID>
+            <Text>鳥居（3×1）</Text>
+        </Text>
+           <Text>
+            <GUID>133700400</GUID>
+            <Text>運河（舗装済み）</Text>
+        </Text>
+        <Text>
+            <GUID>133700401</GUID>
+            <Text>運河（未舗装）</Text>
+        </Text>
+        <Text>
+            <GUID>133700407</GUID>
+            <Text>アーケード</Text>
+        </Text>
+        <Text>
+            <GUID>133700408</GUID>
+            <Text>龍の池</Text>
+        </Text>
+        <Text>
+            <GUID>133700409</GUID>
+            <Text>花火</Text>
+        </Text>
+        <Text>
+            <GUID>133700410</GUID>
+            <Text>国旗掲揚ポール</Text>
+        </Text>
+        <Text>
+            <GUID>133700411</GUID>
+            <Text>街灯</Text>
+        </Text>
+        <Text>
+            <GUID>133700412</GUID>
+            <Text>宝石店屋台</Text>
+        </Text>
+        <Text>
+            <GUID>133700413</GUID>
+            <Text>礼拝所屋台</Text>
+        </Text>
+        <Text>
+            <GUID>133700414</GUID>
+            <Text>野菜屋台</Text>
+        </Text>
+        <Text>
+            <GUID>133700415</GUID>
+            <Text>衣料品屋台</Text>
+        </Text>
+        <Text>
+            <GUID>133700416</GUID>
+            <Text>書籍屋台</Text>
+        </Text>
+        <Text>
+            <GUID>133700417</GUID>
+            <Text>食品屋台 1</Text>
+        </Text>
+        <Text>
+            <GUID>133700418</GUID>
+            <Text>囲われた緑地</Text>
+        </Text>
+        <Text>
+            <GUID>133700419</GUID>
+            <Text>塔（2x2サイズ）</Text>
+        </Text>
+<Text>
+            <GUID>133700420</GUID>
+            <Text>鐘付き堂（2x2）</Text>
+        </Text>
+        <Text>
+            <GUID>133700421</GUID>
+            <Text>蓮池</Text>
+        </Text>
+        <Text>
+            <GUID>133700423</GUID>
+            <Text>屋台2号（食品）</Text>
+        </Text>
+        <Text>
+            <GUID>133700424</GUID>
+            <Text>花屋</Text>
+        </Text>
+        <Text>
+            <GUID>133700425</GUID>
+            <Text>果物屋</Text>
+        </Text>
+        <Text>
+            <GUID>133700426</GUID>
+            <Text>写真スタジオ</Text>
+        </Text>
+
+    </ModOp>
+</ModOps>

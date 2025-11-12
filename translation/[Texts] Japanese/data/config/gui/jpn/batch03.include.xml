@@ -3,212 +3,212 @@
     <!-- Construction Menu Names -->
     <Text>
       <GUID>1445610</GUID>
-      <Text>Industrial</Text>
+      <Text>産業用</Text>
     </Text>    
     <Text>
       <GUID>1445607</GUID>
-      <Text>Consumables</Text>
+      <Text>消費財</Text>
     </Text>
     <Text>
       <GUID>1445608</GUID>
-      <Text>City</Text>
+      <Text>街</Text>
     </Text>
     <Text>
       <GUID>1445609</GUID>
-      <Text>Materials</Text>
+      <Text>資材</Text>
     </Text>    
     <Text>
       <GUID>1445001</GUID>
-      <Text>Fountain Pens</Text>
+      <Text>万年筆</Text>
     </Text>
     <Text>
       <GUID>1445002</GUID>
-      <Text>Radios</Text>
+      <Text>ラジオ</Text>
     </Text>
     <Text>
       <GUID>1445004</GUID>
-      <Text>Tea</Text>
+      <Text>茶</Text>
     </Text>
     <Text>
       <GUID>1445006</GUID>
-      <Text>Telephones</Text>
+      <Text>電話</Text>
     </Text>
     <Text>
       <GUID>1445007</GUID>
-      <Text>Cheese</Text>
+      <Text>チーズ</Text>
     </Text>
     <Text>
       <GUID>1445008</GUID>
-      <Text>Porcelain</Text>
+      <Text>陶磁器</Text>
     </Text>
     <Text>
       <GUID>1445009</GUID>
-      <Text>Silk Vests</Text>
+      <Text>絹のベスト</Text>
     </Text>
     <Text>
       <GUID>1445020</GUID>
-      <Text>Oshi-Sushi</Text>
+      <Text>押し寿司</Text>
     </Text>
     <Text>
       <GUID>1445019</GUID>
-      <Text>Umeshu</Text>
+      <Text>梅酒</Text>
     </Text>
     <Text>
       <GUID>1445028</GUID>
-      <Text>Green Tea</Text>
+      <Text>緑茶</Text>
     </Text>
     <Text>
       <GUID>1445022</GUID>
-      <Text>Kimonos</Text>
+      <Text>着物</Text>
     </Text>
     <Text>
       <GUID>1445024</GUID>
-      <Text>Sake</Text>
+      <Text>日本酒</Text>
     </Text>
     <Text>
       <GUID>1445025</GUID>
-      <Text>Porcelain</Text>
+      <Text>陶磁器</Text>
     </Text>
     <Text>
       <GUID>1445026</GUID>
-      <Text>Canned Food</Text>
+      <Text>缶詰</Text>
     </Text>
     <Text>
       <GUID>1445027</GUID>
-      <Text>Roast Duck</Text>
+      <Text>ローストダック</Text>
     </Text>
     <Text>
       <GUID>1445090</GUID>
-      <Text>Noble Mushrooms</Text>
+      <Text>高貴なキノコ</Text>
     </Text>
     <Text>
       <GUID>1414006077</GUID>
-      <Text>Trader's Goods</Text>
+      <Text>商人の品</Text>
     </Text>
     <Text>
       <GUID>1414006079</GUID>
-      <Text>You cannot produce these goods. Buy it at those traders:</Text>
+      <Text>この商品は生産できません。以下の商人から購入してください：</Text>
     </Text>
     <Text>
       <GUID>1445080</GUID>
-      <Text>Tea</Text>
+      <Text>茶</Text>
     </Text>
     <Text>
       <GUID>1445083</GUID>
-      <Text>Strings</Text>
+      <Text>弦</Text>
     </Text>
     <Text>
       <GUID>1445612</GUID>
-      <Text>Subtropical Evergreen Trees</Text>
+      <Text>湿ったジャングルの樹木</Text>
     </Text>
     <Text>
       <GUID>1445630</GUID>
-      <Text>Streetfood Stand</Text>      <!-- Construction Category -->
+      <Text>屋台料理の販売所</Text>      <!-- Construction Category -->
     </Text>
     <Text>
       <GUID>1445631</GUID>
-      <Text>Noodles</Text>      <!-- Production Chain -->
+      <Text>麺</Text>      <!-- Production Chain -->
     </Text>
     <Text>
       <GUID>1445632</GUID>
-      <Text>Tofu</Text>      <!-- Production Chain -->
+      <Text>豆腐</Text>      <!-- Production Chain -->
     </Text>
     <Text>
       <GUID>1445092</GUID>
-      <Text>Kōji</Text>
+      <Text>麹</Text>
     </Text>
     <Text>
       <GUID>1445040</GUID>
-      <Text>Caviar Crackers</Text>
+      <Text>キャビアクラッカー</Text>
     </Text>
     <Text>
       <GUID>1445056</GUID>
-      <Text>Kotos</Text>
+      <Text>琴</Text>
     </Text>
     <Text>
       <GUID>1445041</GUID>
-      <Text>Sake</Text>
+      <Text>日本酒</Text>
     </Text>
     <Text>
       <GUID>1445031</GUID>
-      <Text>Timber</Text>
+      <Text>木板</Text>
     </Text>
     <Text>
       <GUID>1445032</GUID>
-      <Text>Clay Plaster</Text>
+      <Text>漆喰粘土</Text>
     </Text>
     <Text>
       <GUID>1445604</GUID>
-      <Text>Small Harbor</Text>
+      <Text>小さな港</Text>
     </Text>
     <Text>
       <GUID>1445605</GUID>
-      <Text>Big Harbor</Text>
+      <Text>大きな港</Text>
     </Text>    
     <Text>
       <GUID>1445039</GUID>
-      <Text>Conical Hats</Text>
+      <Text>円錐形の笠</Text>
     </Text>    
     <!-- Outsourced production chains, refer to vanilla texts -->
     <Text>
       <GUID>1445042</GUID>
-      <Text>Tallow</Text>
+      <Text>樹脂</Text>
     </Text>
     <Text>
       <GUID>1445043</GUID>
-      <Text>Steel</Text>
+      <Text>鋼鉄</Text>
     </Text>
     <Text>
       <GUID>1445044</GUID>
-      <Text>Steel Beams</Text>
+      <Text>鉄骨材</Text>
     </Text>
     <Text>
       <GUID>1445045</GUID>
-      <Text>Glass</Text>
+      <Text>ガラス</Text>
     </Text>
     <Text>
       <GUID>1445046</GUID>
-      <Text>Filament</Text>
+      <Text>フィラメント</Text>
     </Text>
     <Text>
       <GUID>1445047</GUID>
-      <Text>Concrete</Text>
+      <Text>鉄筋コンクリート</Text>
     </Text>
     <Text>
       <GUID>1445048</GUID>
-      <Text>Electricity</Text>
+      <Text>電気</Text>
     </Text>
     <Text>
       <GUID>1445049</GUID>
-      <Text>Dynamite</Text>
+      <Text>ダイナマイト</Text>
     </Text>
     <Text>
       <GUID>1445050</GUID>
-      <Text>Brass</Text>
+      <Text>真鍮</Text>
     </Text>
     <Text>
       <GUID>1445051</GUID>
-      <Text>Steam Motors</Text>
+      <Text>蒸気モーター</Text>
     </Text>
     <Text>
       <GUID>1445052</GUID>
-      <Text>Gold</Text>
+      <Text>金</Text>
     </Text>
     <Text>
       <GUID>1445053</GUID>
-      <Text>Chassis</Text>
+      <Text>シャーシ</Text>
     </Text>
     <Text>
       <GUID>1445054</GUID>
-      <Text>Detector Receivers</Text>
+      <Text>検出器受信機</Text>
     </Text>
     <Text>
       <GUID>1445055</GUID>
-      <Text>Oil</Text>
+      <Text>石油</Text>
     </Text>
     <Text>
       <GUID>1445077</GUID>
-      <Text>Windows</Text>
+      <Text>窓</Text>
     </Text>    
     <Text>
       <GUID>1445038</GUID>
@@ -216,176 +216,177 @@
     </Text>
     <Text>
       <GUID>1445033</GUID>
-      <Text>Steel Beams</Text>
+      <Text>鉄骨材</Text>
     </Text>
     <Text>
       <GUID>1445034</GUID>
-      <Text>Gold</Text>
+      <Text>金</Text>
     </Text>
     <Text>
       <GUID>1445035</GUID>
-      <Text>Dynamite</Text>
+      <Text>ダイナマイト</Text>
     </Text>
     <Text>
       <GUID>1445036</GUID>
-      <Text>Brass</Text>
+      <Text>真鍮</Text>
     </Text>
     <Text>
       <GUID>1445037</GUID>
-      <Text>Glass</Text>
+      <Text>ガラス</Text>
     </Text>
     <!-- Ornamental -->
     <Text>
       <GUID>1445636</GUID>
-      <Text>Rocks</Text>
+      <Text>岩石</Text>
     </Text>
     <Text>
       <GUID>1445637</GUID>
-      <Text>Dry Rocks</Text>
+      <Text>乾燥岩</Text>
     </Text>
     <Text>
       <GUID>1445638</GUID>
-      <Text>Bushes</Text>
+      <Text>低木</Text>
     </Text>
     <Text>
       <GUID>1445634</GUID>
-      <Text>City Walls</Text>
+      <Text>城壁</Text>
     </Text>
     <Text>
       <GUID>1445635</GUID>
-      <Text>Arcades</Text>
+      <Text>アーケード</Text>
     </Text>
     <Text>
       <GUID>1445627</GUID>
-      <Text>Inner City</Text>
+      <Text>市街地</Text>
     </Text>
     <Text>
       <GUID>1445628</GUID>
-      <Text>Street Market</Text>
+      <Text>ストリートマーケット</Text>
     </Text>
     <Text>
       <GUID>1445629</GUID>
-      <Text>Pagodas</Text>
+      <Text>仏塔</Text>
     </Text>
     <Text>
       <GUID>1445626</GUID>
-      <Text>Gates</Text>
+      <Text>門</Text>
     </Text>
     <Text>
       <GUID>1445621</GUID>
-      <Text>Gravel</Text>
+      <Text>砂利</Text>
     </Text>
     <Text>
       <GUID>1445622</GUID>
-      <Text>Architecture</Text>
+      <Text>建築物</Text>
     </Text>
     <Text>
       <GUID>1445623</GUID>
-      <Text>Grass</Text>
+      <Text>芝生</Text>
     </Text>
     <Text>
       <GUID>1445633</GUID>
-      <Text>Harbor</Text>
+      <Text>港湾</Text>
     </Text>
     <Text>
       <GUID>1445624</GUID>
-      <Text>Pillars</Text>
+      <Text>柱</Text>
     </Text>
     <Text>
       <GUID>1445625</GUID>
-      <Text>Temperate Trees</Text>
+      <Text>温帯樹</Text>
     </Text>
     <Text>
       <GUID>1445618</GUID>
-      <Text>Zen Pavement Trees</Text>
+      <Text>禅庭の舗装樹木</Text>
     </Text>
     <Text>
       <GUID>1445619</GUID>
-      <Text>Park Trees</Text>
+      <Text>公園樹</Text>
     </Text>
     <Text>
       <GUID>1445615</GUID>
-      <Text>Raked Gravel</Text>
+      <Text>整地された砂利</Text>
     </Text>
     <Text>
       <GUID>1445613</GUID>
-      <Text>Garden</Text>
+      <Text>庭園</Text>
     </Text>
     <Text>
       <GUID>1445611</GUID>
-      <Text>Gravel</Text>
+      <Text>砂利</Text>
     </Text>
     <Text>
       <GUID>1445614</GUID>
-      <Text>Gravel with Vegetation</Text>
+      <Text>植生付き砂利</Text>
     </Text>
     <Text>
       <GUID>1445616</GUID>
-      <Text>Gravel Motifs</Text>
+      <Text>砂利モチーフ</Text>
     </Text>
     <Text>
       <GUID>1445617</GUID>
-      <Text>Walls</Text>
+      <Text>壁</Text>
     </Text>
     <Text>
       <GUID>1445620</GUID>
-      <Text>Statues and Lamps</Text>
+      <Text>彫像と灯籠</Text>
     </Text>
     <!-- Keep "Import Pier" in line with Noblesse Oblige-->
     <Text>
       <GUID>1441350</GUID>
-      <Text>Import Pier: Tabulators</Text>
+      <Text>輸入桟橋：作表機</Text>
     </Text>
     <Text>
       <GUID>1441351</GUID>
-      <Text>Import Pier: Bourbon Whiskey</Text>
+      <Text>輸入桟橋：バーボンウイスキー</Text>
     </Text>
     <Text>
       <GUID>1441352</GUID>
-      <Text>Import Pier: Cars</Text>
+      <Text>輸入桟橋：自動車</Text>
     </Text>
     <Text>
       <GUID>1441359</GUID>
-      <Text>Import Pier: Diamonds</Text>
+      <Text>輸入桟橋：ダイヤモンド</Text>
     </Text>
     <Text>
       <GUID>1441358</GUID>
-      <Text>Import Pier: Silver Bars</Text>
+      <Text>輸入桟橋：銀の延べ棒</Text>
     </Text>
     <Text>
       <GUID>1441357</GUID>
-      <Text>Import Pier: Tungsten</Text>
+      <Text>輸入桟橋：タングステン</Text>
     </Text>
+
     <Text>
       <!-- Magnate Buff Building in Asia-->
       <GUID>1441332</GUID>
-      <Text>Regional Office</Text>
+      <Text>地域事務所</Text>
     </Text>
     <Text>
       <!-- Redeeming Trade Licenses Text-->
       <GUID>1441331</GUID>
-      <Text>Redeeming [AssetData(1999005351) Text]</Text>
+      <Text>償還中 [AssetData(1999005351) Text]</Text>
     </Text>
     <!-- Production -->
     <Text>
       <GUID>1441279</GUID>
-      <Text>Rendering Works</Text>
+      <Text>レンダリング作業</Text>
     </Text>
     <Text>
       <GUID>1441237</GUID>
-      <Text>Coal Mine</Text>
+      <Text>炭鉱</Text>
     </Text>
     <Text>
       <GUID>1441238</GUID>
-      <Text>Copper Mine</Text>
+      <Text>銅鉱山</Text>
     </Text>
     <Text>
       <GUID>1441241</GUID>
-      <Text>Clay Pit</Text>
+      <Text>粘土採掘場</Text>
     </Text>
     <Text>
       <GUID>1441242</GUID>
-      <Text>Clay Plaster Factory</Text>
+      <Text>漆喰粘土工場</Text>
     </Text>    
     <Text>
       <GUID>1441243</GUID>
@@ -421,7 +422,7 @@
     </Text>
     <Text>
       <GUID>1441234</GUID>
-      <Text>Lumberjack's Hut</Text>
+      <Text>木こりの小屋</Text>
     </Text>
     <Text>
       <GUID>1441236</GUID>
@@ -441,117 +442,118 @@
     </Text>
     <Text>
       <GUID>1441356</GUID>
-      <Text>Caviar</Text>
+      <Text>キャビア</Text>
     </Text>
     <Text>
       <GUID>1441263</GUID>
-      <Text>Furnace</Text>
+      <Text>製炉施設</Text>
     </Text>
     <Text>
       <GUID>1441264</GUID>
-      <Text>Steelworks</Text>
+      <Text>製鉄所</Text>
     </Text>
     <Text>
       <GUID>1441265</GUID>
-      <Text>Glassmakers</Text>
+      <Text>ガラス職人</Text>
     </Text>
     <Text>
       <GUID>1441266</GUID>
-      <Text>Filament Factory</Text>
+      <Text>フィラメント工場</Text>
     </Text>
     <Text>
       <GUID>1441267</GUID>
-      <Text>Concrete Factory</Text>
+      <Text>コンクリート工場</Text>
     </Text>
     <Text>
       <GUID>1441277</GUID>
-      <Text>Windowmakers</Text>
+      <Text>窓枠製造業者</Text>
     </Text>
     <Text>
       <GUID>1441268</GUID>
-      <Text>Oil Power Plant</Text>
+      <Text>石油火力発電所</Text>
     </Text>
     <Text>
       <GUID>1441269</GUID>
-      <Text>Dynamite Factory</Text>
+      <Text>ダイナマイト工場</Text>
     </Text>
     <Text>
       <GUID>1441270</GUID>
-      <Text>Brass Smeltery</Text>
+      <Text>真鍮製錬所</Text>
     </Text>
     <Text>
       <GUID>1441271</GUID>
-      <Text>Motor Assembly Line</Text>
+      <Text>自動車組立ライン</Text>
     </Text>
     <Text>
       <GUID>1441272</GUID>
-      <Text>Goldsmiths</Text>
+      <Text>金細工工房</Text>
     </Text>
     <Text>
       <GUID>1441273</GUID>
-      <Text>Coachmakers</Text>
+      <Text>馬車製造業者</Text>
     </Text>
     <Text>
       <GUID>1441275</GUID>
-      <Text>Plastics Factory</Text>
+      <Text>プラスチック工場</Text>
     </Text>
     <Text>
       <GUID>1441287</GUID>
-      <Text>Detector Receivers</Text>
+      <Text>検出器受信機</Text>
     </Text>
     <Text>
       <GUID>1441292</GUID>
-      <Text>Oil Refinery</Text>
+      <Text>石油精製所</Text>
     </Text>
     <Text>
       <GUID>1441293</GUID>
-      <Text>Oil Well</Text>
+      <Text>石油掘削井</Text>
     </Text>
     <!-- Recipes -->
     <Text>
       <GUID>1441288</GUID>
-      <Text>Strings</Text>
+      <Text>弦</Text>
     </Text>
     <Text>
       <GUID>1441289</GUID>
-      <Text>Fountain Pen Nibs</Text>
+      <Text>万年筆のペン先</Text>
     </Text>
     <Text>
       <GUID>1441304</GUID>
-      <Text>Lacquer</Text>
+      <Text>漆</Text>
     </Text>
     <Text>
       <GUID>1441305</GUID>
-      <Text>Celluloid</Text>
+      <Text>セルロイド</Text>
     </Text>
     <Text>
       <GUID>1441306</GUID>
-      <Text>Ethanol</Text>
+      <Text>エタノール</Text>
     </Text>
     <Text>
       <GUID>1441314</GUID>
-      <Text>Oshi-Sushi</Text>
+      <Text>押し寿司</Text>
     </Text>
     <Text>
       <GUID>1441315</GUID>
-      <Text>Soy Sauce</Text>
+      <Text>醤油</Text>
     </Text>
     <Text>
       <GUID>1441334</GUID>
-      <Text>Noodles</Text>
+      <Text>麺類</Text>
     </Text>
     <Text>
       <GUID>1441335</GUID>
-      <Text>Tofu</Text>
+      <Text>豆腐</Text>
     </Text>
+
     <Text>
       <!-- Blank Recipe-->
       <GUID>1441319</GUID>
-      <Text>Kitchen</Text>
+      <Text>キッチン</Text>
     </Text>
     <Text>
       <GUID>1441318</GUID>
-      <Text>Roast Duck</Text>
+      <Text>ローストダック</Text>
     </Text>
     
   </ModOp>

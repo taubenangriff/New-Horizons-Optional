@@ -1,0 +1,289 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">  
+    <!-- Ships -->
+    <Text>
+      <GUID>14740009</GUID>
+      <Text>バルク貨物船</Text>
+    </Text>
+    <Text>
+      <GUID>14740010</GUID>
+      <Text>このバルク貨物船は、大量の物資を長距離輸送するために設計されたものである。</Text>
+    </Text>    
+    <Text>
+      <GUID>1414006566</GUID>
+      <Text>この船は天明帝国の軍艦と間違われる可能性がある。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006568</GUID>
+      <Text>蓬莱地方で見られる古風で伝統的な様式の船である。現代の基準からすれば決して高性能とは言えないが、少なくともこの船が自分の所有物だと疑われることはないだろう。</Text>
+    </Text>
+    <Text>
+      <GUID>14740116</GUID>
+      <Text>ピナス</Text>
+    </Text>
+    <Text>
+      <GUID>1414018223</GUID>
+      <Text>敵艦のマストを破壊するために鎖弾を発射する、極めて高速な砲艦である。敵の追撃任務において特に優れた性能を発揮する。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018224</GUID>
+      <Text>小規模な貿易船で、島々の間で少量の貨物を輸送することが可能である。</Text>
+    </Text>
+    <Text>
+      <GUID>14740117</GUID>
+      <Text>鎖弾</Text>
+    </Text>
+    <Text>
+      <GUID>14740127</GUID>
+      <Text>グッドウィルの冷酷な貨物船</Text>  <!-- Flavored Shipname-->
+    </Text>
+    <Text>
+      <GUID>14740129</GUID>
+      <Text>グッドウィルの冷酷な貨物船</Text>  <!-- Flavored Shipname-->
+    </Text>
+    <Text>
+      <GUID>14740126</GUID>
+      <Text>呉国威の意地悪なジャンク船</Text>  <!-- Flavored Shipname-->
+    </Text>
+    <!-- Goodwill's Island texts -->
+    <Text>
+      <GUID>1414006074</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] は最近の経済危機の中に商機を見出した。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006075</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] はあなたを極東への移住に招待する。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1414006403</GUID>
+      <Text>過去数年間にわたる東方貿易庁の改革に伴い、天明帝国との経済活動は著しく活発化している。これは旧体制の勢力が不当かつ暴力的な手段で阻止しようとしてきた動きである。シーモア提督がこの地域を鎮定した後、天明帝国との間で締結された平等条約により、誰もが自由かつ公平に成長できる体制が保証されている。東へ航海し、自らの権益確保のための租借地獲得を目指そう。</Text>      <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1414006404</GUID>
+      <Text>探検任務を完了し、蓬莱へ入港して旅を進めよ。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006405</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]はあなたを蓬莱へ歓迎する。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006406</GUID>
+      <Text>グッドウィルはあなたが最初の入植地を設立できるよう、出発用の船を提供する。この植民地が早期に確立されればされるほど良い。女王陛下でさえ、これほど忠実な臣下が支配する領土に手を出す勇気はないだろう。</Text>     <!--Rephrasing-->
+    </Text>
+    <Text>
+      <GUID>1446111</GUID>
+      <Text>ジェームズ・グッドウィルの倉庫船</Text>
+    </Text>
+    <Text>
+      <GUID>1446113</GUID>
+      <Text>ジェームズ・グッドウィルの灯台</Text>
+    </Text>
+    <Text>
+      <GUID>1414040002</GUID>
+      <Text>平等条約</Text>
+    </Text>
+    <Text>
+      <GUID>1414040004</GUID>
+      <Text>大規模ビジネスの開始</Text>
+    </Text>
+    <Text>
+      <GUID>14740074</GUID>
+      <Text>E.T.A. 工芸工房</Text>
+    </Text>
+    <Text>
+      <GUID>1414006548</GUID>
+      <Text>平等条約締結</Text>
+    </Text>
+    <Text>
+      <GUID>1414006549</GUID>
+      <Text>我らが栄光の女王にとって決定的な勝利 ++ 東方帝国による国家貿易ルートへの海賊行為を終結させた平和条約 +++ 賠償として租借地が付与され、総督が直接統治を行う +++ 詳細は3ページ目に記載</Text>
+    </Text>
+    <Text>
+      <GUID>1414006550</GUID>
+      <Text>一部の作業員がこの古い船を解体している。おそらく将来の修理用に予備部品を確保しようとしているのだろう。まったくその通りだ！</Text>
+    </Text>
+    <Text>
+      <GUID>1414006553</GUID>
+      <Text>スパイや怠け者の作業員、遠方に接近する船舶に注意を払っている。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006554</GUID>
+      <Text>長年の放置と管理不行き届きにより、この古いモニター艦は最終的に海岸に座礁させられ、固定砲台として転用されることになった。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006555</GUID>
+      <Text>頭痛や一般的な風邪に対する完全に合法な医薬品。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006556</GUID>
+      <Text>美術品、金、ダイヤモンド――すべて正当な手段で入手したものである。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006558</GUID>
+      <Text>品質と純度に細心の注意を払って醸造されたものである。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006559</GUID>
+      <Text>これらに対する輸入税20%？ これではすべての貨幣が吸い上げられてしまう！ 何という無礼な！</Text>
+    </Text>
+    <Text>
+      <GUID>1414006560</GUID>
+      <Text>これは正義の手に渡るべく運命づけられたものであり、平和的な目的にのみ使用されるべきものである。</Text>
+
+          <Text>
+      <GUID>1414015008</GUID>
+      <Text>グッドウィルの植民地形式別荘</Text>
+    </Text>
+    <Text>
+      <GUID>1414006557</GUID>
+      <Text>密輸品</Text>
+    </Text>
+    <Text>
+      <GUID>1414040202</GUID>
+      <Text>王室護送船団：この船を撃沈して麻薬または貴重品を入手せよ</Text>
+    </Text>
+    <Text>
+      <GUID>1414006561</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]が、密輸品を自身の保管庫に移送する準備ができているか尋ねています。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006562</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]が密輸品を自身の倉庫に保管しました。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006563</GUID>
+      <Text>密輸品保管</Text>
+    </Text>
+
+      <Text>ジェームズ・グッドウィルは、あなた方の船に積まれた貴重品を自身の保管庫に運び込むことが可能かどうか尋ねている。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006570</GUID>
+      <Text>ジェームズ・グッドウィルは、あなた方の船に積まれた酒類を自身の保管庫に運び込むことが可能かどうか尋ねている。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006571</GUID>
+      <Text>ジェームズ・グッドウィルは、あなた方の船に積まれた贅沢品を自身の保管庫に運び込むことが可能かどうか尋ねている。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006572</GUID>
+      <Text>ジェームズ・グッドウィルは、あなた方の船に積まれた武器を自身の保管庫に運び込むことが可能かどうか尋ねている。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006567</GUID>
+      <Text>ジャンク船の建造を可能にする</Text>
+    </Text>
+    <Text>
+      <GUID>1414015021</GUID>
+      <Text>[Selection Object Residence EconomyModifier(0) &gt;&gt; storagegoodM]/[Selection Object Area Economy StorageCapacity(1440505) &gt;&gt; storagegoodM]t of [AssetData(1440505) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414015022</GUID>
+      <Text>[Selection Object Residence EconomyModifier(0) &gt;&gt; storagegoodM]/[Selection Object Area Economy StorageCapacity(1440506) &gt;&gt; storagegoodM]t of [AssetData(1440506) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414015023</GUID>
+      <Text>[Selection Object Residence EconomyModifier(0) &gt;&gt; storagegoodM]/[Selection Object Area Economy StorageCapacity(1440502) &gt;&gt; storagegoodM]t of [AssetData(1440502) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414015024</GUID>
+      <Text>[Selection Object Residence EconomyModifier(0) &gt;&gt; storagegoodM]/[Selection Object Area Economy StorageCapacity(1440504) &gt;&gt; storagegoodM]t of [AssetData(1440504) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414015025</GUID>
+      <Text>[Selection Object Residence EconomyModifier(0) &gt;&gt; storagegoodM]/[Selection Object Area Economy StorageCapacity(1440503) &gt;&gt; storagegoodM]t of [AssetData(1440503) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1414040210</GUID>
+      <Text>医薬品保管</Text>
+    </Text>
+    <Text>
+      <GUID>1414040211</GUID>
+      <Text>貴重品保管</Text>
+    </Text>
+    <Text>
+      <GUID>1414040212</GUID>
+      <Text>酒類保管</Text>
+    </Text>
+    <Text>
+      <GUID>1414040213</GUID>
+      <Text>武器保管</Text>
+    </Text>
+    <Text>
+      <GUID>1414040214</GUID>
+      <Text>贅沢品保管</Text>
+    </Text>
+    <Text>
+      <GUID>14740100</GUID>
+      <Text>[AssetData(1010062) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>14740101</GUID>
+      <Text>[AssetData(1010062) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>14740103</GUID>
+      <Text>偽旗作戦</Text>
+    </Text>
+    <Text>
+      <GUID>1414006573</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]があなた方の配達任務が完了したことに気付いた。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006574</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]が配達任務への協力に感謝の意を表している。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006585</GUID>
+      <Text>オメガ・ヘイブンへ船を派遣し、報酬を受け取りなさい。</Text>
+    </Text>
+    <Text>
+      <GUID>14740120</GUID>
+      <Text>封鎖突破船</Text>
+    </Text>
+    <Text>
+      <GUID>1414006585</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text]があなたに報酬を支払う準備が整っている。</Text>
+    </Text>
+    <Text>
+      <GUID>1414040217</GUID>
+      <Text>医薬品の輸出準備完了！ クリックして配達任務を開始せよ。</Text>
+    </Text>
+    <Text>
+      <GUID>1414040218</GUID>
+      <Text>貴重品の輸出準備完了！ クリックして配達任務を開始せよ。</Text>
+    </Text>
+    <Text>
+      <GUID>1414040219</GUID>
+      <Text>酒類の輸出準備完了！ クリックして配達任務を開始せよ。</Text>
+    </Text>
+    <Text>
+      <GUID>1414040220</GUID>
+      <Text>武器の輸出準備完了！ クリックして配達任務を開始せよ。</Text>
+    </Text>
+    <Text>
+      <GUID>1414040221</GUID>
+<Text>贅沢品の輸出準備完了！ クリックして配達任務を開始せよ。</Text>
+    </Text>
+    <Text>
+      <GUID>1414006747</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] が医薬品の輸出準備完了を通知する。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018200</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] が貴重品の輸出準備完了を通知する。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018201</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] が酒類の輸出準備完了を通知する。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018202</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] が贅沢品の輸出準備完了を通知する。</Text>
+    </Text>
+    <Text>
+      <GUID>1414018203</GUID>
+      <Text>[AssetData([NotificationContext CharacterGUID]) Text] が武器の輸出準備完了を通知する。</Text>
+    </Text>
+  </ModOp>
+</ModOps>
