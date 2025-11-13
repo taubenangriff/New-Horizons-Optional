@@ -1,6 +1,5 @@
 <ModOps>
   <ModOp Type="add" Path="/TextExport/Texts">
-
     <Text>
       <GUID>1414050006</GUID>
       <Text>寿司業界に危機到来！大混乱の渦中</Text>
@@ -46,13 +45,17 @@
       <Text>これは深刻な事態だ！</Text>
     </Text>
     <Text>
-      <GUID>1414050035</GUID>
-      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]では予期せぬローストダックの不足が発生し、住民たちは不快な状況の解決策を求めて右往左往している。</Text>
-    <Text>
       <GUID>1414050037</GUID>
       <Text>夢は打ち砕かれた！</Text>
     </Text>
-    <Text>[Newspaper FindArticle([RefGuid]) Context TownName]では陶磁器の不足により、食卓は空っぽ、棚は空っぽの状態だ。当局が適切な対策を講じない限り、この状況はますます深刻化する一方である。</Text>
+    <Text>
+      <GUID>1414050035</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]では予期せぬローストダックの不足が発生し、住民たちは不快な状況の解決策を求めて右往左往している。</Text>
+    </Text>
+
+    <Text>
+      <GUID>1414050037</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]では陶磁器の不足により、食卓は空っぽ、棚は空っぽの状態だ。当局が適切な対策を講じない限り、この状況はますます深刻化する一方である。</Text>
     </Text>
     <Text>
       <GUID>1414050040</GUID>
@@ -110,7 +113,30 @@
       <GUID>1414050059</GUID>
       <Text>[Newspaper FindArticle([RefGuid]) Context TownName]における農民不足は地元の食糧供給に懸念を抱かせる。「飢饉を避けたいのであれば、来月中に収穫を完了させなければならない」と、ある米農家は不安を口にしている。</Text>
     </Text>
+    <Text>
+      <GUID>1414050061</GUID>
+      <Text>労働者がいない！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050062</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]の工場で労働者不足が深刻化しており、数多くの大富豪の経営を危機に陥れようとしています。経済を崩壊させないためにも、この労働力不足は早急に解決しなければなりません！</Text>
+    </Text>
+    <Text>
+      <GUID>1414050076</GUID>
+      <Text>神様、神社創建を祝う</Text>
+    </Text>
+    <Text>
+      <GUID>1414050077</GUID>
+      <Text>[Newspaper FindArticle([RefGuid]) Context TownName]に、新たな神社が建立され、多くの参拝者と好奇心旺盛な精霊たちが集まっています。ほとんどの神々は建築デザインを称賛しましたが、ある神は「温泉がないのか？こんな場所に顕現する意味があるのか」といった不満の声を上げているのも聞こえました。</Text>
+    </Text>
+    <Text>
+      <GUID>1414050079</GUID>
+      <Text>興奮の飛沫</Text>
+    </Text>
+    <Text>
+      <GUID>1414050080</GUID>
       <Text>[Newspaper FindArticle([RefGuid]) Context TownName]に今週、見事な新浴場がオープンした。心地よい温泉と完璧な内装が特徴で、ほとんどの客がその静謐な雰囲気を楽しんでいたが、一人の客が排水を試みた結果、「お尻で爆発させる行為」は一切禁止という厳格なルールが制定されることになった。</Text>
+    </Text>
     <Text>
       <GUID>1414050082</GUID>
       <Text>調和への門</Text>
@@ -127,7 +153,7 @@
       <GUID>1414050086</GUID>
       <Text>[Newspaper FindArticle([RefGuid]) Context TownName]での生活は急速に加速している。ちょうど大都市の地下を走り始めた新しい地下鉄のように。ある若手実業家はこう語っている。「新しい地下鉄は非常に気に入っている。開通以来、低所得層の歩行者が路上ではなく電車で移動するようになったからだ。これは私の新車のために本当に確保しておくべき空間だ」</Text>
     </Text>
-    
+
     <Text>
       <GUID>54005100</GUID>
       <Text>味はまだ1404年のものと変わらない！</Text>      <!--Grammar-->
@@ -240,7 +266,7 @@
       <GUID>54005128</GUID>
       <Text>これを見る前に「カラフルな」という言葉を使うのは許されない！</Text>
     </Text>
-    
+
     <Text>
       <GUID>54005129</GUID>
       <Text>砂糖で作られた、非常に粘り気のある物質。</Text>
@@ -251,7 +277,7 @@
     </Text>
     <Text>
       <GUID>54005131</GUID>
-      <Text>浅い茶碗で温かくして飲むのが最適。</Text>     <!--Rephrasing-->
+      <Text>浅い茶碗で温かくして飲むのが最適。</Text>      <!--Rephrasing-->
     </Text>
     <Text>
       <GUID>54005132</GUID>
