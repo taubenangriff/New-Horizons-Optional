@@ -1,6 +1,14 @@
 <ModOps>
-  <ModOp Type="add" Path="/TextExport/Texts">
+  <ModOp Type="add" Path="/TextExport/Texts">  
     <!-- Ships -->
+    <Text>
+      <GUID>14740009</GUID>
+      <Text>Vraquier</Text>
+    </Text>
+    <Text>
+      <GUID>14740010</GUID>
+      <Text>Le vraquier a été créé pour le transport longue distance d'énormes quantités de marchandises.</Text>
+    </Text>    
     <Text>
       <GUID>1414006566</GUID>
       <Text>Ce navire sera confondu avec un navire de l'Empire Tianming.</Text>
@@ -27,15 +35,15 @@
     </Text>
     <Text>
       <GUID>14740127</GUID>
-      <Text>Le cargo impitoyable de Goodwill</Text>      <!-- Flavored Shipname-->
+      <Text>Le cargo impitoyable de Goodwill</Text>  <!-- Flavored Shipname-->
     </Text>
     <Text>
       <GUID>14740129</GUID>
-      <Text>Le cargo impitoyable de Goodwill</Text>      <!-- Flavored Shipname-->
+      <Text>Le cargo impitoyable de Goodwill</Text> <!-- Flavored Shipname-->
     </Text>
     <Text>
       <GUID>14740126</GUID>
-      <Text>La Jonque malveillante de Wu Guowei</Text>      <!-- Flavored Shipname-->
+      <Text>La Jonque malveillante de Wu Guowei</Text> <!-- Flavored Shipname-->
     </Text>
     <!-- Goodwill's Island texts -->
     <Text>
@@ -48,7 +56,7 @@
     </Text>
     <Text>
       <GUID>1414006403</GUID>
-      <Text>Suite à la réforme de l'Agence commerciale de l'Orient ces dernières années, l'activité économique avec l'Empire Tianming a considérablement augmenté, un développement que les anciennes structures ont tenté d'enrayer par des mesures brutales injustifiée. Après la pacification de la région par l'amiral Seymour, le Traité d'Égalité signé avec les Tianming garantit une croissance libre et équitable pour tous. Naviguez vers l'est pour revendiquer une concession.</Text>      <!--Rephrasing-->
+      <Text>Suite à la réforme de l'Agence commerciale de l'Orient ces dernières années, l'activité économique avec l'Empire Tianming a considérablement augmenté, un développement que les anciennes structures ont tenté d'enrayer par des mesures brutales injustifiées. Après la pacification de la région par l'amiral Seymour, le Traité d'Égalité signé avec les Tianming garantit une croissance libre et équitable pour tous. Naviguez vers l'est pour revendiquer une concession.</Text>      <!--Rephrasing-->
     </Text>
     <Text>
       <GUID>1414006404</GUID>
@@ -72,7 +80,7 @@
     </Text>
     <Text>
       <GUID>1414040002</GUID>
-      <Text>Le Treité d'Égalité</Text>
+      <Text>Le Traité d'Égalité</Text>
     </Text>
     <Text>
       <GUID>1414040004</GUID>
