@@ -1,0 +1,12 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1440200</GUID>
+      <Text>Riso</Text>
+    </Text>
+    <Text>
+      <GUID>54005116</GUID>
+      <Text>Un riso appiccicoso e a grana corta.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,12 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1440200</GUID>
+      <Text>米</Text>
+    </Text>
+    <Text>
+      <GUID>54005116</GUID>
+      <Text>ねっとりとした短粒米のご飯です。</Text>
+    </Text>
+  </ModOp>
+</ModOps>

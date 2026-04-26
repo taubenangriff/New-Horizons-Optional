@@ -1,0 +1,12 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1440200</GUID>
+      <Text>Reis</Text>
+    </Text>
+    <Text>
+      <GUID>54005116</GUID>
+      <Text>Ein klebriger, kurzkörniger Reis.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

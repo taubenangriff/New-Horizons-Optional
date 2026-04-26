@@ -1270,4 +1270,8 @@
             <Product>502308</Product>
         </Item>
     </ModOp>
+
+    <ModOp GUID = '1440303' Path = "/Values/Standard/IconFilename" Type = "replace">
+        <IconFilename>data/graphics/ui/icons/goods/icon_koji.png</IconFilename>
+    </ModOp>
 </ModOps>

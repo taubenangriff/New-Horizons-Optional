@@ -1,0 +1,12 @@
+<ModOps>
+  <ModOp Type = "add" Path = "/TextExport/Texts">
+    <Text>
+      <GUID>1440200</GUID>
+      <Text>Rice</Text>
+    </Text>
+    <Text>
+      <GUID>54005116</GUID>
+      <Text>A sticky, short-grained rice.</Text>
+    </Text>
+  </ModOp>
+</ModOps>
