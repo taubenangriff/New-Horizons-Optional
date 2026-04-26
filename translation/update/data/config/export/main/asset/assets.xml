@@ -1271,7 +1271,7 @@
         </Item>
     </ModOp>
 
-    <ModOp GUID = '1440303' Path = "/Values/Standard/IconFilename" Type = "replace">
+    <ModOp GUID = '1440303,1445092' Path = "/Values/Standard/IconFilename" Type = "replace">
         <IconFilename>data/graphics/ui/icons/goods/icon_koji.png</IconFilename>
     </ModOp>
 
