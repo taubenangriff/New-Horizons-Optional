@@ -1274,4 +1274,11 @@
     <ModOp GUID = '1440303' Path = "/Values/Standard/IconFilename" Type = "replace">
         <IconFilename>data/graphics/ui/icons/goods/icon_koji.png</IconFilename>
     </ModOp>
+
+    <!-- # Storage Lists -->
+    <ModOp Type="add" GUID="120055" Condition="!~/Values/ProductStorageList/ProductList/Item[Product='1440200']" Path="/Values/ProductStorageList/ProductList">
+        <Item>
+            <Product>1440200</Product>
+        </Item>
+    </ModOp>
 </ModOps>

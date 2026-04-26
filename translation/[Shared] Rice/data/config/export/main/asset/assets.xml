@@ -36,13 +36,6 @@
     </Asset>
   </ModOp>
 
-  <!-- # Storage Lists -->
-  <ModOp Type="add" GUID="120055" Condition="!~/Values/ProductStorageList/ProductList/Item[Product='1440200']" Path="/Values/ProductStorageList/ProductList">
-    <Item>
-      <Product>1440200</Product>
-    </Item>
-  </ModOp>
-
   <ModOp Type="add" GUID="800111" Condition="!~/Values/ExpeditionFeature/FeedOption/FeedOptions[Item/Product='1440200']" Path="/Values/ExpeditionFeature/FeedOption/FeedOptions">
     <Item>
       <MoraleFactor>0.4</MoraleFactor>
