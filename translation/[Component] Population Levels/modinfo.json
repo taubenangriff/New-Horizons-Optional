@@ -1,0 +1,14 @@
+{
+    "Version": "1.0.1",
+    "ModID": "new_horizons_population",
+    "Category": {
+      "English": "Component"
+    },
+    "LoadAfterIds": [
+      "shared-import-category"
+    ],
+    "ModName": {
+      "English": "Population Levels"
+    },
+    "CreatorName": "New Horizons Team"
+}
