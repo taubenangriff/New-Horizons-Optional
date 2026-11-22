@@ -1012,18 +1012,30 @@
         </Item>
     </ModOp>
 
+    
+  <!-- Add Tabulators to Import Goods category -->
+  <ModOp GUID="25000118" Type="add" Path="/Values/ObjectmenuResidenceScene/BonusNeeds/BonusNeeds/Item[Category='1414006643']/Needs" Condition="!/Values/ObjectmenuResidenceScene/BonusNeeds/BonusNeeds/Item/Needs/Item[BonusNeed='1440021']">
+    <Item>
+      <BonusNeed>1440021</BonusNeed>
+      <!--Tabulators-->
+    </Item>
+  </ModOp>
 
-    <ModOp Type="add" Path = "//BonusNeeds/BonusNeeds/Item[Category='1414006643']/Needs">
-        <Item>
-            <BonusNeed>1440021</BonusNeed>
-        </Item>
-        <Item>
-            <BonusNeed>1440022</BonusNeed>
-        </Item>
-        <Item>
-            <BonusNeed>1440023</BonusNeed>
-        </Item>
-    </ModOp>
+  <!-- Add Whiskey to Import Goods category -->
+  <ModOp GUID="25000118" Type="add" Path="/Values/ObjectmenuResidenceScene/BonusNeeds/BonusNeeds/Item[Category='1414006643']/Needs" Condition="!/Values/ObjectmenuResidenceScene/BonusNeeds/BonusNeeds/Item/Needs/Item[BonusNeed='1440022']">
+    <Item>
+      <BonusNeed>1440022</BonusNeed>
+      <!--Whiskey-->
+    </Item>
+  </ModOp>
+
+  
+  <!-- Add Whiskey to Import Goods category -->
+  <ModOp GUID="25000118" Type="add" Path="/Values/ObjectmenuResidenceScene/BonusNeeds/BonusNeeds/Item[Category='1414006643']/Needs" Condition="!/Values/ObjectmenuResidenceScene/BonusNeeds/BonusNeeds/Item/Needs/Item[BonusNeed='1440023']">
+    <Item>
+      <BonusNeed>1440023</BonusNeed>
+    </Item>
+  </ModOp>
 
     <ModOp GUID = '1010000' Path = "/Values/EconomyFeature7/ConsumptionWaste" Type = "add">
         <Item>
